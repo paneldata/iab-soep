@@ -1,3 +1,11 @@
+---
+name: iab-soep
+label: IAB-SOEP Migration Sample
+config:
+    variables:
+        label-table: True
+---
+
 # IAB-SOEP Migration Sample 2013
 
 ## Citation
