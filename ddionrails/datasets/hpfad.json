@@ -1,0 +1,7234 @@
+{
+  "hhnr": {
+    "study": "iab-soep-mig",
+    "name": "hhnr",
+    "name_cs": "hhnr",
+    "variable": "hhnr",
+    "dataset": "hpfad",
+    "label": "Original Household Number",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3144000",
+        "3403000",
+        "3435000",
+        "3404000",
+        "3468000",
+        "3500000",
+        "12944",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Ursprungshaushaltsnummer"
+  },
+  "hhnrakt": {
+    "study": "iab-soep-mig",
+    "name": "hhnrakt",
+    "name_cs": "hhnrakt",
+    "variable": "hhnrakt",
+    "dataset": "hpfad",
+    "label": "Current Household Number",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3144000",
+        "3403000",
+        "3435000",
+        "3405000",
+        "3468000",
+        "3500000",
+        "12944",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Haushaltsnummer"
+  },
+  "ahhnr": {
+    "study": "iab-soep-mig",
+    "name": "ahhnr",
+    "name_cs": "ahhnr",
+    "variable": "ahhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 1984",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 1984"
+  },
+  "ahnetto": {
+    "study": "iab-soep-mig",
+    "name": "ahnetto",
+    "name_cs": "ahnetto",
+    "variable": "ahnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    1984",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 1984"
+  },
+  "bhhnr": {
+    "study": "iab-soep-mig",
+    "name": "bhhnr",
+    "name_cs": "bhhnr",
+    "variable": "bhhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 1985",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 1985"
+  },
+  "bhnetto": {
+    "study": "iab-soep-mig",
+    "name": "bhnetto",
+    "name_cs": "bhnetto",
+    "variable": "bhnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    1985",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 1985"
+  },
+  "chhnr": {
+    "study": "iab-soep-mig",
+    "name": "chhnr",
+    "name_cs": "chhnr",
+    "variable": "chhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 1986",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 1986"
+  },
+  "chnetto": {
+    "study": "iab-soep-mig",
+    "name": "chnetto",
+    "name_cs": "chnetto",
+    "variable": "chnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    1986",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 1986"
+  },
+  "dhhnr": {
+    "study": "iab-soep-mig",
+    "name": "dhhnr",
+    "name_cs": "dhhnr",
+    "variable": "dhhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 1987",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 1987"
+  },
+  "dhnetto": {
+    "study": "iab-soep-mig",
+    "name": "dhnetto",
+    "name_cs": "dhnetto",
+    "variable": "dhnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    1987",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 1987"
+  },
+  "ehhnr": {
+    "study": "iab-soep-mig",
+    "name": "ehhnr",
+    "name_cs": "ehhnr",
+    "variable": "ehhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 1988",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 1988"
+  },
+  "ehnetto": {
+    "study": "iab-soep-mig",
+    "name": "ehnetto",
+    "name_cs": "ehnetto",
+    "variable": "ehnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    1988",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 1988"
+  },
+  "fhhnr": {
+    "study": "iab-soep-mig",
+    "name": "fhhnr",
+    "name_cs": "fhhnr",
+    "variable": "fhhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 1989",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 1989"
+  },
+  "fhnetto": {
+    "study": "iab-soep-mig",
+    "name": "fhnetto",
+    "name_cs": "fhnetto",
+    "variable": "fhnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    1989",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 1989"
+  },
+  "ghhnr": {
+    "study": "iab-soep-mig",
+    "name": "ghhnr",
+    "name_cs": "ghhnr",
+    "variable": "ghhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 1990",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 1990"
+  },
+  "ghnetto": {
+    "study": "iab-soep-mig",
+    "name": "ghnetto",
+    "name_cs": "ghnetto",
+    "variable": "ghnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    1990",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 1990"
+  },
+  "hhhnr": {
+    "study": "iab-soep-mig",
+    "name": "hhhnr",
+    "name_cs": "hhhnr",
+    "variable": "hhhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 1991",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 1991"
+  },
+  "hhnetto": {
+    "study": "iab-soep-mig",
+    "name": "hhnetto",
+    "name_cs": "hhnetto",
+    "variable": "hhnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    1991",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 1991"
+  },
+  "hsampreg": {
+    "study": "iab-soep-mig",
+    "name": "hsampreg",
+    "name_cs": "hsampreg",
+    "variable": "hsampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region    1991",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 1991"
+  },
+  "ihhnr": {
+    "study": "iab-soep-mig",
+    "name": "ihhnr",
+    "name_cs": "ihhnr",
+    "variable": "ihhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 1992",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 1992"
+  },
+  "ihnetto": {
+    "study": "iab-soep-mig",
+    "name": "ihnetto",
+    "name_cs": "ihnetto",
+    "variable": "ihnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    1992",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 1992"
+  },
+  "isampreg": {
+    "study": "iab-soep-mig",
+    "name": "isampreg",
+    "name_cs": "isampreg",
+    "variable": "isampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region    1992",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 1992"
+  },
+  "jhhnr": {
+    "study": "iab-soep-mig",
+    "name": "jhhnr",
+    "name_cs": "jhhnr",
+    "variable": "jhhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 1993",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 1993"
+  },
+  "jhnetto": {
+    "study": "iab-soep-mig",
+    "name": "jhnetto",
+    "name_cs": "jhnetto",
+    "variable": "jhnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    1993",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 1993"
+  },
+  "jsampreg": {
+    "study": "iab-soep-mig",
+    "name": "jsampreg",
+    "name_cs": "jsampreg",
+    "variable": "jsampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region    1993",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 1993"
+  },
+  "khhnr": {
+    "study": "iab-soep-mig",
+    "name": "khhnr",
+    "name_cs": "khhnr",
+    "variable": "khhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 1994",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 1994"
+  },
+  "khnetto": {
+    "study": "iab-soep-mig",
+    "name": "khnetto",
+    "name_cs": "khnetto",
+    "variable": "khnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    1994",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 1994"
+  },
+  "ksampreg": {
+    "study": "iab-soep-mig",
+    "name": "ksampreg",
+    "name_cs": "ksampreg",
+    "variable": "ksampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region    1994",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 1994"
+  },
+  "lhhnr": {
+    "study": "iab-soep-mig",
+    "name": "lhhnr",
+    "name_cs": "lhhnr",
+    "variable": "lhhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 1995",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 1995"
+  },
+  "lhnetto": {
+    "study": "iab-soep-mig",
+    "name": "lhnetto",
+    "name_cs": "lhnetto",
+    "variable": "lhnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    1995",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 1995"
+  },
+  "lsampreg": {
+    "study": "iab-soep-mig",
+    "name": "lsampreg",
+    "name_cs": "lsampreg",
+    "variable": "lsampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region    1995",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 1995"
+  },
+  "hsample": {
+    "study": "iab-soep-mig",
+    "name": "hsample",
+    "name_cs": "hsample",
+    "variable": "hsample",
+    "dataset": "hpfad",
+    "label": "Sample Member",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2945,
+        9999
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] A 1984 Initial Sample (West)",
+        "[2] B 1984 Migration (until 1983, West)",
+        "[3] C 1990 Initial Sample (East)",
+        "[4] D 1994/5 Migration (1984-1994, West)",
+        "[5] E 1998 Refreshment",
+        "[6] F 2000 Refreshment",
+        "[7] G 2002 High Income",
+        "[8] H 2006 Refreshment",
+        "[9] I 2009 Innovation Sample",
+        "[10] J 2011 Refreshment",
+        "[11] K 2012 Refreshment",
+        "[12] L1 2010 Birth Cohort (2007-2010)",
+        "[13] L2 2010 Family Type (Low-Income, Single-Parent, Large Families)",
+        "[14] L3 2011 Family Type (Single-Parent, Large Families)",
+        "[15] M1 2013 Migration (1995-2011)",
+        "[16] M2 2015 Migration (2009-2013)"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] A 1984 Ausgangs-Sample (West)",
+        "[2] B 1984 Migration (bis 1983, West)",
+        "[3] C 1990 Ausgangs-Sample (Ost)",
+        "[4] D 1994/5 Migration (1984-92/94 West)",
+        "[5] E 1998 Aufstockung",
+        "[6] F 2000 Aufstockung",
+        "[7] G 2002 Hoch-Einkommen",
+        "[8] H 2006 Aufstockung",
+        "[9] I 2009 Innovation Sample",
+        "[10] J 2011 Aufstockung",
+        "[11] K 2012 Aufstockung",
+        "[12] L1 2010 Geburtskohorten (2007-2010)",
+        "[13] L2 2010 Familientypen(NiedrigEinkommen,AlleinErziehend,MehrKindFamilien)",
+        "[14] L3 2011 Familientypen(AlleinErziehend,MehrKindFamilien)",
+        "[15] M1 2013 Migration (1995-2010)",
+        "[16] M2 2015 Migration (2009-2013)"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "12944",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Stichprobenart"
+  },
+  "mhhnr": {
+    "study": "iab-soep-mig",
+    "name": "mhhnr",
+    "name_cs": "mhhnr",
+    "variable": "mhhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 1996",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 1996"
+  },
+  "mhnetto": {
+    "study": "iab-soep-mig",
+    "name": "mhnetto",
+    "name_cs": "mhnetto",
+    "variable": "mhnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    1996",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 1996"
+  },
+  "msampreg": {
+    "study": "iab-soep-mig",
+    "name": "msampreg",
+    "name_cs": "msampreg",
+    "variable": "msampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region    1996",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 1996"
+  },
+  "nhhnr": {
+    "study": "iab-soep-mig",
+    "name": "nhhnr",
+    "name_cs": "nhhnr",
+    "variable": "nhhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 1997",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 1997"
+  },
+  "nhnetto": {
+    "study": "iab-soep-mig",
+    "name": "nhnetto",
+    "name_cs": "nhnetto",
+    "variable": "nhnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    1997",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 1997"
+  },
+  "nsampreg": {
+    "study": "iab-soep-mig",
+    "name": "nsampreg",
+    "name_cs": "nsampreg",
+    "variable": "nsampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region    1997",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 1997"
+  },
+  "ohhnr": {
+    "study": "iab-soep-mig",
+    "name": "ohhnr",
+    "name_cs": "ohhnr",
+    "variable": "ohhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 1998",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 1998"
+  },
+  "ohnetto": {
+    "study": "iab-soep-mig",
+    "name": "ohnetto",
+    "name_cs": "ohnetto",
+    "variable": "ohnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    1998",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 1998"
+  },
+  "osampreg": {
+    "study": "iab-soep-mig",
+    "name": "osampreg",
+    "name_cs": "osampreg",
+    "variable": "osampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region    1998",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 1998"
+  },
+  "phhnr": {
+    "study": "iab-soep-mig",
+    "name": "phhnr",
+    "name_cs": "phhnr",
+    "variable": "phhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 1999",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 1999"
+  },
+  "phnetto": {
+    "study": "iab-soep-mig",
+    "name": "phnetto",
+    "name_cs": "phnetto",
+    "variable": "phnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    1999",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 1999"
+  },
+  "psampreg": {
+    "study": "iab-soep-mig",
+    "name": "psampreg",
+    "name_cs": "psampreg",
+    "variable": "psampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region    1999",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 1999"
+  },
+  "qhhnr": {
+    "study": "iab-soep-mig",
+    "name": "qhhnr",
+    "name_cs": "qhhnr",
+    "variable": "qhhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 2000",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 2000"
+  },
+  "qhnetto": {
+    "study": "iab-soep-mig",
+    "name": "qhnetto",
+    "name_cs": "qhnetto",
+    "variable": "qhnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    2000",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 2000"
+  },
+  "qsampreg": {
+    "study": "iab-soep-mig",
+    "name": "qsampreg",
+    "name_cs": "qsampreg",
+    "variable": "qsampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region    2000",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 2000"
+  },
+  "rhhnr": {
+    "study": "iab-soep-mig",
+    "name": "rhhnr",
+    "name_cs": "rhhnr",
+    "variable": "rhhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 2001",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 2001"
+  },
+  "rhnetto": {
+    "study": "iab-soep-mig",
+    "name": "rhnetto",
+    "name_cs": "rhnetto",
+    "variable": "rhnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    2001",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 2001"
+  },
+  "rsampreg": {
+    "study": "iab-soep-mig",
+    "name": "rsampreg",
+    "name_cs": "rsampreg",
+    "variable": "rsampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region    2001",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 2001"
+  },
+  "shhnr": {
+    "study": "iab-soep-mig",
+    "name": "shhnr",
+    "name_cs": "shhnr",
+    "variable": "shhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 2002",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 2002"
+  },
+  "shnetto": {
+    "study": "iab-soep-mig",
+    "name": "shnetto",
+    "name_cs": "shnetto",
+    "variable": "shnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status    2002",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 2002"
+  },
+  "ssampreg": {
+    "study": "iab-soep-mig",
+    "name": "ssampreg",
+    "name_cs": "ssampreg",
+    "variable": "ssampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region    2002",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 2002"
+  },
+  "ahpop": {
+    "study": "iab-soep-mig",
+    "name": "ahpop",
+    "name_cs": "ahpop",
+    "variable": "ahpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 1984",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 1984"
+  },
+  "bhpop": {
+    "study": "iab-soep-mig",
+    "name": "bhpop",
+    "name_cs": "bhpop",
+    "variable": "bhpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 1985",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 1985"
+  },
+  "chpop": {
+    "study": "iab-soep-mig",
+    "name": "chpop",
+    "name_cs": "chpop",
+    "variable": "chpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 1986",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 1986"
+  },
+  "dhpop": {
+    "study": "iab-soep-mig",
+    "name": "dhpop",
+    "name_cs": "dhpop",
+    "variable": "dhpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 1987",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 1987"
+  },
+  "ehpop": {
+    "study": "iab-soep-mig",
+    "name": "ehpop",
+    "name_cs": "ehpop",
+    "variable": "ehpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 1988",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 1988"
+  },
+  "fhpop": {
+    "study": "iab-soep-mig",
+    "name": "fhpop",
+    "name_cs": "fhpop",
+    "variable": "fhpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 1989",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 1989"
+  },
+  "ghpop": {
+    "study": "iab-soep-mig",
+    "name": "ghpop",
+    "name_cs": "ghpop",
+    "variable": "ghpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 1990",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 1990"
+  },
+  "hhpop": {
+    "study": "iab-soep-mig",
+    "name": "hhpop",
+    "name_cs": "hhpop",
+    "variable": "hhpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 1991",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 1991"
+  },
+  "ihpop": {
+    "study": "iab-soep-mig",
+    "name": "ihpop",
+    "name_cs": "ihpop",
+    "variable": "ihpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 1992",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 1992"
+  },
+  "jhpop": {
+    "study": "iab-soep-mig",
+    "name": "jhpop",
+    "name_cs": "jhpop",
+    "variable": "jhpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 1993",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 1993"
+  },
+  "khpop": {
+    "study": "iab-soep-mig",
+    "name": "khpop",
+    "name_cs": "khpop",
+    "variable": "khpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 1994",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 1994"
+  },
+  "lhpop": {
+    "study": "iab-soep-mig",
+    "name": "lhpop",
+    "name_cs": "lhpop",
+    "variable": "lhpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 1995",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 1995"
+  },
+  "mhpop": {
+    "study": "iab-soep-mig",
+    "name": "mhpop",
+    "name_cs": "mhpop",
+    "variable": "mhpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 1996",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 1996"
+  },
+  "nhpop": {
+    "study": "iab-soep-mig",
+    "name": "nhpop",
+    "name_cs": "nhpop",
+    "variable": "nhpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 1997",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 1997"
+  },
+  "ohpop": {
+    "study": "iab-soep-mig",
+    "name": "ohpop",
+    "name_cs": "ohpop",
+    "variable": "ohpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 1998",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 1998"
+  },
+  "phpop": {
+    "study": "iab-soep-mig",
+    "name": "phpop",
+    "name_cs": "phpop",
+    "variable": "phpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 1999",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 1999"
+  },
+  "qhpop": {
+    "study": "iab-soep-mig",
+    "name": "qhpop",
+    "name_cs": "qhpop",
+    "variable": "qhpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 2000",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 2000"
+  },
+  "rhpop": {
+    "study": "iab-soep-mig",
+    "name": "rhpop",
+    "name_cs": "rhpop",
+    "variable": "rhpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 2001",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 2001"
+  },
+  "shpop": {
+    "study": "iab-soep-mig",
+    "name": "shpop",
+    "name_cs": "shpop",
+    "variable": "shpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 2002",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 2002"
+  },
+  "gsampreg": {
+    "study": "iab-soep-mig",
+    "name": "gsampreg",
+    "name_cs": "gsampreg",
+    "variable": "gsampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion"
+  },
+  "thhnr": {
+    "study": "iab-soep-mig",
+    "name": "thhnr",
+    "name_cs": "thhnr",
+    "variable": "thhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 2003",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 2003"
+  },
+  "thnetto": {
+    "study": "iab-soep-mig",
+    "name": "thnetto",
+    "name_cs": "thnetto",
+    "variable": "thnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status 2003",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 2003"
+  },
+  "tsampreg": {
+    "study": "iab-soep-mig",
+    "name": "tsampreg",
+    "name_cs": "tsampreg",
+    "variable": "tsampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region 2003",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 2003"
+  },
+  "thpop": {
+    "study": "iab-soep-mig",
+    "name": "thpop",
+    "name_cs": "thpop",
+    "variable": "thpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 2003",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 2003"
+  },
+  "uhhnr": {
+    "study": "iab-soep-mig",
+    "name": "uhhnr",
+    "name_cs": "uhhnr",
+    "variable": "uhhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 2004",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 2004"
+  },
+  "uhnetto": {
+    "study": "iab-soep-mig",
+    "name": "uhnetto",
+    "name_cs": "uhnetto",
+    "variable": "uhnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status 2004",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 2004"
+  },
+  "usampreg": {
+    "study": "iab-soep-mig",
+    "name": "usampreg",
+    "name_cs": "usampreg",
+    "variable": "usampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region 2004",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 2004"
+  },
+  "uhpop": {
+    "study": "iab-soep-mig",
+    "name": "uhpop",
+    "name_cs": "uhpop",
+    "variable": "uhpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 2004",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 2004"
+  },
+  "vhhnr": {
+    "study": "iab-soep-mig",
+    "name": "vhhnr",
+    "name_cs": "vhhnr",
+    "variable": "vhhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 2005",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 2005"
+  },
+  "vhnetto": {
+    "study": "iab-soep-mig",
+    "name": "vhnetto",
+    "name_cs": "vhnetto",
+    "variable": "vhnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status 2005",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 2005"
+  },
+  "vsampreg": {
+    "study": "iab-soep-mig",
+    "name": "vsampreg",
+    "name_cs": "vsampreg",
+    "variable": "vsampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region 2005",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 2005"
+  },
+  "vhpop": {
+    "study": "iab-soep-mig",
+    "name": "vhpop",
+    "name_cs": "vhpop",
+    "variable": "vhpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 2005",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 2005"
+  },
+  "whhnr": {
+    "study": "iab-soep-mig",
+    "name": "whhnr",
+    "name_cs": "whhnr",
+    "variable": "whhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 2006",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 2006"
+  },
+  "whnetto": {
+    "study": "iab-soep-mig",
+    "name": "whnetto",
+    "name_cs": "whnetto",
+    "variable": "whnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status 2006",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 2006"
+  },
+  "wsampreg": {
+    "study": "iab-soep-mig",
+    "name": "wsampreg",
+    "name_cs": "wsampreg",
+    "variable": "wsampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region 2006",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 2006"
+  },
+  "whpop": {
+    "study": "iab-soep-mig",
+    "name": "whpop",
+    "name_cs": "whpop",
+    "variable": "whpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 2006",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 2006"
+  },
+  "xhhnr": {
+    "study": "iab-soep-mig",
+    "name": "xhhnr",
+    "name_cs": "xhhnr",
+    "variable": "xhhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 2007",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 2007"
+  },
+  "xhnetto": {
+    "study": "iab-soep-mig",
+    "name": "xhnetto",
+    "name_cs": "xhnetto",
+    "variable": "xhnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status 2007",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 2007"
+  },
+  "xsampreg": {
+    "study": "iab-soep-mig",
+    "name": "xsampreg",
+    "name_cs": "xsampreg",
+    "variable": "xsampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region 2007",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 2007"
+  },
+  "xhpop": {
+    "study": "iab-soep-mig",
+    "name": "xhpop",
+    "name_cs": "xhpop",
+    "variable": "xhpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 2007",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 2007"
+  },
+  "yhhnr": {
+    "study": "iab-soep-mig",
+    "name": "yhhnr",
+    "name_cs": "yhhnr",
+    "variable": "yhhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 2008",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 2008"
+  },
+  "yhnetto": {
+    "study": "iab-soep-mig",
+    "name": "yhnetto",
+    "name_cs": "yhnetto",
+    "variable": "yhnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status 2008",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 2008"
+  },
+  "ysampreg": {
+    "study": "iab-soep-mig",
+    "name": "ysampreg",
+    "name_cs": "ysampreg",
+    "variable": "ysampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region 2008",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 2008"
+  },
+  "yhpop": {
+    "study": "iab-soep-mig",
+    "name": "yhpop",
+    "name_cs": "yhpop",
+    "variable": "yhpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 2008",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 2008"
+  },
+  "zhhnr": {
+    "study": "iab-soep-mig",
+    "name": "zhhnr",
+    "name_cs": "zhhnr",
+    "variable": "zhhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 2009",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 2009"
+  },
+  "zhnetto": {
+    "study": "iab-soep-mig",
+    "name": "zhnetto",
+    "name_cs": "zhnetto",
+    "variable": "zhnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status 2009",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 2009"
+  },
+  "zsampreg": {
+    "study": "iab-soep-mig",
+    "name": "zsampreg",
+    "name_cs": "zsampreg",
+    "variable": "zsampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region 2009",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 2009"
+  },
+  "zhpop": {
+    "study": "iab-soep-mig",
+    "name": "zhpop",
+    "name_cs": "zhpop",
+    "variable": "zhpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 2009",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 2009"
+  },
+  "bahhnr": {
+    "study": "iab-soep-mig",
+    "name": "bahhnr",
+    "name_cs": "bahhnr",
+    "variable": "bahhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 2010",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 2010"
+  },
+  "bahnetto": {
+    "study": "iab-soep-mig",
+    "name": "bahnetto",
+    "name_cs": "bahnetto",
+    "variable": "bahnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status 2010",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 2010"
+  },
+  "basampreg": {
+    "study": "iab-soep-mig",
+    "name": "basampreg",
+    "name_cs": "basampreg",
+    "variable": "basampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region 2010",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 2010"
+  },
+  "bahpop": {
+    "study": "iab-soep-mig",
+    "name": "bahpop",
+    "name_cs": "bahpop",
+    "variable": "bahpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 2010",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 2010"
+  },
+  "bbhhnr": {
+    "study": "iab-soep-mig",
+    "name": "bbhhnr",
+    "name_cs": "bbhhnr",
+    "variable": "bbhhnr",
+    "dataset": "hpfad",
+    "label": "Current Wave Household Number 2011",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 2011"
+  },
+  "bbhnetto": {
+    "study": "iab-soep-mig",
+    "name": "bbhnetto",
+    "name_cs": "bbhnetto",
+    "variable": "bbhnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status 2011",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 2011"
+  },
+  "bbsampreg": {
+    "study": "iab-soep-mig",
+    "name": "bbsampreg",
+    "name_cs": "bbsampreg",
+    "variable": "bbsampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region 2011",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 2011"
+  },
+  "bbhpop": {
+    "study": "iab-soep-mig",
+    "name": "bbhpop",
+    "name_cs": "bbhpop",
+    "variable": "bbhpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 2011",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 2011"
+  },
+  "bchhnr": {
+    "study": "iab-soep-mig",
+    "name": "bchhnr",
+    "name_cs": "bchhnr",
+    "variable": "bchhnr",
+    "dataset": "hpfad",
+    "label": "current household number",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 2012"
+  },
+  "bchnetto": {
+    "study": "iab-soep-mig",
+    "name": "bchnetto",
+    "name_cs": "bchnetto",
+    "variable": "bchnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status 2012",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Befragungsstatus 2012"
+  },
+  "bcsampreg": {
+    "study": "iab-soep-mig",
+    "name": "bcsampreg",
+    "name_cs": "bcsampreg",
+    "variable": "bcsampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Region 2012",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Aktuelle Stichprobenregion 2012"
+  },
+  "bchpop": {
+    "study": "iab-soep-mig",
+    "name": "bchpop",
+    "name_cs": "bchpop",
+    "variable": "bchpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 2012",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3",
+        " 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Populationszugehoerigkeit 2012"
+  },
+  "bdhhnr": {
+    "study": "iab-soep-mig",
+    "name": "bdhhnr",
+    "name_cs": "bdhhnr",
+    "variable": "bdhhnr",
+    "dataset": "hpfad",
+    "label": "Current Household Number 2013",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3144000",
+        "3196000",
+        "3248000",
+        "3247000",
+        "3298000",
+        "3343000",
+        "10221",
+        "2723",
+        "10221"
+      ]
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 2013"
+  },
+  "bdhnetto": {
+    "study": "iab-soep-mig",
+    "name": "bdhnetto",
+    "name_cs": "bdhnetto",
+    "variable": "bdhnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status 2013",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        10221,
+        0,
+        2723,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2723",
+        "10221"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Befragungsstatus 2013"
+  },
+  "bdsampreg": {
+    "study": "iab-soep-mig",
+    "name": "bdsampreg",
+    "name_cs": "bdsampreg",
+    "variable": "bdsampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Resion 2013",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        10221,
+        0,
+        2521,
+        202
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2723",
+        "10221"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Aktuelle Stichprobenregion 2013"
+  },
+  "bdhpop": {
+    "study": "iab-soep-mig",
+    "name": "bdhpop",
+    "name_cs": "bdhpop",
+    "variable": "bdhpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 2013",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        10221,
+        0,
+        1239,
+        1464,
+        6,
+        14
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2723",
+        "10221"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Populationszugehoerigkeit 2013"
+  },
+  "behhnr": {
+    "study": "iab-soep-mig",
+    "name": "behhnr",
+    "name_cs": "behhnr",
+    "variable": "behhnr",
+    "dataset": "hpfad",
+    "label": "Current Household Number 2014",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3144000",
+        "3197000",
+        "3251000",
+        "3251000",
+        "3304000",
+        "3345000",
+        "10103",
+        "2841",
+        "10103"
+      ]
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 2014"
+  },
+  "behnetto": {
+    "study": "iab-soep-mig",
+    "name": "behnetto",
+    "name_cs": "behnetto",
+    "variable": "behnetto",
+    "dataset": "hpfad",
+    "label": "Current Wave Survey Status 2014",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        10103,
+        0,
+        2012,
+        829
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Successful HH Interview",
+        "[2] HH In Brutto Only"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2841",
+        "10103"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Befragungsstatus 2014"
+  },
+  "besampreg": {
+    "study": "iab-soep-mig",
+    "name": "besampreg",
+    "name_cs": "besampreg",
+    "variable": "besampreg",
+    "dataset": "hpfad",
+    "label": "Current Wave Sample Resion 2014",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        10103,
+        0,
+        2632,
+        209
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] West-Germany",
+        "[2] East-Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2841",
+        "10103"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Aktuelle Stichprobenregion 2014"
+  },
+  "behpop": {
+    "study": "iab-soep-mig",
+    "name": "behpop",
+    "name_cs": "behpop",
+    "variable": "behpop",
+    "dataset": "hpfad",
+    "label": "Sample Membership 2014",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        10103,
+        0,
+        1374,
+        1450,
+        5,
+        12
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Private HH, German HH-Head",
+        "[2] Private HH, Foreign HH-Head",
+        "[3] Institutionalized HH, German HH-Head",
+        "[4] Institutionalized HH, Foreign HH-Head"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2841",
+        "10103"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Populationszugehoerigkeit 2014"
+  },
+  "bfhhnr": {
+    "study": "iab-soep-mig",
+    "name": "bfhhnr",
+    "name_cs": "bfhhnr",
+    "variable": "bfhhnr",
+    "dataset": "hpfad",
+    "label": "Aktuelle Haushaltsnummer 2015",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3144000",
+        "3406000",
+        "3438000",
+        "3411000",
+        "3469000",
+        "3500000",
+        "472",
+        "12472",
+        "472"
+      ]
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer 2015"
+  },
+  "bfhnetto": {
+    "study": "iab-soep-mig",
+    "name": "bfhnetto",
+    "name_cs": "bfhnetto",
+    "variable": "bfhnetto",
+    "dataset": "hpfad",
+    "label": "Befragungsstatus 2015",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        472,
+        0,
+        2763,
+        9709
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Realisiertes Haushaltsinterview",
+        "[2] HH nur in Brutto-Bestand"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "12472",
+        "472"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Befragungsstatus 2015"
+  },
+  "bfsampreg": {
+    "study": "iab-soep-mig",
+    "name": "bfsampreg",
+    "name_cs": "bfsampreg",
+    "variable": "bfsampreg",
+    "dataset": "hpfad",
+    "label": "Aktuelle Stichprobenregion 2015",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        472,
+        0,
+        11411,
+        1061
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Westdeutschland, alte Bundeslaender",
+        "[2] Ostdeutschland, neue Bundeslaender"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "12472",
+        "472"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Aktuelle Stichprobenregion 2015"
+  },
+  "bfhpop": {
+    "study": "iab-soep-mig",
+    "name": "bfhpop",
+    "name_cs": "bfhpop",
+    "variable": "bfhpop",
+    "dataset": "hpfad",
+    "label": "Populationszugehoerigkeit 2015",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        9379,
+        0,
+        1295,
+        2222,
+        5,
+        43
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Privat_HH,deut.HV",
+        "[2] Privat_HH,ausl.HV",
+        "[3] Anstalts_HH,deut.HV",
+        "[4] Anstalts_HH,ausl.HV"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3565",
+        "9379"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Populationszugehoerigkeit 2015"
+  }
+}

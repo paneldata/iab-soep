@@ -1,0 +1,679 @@
+{
+  "hhnr": {
+    "study": "iab-soep-mig",
+    "name": "hhnr",
+    "name_cs": "hhnr",
+    "variable": "hhnr",
+    "dataset": "biomarsy",
+    "label": "Original Household Number",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3144000",
+        "3209000",
+        "3272000",
+        "3287000",
+        "3335000",
+        "3500000",
+        "13917",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Ursprungshaushaltsnummer"
+  },
+  "persnr": {
+    "study": "iab-soep-mig",
+    "name": "persnr",
+    "name_cs": "persnr",
+    "variable": "persnr",
+    "dataset": "biomarsy",
+    "label": "Personal identifier",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "31440000",
+        "32100000",
+        "32730000",
+        "32880000",
+        "33350000",
+        "3.5e+07",
+        "13917",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Personal identifier"
+  },
+  "spellnr": {
+    "study": "iab-soep-mig",
+    "name": "spellnr",
+    "name_cs": "spellnr",
+    "variable": "spellnr",
+    "dataset": "biomarsy",
+    "label": "Consecutive spell number of the event per person",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1",
+        "1",
+        "1.834",
+        "2",
+        "11",
+        "13917",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Consecutive spell number of the event per person"
+  },
+  "spelltyp": {
+    "study": "iab-soep-mig",
+    "name": "spelltyp",
+    "name_cs": "spelltyp",
+    "variable": "spelltyp",
+    "dataset": "biomarsy",
+    "label": "Marital status",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6080,
+        5426,
+        634,
+        95,
+        480,
+        57,
+        16,
+        1129
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] unmarried",
+        "[2] married",
+        "[3] divorced / reg. same-sex p. annulled",
+        "[4] widowed / reg. same-sex p. deceased",
+        "[5] divorced or widowed / reg. same-sex p. annulled or deceased",
+        "[6] married, separated / reg. same-sex p., separated",
+        "[7] living in reg. same-sex partnership",
+        "[9] gap"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "9"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] unmarried",
+        "[2] married",
+        "[3] divorced / reg. same-sex p. annulled",
+        "[4] widowed / reg. same-sex p. deceased",
+        "[5] divorced or widowed / reg. same-sex p. annulled or deceased",
+        "[6] married, separated / reg. same-sex p., separated",
+        "[7] living in reg. same-sex partnership",
+        "[9] gap"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "13917",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Marital status"
+  },
+  "begin": {
+    "study": "iab-soep-mig",
+    "name": "begin",
+    "name_cs": "begin",
+    "variable": "begin",
+    "dataset": "biomarsy",
+    "label": "Age when spell begins",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "14.4",
+        "27",
+        "92",
+        "667",
+        "13250",
+        "667"
+      ]
+    },
+    "scale": "",
+    "label_de": "Age when spell begins"
+  },
+  "end": {
+    "study": "iab-soep-mig",
+    "name": "end",
+    "name_cs": "end",
+    "variable": "end",
+    "dataset": "biomarsy",
+    "label": "Age when spell ends",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "25",
+        "32",
+        "34.49",
+        "42",
+        "96",
+        "679",
+        "13238",
+        "679"
+      ]
+    },
+    "scale": "",
+    "label_de": "Age when spell ends"
+  },
+  "beginy": {
+    "study": "iab-soep-mig",
+    "name": "beginy",
+    "name_cs": "beginy",
+    "variable": "beginy",
+    "dataset": "biomarsy",
+    "label": "Begin, calendar year",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1918",
+        "1976",
+        "1988",
+        "1989",
+        "2004",
+        "2015",
+        "707",
+        "13210",
+        "707"
+      ]
+    },
+    "scale": "",
+    "label_de": "Begin, calendar year"
+  },
+  "endy": {
+    "study": "iab-soep-mig",
+    "name": "endy",
+    "name_cs": "endy",
+    "variable": "endy",
+    "dataset": "biomarsy",
+    "label": "End, calendar year",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1948",
+        "2006",
+        "2013",
+        "2009",
+        "2015",
+        "2015",
+        "679",
+        "13238",
+        "679"
+      ]
+    },
+    "scale": "",
+    "label_de": "End, calendar year"
+  },
+  "censor": {
+    "study": "iab-soep-mig",
+    "name": "censor",
+    "name_cs": "censor",
+    "variable": "censor",
+    "dataset": "biomarsy",
+    "label": "Censoring information",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1221,
+        23,
+        9,
+        4942,
+        128,
+        5272,
+        1,
+        556,
+        11,
+        680,
+        0,
+        3,
+        1,
+        1070,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[0] not censored",
+        "[1] LC: missing",
+        "[2] LC: after gap",
+        "[3] RC: missing",
+        "[4] RC: before gap",
+        "[5] RC: last spell",
+        "[6] RC: death",
+        "[7] LC+RC: missing & missing",
+        "[8] LC+RC: missing & before gap",
+        "[9] LC+RC: missing & last spell",
+        "[10] LC+RC: missing & death",
+        "[11] LC+RC: after gap & missing",
+        "[12] LC+RC: after gap & before gap",
+        "[13] LC+RC: after gap & last spell",
+        "[14] LC+RC: after gap & death"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] not censored",
+        "[1] LC: missing",
+        "[2] LC: after gap",
+        "[3] RC: missing",
+        "[4] RC: before gap",
+        "[5] RC: last spell",
+        "[6] RC: death",
+        "[7] LC+RC: missing & missing",
+        "[8] LC+RC: missing & before gap",
+        "[9] LC+RC: missing & last spell",
+        "[10] LC+RC: missing & death",
+        "[11] LC+RC: after gap & missing",
+        "[12] LC+RC: after gap & before gap",
+        "[13] LC+RC: after gap & last spell",
+        "[14] LC+RC: after gap & death"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "13917",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Censoring information"
+  },
+  "remark": {
+    "study": "iab-soep-mig",
+    "name": "remark",
+    "name_cs": "remark",
+    "variable": "remark",
+    "dataset": "biomarsy",
+    "label": "Error code: Comment on spell",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5628,
+        115,
+        1086,
+        19,
+        7069
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] orig. spell",
+        "[2] edit. spell",
+        "[3] added spell",
+        "[4] gap spell",
+        "[5] first spell"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] orig. spell",
+        "[2] edit. spell",
+        "[3] added spell",
+        "[4] gap spell",
+        "[5] first spell"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "13917",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Error code: Comment on spell"
+  },
+  "source": {
+    "study": "iab-soep-mig",
+    "name": "source",
+    "name_cs": "source",
+    "variable": "source",
+    "dataset": "biomarsy",
+    "label": "Source of Information",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        986,
+        0,
+        5613,
+        1887,
+        5431
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Biography-questionnaire",
+        "[2] Personal-questionnaire",
+        "[3] Biography- and personal-questionnaire"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Biography-questionnaire",
+        "[2] Personal-questionnaire",
+        "[3] Biography- and personal-questionnaire"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "12931",
+        "986"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Source of Information"
+  }
+}

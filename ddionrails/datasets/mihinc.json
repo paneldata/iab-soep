@@ -1,0 +1,304 @@
+{
+  "hhnr": {
+    "study": "iab-soep-mig",
+    "name": "hhnr",
+    "name_cs": "hhnr",
+    "variable": "hhnr",
+    "dataset": "mihinc",
+    "label": "Original Household Number",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3144000",
+        "3203000",
+        "3263000",
+        "3276000",
+        "3324000",
+        "3500000",
+        "82478",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Ursprungshaushaltsnummer"
+  },
+  "hhnrakt": {
+    "study": "iab-soep-mig",
+    "name": "hhnrakt",
+    "name_cs": "hhnrakt",
+    "variable": "hhnrakt",
+    "dataset": "mihinc",
+    "label": "Current Household Number",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3144000",
+        "3205000",
+        "3266000",
+        "3278000",
+        "3328000",
+        "3500000",
+        "82478",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Current household number"
+  },
+  "syear": {
+    "study": "iab-soep-mig",
+    "name": "syear",
+    "name_cs": "syear",
+    "variable": "syear",
+    "dataset": "mihinc",
+    "label": "Survey year",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2013",
+        "2013",
+        "2014",
+        "2014",
+        "2015",
+        "2015",
+        "82478",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Survey year"
+  },
+  "mi": {
+    "study": "iab-soep-mig",
+    "name": "mi",
+    "name_cs": "mi",
+    "variable": "mi",
+    "dataset": "mihinc",
+    "label": "Observation Identifier",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3068",
+        "10960",
+        "11850",
+        "11310",
+        "12480",
+        "14290",
+        "82478",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Observation identifier"
+  },
+  "mj": {
+    "study": "iab-soep-mig",
+    "name": "mj",
+    "name_cs": "mj",
+    "variable": "mj",
+    "dataset": "mihinc",
+    "label": "Imputation Identifier",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "2",
+        "5",
+        "5",
+        "8",
+        "10",
+        "82478",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Imputation identifier"
+  },
+  "ihinc": {
+    "study": "iab-soep-mig",
+    "name": "ihinc",
+    "name_cs": "ihinc",
+    "variable": "ihinc",
+    "dataset": "mihinc",
+    "label": "Monthly Net Household Income (Imputed)",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "1500",
+        "2200",
+        "2438",
+        "3000",
+        "36000",
+        "506",
+        "81972",
+        "506"
+      ]
+    },
+    "scale": "",
+    "label_de": "Monthly net household income (imputed)"
+  },
+  "impflag": {
+    "study": "iab-soep-mig",
+    "name": "impflag",
+    "name_cs": "impflag",
+    "variable": "impflag",
+    "dataset": "mihinc",
+    "label": "Imputation Flag: 1If Ihinc Missing, 0 Otherwise",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        7498,
+        0,
+        69920,
+        5060
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[0] Observed value",
+        "[1] Imputed value"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Observed value",
+        "[1] Imputed value"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "74980",
+        "7498"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Imputation flag: 1 if ihinc missing, 0 otherwise"
+  }
+}

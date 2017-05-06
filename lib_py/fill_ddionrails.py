@@ -38,7 +38,6 @@ def concepts():
     valid = x.ix[ : , "concept_name"].duplicated() == False
     x = x.ix[valid]
     dor1.lower_all_names(x)
-    print(len(x))
     x.to_csv("ddionrails/concepts.csv", index=False)
 
 def main():

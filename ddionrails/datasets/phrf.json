@@ -1,0 +1,3270 @@
+{
+  "hhnr": {
+    "study": "iab-soep-mig",
+    "name": "hhnr",
+    "name_cs": "hhnr",
+    "variable": "hhnr",
+    "dataset": "phrf",
+    "label": "Original Household Number",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3144000",
+        "3215000",
+        "3281000",
+        "3298000",
+        "3402000",
+        "3500000",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Ursprungshaushaltsnummer"
+  },
+  "persnr": {
+    "study": "iab-soep-mig",
+    "name": "persnr",
+    "name_cs": "persnr",
+    "variable": "persnr",
+    "dataset": "phrf",
+    "label": "Never Changing Person Id",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "31440000",
+        "32160000",
+        "32830000",
+        "32990000",
+        "34020000",
+        "3.5e+07",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Unveraenderliche Personennummer"
+  },
+  "prgroup": {
+    "study": "iab-soep-mig",
+    "name": "prgroup",
+    "name_cs": "prgroup",
+    "variable": "prgroup",
+    "dataset": "phrf",
+    "label": "Random Groups",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "3",
+        "4",
+        "4.495",
+        "7",
+        "8",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Random Groups"
+  },
+  "bpbleib": {
+    "study": "iab-soep-mig",
+    "name": "bpbleib",
+    "name_cs": "bpbleib",
+    "variable": "bpbleib",
+    "dataset": "phrf",
+    "label": "Inverse staying Probability 1985",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 1985"
+  },
+  "cpbleib": {
+    "study": "iab-soep-mig",
+    "name": "cpbleib",
+    "name_cs": "cpbleib",
+    "variable": "cpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 1986",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 1986"
+  },
+  "dpbleib": {
+    "study": "iab-soep-mig",
+    "name": "dpbleib",
+    "name_cs": "dpbleib",
+    "variable": "dpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 1987",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 1987"
+  },
+  "epbleib": {
+    "study": "iab-soep-mig",
+    "name": "epbleib",
+    "name_cs": "epbleib",
+    "variable": "epbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 1988",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 1988"
+  },
+  "fpbleib": {
+    "study": "iab-soep-mig",
+    "name": "fpbleib",
+    "name_cs": "fpbleib",
+    "variable": "fpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 1989",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 1989"
+  },
+  "gpbleib": {
+    "study": "iab-soep-mig",
+    "name": "gpbleib",
+    "name_cs": "gpbleib",
+    "variable": "gpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 1990",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 1990"
+  },
+  "hpbleib": {
+    "study": "iab-soep-mig",
+    "name": "hpbleib",
+    "name_cs": "hpbleib",
+    "variable": "hpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 1991",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 1991"
+  },
+  "ipbleib": {
+    "study": "iab-soep-mig",
+    "name": "ipbleib",
+    "name_cs": "ipbleib",
+    "variable": "ipbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 1992",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 1992"
+  },
+  "jpbleib": {
+    "study": "iab-soep-mig",
+    "name": "jpbleib",
+    "name_cs": "jpbleib",
+    "variable": "jpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 1993",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 1993"
+  },
+  "kpbleib": {
+    "study": "iab-soep-mig",
+    "name": "kpbleib",
+    "name_cs": "kpbleib",
+    "variable": "kpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 1994",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 1994"
+  },
+  "lpbleib": {
+    "study": "iab-soep-mig",
+    "name": "lpbleib",
+    "name_cs": "lpbleib",
+    "variable": "lpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 1995",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 1995"
+  },
+  "mpbleib": {
+    "study": "iab-soep-mig",
+    "name": "mpbleib",
+    "name_cs": "mpbleib",
+    "variable": "mpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 1996",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 1996"
+  },
+  "npbleib": {
+    "study": "iab-soep-mig",
+    "name": "npbleib",
+    "name_cs": "npbleib",
+    "variable": "npbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 1997",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 1997"
+  },
+  "opbleib": {
+    "study": "iab-soep-mig",
+    "name": "opbleib",
+    "name_cs": "opbleib",
+    "variable": "opbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 1998",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 1998"
+  },
+  "ppbleib": {
+    "study": "iab-soep-mig",
+    "name": "ppbleib",
+    "name_cs": "ppbleib",
+    "variable": "ppbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 1999",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 1999"
+  },
+  "qpbleib": {
+    "study": "iab-soep-mig",
+    "name": "qpbleib",
+    "name_cs": "qpbleib",
+    "variable": "qpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 2000",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 2000"
+  },
+  "rpbleib": {
+    "study": "iab-soep-mig",
+    "name": "rpbleib",
+    "name_cs": "rpbleib",
+    "variable": "rpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 2001",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 2001"
+  },
+  "spbleib": {
+    "study": "iab-soep-mig",
+    "name": "spbleib",
+    "name_cs": "spbleib",
+    "variable": "spbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 2002",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 2002"
+  },
+  "tpbleib": {
+    "study": "iab-soep-mig",
+    "name": "tpbleib",
+    "name_cs": "tpbleib",
+    "variable": "tpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 2003",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 2003"
+  },
+  "upbleib": {
+    "study": "iab-soep-mig",
+    "name": "upbleib",
+    "name_cs": "upbleib",
+    "variable": "upbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 2004",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 2004"
+  },
+  "vpbleib": {
+    "study": "iab-soep-mig",
+    "name": "vpbleib",
+    "name_cs": "vpbleib",
+    "variable": "vpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 2005",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 2005"
+  },
+  "wpbleib": {
+    "study": "iab-soep-mig",
+    "name": "wpbleib",
+    "name_cs": "wpbleib",
+    "variable": "wpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 2006",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 2006"
+  },
+  "xpbleib": {
+    "study": "iab-soep-mig",
+    "name": "xpbleib",
+    "name_cs": "xpbleib",
+    "variable": "xpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 2007",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 2007"
+  },
+  "ypbleib": {
+    "study": "iab-soep-mig",
+    "name": "ypbleib",
+    "name_cs": "ypbleib",
+    "variable": "ypbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 2008",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 2008"
+  },
+  "zpbleib": {
+    "study": "iab-soep-mig",
+    "name": "zpbleib",
+    "name_cs": "zpbleib",
+    "variable": "zpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 2009",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 2009"
+  },
+  "bapbleib": {
+    "study": "iab-soep-mig",
+    "name": "bapbleib",
+    "name_cs": "bapbleib",
+    "variable": "bapbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 2010",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 2010"
+  },
+  "bbpbleib": {
+    "study": "iab-soep-mig",
+    "name": "bbpbleib",
+    "name_cs": "bbpbleib",
+    "variable": "bbpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 2011",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 2011"
+  },
+  "bcpbleib": {
+    "study": "iab-soep-mig",
+    "name": "bcpbleib",
+    "name_cs": "bcpbleib",
+    "variable": "bcpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 2012",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 2012"
+  },
+  "bdpbleib": {
+    "study": "iab-soep-mig",
+    "name": "bdpbleib",
+    "name_cs": "bdpbleib",
+    "variable": "bdpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 2013",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 2013"
+  },
+  "bepbleib": {
+    "study": "iab-soep-mig",
+    "name": "bepbleib",
+    "name_cs": "bepbleib",
+    "variable": "bepbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability 2014",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0.6262",
+        "1.23",
+        "4.7",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 2014"
+  },
+  "bfpbleib": {
+    "study": "iab-soep-mig",
+    "name": "bfpbleib",
+    "name_cs": "bfpbleib",
+    "variable": "bfpbleib",
+    "dataset": "phrf",
+    "label": "Inverse Stay Probability",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0.5298",
+        "1.17",
+        "5.94",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit 2015"
+  },
+  "aphrf": {
+    "study": "iab-soep-mig",
+    "name": "aphrf",
+    "name_cs": "aphrf",
+    "variable": "aphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 1984",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 1984"
+  },
+  "bphrf": {
+    "study": "iab-soep-mig",
+    "name": "bphrf",
+    "name_cs": "bphrf",
+    "variable": "bphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 1985",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 1985"
+  },
+  "cphrf": {
+    "study": "iab-soep-mig",
+    "name": "cphrf",
+    "name_cs": "cphrf",
+    "variable": "cphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 1986",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 1986"
+  },
+  "dphrf": {
+    "study": "iab-soep-mig",
+    "name": "dphrf",
+    "name_cs": "dphrf",
+    "variable": "dphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 1987",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 1987"
+  },
+  "ephrf": {
+    "study": "iab-soep-mig",
+    "name": "ephrf",
+    "name_cs": "ephrf",
+    "variable": "ephrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 1988",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 1988"
+  },
+  "fphrf": {
+    "study": "iab-soep-mig",
+    "name": "fphrf",
+    "name_cs": "fphrf",
+    "variable": "fphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 1989",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 1989"
+  },
+  "gphrf": {
+    "study": "iab-soep-mig",
+    "name": "gphrf",
+    "name_cs": "gphrf",
+    "variable": "gphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 1990",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 1990"
+  },
+  "hphrf": {
+    "study": "iab-soep-mig",
+    "name": "hphrf",
+    "name_cs": "hphrf",
+    "variable": "hphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 1991",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 1991"
+  },
+  "iphrf": {
+    "study": "iab-soep-mig",
+    "name": "iphrf",
+    "name_cs": "iphrf",
+    "variable": "iphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 1992",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 1992"
+  },
+  "jphrf": {
+    "study": "iab-soep-mig",
+    "name": "jphrf",
+    "name_cs": "jphrf",
+    "variable": "jphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 1993",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 1993"
+  },
+  "kphrf": {
+    "study": "iab-soep-mig",
+    "name": "kphrf",
+    "name_cs": "kphrf",
+    "variable": "kphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 1994",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 1994"
+  },
+  "lphrf": {
+    "study": "iab-soep-mig",
+    "name": "lphrf",
+    "name_cs": "lphrf",
+    "variable": "lphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 1995",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 1995"
+  },
+  "mphrf": {
+    "study": "iab-soep-mig",
+    "name": "mphrf",
+    "name_cs": "mphrf",
+    "variable": "mphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 1996",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 1996"
+  },
+  "nphrf": {
+    "study": "iab-soep-mig",
+    "name": "nphrf",
+    "name_cs": "nphrf",
+    "variable": "nphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 1997",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 1997"
+  },
+  "ophrf": {
+    "study": "iab-soep-mig",
+    "name": "ophrf",
+    "name_cs": "ophrf",
+    "variable": "ophrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 1998",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 1998"
+  },
+  "pphrf": {
+    "study": "iab-soep-mig",
+    "name": "pphrf",
+    "name_cs": "pphrf",
+    "variable": "pphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 1999",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 1999"
+  },
+  "qphrf": {
+    "study": "iab-soep-mig",
+    "name": "qphrf",
+    "name_cs": "qphrf",
+    "variable": "qphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 2000",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 2000"
+  },
+  "rphrf": {
+    "study": "iab-soep-mig",
+    "name": "rphrf",
+    "name_cs": "rphrf",
+    "variable": "rphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 2001",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 2001"
+  },
+  "sphrf": {
+    "study": "iab-soep-mig",
+    "name": "sphrf",
+    "name_cs": "sphrf",
+    "variable": "sphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 2002",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 2002"
+  },
+  "tphrf": {
+    "study": "iab-soep-mig",
+    "name": "tphrf",
+    "name_cs": "tphrf",
+    "variable": "tphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 2003",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 2003"
+  },
+  "uphrf": {
+    "study": "iab-soep-mig",
+    "name": "uphrf",
+    "name_cs": "uphrf",
+    "variable": "uphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 2004",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 2004"
+  },
+  "vphrf": {
+    "study": "iab-soep-mig",
+    "name": "vphrf",
+    "name_cs": "vphrf",
+    "variable": "vphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 2005",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 2005"
+  },
+  "wphrf": {
+    "study": "iab-soep-mig",
+    "name": "wphrf",
+    "name_cs": "wphrf",
+    "variable": "wphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 2006",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 2006"
+  },
+  "xphrf": {
+    "study": "iab-soep-mig",
+    "name": "xphrf",
+    "name_cs": "xphrf",
+    "variable": "xphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 2007",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 2007"
+  },
+  "yphrf": {
+    "study": "iab-soep-mig",
+    "name": "yphrf",
+    "name_cs": "yphrf",
+    "variable": "yphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 2008",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 2008"
+  },
+  "zphrf": {
+    "study": "iab-soep-mig",
+    "name": "zphrf",
+    "name_cs": "zphrf",
+    "variable": "zphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 2009",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 2009"
+  },
+  "baphrf": {
+    "study": "iab-soep-mig",
+    "name": "baphrf",
+    "name_cs": "baphrf",
+    "variable": "baphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 2010",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 2010"
+  },
+  "bbphrf": {
+    "study": "iab-soep-mig",
+    "name": "bbphrf",
+    "name_cs": "bbphrf",
+    "variable": "bbphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 2011",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 2011"
+  },
+  "bcphrf": {
+    "study": "iab-soep-mig",
+    "name": "bcphrf",
+    "name_cs": "bcphrf",
+    "variable": "bcphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 2012",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 2012"
+  },
+  "bdphrf": {
+    "study": "iab-soep-mig",
+    "name": "bdphrf",
+    "name_cs": "bdphrf",
+    "variable": "bdphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 2013",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "285.7",
+        "609",
+        "768",
+        "9289",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 2013"
+  },
+  "bephrf": {
+    "study": "iab-soep-mig",
+    "name": "bephrf",
+    "name_cs": "bephrf",
+    "variable": "bephrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Wave 2014",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "596.6",
+        "710.4",
+        "9690",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 2014"
+  },
+  "bfphrf": {
+    "study": "iab-soep-mig",
+    "name": "bfphrf",
+    "name_cs": "bfphrf",
+    "variable": "bfphrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor 2015",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "266.8",
+        "715.8",
+        "896.6",
+        "10010",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor 2015"
+  },
+  "ophrfad": {
+    "study": "iab-soep-mig",
+    "name": "ophrfad",
+    "name_cs": "ophrfad",
+    "variable": "ophrfad",
+    "dataset": "phrf",
+    "label": "Weighting Factor Samples A - D  Wave 1998",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Samples A bis D 1998"
+  },
+  "ophrfe": {
+    "study": "iab-soep-mig",
+    "name": "ophrfe",
+    "name_cs": "ophrfe",
+    "variable": "ophrfe",
+    "dataset": "phrf",
+    "label": "Weighting Factor Sample E Wave 1998",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Sample E 1998"
+  },
+  "qphrfae": {
+    "study": "iab-soep-mig",
+    "name": "qphrfae",
+    "name_cs": "qphrfae",
+    "variable": "qphrfae",
+    "dataset": "phrf",
+    "label": "Weighting Factor Samples A - E Wave 2000",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Samples A bis E 2000"
+  },
+  "qphrff": {
+    "study": "iab-soep-mig",
+    "name": "qphrff",
+    "name_cs": "qphrff",
+    "variable": "qphrff",
+    "dataset": "phrf",
+    "label": "Weighting Factor Sample F Wave 2000",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Sample F 2000"
+  },
+  "sphrfaf": {
+    "study": "iab-soep-mig",
+    "name": "sphrfaf",
+    "name_cs": "sphrfaf",
+    "variable": "sphrfaf",
+    "dataset": "phrf",
+    "label": "Weighting Factor Samples A - F Wave 2002",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Samples A bis F 2002"
+  },
+  "sphrfg": {
+    "study": "iab-soep-mig",
+    "name": "sphrfg",
+    "name_cs": "sphrfg",
+    "variable": "sphrfg",
+    "dataset": "phrf",
+    "label": "Weighting Factor Sample G Wave 2002",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Sample G 2002"
+  },
+  "wphrfag": {
+    "study": "iab-soep-mig",
+    "name": "wphrfag",
+    "name_cs": "wphrfag",
+    "variable": "wphrfag",
+    "dataset": "phrf",
+    "label": "Weighting Factor Samples A - G Wave 2006",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Samples A bis G 2006"
+  },
+  "wphrfh": {
+    "study": "iab-soep-mig",
+    "name": "wphrfh",
+    "name_cs": "wphrfh",
+    "variable": "wphrfh",
+    "dataset": "phrf",
+    "label": "Weighting Factor Sample H Wave 2006",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Sample H 2006"
+  },
+  "baphrfah": {
+    "study": "iab-soep-mig",
+    "name": "baphrfah",
+    "name_cs": "baphrfah",
+    "variable": "baphrfah",
+    "dataset": "phrf",
+    "label": "Weighting Factor Sample A-H Wave 2010",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Samples A bis H 2010"
+  },
+  "baphrfl1": {
+    "study": "iab-soep-mig",
+    "name": "baphrfl1",
+    "name_cs": "baphrfl1",
+    "variable": "baphrfl1",
+    "dataset": "phrf",
+    "label": "Weighting Factor Sample L1 Wave 2010",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Sample L1 2010"
+  },
+  "baphrfl2": {
+    "study": "iab-soep-mig",
+    "name": "baphrfl2",
+    "name_cs": "baphrfl2",
+    "variable": "baphrfl2",
+    "dataset": "phrf",
+    "label": "Weighting Factor Sample L2 Wave 2010",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Sample L2 2010"
+  },
+  "bbphrfal2": {
+    "study": "iab-soep-mig",
+    "name": "bbphrfal2",
+    "name_cs": "bbphrfal2",
+    "variable": "bbphrfal2",
+    "dataset": "phrf",
+    "label": "Weighting Factor Sample A-L2 Wave 2011",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Samples A bis L2 2011"
+  },
+  "bbphrfl3": {
+    "study": "iab-soep-mig",
+    "name": "bbphrfl3",
+    "name_cs": "bbphrfl3",
+    "variable": "bbphrfl3",
+    "dataset": "phrf",
+    "label": "Weighting Factor Sample L3 Wave 2011",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Samples L3 2011"
+  },
+  "bbphrfj": {
+    "study": "iab-soep-mig",
+    "name": "bbphrfj",
+    "name_cs": "bbphrfj",
+    "variable": "bbphrfj",
+    "dataset": "phrf",
+    "label": "Weighting Factor Sample J Wave 2011",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Sample J 2011"
+  },
+  "bcphrfaj": {
+    "study": "iab-soep-mig",
+    "name": "bcphrfaj",
+    "name_cs": "bcphrfaj",
+    "variable": "bcphrfaj",
+    "dataset": "phrf",
+    "label": "Weighting Factor Samples A - J Wave 2012",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Samples A bis J 2012"
+  },
+  "bcphrfk": {
+    "study": "iab-soep-mig",
+    "name": "bcphrfk",
+    "name_cs": "bcphrfk",
+    "variable": "bcphrfk",
+    "dataset": "phrf",
+    "label": "Weighting Factor Sample K Wave 2011",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Sample K 2012"
+  },
+  "bdphrfak": {
+    "study": "iab-soep-mig",
+    "name": "bdphrfak",
+    "name_cs": "bdphrfak",
+    "variable": "bdphrfak",
+    "dataset": "phrf",
+    "label": "Weighting Factor Samples A - K Wave 2013",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Samples A bis K 2013"
+  },
+  "bdphrfm1": {
+    "study": "iab-soep-mig",
+    "name": "bdphrfm1",
+    "name_cs": "bdphrfm1",
+    "variable": "bdphrfm1",
+    "dataset": "phrf",
+    "label": "Weighting Factor Sample M Wave 2013",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "459.7",
+        "968.8",
+        "1248",
+        "19670",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Sample M 2013"
+  },
+  "bfphrfam1": {
+    "study": "iab-soep-mig",
+    "name": "bfphrfam1",
+    "name_cs": "bfphrfam1",
+    "variable": "bfphrfam1",
+    "dataset": "phrf",
+    "label": "Weighting Factor Sample A To M1 Wave 2015",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "617.1",
+        "623.9",
+        "12860",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Samples A bis M1 2015"
+  },
+  "bfphrfm2": {
+    "study": "iab-soep-mig",
+    "name": "bfphrfm2",
+    "name_cs": "bfphrfm2",
+    "variable": "bfphrfm2",
+    "dataset": "phrf",
+    "label": "Weighting Factor Sample M2 Wave 2015",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "198.8",
+        "0",
+        "8207",
+        "11976",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor Samples M2 2015"
+  }
+}

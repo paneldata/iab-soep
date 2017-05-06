@@ -1,0 +1,624 @@
+{
+  "hhnr": {
+    "study": "iab-soep-mig",
+    "name": "hhnr",
+    "name_cs": "hhnr",
+    "variable": "hhnr",
+    "dataset": "pflege",
+    "label": "Original Household Number",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3144000",
+        "3181000",
+        "3231000",
+        "3249000",
+        "3294000",
+        "3487000",
+        "208",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Ursprungshaushaltsnummer"
+  },
+  "persnr": {
+    "study": "iab-soep-mig",
+    "name": "persnr",
+    "name_cs": "persnr",
+    "variable": "persnr",
+    "dataset": "pflege",
+    "label": "Never Changing Person Id",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "31440000",
+        "31810000",
+        "32330000",
+        "32500000",
+        "32940000",
+        "34870000",
+        "208",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Unveraenderliche Personennummer"
+  },
+  "syear": {
+    "study": "iab-soep-mig",
+    "name": "syear",
+    "name_cs": "syear",
+    "variable": "syear",
+    "dataset": "pflege",
+    "label": "Survey Year",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2013",
+        "2013",
+        "2014",
+        "2014",
+        "2015",
+        "2015",
+        "208",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Survey Year"
+  },
+  "maxgrad": {
+    "study": "iab-soep-mig",
+    "name": "maxgrad",
+    "name_cs": "maxgrad",
+    "variable": "maxgrad",
+    "dataset": "pflege",
+    "label": "Level of long-term care",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        28,
+        39,
+        0,
+        81,
+        53
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Errand Outside HH",
+        "[2] Running The HH",
+        "[3] Daily Tasks In HH",
+        "[4] Simple Care Tasks",
+        "[5] Difficult Care Tasks"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Hilfe nur bei Besorg.a.Haus",
+        "[2] Hilfe bei Versorgung",
+        "[3] Hilfe bei tgl. Verricht.i.Haus",
+        "[4] einf. Pflegetaetigkeit",
+        "[5] schwierige Pflegetaetigkeit"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "201",
+        "7"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Grad der Pflegebeduerftigkeit"
+  },
+  "multgrad": {
+    "study": "iab-soep-mig",
+    "name": "multgrad",
+    "name_cs": "multgrad",
+    "variable": "multgrad",
+    "dataset": "pflege",
+    "label": "Long-term care categories",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "10000",
+        "11000",
+        "8300",
+        "11010",
+        "11010",
+        "7",
+        "201",
+        "7"
+      ]
+    },
+    "scale": "",
+    "label_de": "Pflegekategorien"
+  },
+  "werpflgt": {
+    "study": "iab-soep-mig",
+    "name": "werpflgt",
+    "name_cs": "werpflgt",
+    "variable": "werpflgt",
+    "dataset": "pflege",
+    "label": "Person Providing Care",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "10",
+        "100",
+        "100",
+        "104000",
+        "110",
+        "1100000",
+        "1",
+        "207",
+        "1"
+      ]
+    },
+    "scale": "",
+    "label_de": "Betreuer,Pfleger"
+  },
+  "pnrcare": {
+    "study": "iab-soep-mig",
+    "name": "pnrcare",
+    "name_cs": "pnrcare",
+    "variable": "pnrcare",
+    "dataset": "pflege",
+    "label": "PNR, Person Providing Care",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "31440000",
+        "31810000",
+        "32280000",
+        "32510000",
+        "32940000",
+        "34870000",
+        "19",
+        "189",
+        "19"
+      ]
+    },
+    "scale": "",
+    "label_de": "PNR, pflegende Person"
+  },
+  "pay": {
+    "study": "iab-soep-mig",
+    "name": "pay",
+    "name_cs": "pay",
+    "variable": "pay",
+    "dataset": "pflege",
+    "label": "Payed Care",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        174,
+        3,
+        9,
+        22
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "31",
+        "177"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Pflege gegen Bezahlung"
+  },
+  "stufe": {
+    "study": "iab-soep-mig",
+    "name": "stufe",
+    "name_cs": "stufe",
+    "variable": "stufe",
+    "dataset": "pflege",
+    "label": "Care Level",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        93,
+        0,
+        6,
+        53,
+        42,
+        14
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[0] Care Level 0",
+        "[1] Care Level 1",
+        "[2] Care Level 2",
+        "[3] Care Level 3"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Pflegestufe 0",
+        "[1] Pflegestufe 1",
+        "[2] Pflegestufe 2",
+        "[3] Pflegestufe 3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "115",
+        "93"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Pflegestufe"
+  },
+  "further": {
+    "study": "iab-soep-mig",
+    "name": "further",
+    "name_cs": "further",
+    "variable": "further",
+    "dataset": "pflege",
+    "label": "number of further persons req. help",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1",
+        "1",
+        "1.125",
+        "1",
+        "2",
+        "192",
+        "16",
+        "192"
+      ]
+    },
+    "scale": "",
+    "label_de": "number of further persons req. help"
+  },
+  "carecost": {
+    "study": "iab-soep-mig",
+    "name": "carecost",
+    "name_cs": "carecost",
+    "variable": "carecost",
+    "dataset": "pflege",
+    "label": "regular monthly costs for care",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "5",
+        "50",
+        "100",
+        "175.9",
+        "250",
+        "1000",
+        "137",
+        "71",
+        "137"
+      ]
+    },
+    "scale": "",
+    "label_de": "regular monthly costs for care"
+  },
+  "appraisal": {
+    "study": "iab-soep-mig",
+    "name": "appraisal",
+    "name_cs": "appraisal",
+    "variable": "appraisal",
+    "dataset": "pflege",
+    "label": "Officially Assessed As in Need of Care",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        165,
+        1,
+        42
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Yes"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] yes"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "42",
+        "166"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "officially assessed as in need of care"
+  }
+}

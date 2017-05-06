@@ -1,0 +1,6743 @@
+{
+  "hhnr": {
+    "study": "iab-soep-mig",
+    "name": "hhnr",
+    "name_cs": "hhnr",
+    "variable": "hhnr",
+    "dataset": "cogdj",
+    "label": "Original Household Number",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3144000",
+        "3183000",
+        "3243000",
+        "3242000",
+        "3297000",
+        "3343000",
+        "138",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Ursprungshaushaltsnummer"
+  },
+  "persnr": {
+    "study": "iab-soep-mig",
+    "name": "persnr",
+    "name_cs": "persnr",
+    "variable": "persnr",
+    "dataset": "cogdj",
+    "label": "Never Changing Person ID",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "31440000",
+        "31830000",
+        "32430000",
+        "32430000",
+        "32980000",
+        "33450000",
+        "138",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Unveraenderliche Personennummer"
+  },
+  "syear": {
+    "study": "iab-soep-mig",
+    "name": "syear",
+    "name_cs": "syear",
+    "variable": "syear",
+    "dataset": "cogdj",
+    "label": "Survey Year",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2014",
+        "2014",
+        "2014",
+        "2014",
+        "2015",
+        "2015",
+        "138",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Erhebungsjahr"
+  },
+  "djstat": {
+    "study": "iab-soep-mig",
+    "name": "djstat",
+    "name_cs": "djstat",
+    "variable": "djstat",
+    "dataset": "cogdj",
+    "label": "Status Of Partitipation",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        122,
+        10,
+        6
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Questionnaire Missing",
+        "[2] Chosen Without Interview - No Participation",
+        "[3] Dj-Questionnaire Refused"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Fragebogen liegt vor",
+        "[2] Ausgew.ohne Interviewer - T.n.mgl.",
+        "[3] DJ-Fragebogen verweigert"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "138",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Teilnahmestatus DJ"
+  },
+  "schule": {
+    "study": "iab-soep-mig",
+    "name": "schule",
+    "name_cs": "schule",
+    "variable": "schule",
+    "dataset": "cogdj",
+    "label": "Educational Partitipation",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        19,
+        15,
+        16,
+        34,
+        11,
+        0,
+        1,
+        37,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] no answers available",
+        "[1] No Degree, No School Attendence",
+        "[2] Other Degree",
+        "[3] Other School, continued education",
+        "[4] Secondary General School Attendence",
+        "[5] Secondary School Degree",
+        "[6] Comprehensive School Attendence",
+        "[7] Intermediate School Attendence",
+        "[8] Intermediate School Degree",
+        "[9] Technical HighSchool Attendence",
+        "[10] Technical School Degree",
+        "[11] Upper Secondary School Attendence",
+        "[12] Upper Secondary School Degree",
+        "[13] Vocational School Attendence",
+        "[14] Technical Collegel Attendence",
+        "[15] University Attendence",
+        "[21] Former Secondary General School According To Mother",
+        "[22] Former Intermediate School According To Mother",
+        "[23] Former Upper School According To Mother"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "21",
+        "22",
+        "23"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angaben verfuegbar",
+        "[1] kein Abschluss, kein Schulbesuch",
+        "[2] anderer Abschluss",
+        "[3] sonst.Schule,Weiterbildung,Umschulung",
+        "[4] Besuch der Hauptschule",
+        "[5] Hauptschulabschluss",
+        "[6] Besuch der Gesamtschule",
+        "[7] Besuch der Realschule",
+        "[8] Mittlere Reife",
+        "[9] Besuch der Fachoberschule",
+        "[10] Fachhochschulreife (Fach-Abitur)",
+        "[11] Besuch des Gymnasiums",
+        "[12] Allgem. Abitur",
+        "[13] Besuch einer beruflichen Schule",
+        "[14] Besuch einer Fachhochschule",
+        "[15] Besuch einer Universitaet",
+        "[21] ehem. Hauptschule nach Angaben der Mutte",
+        "[22] ehem. Realschule nach Angaben der Mutter",
+        "[23] ehem. Gymnasium nach Angaben der Mutter"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "138",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Bildungsbeteiligung"
+  },
+  "sumindex": {
+    "study": "iab-soep-mig",
+    "name": "sumindex",
+    "name_cs": "sumindex",
+    "variable": "sumindex",
+    "dataset": "cogdj",
+    "label": "Sumindex From all given Answers",
+    "categories": {
+      "frequencies": [
+        0,
+        16,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        2,
+        3,
+        1,
+        3,
+        5,
+        2,
+        4,
+        2,
+        6,
+        0,
+        5,
+        6,
+        5,
+        3,
+        4,
+        1,
+        6,
+        8,
+        10,
+        9,
+        0,
+        29
+      ],
+      "labels": [
+        "[-1] task group not answered",
+        "[-2] Test not answered",
+        "24",
+        "27",
+        "[-3] Answer improbable",
+        "30",
+        "34",
+        "35",
+        "36",
+        "38",
+        "39",
+        "[-4] Inadmissible multiple response",
+        "40",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "[-5] Not included in this version of the questionnaire",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "[-6] Version of questionnaire with modified filtering",
+        "60"
+      ],
+      "missings": [
+        true,
+        true,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "-1",
+        "-2",
+        "24",
+        "27",
+        "-3",
+        "30",
+        "34",
+        "35",
+        "36",
+        "38",
+        "39",
+        "-4",
+        "40",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "-5",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "-6",
+        "60"
+      ],
+      "labels_de": [
+        "[-1] Aufgabengruppe nicht beantwortet",
+        "[-2] TNZ - Test nicht beantwortet",
+        "",
+        "",
+        "[-3] nicht valide",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "122",
+        "16"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Summenindex aus allen gegebenen Antworten"
+  },
+  "indexa2": {
+    "study": "iab-soep-mig",
+    "name": "indexa2",
+    "name_cs": "indexa2",
+    "variable": "indexa2",
+    "dataset": "cogdj",
+    "label": "Sumindex From Answers In Taskgroup No. 2 - Analogies",
+    "categories": {
+      "frequencies": [
+        1,
+        1,
+        3,
+        3,
+        4,
+        5,
+        7,
+        16,
+        16,
+        82,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-1] task group not answered",
+        "11",
+        "13",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "[-2] Test not answered",
+        "20",
+        "[-3] Answer improbable",
+        "[-4] Inadmissible multiple response",
+        "[-5] Not included in this version of the questionnaire",
+        "[-6] Version of questionnaire with modified filtering"
+      ],
+      "missings": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true
+      ],
+      "values": [
+        "-1",
+        "11",
+        "13",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "-2",
+        "20",
+        "-3",
+        "-4",
+        "-5",
+        "-6"
+      ],
+      "labels_de": [
+        "[-1] Aufgabengruppe nicht beantwortet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[-2] TNZ - Test nicht beantwortet",
+        "",
+        "[-3] nicht valide",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "121",
+        "17"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Summenindex aller Antworten in Aufgabengr.2 - Analogien"
+  },
+  "indexa6": {
+    "study": "iab-soep-mig",
+    "name": "indexa6",
+    "name_cs": "indexa6",
+    "variable": "indexa6",
+    "dataset": "cogdj",
+    "label": "sumindes From Answers In Taskgroups No. 6 - Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        2,
+        4,
+        5,
+        5,
+        5,
+        5,
+        4,
+        7,
+        8,
+        8,
+        11,
+        3,
+        16,
+        43,
+        2,
+        0,
+        4,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        3
+      ],
+      "labels": [
+        "[-1] task group not answered",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "2",
+        "[-2] Test not answered",
+        "20",
+        "3",
+        "[-3] Answer improbable",
+        "4",
+        "[-4] Inadmissible multiple response",
+        "5",
+        "[-5] Not included in this version of the questionnaire",
+        "[-6] Version of questionnaire with modified filtering",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "2",
+        "-2",
+        "20",
+        "3",
+        "-3",
+        "4",
+        "-4",
+        "5",
+        "-5",
+        "-6",
+        "7",
+        "8",
+        "9"
+      ],
+      "labels_de": [
+        "[-1] Aufgabengruppe nicht beantwortet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[-2] TNZ - Test nicht beantwortet",
+        "",
+        "",
+        "[-3] nicht valide",
+        "",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "",
+        "",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "120",
+        "18"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Summenindex aller Antworten in Aufgabengr.6 - Rechenzeichen"
+  },
+  "indexa9": {
+    "study": "iab-soep-mig",
+    "name": "indexa9",
+    "name_cs": "indexa9",
+    "variable": "indexa9",
+    "dataset": "cogdj",
+    "label": "Sumindex From Answers Taskgroup No. 9 - Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        1,
+        1,
+        5,
+        3,
+        3,
+        3,
+        10,
+        8,
+        6,
+        7,
+        16,
+        74,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-1] task group not answered",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "[-2] Test not answered",
+        "20",
+        "[-3] Answer improbable",
+        "4",
+        "[-4] Inadmissible multiple response",
+        "[-5] Not included in this version of the questionnaire",
+        "[-6] Version of questionnaire with modified filtering"
+      ],
+      "missings": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        true
+      ],
+      "values": [
+        "-1",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "-2",
+        "20",
+        "-3",
+        "4",
+        "-4",
+        "-5",
+        "-6"
+      ],
+      "labels_de": [
+        "[-1] Aufgabengruppe nicht beantwortet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[-2] TNZ - Test nicht beantwortet",
+        "",
+        "[-3] nicht valide",
+        "",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "122",
+        "16"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Summenindex aller Antworten in Aufgabengr.9 - Figuren"
+  },
+  "sdindex": {
+    "study": "iab-soep-mig",
+    "name": "sdindex",
+    "name_cs": "sdindex",
+    "variable": "sdindex",
+    "dataset": "cogdj",
+    "label": "complete Sumindex deductive thinking - Right Answers",
+    "categories": {
+      "frequencies": [
+        3,
+        1,
+        2,
+        2,
+        3,
+        3,
+        2,
+        1,
+        1,
+        8,
+        4,
+        16,
+        2,
+        2,
+        4,
+        7,
+        5,
+        6,
+        3,
+        8,
+        4,
+        2,
+        0,
+        4,
+        4,
+        3,
+        2,
+        7,
+        3,
+        4,
+        1,
+        2,
+        4,
+        0,
+        5,
+        1,
+        3,
+        1,
+        1,
+        2,
+        0,
+        0,
+        2
+      ],
+      "labels": [
+        "[-1] task group not answered",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "[-2] Test not answered",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "[-3] Answer improbable",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "[-4] Inadmissible multiple response",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "[-5] Not included in this version of the questionnaire",
+        "[-6] Version of questionnaire with modified filtering",
+        "9"
+      ],
+      "missings": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        false
+      ],
+      "values": [
+        "-1",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "-2",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "-3",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "-4",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "-5",
+        "-6",
+        "9"
+      ],
+      "labels_de": [
+        "[-1] nicht alle Aufgabengruppen beantwortet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[-2] TNZ - Test nicht beantwortet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[-3] nicht valide",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "119",
+        "19"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Gesamtsummenindex Schlussfolgerndes Denken - richtige Antworten"
+  },
+  "analog": {
+    "study": "iab-soep-mig",
+    "name": "analog",
+    "name_cs": "analog",
+    "variable": "analog",
+    "dataset": "cogdj",
+    "label": "Sumindex Right Answers In Taskgroup No. 2 - Analogies",
+    "categories": {
+      "frequencies": [
+        1,
+        8,
+        6,
+        1,
+        4,
+        2,
+        5,
+        16,
+        16,
+        0,
+        11,
+        0,
+        15,
+        0,
+        17,
+        0,
+        9,
+        17,
+        10
+      ],
+      "labels": [
+        "[-1] task group not answered",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "2",
+        "[-2] Test not answered",
+        "3",
+        "[-3] Answer improbable",
+        "4",
+        "[-4] Inadmissible multiple response",
+        "5",
+        "[-5] Not included in this version of the questionnaire",
+        "6",
+        "[-6] Version of questionnaire with modified filtering",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "2",
+        "-2",
+        "3",
+        "-3",
+        "4",
+        "-4",
+        "5",
+        "-5",
+        "6",
+        "-6",
+        "7",
+        "8",
+        "9"
+      ],
+      "labels_de": [
+        "[-1] Aufgabengruppe nicht beantwortet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[-2] TNZ - Test nicht beantwortet",
+        "",
+        "[-3] nicht valide",
+        "",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "",
+        "",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "121",
+        "17"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Summenindex richtige Antworten in Aufgabengr. 2 - Analogien"
+  },
+  "ianalog": {
+    "study": "iab-soep-mig",
+    "name": "ianalog",
+    "name_cs": "ianalog",
+    "variable": "ianalog",
+    "dataset": "cogdj",
+    "label": "Sumindex Wrong Answers In Taskgroup No. 2 - Analogies",
+    "categories": {
+      "frequencies": [
+        1,
+        9,
+        10,
+        13,
+        8,
+        18,
+        15,
+        8,
+        13,
+        3,
+        16,
+        2,
+        0,
+        0,
+        3,
+        0,
+        2,
+        0,
+        7,
+        4,
+        6
+      ],
+      "labels": [
+        "[-1] task group not answered",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "[-2] Test not answered",
+        "3",
+        "[-3] Answer improbable",
+        "[-4] Inadmissible multiple response",
+        "5",
+        "[-5] Not included in this version of the questionnaire",
+        "6",
+        "[-6] Version of questionnaire with modified filtering",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "-2",
+        "3",
+        "-3",
+        "-4",
+        "5",
+        "-5",
+        "6",
+        "-6",
+        "7",
+        "8",
+        "9"
+      ],
+      "labels_de": [
+        "[-1] Aufgabengruppe nicht beantwortet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[-2] TNZ - Test nicht beantwortet",
+        "",
+        "[-3] nicht valide",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "",
+        "",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "121",
+        "17"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Summenindex falsche  Antworten in Aufgabengr. 2 - Analogien"
+  },
+  "fanalog": {
+    "study": "iab-soep-mig",
+    "name": "fanalog",
+    "name_cs": "fanalog",
+    "variable": "fanalog",
+    "dataset": "cogdj",
+    "label": "Sumindex Not Given Answers In Taskgroup No. 2 - Analogies",
+    "categories": {
+      "frequencies": [
+        98,
+        16,
+        0,
+        7,
+        0,
+        1,
+        5,
+        0,
+        4,
+        0,
+        3,
+        0,
+        0,
+        3,
+        1
+      ],
+      "labels": [
+        "0",
+        "1",
+        "[-1] task group not answered",
+        "2",
+        "[-2] Test not answered",
+        "20",
+        "3",
+        "[-3] Answer improbable",
+        "4",
+        "[-4] Inadmissible multiple response",
+        "5",
+        "[-5] Not included in this version of the questionnaire",
+        "[-6] Version of questionnaire with modified filtering",
+        "7",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "20",
+        "3",
+        "-3",
+        "4",
+        "-4",
+        "5",
+        "-5",
+        "-6",
+        "7",
+        "9"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "[-1] Aufgabengruppe nicht beantwortet",
+        "",
+        "[-2] TNZ - Test nicht beantwortet",
+        "",
+        "",
+        "[-3] nicht valide",
+        "",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "138",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Summenindex nicht beantwortet  in Aufgabengr. 2 - Analogien"
+  },
+  "rechenz": {
+    "study": "iab-soep-mig",
+    "name": "rechenz",
+    "name_cs": "rechenz",
+    "variable": "rechenz",
+    "dataset": "cogdj",
+    "label": "Sumindex Right Answers In Taskgroup No. 6 - Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        2,
+        10,
+        7,
+        9,
+        7,
+        8,
+        10,
+        4,
+        9,
+        2,
+        5,
+        6,
+        16,
+        5,
+        5,
+        0,
+        7,
+        0,
+        3,
+        0,
+        7,
+        0,
+        5,
+        4,
+        7
+      ],
+      "labels": [
+        "[-1] task group not answered",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "2",
+        "[-2] Test not answered",
+        "20",
+        "3",
+        "[-3] Answer improbable",
+        "4",
+        "[-4] Inadmissible multiple response",
+        "5",
+        "[-5] Not included in this version of the questionnaire",
+        "6",
+        "[-6] Version of questionnaire with modified filtering",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "2",
+        "-2",
+        "20",
+        "3",
+        "-3",
+        "4",
+        "-4",
+        "5",
+        "-5",
+        "6",
+        "-6",
+        "7",
+        "8",
+        "9"
+      ],
+      "labels_de": [
+        "[-1] Aufgabengruppe nicht beantwortet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[-2] TNZ - Test nicht beantwortet",
+        "",
+        "",
+        "[-3] nicht valide",
+        "",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "",
+        "",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "120",
+        "18"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Summenindex richtige Antworten in Aufgabengr. 6 - Rechenzeichen"
+  },
+  "irechenz": {
+    "study": "iab-soep-mig",
+    "name": "irechenz",
+    "name_cs": "irechenz",
+    "variable": "irechenz",
+    "dataset": "cogdj",
+    "label": "Sumindex Wrong Answers In Taskgroup No. 6 - Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        28,
+        19,
+        2,
+        3,
+        2,
+        1,
+        3,
+        5,
+        4,
+        4,
+        1,
+        13,
+        16,
+        10,
+        0,
+        6,
+        0,
+        3,
+        0,
+        6,
+        0,
+        5,
+        4,
+        3
+      ],
+      "labels": [
+        "0",
+        "1",
+        "[-1] task group not answered",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "2",
+        "[-2] Test not answered",
+        "3",
+        "[-3] Answer improbable",
+        "4",
+        "[-4] Inadmissible multiple response",
+        "5",
+        "[-5] Not included in this version of the questionnaire",
+        "6",
+        "[-6] Version of questionnaire with modified filtering",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "2",
+        "-2",
+        "3",
+        "-3",
+        "4",
+        "-4",
+        "5",
+        "-5",
+        "6",
+        "-6",
+        "7",
+        "8",
+        "9"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "[-1] Aufgabengruppe nicht beantwortet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[-2] TNZ - Test nicht beantwortet",
+        "",
+        "[-3] nicht valide",
+        "",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "",
+        "",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "120",
+        "18"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Summenindex falsche  Antworten in Aufgabengr. 6 - Rechenzeichen"
+  },
+  "frechenz": {
+    "study": "iab-soep-mig",
+    "name": "frechenz",
+    "name_cs": "frechenz",
+    "variable": "frechenz",
+    "dataset": "cogdj",
+    "label": "Sumindex Not Given Answers In Taskgroup No. 6 - Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        59,
+        11,
+        0,
+        4,
+        3,
+        1,
+        1,
+        1,
+        4,
+        2,
+        3,
+        8,
+        0,
+        2,
+        8,
+        0,
+        7,
+        0,
+        4,
+        0,
+        5,
+        0,
+        5,
+        5,
+        5
+      ],
+      "labels": [
+        "0",
+        "1",
+        "[-1] task group not answered",
+        "10",
+        "11",
+        "12",
+        "13",
+        "15",
+        "16",
+        "17",
+        "18",
+        "2",
+        "[-2] Test not answered",
+        "20",
+        "3",
+        "[-3] Answer improbable",
+        "4",
+        "[-4] Inadmissible multiple response",
+        "5",
+        "[-5] Not included in this version of the questionnaire",
+        "6",
+        "[-6] Version of questionnaire with modified filtering",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "11",
+        "12",
+        "13",
+        "15",
+        "16",
+        "17",
+        "18",
+        "2",
+        "-2",
+        "20",
+        "3",
+        "-3",
+        "4",
+        "-4",
+        "5",
+        "-5",
+        "6",
+        "-6",
+        "7",
+        "8",
+        "9"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "[-1] Aufgabengruppe nicht beantwortet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[-2] TNZ - Test nicht beantwortet",
+        "",
+        "",
+        "[-3] nicht valide",
+        "",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "",
+        "",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "138",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Summenindex nicht beantwortet  in Aufgabengr. 6 - Rechenzeichen"
+  },
+  "matrize": {
+    "study": "iab-soep-mig",
+    "name": "matrize",
+    "name_cs": "matrize",
+    "variable": "matrize",
+    "dataset": "cogdj",
+    "label": "Sumindex Right Answers In Taskgroup No. 9 - Figures",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        18,
+        6,
+        12,
+        12,
+        5,
+        1,
+        1,
+        2,
+        2,
+        16,
+        3,
+        0,
+        6,
+        0,
+        12,
+        0,
+        8,
+        0,
+        7,
+        11,
+        15
+      ],
+      "labels": [
+        "1",
+        "[-1] task group not answered",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "2",
+        "[-2] Test not answered",
+        "3",
+        "[-3] Answer improbable",
+        "4",
+        "[-4] Inadmissible multiple response",
+        "5",
+        "[-5] Not included in this version of the questionnaire",
+        "6",
+        "[-6] Version of questionnaire with modified filtering",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "2",
+        "-2",
+        "3",
+        "-3",
+        "4",
+        "-4",
+        "5",
+        "-5",
+        "6",
+        "-6",
+        "7",
+        "8",
+        "9"
+      ],
+      "labels_de": [
+        "",
+        "[-1] Aufgabengruppe nicht beantwortet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[-2] TNZ - Test nicht beantwortet",
+        "",
+        "[-3] nicht valide",
+        "",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "",
+        "",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "122",
+        "16"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Summenindex richtige Antworten in Aufgabengr. 9 - Figuren"
+  },
+  "imatrize": {
+    "study": "iab-soep-mig",
+    "name": "imatrize",
+    "name_cs": "imatrize",
+    "variable": "imatrize",
+    "dataset": "cogdj",
+    "label": "Sumindex Wrong Answers In Taskgroup No. 9 - Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        11,
+        12,
+        8,
+        4,
+        7,
+        8,
+        7,
+        2,
+        1,
+        3,
+        16,
+        9,
+        0,
+        8,
+        0,
+        7,
+        0,
+        10,
+        0,
+        8,
+        12,
+        5
+      ],
+      "labels": [
+        "[-1] task group not answered",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "2",
+        "[-2] Test not answered",
+        "3",
+        "[-3] Answer improbable",
+        "4",
+        "[-4] Inadmissible multiple response",
+        "5",
+        "[-5] Not included in this version of the questionnaire",
+        "6",
+        "[-6] Version of questionnaire with modified filtering",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "2",
+        "-2",
+        "3",
+        "-3",
+        "4",
+        "-4",
+        "5",
+        "-5",
+        "6",
+        "-6",
+        "7",
+        "8",
+        "9"
+      ],
+      "labels_de": [
+        "[-1] Aufgabengruppe nicht beantwortet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[-2] TNZ - Test nicht beantwortet",
+        "",
+        "[-3] nicht valide",
+        "",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "",
+        "",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "122",
+        "16"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Summenindex falsche  Antworten in Aufgabengr. 9 - Figuren"
+  },
+  "fmatrize": {
+    "study": "iab-soep-mig",
+    "name": "fmatrize",
+    "name_cs": "fmatrize",
+    "variable": "fmatrize",
+    "dataset": "cogdj",
+    "label": "Sumindex Not Given Answers In Taskgroup No. 9 - Figures",
+    "categories": {
+      "frequencies": [
+        90,
+        7,
+        0,
+        1,
+        1,
+        6,
+        0,
+        8,
+        0,
+        10,
+        0,
+        3,
+        0,
+        3,
+        0,
+        3,
+        5,
+        1
+      ],
+      "labels": [
+        "0",
+        "1",
+        "[-1] task group not answered",
+        "10",
+        "16",
+        "2",
+        "[-2] Test not answered",
+        "3",
+        "[-3] Answer improbable",
+        "4",
+        "[-4] Inadmissible multiple response",
+        "5",
+        "[-5] Not included in this version of the questionnaire",
+        "6",
+        "[-6] Version of questionnaire with modified filtering",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "16",
+        "2",
+        "-2",
+        "3",
+        "-3",
+        "4",
+        "-4",
+        "5",
+        "-5",
+        "6",
+        "-6",
+        "7",
+        "8",
+        "9"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "[-1] Aufgabengruppe nicht beantwortet",
+        "",
+        "",
+        "",
+        "[-2] TNZ - Test nicht beantwortet",
+        "",
+        "[-3] nicht valide",
+        "",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "",
+        "",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "138",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Summenindex nicht beantwortet  in Aufgabengr. 9 - Figuren"
+  },
+  "a_21": {
+    "study": "iab-soep-mig",
+    "name": "a_21",
+    "name_cs": "a_21",
+    "variable": "a_21",
+    "dataset": "cogdj",
+    "label": "Row 1 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        3,
+        7,
+        112
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "119",
+        "19"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 1 Analogieaufgabe"
+  },
+  "a_22": {
+    "study": "iab-soep-mig",
+    "name": "a_22",
+    "name_cs": "a_22",
+    "variable": "a_22",
+    "dataset": "cogdj",
+    "label": "Row 2 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        4,
+        12,
+        106
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "118",
+        "20"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 2 Analogieaufgabe"
+  },
+  "a_23": {
+    "study": "iab-soep-mig",
+    "name": "a_23",
+    "name_cs": "a_23",
+    "variable": "a_23",
+    "dataset": "cogdj",
+    "label": "Row 3 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        3,
+        60,
+        59
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "119",
+        "19"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 3 Analogieaufgabe"
+  },
+  "a_24": {
+    "study": "iab-soep-mig",
+    "name": "a_24",
+    "name_cs": "a_24",
+    "variable": "a_24",
+    "dataset": "cogdj",
+    "label": "Row 4 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        5,
+        85,
+        32
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "117",
+        "21"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 4 Analogieaufgabe"
+  },
+  "a_25": {
+    "study": "iab-soep-mig",
+    "name": "a_25",
+    "name_cs": "a_25",
+    "variable": "a_25",
+    "dataset": "cogdj",
+    "label": "Row 5 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        6,
+        41,
+        75
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "116",
+        "22"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 5 Analogieaufgabe"
+  },
+  "a_26": {
+    "study": "iab-soep-mig",
+    "name": "a_26",
+    "name_cs": "a_26",
+    "variable": "a_26",
+    "dataset": "cogdj",
+    "label": "Row 6 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        1,
+        56,
+        65
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "121",
+        "17"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 6 Analogieaufgabe"
+  },
+  "a_27": {
+    "study": "iab-soep-mig",
+    "name": "a_27",
+    "name_cs": "a_27",
+    "variable": "a_27",
+    "dataset": "cogdj",
+    "label": "Row 7 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        5,
+        61,
+        56
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "117",
+        "21"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 7 Analogieaufgabe"
+  },
+  "a_28": {
+    "study": "iab-soep-mig",
+    "name": "a_28",
+    "name_cs": "a_28",
+    "variable": "a_28",
+    "dataset": "cogdj",
+    "label": "Row 8 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        2,
+        90,
+        30
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "120",
+        "18"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 8 Analogieaufgabe"
+  },
+  "a_29": {
+    "study": "iab-soep-mig",
+    "name": "a_29",
+    "name_cs": "a_29",
+    "variable": "a_29",
+    "dataset": "cogdj",
+    "label": "Row 9 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        6,
+        84,
+        32
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "116",
+        "22"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 9 Analogieaufgabe"
+  },
+  "a_30": {
+    "study": "iab-soep-mig",
+    "name": "a_30",
+    "name_cs": "a_30",
+    "variable": "a_30",
+    "dataset": "cogdj",
+    "label": "Row 10 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        2,
+        66,
+        54
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "120",
+        "18"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 10 Analogieaufgabe"
+  },
+  "a_31": {
+    "study": "iab-soep-mig",
+    "name": "a_31",
+    "name_cs": "a_31",
+    "variable": "a_31",
+    "dataset": "cogdj",
+    "label": "Row 11 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        10,
+        77,
+        35
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "112",
+        "26"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 11 Analogieaufgabe"
+  },
+  "a_32": {
+    "study": "iab-soep-mig",
+    "name": "a_32",
+    "name_cs": "a_32",
+    "variable": "a_32",
+    "dataset": "cogdj",
+    "label": "Row 12 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        7,
+        95,
+        20
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "115",
+        "23"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 12 Analogieaufgabe"
+  },
+  "a_33": {
+    "study": "iab-soep-mig",
+    "name": "a_33",
+    "name_cs": "a_33",
+    "variable": "a_33",
+    "dataset": "cogdj",
+    "label": "Row 13 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        15,
+        79,
+        28
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "107",
+        "31"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 13 Analogieaufgabe"
+  },
+  "a_34": {
+    "study": "iab-soep-mig",
+    "name": "a_34",
+    "name_cs": "a_34",
+    "variable": "a_34",
+    "dataset": "cogdj",
+    "label": "Row 14 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        11,
+        91,
+        20
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "111",
+        "27"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 14 Analogieaufgabe"
+  },
+  "a_35": {
+    "study": "iab-soep-mig",
+    "name": "a_35",
+    "name_cs": "a_35",
+    "variable": "a_35",
+    "dataset": "cogdj",
+    "label": "Row 15 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        8,
+        106,
+        8
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "114",
+        "24"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 15 Analogieaufgabe"
+  },
+  "a_36": {
+    "study": "iab-soep-mig",
+    "name": "a_36",
+    "name_cs": "a_36",
+    "variable": "a_36",
+    "dataset": "cogdj",
+    "label": "Row 16 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        4,
+        102,
+        16
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "118",
+        "20"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 16 Analogieaufgabe"
+  },
+  "a_37": {
+    "study": "iab-soep-mig",
+    "name": "a_37",
+    "name_cs": "a_37",
+    "variable": "a_37",
+    "dataset": "cogdj",
+    "label": "Row 17 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        7,
+        90,
+        25
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "115",
+        "23"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 17 Analogieaufgabe"
+  },
+  "a_38": {
+    "study": "iab-soep-mig",
+    "name": "a_38",
+    "name_cs": "a_38",
+    "variable": "a_38",
+    "dataset": "cogdj",
+    "label": "Row 18 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        8,
+        99,
+        15
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "114",
+        "24"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 18 Analogieaufgabe"
+  },
+  "a_39": {
+    "study": "iab-soep-mig",
+    "name": "a_39",
+    "name_cs": "a_39",
+    "variable": "a_39",
+    "dataset": "cogdj",
+    "label": "Row 19 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        12,
+        98,
+        12
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "110",
+        "28"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 19 Analogieaufgabe"
+  },
+  "a_40": {
+    "study": "iab-soep-mig",
+    "name": "a_40",
+    "name_cs": "a_40",
+    "variable": "a_40",
+    "dataset": "cogdj",
+    "label": "Row 20 Analogoy Task",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        7,
+        109,
+        6
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "115",
+        "23"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 20 Analogieaufgabe"
+  },
+  "b_101": {
+    "study": "iab-soep-mig",
+    "name": "b_101",
+    "name_cs": "b_101",
+    "variable": "b_101",
+    "dataset": "cogdj",
+    "label": "Row 1 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        6,
+        0,
+        116
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "116",
+        "22"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 1 Rechenzeichenaufgabe"
+  },
+  "b_102": {
+    "study": "iab-soep-mig",
+    "name": "b_102",
+    "name_cs": "b_102",
+    "variable": "b_102",
+    "dataset": "cogdj",
+    "label": "Row 2 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        8,
+        2,
+        112
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "114",
+        "24"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 2 Rechenzeichenaufgabe"
+  },
+  "b_103": {
+    "study": "iab-soep-mig",
+    "name": "b_103",
+    "name_cs": "b_103",
+    "variable": "b_103",
+    "dataset": "cogdj",
+    "label": "Row 3 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        13,
+        23,
+        86
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "109",
+        "29"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 3 Rechenzeichenaufgabe"
+  },
+  "b_104": {
+    "study": "iab-soep-mig",
+    "name": "b_104",
+    "name_cs": "b_104",
+    "variable": "b_104",
+    "dataset": "cogdj",
+    "label": "Row 4 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        18,
+        36,
+        68
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "104",
+        "34"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 4 Rechenzeichenaufgabe"
+  },
+  "b_105": {
+    "study": "iab-soep-mig",
+    "name": "b_105",
+    "name_cs": "b_105",
+    "variable": "b_105",
+    "dataset": "cogdj",
+    "label": "Row 5 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        18,
+        19,
+        85
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "104",
+        "34"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 5 Rechenzeichenaufgabe"
+  },
+  "b_106": {
+    "study": "iab-soep-mig",
+    "name": "b_106",
+    "name_cs": "b_106",
+    "variable": "b_106",
+    "dataset": "cogdj",
+    "label": "Row 6 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        24,
+        27,
+        71
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "98",
+        "40"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 6 Rechenzeichenaufgabe"
+  },
+  "b_107": {
+    "study": "iab-soep-mig",
+    "name": "b_107",
+    "name_cs": "b_107",
+    "variable": "b_107",
+    "dataset": "cogdj",
+    "label": "Row 7 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        24,
+        28,
+        70
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "98",
+        "40"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 7 Rechenzeichenaufgabe"
+  },
+  "b_108": {
+    "study": "iab-soep-mig",
+    "name": "b_108",
+    "name_cs": "b_108",
+    "variable": "b_108",
+    "dataset": "cogdj",
+    "label": "Row 8 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        17,
+        26,
+        79
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "105",
+        "33"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 8 Rechenzeichenaufgabe"
+  },
+  "b_109": {
+    "study": "iab-soep-mig",
+    "name": "b_109",
+    "name_cs": "b_109",
+    "variable": "b_109",
+    "dataset": "cogdj",
+    "label": "Row 9 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        17,
+        26,
+        79
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "105",
+        "33"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 9 Rechenzeichenaufgabe"
+  },
+  "b_110": {
+    "study": "iab-soep-mig",
+    "name": "b_110",
+    "name_cs": "b_110",
+    "variable": "b_110",
+    "dataset": "cogdj",
+    "label": "Row 10 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        23,
+        26,
+        73
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "99",
+        "39"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 10 Rechenzeichenaufgabe"
+  },
+  "b_111": {
+    "study": "iab-soep-mig",
+    "name": "b_111",
+    "name_cs": "b_111",
+    "variable": "b_111",
+    "dataset": "cogdj",
+    "label": "Row 11 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        26,
+        27,
+        69
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "96",
+        "42"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 11 Rechenzeichenaufgabe"
+  },
+  "b_112": {
+    "study": "iab-soep-mig",
+    "name": "b_112",
+    "name_cs": "b_112",
+    "variable": "b_112",
+    "dataset": "cogdj",
+    "label": "Row 12 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        26,
+        22,
+        74
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "96",
+        "42"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 12 Rechenzeichenaufgabe"
+  },
+  "b_113": {
+    "study": "iab-soep-mig",
+    "name": "b_113",
+    "name_cs": "b_113",
+    "variable": "b_113",
+    "dataset": "cogdj",
+    "label": "Row 13 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        28,
+        30,
+        64
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "94",
+        "44"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 13 Rechenzeichenaufgabe"
+  },
+  "b_114": {
+    "study": "iab-soep-mig",
+    "name": "b_114",
+    "name_cs": "b_114",
+    "variable": "b_114",
+    "dataset": "cogdj",
+    "label": "Row 14 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        36,
+        29,
+        57
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "86",
+        "52"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 14 Rechenzeichenaufgabe"
+  },
+  "b_115": {
+    "study": "iab-soep-mig",
+    "name": "b_115",
+    "name_cs": "b_115",
+    "variable": "b_115",
+    "dataset": "cogdj",
+    "label": "Row 15 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        35,
+        29,
+        58
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "87",
+        "51"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 15 Rechenzeichenaufgabe"
+  },
+  "b_116": {
+    "study": "iab-soep-mig",
+    "name": "b_116",
+    "name_cs": "b_116",
+    "variable": "b_116",
+    "dataset": "cogdj",
+    "label": "Row 16 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        30,
+        44,
+        48
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "92",
+        "46"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 16 Rechenzeichenaufgabe"
+  },
+  "b_117": {
+    "study": "iab-soep-mig",
+    "name": "b_117",
+    "name_cs": "b_117",
+    "variable": "b_117",
+    "dataset": "cogdj",
+    "label": "Row 17 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        48,
+        41,
+        33
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "74",
+        "64"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 17 Rechenzeichenaufgabe"
+  },
+  "b_118": {
+    "study": "iab-soep-mig",
+    "name": "b_118",
+    "name_cs": "b_118",
+    "variable": "b_118",
+    "dataset": "cogdj",
+    "label": "Row 18 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        49,
+        48,
+        25
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "73",
+        "65"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 18 Rechenzeichenaufgabe"
+  },
+  "b_119": {
+    "study": "iab-soep-mig",
+    "name": "b_119",
+    "name_cs": "b_119",
+    "variable": "b_119",
+    "dataset": "cogdj",
+    "label": "Row 19 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        56,
+        42,
+        24
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "66",
+        "72"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 19 Rechenzeichenaufgabe"
+  },
+  "b_120": {
+    "study": "iab-soep-mig",
+    "name": "b_120",
+    "name_cs": "b_120",
+    "variable": "b_120",
+    "dataset": "cogdj",
+    "label": "Row 20 Task Arithmetic Operator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        52,
+        33,
+        37
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "70",
+        "68"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 20 Rechenzeichenaufgabe"
+  },
+  "a_161": {
+    "study": "iab-soep-mig",
+    "name": "a_161",
+    "name_cs": "a_161",
+    "variable": "a_161",
+    "dataset": "cogdj",
+    "label": "Row 1 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        1,
+        11,
+        110
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "121",
+        "17"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 1 figurale Aufgabe"
+  },
+  "a_162": {
+    "study": "iab-soep-mig",
+    "name": "a_162",
+    "name_cs": "a_162",
+    "variable": "a_162",
+    "dataset": "cogdj",
+    "label": "Row 2 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        1,
+        45,
+        76
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "121",
+        "17"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 2 figurale Aufgabe"
+  },
+  "a_163": {
+    "study": "iab-soep-mig",
+    "name": "a_163",
+    "name_cs": "a_163",
+    "variable": "a_163",
+    "dataset": "cogdj",
+    "label": "Row 3 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        4,
+        34,
+        84
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "118",
+        "20"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 3 figurale Aufgabe"
+  },
+  "a_164": {
+    "study": "iab-soep-mig",
+    "name": "a_164",
+    "name_cs": "a_164",
+    "variable": "a_164",
+    "dataset": "cogdj",
+    "label": "Row 4 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        3,
+        43,
+        76
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "119",
+        "19"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 4 figurale Aufgabe"
+  },
+  "a_165": {
+    "study": "iab-soep-mig",
+    "name": "a_165",
+    "name_cs": "a_165",
+    "variable": "a_165",
+    "dataset": "cogdj",
+    "label": "Row 5 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        4,
+        54,
+        64
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "118",
+        "20"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 5 figurale Aufgabe"
+  },
+  "a_166": {
+    "study": "iab-soep-mig",
+    "name": "a_166",
+    "name_cs": "a_166",
+    "variable": "a_166",
+    "dataset": "cogdj",
+    "label": "Row 6 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        3,
+        22,
+        97
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "119",
+        "19"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 6 figurale Aufgabe"
+  },
+  "a_167": {
+    "study": "iab-soep-mig",
+    "name": "a_167",
+    "name_cs": "a_167",
+    "variable": "a_167",
+    "dataset": "cogdj",
+    "label": "Row 7 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        5,
+        39,
+        78
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "117",
+        "21"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 7 figurale Aufgabe"
+  },
+  "a_168": {
+    "study": "iab-soep-mig",
+    "name": "a_168",
+    "name_cs": "a_168",
+    "variable": "a_168",
+    "dataset": "cogdj",
+    "label": "Row 8 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        5,
+        69,
+        48
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "117",
+        "21"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 8 figurale Aufgabe"
+  },
+  "a_169": {
+    "study": "iab-soep-mig",
+    "name": "a_169",
+    "name_cs": "a_169",
+    "variable": "a_169",
+    "dataset": "cogdj",
+    "label": "Row 9 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        5,
+        70,
+        47
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "117",
+        "21"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 9 figurale Aufgabe"
+  },
+  "a_170": {
+    "study": "iab-soep-mig",
+    "name": "a_170",
+    "name_cs": "a_170",
+    "variable": "a_170",
+    "dataset": "cogdj",
+    "label": "Row 10 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        9,
+        78,
+        35
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "113",
+        "25"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 10 figurale Aufgabe"
+  },
+  "a_171": {
+    "study": "iab-soep-mig",
+    "name": "a_171",
+    "name_cs": "a_171",
+    "variable": "a_171",
+    "dataset": "cogdj",
+    "label": "Row 11 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        4,
+        50,
+        68
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "118",
+        "20"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 11 figurale Aufgabe"
+  },
+  "a_172": {
+    "study": "iab-soep-mig",
+    "name": "a_172",
+    "name_cs": "a_172",
+    "variable": "a_172",
+    "dataset": "cogdj",
+    "label": "Row 12 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        7,
+        71,
+        44
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "115",
+        "23"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 12 figurale Aufgabe"
+  },
+  "a_173": {
+    "study": "iab-soep-mig",
+    "name": "a_173",
+    "name_cs": "a_173",
+    "variable": "a_173",
+    "dataset": "cogdj",
+    "label": "Row 13 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        13,
+        87,
+        22
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "109",
+        "29"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 13 figurale Aufgabe"
+  },
+  "a_174": {
+    "study": "iab-soep-mig",
+    "name": "a_174",
+    "name_cs": "a_174",
+    "variable": "a_174",
+    "dataset": "cogdj",
+    "label": "Row 14 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        9,
+        32,
+        81
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "113",
+        "25"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 14 figurale Aufgabe"
+  },
+  "a_175": {
+    "study": "iab-soep-mig",
+    "name": "a_175",
+    "name_cs": "a_175",
+    "variable": "a_175",
+    "dataset": "cogdj",
+    "label": "Row 15 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        16,
+        92,
+        14
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "106",
+        "32"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 15 figurale Aufgabe"
+  },
+  "a_176": {
+    "study": "iab-soep-mig",
+    "name": "a_176",
+    "name_cs": "a_176",
+    "variable": "a_176",
+    "dataset": "cogdj",
+    "label": "Row 16 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        16,
+        74,
+        32
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "106",
+        "32"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 16 figurale Aufgabe"
+  },
+  "a_177": {
+    "study": "iab-soep-mig",
+    "name": "a_177",
+    "name_cs": "a_177",
+    "variable": "a_177",
+    "dataset": "cogdj",
+    "label": "Row 17 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        25,
+        62,
+        35
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "97",
+        "41"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 17 figurale Aufgabe"
+  },
+  "a_178": {
+    "study": "iab-soep-mig",
+    "name": "a_178",
+    "name_cs": "a_178",
+    "variable": "a_178",
+    "dataset": "cogdj",
+    "label": "Row 18 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        25,
+        73,
+        24
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "97",
+        "41"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 18 figurale Aufgabe"
+  },
+  "a_179": {
+    "study": "iab-soep-mig",
+    "name": "a_179",
+    "name_cs": "a_179",
+    "variable": "a_179",
+    "dataset": "cogdj",
+    "label": "Row 19 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        24,
+        61,
+        37
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "98",
+        "40"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 19 figurale Aufgabe"
+  },
+  "a_180": {
+    "study": "iab-soep-mig",
+    "name": "a_180",
+    "name_cs": "a_180",
+    "variable": "a_180",
+    "dataset": "cogdj",
+    "label": "Row 20 Task Figures",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        16,
+        33,
+        62,
+        27
+      ],
+      "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] does not apply",
+        "[-1] task not answered",
+        "[0] Wrong Answer",
+        "[1] Right Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] Aufgabe nicht beantwortet",
+        "[0] falsche Antwort",
+        "[1] richtige Antwort"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "89",
+        "49"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zeile 20 figurale Aufgabe"
+  }
+}
