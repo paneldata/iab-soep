@@ -1,5 +1,5 @@
 ---
-name: iab-soep
+name: iab-soep-mig
 label: IAB-SOEP Migration Sample
 config:
     variables:
