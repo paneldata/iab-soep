@@ -1,0 +1,381 @@
+<codebook>
+  <dataDscr>
+    <var ID="hhnr" intrvl="numeric" files="biomarsy">
+      <labl>Original Household Number</labl>
+      <sumStat type="Min.">3144000</sumStat>
+      <sumStat type="1st Qu.">3209000</sumStat>
+      <sumStat type="Median">3272000</sumStat>
+      <sumStat type="Mean">3287000</sumStat>
+      <sumStat type="3rd Qu.">3335000</sumStat>
+      <sumStat type="Max.">3500000</sumStat>
+      <sumStat type="valid">13917</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="persnr" intrvl="numeric" files="biomarsy">
+      <labl>Personal identifier</labl>
+      <sumStat type="Min.">31440000</sumStat>
+      <sumStat type="1st Qu.">32100000</sumStat>
+      <sumStat type="Median">32730000</sumStat>
+      <sumStat type="Mean">32880000</sumStat>
+      <sumStat type="3rd Qu.">33350000</sumStat>
+      <sumStat type="Max.">3.5e+07</sumStat>
+      <sumStat type="valid">13917</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="spellnr" intrvl="numeric" files="biomarsy">
+      <labl>Consecutive spell number of the event per person</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.834</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">11</sumStat>
+      <sumStat type="valid">13917</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="spelltyp" intrvl="labeled_numeric" files="biomarsy">
+      <labl>Marital status</labl>
+      <sumStat type="valid">13917</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] unmarried</labl>
+        <catStat type="freq">6080</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] married</labl>
+        <catStat type="freq">5426</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] divorced / reg. same-sex p. annulled</labl>
+        <catStat type="freq"> 634</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] widowed / reg. same-sex p. deceased</labl>
+        <catStat type="freq">  95</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] divorced or widowed / reg. same-sex p. annulled or deceased</labl>
+        <catStat type="freq"> 480</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] married, separated / reg. same-sex p., separated</labl>
+        <catStat type="freq">  57</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] living in reg. same-sex partnership</labl>
+        <catStat type="freq">  16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] gap</labl>
+        <catStat type="freq">1129</catStat>
+      </catgry>
+    </var>
+    <var ID="begin" intrvl="numeric" files="biomarsy">
+      <labl>Age when spell begins</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">14.4</sumStat>
+      <sumStat type="3rd Qu.">27</sumStat>
+      <sumStat type="Max.">92</sumStat>
+      <sumStat type="NA's">667</sumStat>
+      <sumStat type="valid">13250</sumStat>
+      <sumStat type="invalid">667</sumStat>
+    </var>
+    <var ID="end" intrvl="numeric" files="biomarsy">
+      <labl>Age when spell ends</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">25</sumStat>
+      <sumStat type="Median">32</sumStat>
+      <sumStat type="Mean">34.49</sumStat>
+      <sumStat type="3rd Qu.">42</sumStat>
+      <sumStat type="Max.">96</sumStat>
+      <sumStat type="NA's">679</sumStat>
+      <sumStat type="valid">13238</sumStat>
+      <sumStat type="invalid">679</sumStat>
+    </var>
+    <var ID="beginy" intrvl="numeric" files="biomarsy">
+      <labl>Begin, calendar year</labl>
+      <sumStat type="Min.">1918</sumStat>
+      <sumStat type="1st Qu.">1976</sumStat>
+      <sumStat type="Median">1988</sumStat>
+      <sumStat type="Mean">1989</sumStat>
+      <sumStat type="3rd Qu.">2004</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="NA's">707</sumStat>
+      <sumStat type="valid">13210</sumStat>
+      <sumStat type="invalid">707</sumStat>
+    </var>
+    <var ID="endy" intrvl="numeric" files="biomarsy">
+      <labl>End, calendar year</labl>
+      <sumStat type="Min.">1948</sumStat>
+      <sumStat type="1st Qu.">2006</sumStat>
+      <sumStat type="Median">2013</sumStat>
+      <sumStat type="Mean">2009</sumStat>
+      <sumStat type="3rd Qu.">2015</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="NA's">679</sumStat>
+      <sumStat type="valid">13238</sumStat>
+      <sumStat type="invalid">679</sumStat>
+    </var>
+    <var ID="censor" intrvl="labeled_numeric" files="biomarsy">
+      <labl>Censoring information</labl>
+      <sumStat type="valid">13917</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] not censored</labl>
+        <catStat type="freq">1221</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] LC: missing</labl>
+        <catStat type="freq">  23</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] LC: after gap</labl>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] RC: missing</labl>
+        <catStat type="freq">4942</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] RC: before gap</labl>
+        <catStat type="freq"> 128</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] RC: last spell</labl>
+        <catStat type="freq">5272</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] RC: death</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] LC+RC: missing &amp; missing</labl>
+        <catStat type="freq"> 556</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] LC+RC: missing &amp; before gap</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] LC+RC: missing &amp; last spell</labl>
+        <catStat type="freq"> 680</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] LC+RC: missing &amp; death</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] LC+RC: after gap &amp; missing</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] LC+RC: after gap &amp; before gap</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] LC+RC: after gap &amp; last spell</labl>
+        <catStat type="freq">1070</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] LC+RC: after gap &amp; death</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="remark" intrvl="labeled_numeric" files="biomarsy">
+      <labl>Error code: Comment on spell</labl>
+      <sumStat type="valid">13917</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] orig. spell</labl>
+        <catStat type="freq">5628</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] edit. spell</labl>
+        <catStat type="freq"> 115</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] added spell</labl>
+        <catStat type="freq">1086</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] gap spell</labl>
+        <catStat type="freq">  19</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] first spell</labl>
+        <catStat type="freq">7069</catStat>
+      </catgry>
+    </var>
+    <var ID="source" intrvl="labeled_numeric" files="biomarsy">
+      <labl>Source of Information</labl>
+      <sumStat type="valid">12931</sumStat>
+      <sumStat type="invalid">986</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 986</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Biography-questionnaire</labl>
+        <catStat type="freq">5613</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Personal-questionnaire</labl>
+        <catStat type="freq">1887</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Biography- and personal-questionnaire</labl>
+        <catStat type="freq">5431</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="biomarsy"/>
+</codebook>

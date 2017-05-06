@@ -1,0 +1,2199 @@
+<codebook>
+  <dataDscr>
+    <var ID="hhnr" intrvl="numeric" files="bfvp">
+      <labl>Original Household Number</labl>
+      <sumStat type="Min.">3144000</sumStat>
+      <sumStat type="1st Qu.">3179000</sumStat>
+      <sumStat type="Median">3239000</sumStat>
+      <sumStat type="Mean">3249000</sumStat>
+      <sumStat type="3rd Qu.">3318000</sumStat>
+      <sumStat type="Max.">3343000</sumStat>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hhnrakt" intrvl="numeric" files="bfvp">
+      <labl>Current Wave HH Number (=BFHHNR)</labl>
+      <sumStat type="Min.">3144000</sumStat>
+      <sumStat type="1st Qu.">3179000</sumStat>
+      <sumStat type="Median">3239000</sumStat>
+      <sumStat type="Mean">3249000</sumStat>
+      <sumStat type="3rd Qu.">3318000</sumStat>
+      <sumStat type="Max.">3343000</sumStat>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bfhhnr" intrvl="numeric" files="bfvp">
+      <labl>Current Wave HH Number (=HHNRAKT)</labl>
+      <sumStat type="Min.">3144000</sumStat>
+      <sumStat type="1st Qu.">3179000</sumStat>
+      <sumStat type="Median">3239000</sumStat>
+      <sumStat type="Mean">3249000</sumStat>
+      <sumStat type="3rd Qu.">3318000</sumStat>
+      <sumStat type="Max.">3343000</sumStat>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="persnr" intrvl="numeric" files="bfvp">
+      <labl>Unchanging ID Person Surveyed</labl>
+      <sumStat type="Min.">31440000</sumStat>
+      <sumStat type="1st Qu.">31790000</sumStat>
+      <sumStat type="Median">32390000</sumStat>
+      <sumStat type="Mean">32490000</sumStat>
+      <sumStat type="3rd Qu.">33180000</sumStat>
+      <sumStat type="Max.">33430000</sumStat>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="vpersnr" intrvl="numeric" files="bfvp">
+      <labl>ID Person Surveyed</labl>
+      <sumStat type="Min.">31440000</sumStat>
+      <sumStat type="1st Qu.">31790000</sumStat>
+      <sumStat type="Median">32390000</sumStat>
+      <sumStat type="Mean">32490000</sumStat>
+      <sumStat type="3rd Qu.">33180000</sumStat>
+      <sumStat type="Max.">33430000</sumStat>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="vpnr" intrvl="numeric" files="bfvp">
+      <labl>Consecutive Nummer Person Surveyed (gen)</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="welle" intrvl="numeric" files="bfvp">
+      <labl>Survey Year</labl>
+      <sumStat type="Min.">2015</sumStat>
+      <sumStat type="1st Qu.">2015</sumStat>
+      <sumStat type="Median">2015</sumStat>
+      <sumStat type="Mean">2015</sumStat>
+      <sumStat type="3rd Qu.">2015</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="sample1" intrvl="labeled_numeric" files="bfvp">
+      <labl>Subsample Identifier TNS-Infratest</labl>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] A German Hh Head, West</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] B1 Turkish Hh Head</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] B2 Yugoslav Hh Head</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] B3 Greek Hh Head</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] B4 Italian Hh Head</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] B5 Spanish Hh Head</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] C German Hh Head, East</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] D1 Immigrant W. Germany</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] D2 Immigrant W. Germany</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] E1 Refrehment (Papi)</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] E2 Refrehment (Capi)</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] F1 Refreshment Isoep (Innovation)</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] F2 Refreshment, Additional Foreigner Addresses</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] G1 High Income (Pretest)</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] G2 High Income</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] H Refreshment</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>19</catValu>
+        <labl>[19] I Refreshment, Incentivation</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>[20] J Refreshment</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>[21] K Refreshment</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <labl>[22] I2 Refreshment Is</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <labl>[23] Special Survey (Laboratory Sample)</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>24</catValu>
+        <labl>[24] M1 Migration (1995-2011)</labl>
+        <catStat type="freq">41</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>60</catValu>
+        <labl>[60] L2/3 Fid Screening, Low Income</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>61</catValu>
+        <labl>[61] L2/3 Fid Screening, Single Parent</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>62</catValu>
+        <labl>[62] L2/3 Fid Screening, Families With Several Children</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>63</catValu>
+        <labl>[63] L1 Fid Birth Cohort 2007</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>64</catValu>
+        <labl>[64] L1 Fid Birth Cohort 2008</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>65</catValu>
+        <labl>[65] L1 Fid Birth Cohort 2009</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>66</catValu>
+        <labl>[66] L1 Fid Birth Cohort 2010</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="bfpnr" intrvl="labeled_numeric" files="bfvp">
+      <labl>Serial Number Person Died (gen)</labl>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq">20</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq">18</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>98</catValu>
+        <labl>[98] Former Core Sample Member</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>99</catValu>
+        <labl>[99] Not Core Sample Member</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp0101" intrvl="labeled_numeric" files="bfvp">
+      <labl>Sex Person Died</labl>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Male</labl>
+        <catStat type="freq">27</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Female</labl>
+        <catStat type="freq">14</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp0102" intrvl="numeric" files="bfvp">
+      <labl>year of birth person died</labl>
+      <sumStat type="Min.">1917</sumStat>
+      <sumStat type="1st Qu.">1929</sumStat>
+      <sumStat type="Median">1938</sumStat>
+      <sumStat type="Mean">1939</sumStat>
+      <sumStat type="3rd Qu.">1945</sumStat>
+      <sumStat type="Max.">1989</sumStat>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bfvp02" intrvl="labeled_numeric" files="bfvp">
+      <labl>kinship relationship to deceased</labl>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] My Mother/My Father</labl>
+        <catStat type="freq">29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] My Husband/Wife/Partner</labl>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] My Daughter/My Son</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Other Person</labl>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp03" intrvl="numeric" files="bfvp">
+      <labl>age of person died</labl>
+      <sumStat type="Min.">21</sumStat>
+      <sumStat type="1st Qu.">69</sumStat>
+      <sumStat type="Median">76</sumStat>
+      <sumStat type="Mean">75.17</sumStat>
+      <sumStat type="3rd Qu.">85</sumStat>
+      <sumStat type="Max.">96</sumStat>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bfvp04" intrvl="labeled_numeric" files="bfvp">
+      <labl>person died lived in local hh?</labl>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] No</labl>
+        <catStat type="freq">32</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp05" intrvl="labeled_numeric" files="bfvp">
+      <labl>person died was SOEP attendant</labl>
+      <sumStat type="valid">32</sumStat>
+      <sumStat type="invalid">9</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes, Did Participate</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] No, Did Not Participate</labl>
+        <catStat type="freq">30</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Do Not Know</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp06" intrvl="labeled_numeric" files="bfvp">
+      <labl>domestic environment of deceased in last year alive</labl>
+      <sumStat type="valid">32</sumStat>
+      <sumStat type="invalid">9</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Alone In Own Household</labl>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Together With Partner In Own Household</labl>
+        <catStat type="freq">14</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Together With Other Relative In Privat Household</labl>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] In Senior-Friendly Residence</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] In Home For The Elderly</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] In Hospital</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Other Environment</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp07" intrvl="labeled_numeric" files="bfvp">
+      <labl>focus of deceased person's life</labl>
+      <sumStat type="valid">32</sumStat>
+      <sumStat type="invalid">9</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Here In The House</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] In The Neighborhood</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] At Close Range, 1 H Per Feet</labl>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Lives Elsewhere In Germany</labl>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] In A Foreign Country</labl>
+        <catStat type="freq">15</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp08" intrvl="labeled_numeric" files="bfvp">
+      <labl>personal contact to deceased in last year</labl>
+      <sumStat type="valid">32</sumStat>
+      <sumStat type="invalid">9</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Daily, Almost Daily</labl>
+        <catStat type="freq">15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] At Least Once Per Week</labl>
+        <catStat type="freq">13</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] At Least Once Per Month</labl>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Less Frequently</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Not At All</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp09" intrvl="labeled_numeric" files="bfvp">
+      <labl>place of death</labl>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] At Home</labl>
+        <catStat type="freq">20</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Other, Not Own Private Household</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] In Hospital</labl>
+        <catStat type="freq">19</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] In Home For The Elderly</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] In Hospice</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] At Another Place</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Do Not Know</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1001" intrvl="labeled_numeric" files="bfvp">
+      <labl>cause of death: heart attack</labl>
+      <sumStat type="valid">4</sumStat>
+      <sumStat type="invalid">37</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">37</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Heart Attack</labl>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1002" intrvl="labeled_numeric" files="bfvp">
+      <labl>cause of death: cardiovascular disease</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">36</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">36</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Cardiovascular Disease</labl>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1003" intrvl="labeled_numeric" files="bfvp">
+      <labl>cause of death: cancer</labl>
+      <sumStat type="valid">14</sumStat>
+      <sumStat type="invalid">27</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">27</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Cancer</labl>
+        <catStat type="freq">14</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1004" intrvl="labeled_numeric" files="bfvp">
+      <labl>cause of death: epileptic stroke</labl>
+      <sumStat type="valid">7</sumStat>
+      <sumStat type="invalid">34</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">34</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Epileptic Stroke</labl>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1005" intrvl="labeled_numeric" files="bfvp">
+      <labl>cause of death: sever infectious disease</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">39</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">39</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Severe Infectious Disease</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1006" intrvl="labeled_numeric" files="bfvp">
+      <labl>cause of death: gastrointestinal tract disease</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">40</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">40</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Gastrointestinal Tract Disease</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1007" intrvl="unknown" files="bfvp">
+      <labl>cause of death: respiratory disease</labl>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 1</catValu>
+        <labl>[1] Respiratory Disease</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1008" intrvl="unknown" files="bfvp">
+      <labl>cause of death: accident</labl>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 1</catValu>
+        <labl>[1] Accident</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1009" intrvl="labeled_numeric" files="bfvp">
+      <labl>cause of death: other</labl>
+      <sumStat type="valid">8</sumStat>
+      <sumStat type="invalid">33</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">33</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Other Cause</labl>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1010" intrvl="labeled_numeric" files="bfvp">
+      <labl>cause of death unknown</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">40</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">40</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Do Not Know</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1101" intrvl="labeled_numeric" files="bfvp">
+      <labl>left last will</labl>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] No</labl>
+        <catStat type="freq">29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Do Not Know</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1102" intrvl="labeled_numeric" files="bfvp">
+      <labl>left living will</labl>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] No</labl>
+        <catStat type="freq">33</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Do Not Know</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1103" intrvl="labeled_numeric" files="bfvp">
+      <labl>left provisional power or attorney</labl>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] No</labl>
+        <catStat type="freq">32</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Do Not Know</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1104" intrvl="labeled_numeric" files="bfvp">
+      <labl>Left Living Will with Instructions on Use of Death-Delaying Procedures</labl>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] No</labl>
+        <catStat type="freq">33</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Do Not Know</labl>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp12" intrvl="labeled_numeric" files="bfvp">
+      <labl>limited mental capacity</labl>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq">11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] No</labl>
+        <catStat type="freq">30</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Do Not Know</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp13" intrvl="labeled_numeric" files="bfvp">
+      <labl>health status 3 month before death</labl>
+      <sumStat type="valid">40</sumStat>
+      <sumStat type="invalid">1</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Very Good</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Good</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Satisfactory</labl>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Poor</labl>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Bad</labl>
+        <catStat type="freq">22</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp15" intrvl="labeled_numeric" files="bfvp">
+      <labl>deceased was in need of care three months before death</labl>
+      <sumStat type="valid">40</sumStat>
+      <sumStat type="invalid">1</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq">25</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] No</labl>
+        <catStat type="freq">15</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1501" intrvl="labeled_numeric" files="bfvp">
+      <labl>help with errands</labl>
+      <sumStat type="valid">22</sumStat>
+      <sumStat type="invalid">19</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">19</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq">22</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1502" intrvl="labeled_numeric" files="bfvp">
+      <labl>help in household with eating/drinking</labl>
+      <sumStat type="valid">22</sumStat>
+      <sumStat type="invalid">19</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">19</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq">22</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1503" intrvl="labeled_numeric" files="bfvp">
+      <labl>help with simple personal care: dressing, bathing...</labl>
+      <sumStat type="valid">23</sumStat>
+      <sumStat type="invalid">18</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">18</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq">23</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1504" intrvl="labeled_numeric" files="bfvp">
+      <labl>help in getting in and out of bed, using toilet</labl>
+      <sumStat type="valid">18</sumStat>
+      <sumStat type="invalid">23</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">23</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq">18</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1505" intrvl="unknown" files="bfvp">
+      <labl>help in total, n.a.</labl>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1601" intrvl="labeled_numeric" files="bfvp">
+      <labl>satisfaction of deceased 1 year before death</labl>
+      <sumStat type="valid">37</sumStat>
+      <sumStat type="invalid">4</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] 0 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] 1 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq">4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] 2 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq">1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] 3 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq">1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] 4 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq">4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] 5 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq">3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] 6 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq">5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] 7 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq">6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] 8 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq">3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] 9 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq">5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] 10 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq">5</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp1602" intrvl="labeled_numeric" files="bfvp">
+      <labl>satisfaction of deceased 3 months before death</labl>
+      <sumStat type="valid">30</sumStat>
+      <sumStat type="invalid">11</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] 0 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] 1 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] 2 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] 3 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] 4 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] 5 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] 6 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] 7 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] 8 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] 9 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] 10 Satisfied: On Scale 0-Low To 10-High</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvp17" intrvl="labeled_numeric" files="bfvp">
+      <labl>change in personal life since death</labl>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] I Have To Order My Life In A New Way</labl>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Some Things Change Now</labl>
+        <catStat type="freq">15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Nothing Will Change Because Of That</labl>
+        <catStat type="freq">18</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvform" intrvl="labeled_numeric" files="bfvp">
+      <labl>survey instrument</labl>
+      <sumStat type="valid">36</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] By Telephone</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Oral Interview</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Written Ques. Interviewer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Written Ques. No Interviewer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Oral And Written</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Proxy</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] Written, By Mail</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] Capi</labl>
+        <catStat type="freq">36</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] Cawi</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvdatt" intrvl="numeric" files="bfvp">
+      <labl>Day of Interview</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">13</sumStat>
+      <sumStat type="Median">18</sumStat>
+      <sumStat type="Mean">17.56</sumStat>
+      <sumStat type="3rd Qu.">25</sumStat>
+      <sumStat type="Max.">31</sumStat>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bfvdatm" intrvl="labeled_numeric" files="bfvp">
+      <labl>Month of Interview</labl>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] January</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] February</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] March</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] April</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] May</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] June</labl>
+        <catStat type="freq">15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] July</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] August</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] September</labl>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] October</labl>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] November</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] December</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="bfvdatst" intrvl="numeric" files="bfvp">
+      <labl>End of Interview (Hour)</labl>
+      <sumStat type="Min.">10</sumStat>
+      <sumStat type="1st Qu.">12</sumStat>
+      <sumStat type="Median">16</sumStat>
+      <sumStat type="Mean">15.37</sumStat>
+      <sumStat type="3rd Qu.">18</sumStat>
+      <sumStat type="Max.">20</sumStat>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bfvdatmi" intrvl="numeric" files="bfvp">
+      <labl>End of Interview (Minute)</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">15</sumStat>
+      <sumStat type="Median">26</sumStat>
+      <sumStat type="Mean">27.56</sumStat>
+      <sumStat type="3rd Qu.">39.5</sumStat>
+      <sumStat type="Max.">57</sumStat>
+      <sumStat type="NA's">2</sumStat>
+      <sumStat type="valid">39</sumStat>
+      <sumStat type="invalid">2</sumStat>
+    </var>
+    <var ID="intid" intrvl="numeric" files="bfvp">
+      <labl>Interviewer ID</labl>
+      <sumStat type="Min.">1001000</sumStat>
+      <sumStat type="1st Qu.">1003000</sumStat>
+      <sumStat type="Median">1003000</sumStat>
+      <sumStat type="Mean">1004000</sumStat>
+      <sumStat type="3rd Qu.">1005000</sumStat>
+      <sumStat type="Max.">1005000</sumStat>
+      <sumStat type="valid">41</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="bfvp"/>
+</codebook>

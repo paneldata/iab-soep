@@ -1,0 +1,4371 @@
+<codebook>
+  <dataDscr>
+    <var ID="hhnr" intrvl="numeric" files="cogdj">
+      <labl>Original Household Number</labl>
+      <sumStat type="Min.">3144000</sumStat>
+      <sumStat type="1st Qu.">3183000</sumStat>
+      <sumStat type="Median">3243000</sumStat>
+      <sumStat type="Mean">3242000</sumStat>
+      <sumStat type="3rd Qu.">3297000</sumStat>
+      <sumStat type="Max.">3343000</sumStat>
+      <sumStat type="valid">138</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="persnr" intrvl="numeric" files="cogdj">
+      <labl>Never Changing Person ID</labl>
+      <sumStat type="Min.">31440000</sumStat>
+      <sumStat type="1st Qu.">31830000</sumStat>
+      <sumStat type="Median">32430000</sumStat>
+      <sumStat type="Mean">32430000</sumStat>
+      <sumStat type="3rd Qu.">32980000</sumStat>
+      <sumStat type="Max.">33450000</sumStat>
+      <sumStat type="valid">138</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="syear" intrvl="numeric" files="cogdj">
+      <labl>Survey Year</labl>
+      <sumStat type="Min.">2014</sumStat>
+      <sumStat type="1st Qu.">2014</sumStat>
+      <sumStat type="Median">2014</sumStat>
+      <sumStat type="Mean">2014</sumStat>
+      <sumStat type="3rd Qu.">2015</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="valid">138</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="djstat" intrvl="labeled_numeric" files="cogdj">
+      <labl>Status Of Partitipation</labl>
+      <sumStat type="valid">138</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Questionnaire Missing</labl>
+        <catStat type="freq">122</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Chosen Without Interview - No Participation</labl>
+        <catStat type="freq"> 10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Dj-Questionnaire Refused</labl>
+        <catStat type="freq">  6</catStat>
+      </catgry>
+    </var>
+    <var ID="schule" intrvl="labeled_numeric" files="cogdj">
+      <labl>Educational Partitipation</labl>
+      <sumStat type="valid">138</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] no answers available</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] No Degree, No School Attendence</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Other Degree</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Other School, continued education</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Secondary General School Attendence</labl>
+        <catStat type="freq">19</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Secondary School Degree</labl>
+        <catStat type="freq">15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Comprehensive School Attendence</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Intermediate School Attendence</labl>
+        <catStat type="freq">34</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] Intermediate School Degree</labl>
+        <catStat type="freq">11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] Technical HighSchool Attendence</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] Technical School Degree</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] Upper Secondary School Attendence</labl>
+        <catStat type="freq">37</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] Upper Secondary School Degree</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] Vocational School Attendence</labl>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] Technical Collegel Attendence</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] University Attendence</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>[21] Former Secondary General School According To Mother</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <labl>[22] Former Intermediate School According To Mother</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <labl>[23] Former Upper School According To Mother</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="sumindex" intrvl="labeled_numeric" files="cogdj">
+      <labl>Sumindex From all given Answers</labl>
+      <sumStat type="valid">122</sumStat>
+      <sumStat type="invalid">16</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task group not answered</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Test not answered</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>24</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>27</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>30</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>34</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>35</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>36</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>38</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>39</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>40</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>42</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>43</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>44</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>45</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>46</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>47</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>48</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>49</catValu>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>50</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>51</catValu>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>52</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>53</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>54</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>55</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>56</catValu>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>57</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>58</catValu>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>59</catValu>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>60</catValu>
+        <catStat type="freq">29</catStat>
+      </catgry>
+    </var>
+    <var ID="indexa2" intrvl="labeled_numeric" files="cogdj">
+      <labl>Sumindex From Answers In Taskgroup No. 2 - Analogies</labl>
+      <sumStat type="valid">121</sumStat>
+      <sumStat type="invalid">17</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task group not answered</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>19</catValu>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Test not answered</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <catStat type="freq">82</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="indexa6" intrvl="labeled_numeric" files="cogdj">
+      <labl>sumindes From Answers In Taskgroups No. 6 - Arithmetic Operator</labl>
+      <sumStat type="valid">120</sumStat>
+      <sumStat type="invalid">18</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task group not answered</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>19</catValu>
+        <catStat type="freq">11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Test not answered</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <catStat type="freq">43</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+    </var>
+    <var ID="indexa9" intrvl="labeled_numeric" files="cogdj">
+      <labl>Sumindex From Answers Taskgroup No. 9 - Figures</labl>
+      <sumStat type="valid">122</sumStat>
+      <sumStat type="invalid">16</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task group not answered</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>19</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Test not answered</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <catStat type="freq">74</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="sdindex" intrvl="labeled_numeric" files="cogdj">
+      <labl>complete Sumindex deductive thinking - Right Answers</labl>
+      <sumStat type="valid">119</sumStat>
+      <sumStat type="invalid">19</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task group not answered</labl>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>19</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Test not answered</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>24</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>25</catValu>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>26</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>27</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>28</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>29</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>30</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>31</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>32</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>33</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>34</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>35</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>36</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>37</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>38</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>39</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>40</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>41</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>42</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>43</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>44</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>45</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+    </var>
+    <var ID="analog" intrvl="labeled_numeric" files="cogdj">
+      <labl>Sumindex Right Answers In Taskgroup No. 2 - Analogies</labl>
+      <sumStat type="valid">121</sumStat>
+      <sumStat type="invalid">17</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task group not answered</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Test not answered</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq">11</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq">15</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq">17</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq">17</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq">10</catStat>
+      </catgry>
+    </var>
+    <var ID="ianalog" intrvl="labeled_numeric" files="cogdj">
+      <labl>Sumindex Wrong Answers In Taskgroup No. 2 - Analogies</labl>
+      <sumStat type="valid">121</sumStat>
+      <sumStat type="invalid">17</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task group not answered</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <catStat type="freq">13</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <catStat type="freq">18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq">15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <catStat type="freq">13</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Test not answered</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+    </var>
+    <var ID="fanalog" intrvl="labeled_numeric" files="cogdj">
+      <labl>Sumindex Not Given Answers In Taskgroup No. 2 - Analogies</labl>
+      <sumStat type="valid">138</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <catStat type="freq">98</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task group not answered</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Test not answered</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+    </var>
+    <var ID="rechenz" intrvl="labeled_numeric" files="cogdj">
+      <labl>Sumindex Right Answers In Taskgroup No. 6 - Arithmetic Operator</labl>
+      <sumStat type="valid">120</sumStat>
+      <sumStat type="invalid">18</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task group not answered</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>19</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Test not answered</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+    </var>
+    <var ID="irechenz" intrvl="labeled_numeric" files="cogdj">
+      <labl>Sumindex Wrong Answers In Taskgroup No. 6 - Arithmetic Operator</labl>
+      <sumStat type="valid">120</sumStat>
+      <sumStat type="invalid">18</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <catStat type="freq">28</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq">19</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task group not answered</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq">13</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Test not answered</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+    </var>
+    <var ID="frechenz" intrvl="labeled_numeric" files="cogdj">
+      <labl>Sumindex Not Given Answers In Taskgroup No. 6 - Arithmetic Operator</labl>
+      <sumStat type="valid">138</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <catStat type="freq">59</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq">11</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task group not answered</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Test not answered</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+    </var>
+    <var ID="matrize" intrvl="labeled_numeric" files="cogdj">
+      <labl>Sumindex Right Answers In Taskgroup No. 9 - Figures</labl>
+      <sumStat type="valid">122</sumStat>
+      <sumStat type="invalid">16</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task group not answered</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <catStat type="freq">18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <catStat type="freq">12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <catStat type="freq">12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Test not answered</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq">12</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq">11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq">15</catStat>
+      </catgry>
+    </var>
+    <var ID="imatrize" intrvl="labeled_numeric" files="cogdj">
+      <labl>Sumindex Wrong Answers In Taskgroup No. 9 - Figures</labl>
+      <sumStat type="valid">122</sumStat>
+      <sumStat type="invalid">16</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task group not answered</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <catStat type="freq">11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <catStat type="freq">12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Test not answered</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq">12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+    </var>
+    <var ID="fmatrize" intrvl="labeled_numeric" files="cogdj">
+      <labl>Sumindex Not Given Answers In Taskgroup No. 9 - Figures</labl>
+      <sumStat type="valid">138</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <catStat type="freq">90</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task group not answered</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Test not answered</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+    </var>
+    <var ID="a_21" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 1 Analogoy Task</labl>
+      <sumStat type="valid">119</sumStat>
+      <sumStat type="invalid">19</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">  7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">112</catStat>
+      </catgry>
+    </var>
+    <var ID="a_22" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 2 Analogoy Task</labl>
+      <sumStat type="valid">118</sumStat>
+      <sumStat type="invalid">20</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">  4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq"> 12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">106</catStat>
+      </catgry>
+    </var>
+    <var ID="a_23" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 3 Analogoy Task</labl>
+      <sumStat type="valid">119</sumStat>
+      <sumStat type="invalid">19</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">60</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">59</catStat>
+      </catgry>
+    </var>
+    <var ID="a_24" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 4 Analogoy Task</labl>
+      <sumStat type="valid">117</sumStat>
+      <sumStat type="invalid">21</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">85</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">32</catStat>
+      </catgry>
+    </var>
+    <var ID="a_25" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 5 Analogoy Task</labl>
+      <sumStat type="valid">116</sumStat>
+      <sumStat type="invalid">22</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">41</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">75</catStat>
+      </catgry>
+    </var>
+    <var ID="a_26" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 6 Analogoy Task</labl>
+      <sumStat type="valid">121</sumStat>
+      <sumStat type="invalid">17</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">56</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">65</catStat>
+      </catgry>
+    </var>
+    <var ID="a_27" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 7 Analogoy Task</labl>
+      <sumStat type="valid">117</sumStat>
+      <sumStat type="invalid">21</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">61</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">56</catStat>
+      </catgry>
+    </var>
+    <var ID="a_28" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 8 Analogoy Task</labl>
+      <sumStat type="valid">120</sumStat>
+      <sumStat type="invalid">18</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">90</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">30</catStat>
+      </catgry>
+    </var>
+    <var ID="a_29" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 9 Analogoy Task</labl>
+      <sumStat type="valid">116</sumStat>
+      <sumStat type="invalid">22</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">84</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">32</catStat>
+      </catgry>
+    </var>
+    <var ID="a_30" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 10 Analogoy Task</labl>
+      <sumStat type="valid">120</sumStat>
+      <sumStat type="invalid">18</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">66</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">54</catStat>
+      </catgry>
+    </var>
+    <var ID="a_31" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 11 Analogoy Task</labl>
+      <sumStat type="valid">112</sumStat>
+      <sumStat type="invalid">26</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">77</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">35</catStat>
+      </catgry>
+    </var>
+    <var ID="a_32" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 12 Analogoy Task</labl>
+      <sumStat type="valid">115</sumStat>
+      <sumStat type="invalid">23</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">95</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">20</catStat>
+      </catgry>
+    </var>
+    <var ID="a_33" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 13 Analogoy Task</labl>
+      <sumStat type="valid">107</sumStat>
+      <sumStat type="invalid">31</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">79</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">28</catStat>
+      </catgry>
+    </var>
+    <var ID="a_34" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 14 Analogoy Task</labl>
+      <sumStat type="valid">111</sumStat>
+      <sumStat type="invalid">27</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">91</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">20</catStat>
+      </catgry>
+    </var>
+    <var ID="a_35" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 15 Analogoy Task</labl>
+      <sumStat type="valid">114</sumStat>
+      <sumStat type="invalid">24</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">  8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">106</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">  8</catStat>
+      </catgry>
+    </var>
+    <var ID="a_36" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 16 Analogoy Task</labl>
+      <sumStat type="valid">118</sumStat>
+      <sumStat type="invalid">20</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">  4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">102</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+    </var>
+    <var ID="a_37" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 17 Analogoy Task</labl>
+      <sumStat type="valid">115</sumStat>
+      <sumStat type="invalid">23</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">90</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">25</catStat>
+      </catgry>
+    </var>
+    <var ID="a_38" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 18 Analogoy Task</labl>
+      <sumStat type="valid">114</sumStat>
+      <sumStat type="invalid">24</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">99</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">15</catStat>
+      </catgry>
+    </var>
+    <var ID="a_39" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 19 Analogoy Task</labl>
+      <sumStat type="valid">110</sumStat>
+      <sumStat type="invalid">28</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">98</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">12</catStat>
+      </catgry>
+    </var>
+    <var ID="a_40" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 20 Analogoy Task</labl>
+      <sumStat type="valid">115</sumStat>
+      <sumStat type="invalid">23</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">  7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">109</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">  6</catStat>
+      </catgry>
+    </var>
+    <var ID="b_101" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 1 Task Arithmetic Operator</labl>
+      <sumStat type="valid">116</sumStat>
+      <sumStat type="invalid">22</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">  6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">116</catStat>
+      </catgry>
+    </var>
+    <var ID="b_102" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 2 Task Arithmetic Operator</labl>
+      <sumStat type="valid">114</sumStat>
+      <sumStat type="invalid">24</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">  8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">112</catStat>
+      </catgry>
+    </var>
+    <var ID="b_103" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 3 Task Arithmetic Operator</labl>
+      <sumStat type="valid">109</sumStat>
+      <sumStat type="invalid">29</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">13</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">23</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">86</catStat>
+      </catgry>
+    </var>
+    <var ID="b_104" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 4 Task Arithmetic Operator</labl>
+      <sumStat type="valid">104</sumStat>
+      <sumStat type="invalid">34</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">36</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">68</catStat>
+      </catgry>
+    </var>
+    <var ID="b_105" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 5 Task Arithmetic Operator</labl>
+      <sumStat type="valid">104</sumStat>
+      <sumStat type="invalid">34</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">19</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">85</catStat>
+      </catgry>
+    </var>
+    <var ID="b_106" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 6 Task Arithmetic Operator</labl>
+      <sumStat type="valid">98</sumStat>
+      <sumStat type="invalid">40</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">24</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">27</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">71</catStat>
+      </catgry>
+    </var>
+    <var ID="b_107" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 7 Task Arithmetic Operator</labl>
+      <sumStat type="valid">98</sumStat>
+      <sumStat type="invalid">40</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">24</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">28</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">70</catStat>
+      </catgry>
+    </var>
+    <var ID="b_108" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 8 Task Arithmetic Operator</labl>
+      <sumStat type="valid">105</sumStat>
+      <sumStat type="invalid">33</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">17</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">26</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">79</catStat>
+      </catgry>
+    </var>
+    <var ID="b_109" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 9 Task Arithmetic Operator</labl>
+      <sumStat type="valid">105</sumStat>
+      <sumStat type="invalid">33</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">17</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">26</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">79</catStat>
+      </catgry>
+    </var>
+    <var ID="b_110" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 10 Task Arithmetic Operator</labl>
+      <sumStat type="valid">99</sumStat>
+      <sumStat type="invalid">39</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">23</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">26</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">73</catStat>
+      </catgry>
+    </var>
+    <var ID="b_111" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 11 Task Arithmetic Operator</labl>
+      <sumStat type="valid">96</sumStat>
+      <sumStat type="invalid">42</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">26</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">27</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">69</catStat>
+      </catgry>
+    </var>
+    <var ID="b_112" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 12 Task Arithmetic Operator</labl>
+      <sumStat type="valid">96</sumStat>
+      <sumStat type="invalid">42</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">26</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">22</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">74</catStat>
+      </catgry>
+    </var>
+    <var ID="b_113" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 13 Task Arithmetic Operator</labl>
+      <sumStat type="valid">94</sumStat>
+      <sumStat type="invalid">44</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">28</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">30</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">64</catStat>
+      </catgry>
+    </var>
+    <var ID="b_114" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 14 Task Arithmetic Operator</labl>
+      <sumStat type="valid">86</sumStat>
+      <sumStat type="invalid">52</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">36</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">57</catStat>
+      </catgry>
+    </var>
+    <var ID="b_115" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 15 Task Arithmetic Operator</labl>
+      <sumStat type="valid">87</sumStat>
+      <sumStat type="invalid">51</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">35</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">58</catStat>
+      </catgry>
+    </var>
+    <var ID="b_116" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 16 Task Arithmetic Operator</labl>
+      <sumStat type="valid">92</sumStat>
+      <sumStat type="invalid">46</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">30</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">44</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">48</catStat>
+      </catgry>
+    </var>
+    <var ID="b_117" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 17 Task Arithmetic Operator</labl>
+      <sumStat type="valid">74</sumStat>
+      <sumStat type="invalid">64</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">48</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">41</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">33</catStat>
+      </catgry>
+    </var>
+    <var ID="b_118" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 18 Task Arithmetic Operator</labl>
+      <sumStat type="valid">73</sumStat>
+      <sumStat type="invalid">65</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">49</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">48</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">25</catStat>
+      </catgry>
+    </var>
+    <var ID="b_119" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 19 Task Arithmetic Operator</labl>
+      <sumStat type="valid">66</sumStat>
+      <sumStat type="invalid">72</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">56</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">42</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">24</catStat>
+      </catgry>
+    </var>
+    <var ID="b_120" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 20 Task Arithmetic Operator</labl>
+      <sumStat type="valid">70</sumStat>
+      <sumStat type="invalid">68</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">52</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">33</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">37</catStat>
+      </catgry>
+    </var>
+    <var ID="a_161" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 1 Task Figures</labl>
+      <sumStat type="valid">121</sumStat>
+      <sumStat type="invalid">17</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq"> 11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">110</catStat>
+      </catgry>
+    </var>
+    <var ID="a_162" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 2 Task Figures</labl>
+      <sumStat type="valid">121</sumStat>
+      <sumStat type="invalid">17</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">45</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">76</catStat>
+      </catgry>
+    </var>
+    <var ID="a_163" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 3 Task Figures</labl>
+      <sumStat type="valid">118</sumStat>
+      <sumStat type="invalid">20</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">34</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">84</catStat>
+      </catgry>
+    </var>
+    <var ID="a_164" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 4 Task Figures</labl>
+      <sumStat type="valid">119</sumStat>
+      <sumStat type="invalid">19</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">43</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">76</catStat>
+      </catgry>
+    </var>
+    <var ID="a_165" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 5 Task Figures</labl>
+      <sumStat type="valid">118</sumStat>
+      <sumStat type="invalid">20</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">54</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">64</catStat>
+      </catgry>
+    </var>
+    <var ID="a_166" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 6 Task Figures</labl>
+      <sumStat type="valid">119</sumStat>
+      <sumStat type="invalid">19</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">22</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">97</catStat>
+      </catgry>
+    </var>
+    <var ID="a_167" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 7 Task Figures</labl>
+      <sumStat type="valid">117</sumStat>
+      <sumStat type="invalid">21</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">39</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">78</catStat>
+      </catgry>
+    </var>
+    <var ID="a_168" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 8 Task Figures</labl>
+      <sumStat type="valid">117</sumStat>
+      <sumStat type="invalid">21</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">69</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">48</catStat>
+      </catgry>
+    </var>
+    <var ID="a_169" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 9 Task Figures</labl>
+      <sumStat type="valid">117</sumStat>
+      <sumStat type="invalid">21</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">70</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">47</catStat>
+      </catgry>
+    </var>
+    <var ID="a_170" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 10 Task Figures</labl>
+      <sumStat type="valid">113</sumStat>
+      <sumStat type="invalid">25</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">78</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">35</catStat>
+      </catgry>
+    </var>
+    <var ID="a_171" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 11 Task Figures</labl>
+      <sumStat type="valid">118</sumStat>
+      <sumStat type="invalid">20</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">50</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">68</catStat>
+      </catgry>
+    </var>
+    <var ID="a_172" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 12 Task Figures</labl>
+      <sumStat type="valid">115</sumStat>
+      <sumStat type="invalid">23</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">71</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">44</catStat>
+      </catgry>
+    </var>
+    <var ID="a_173" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 13 Task Figures</labl>
+      <sumStat type="valid">109</sumStat>
+      <sumStat type="invalid">29</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">13</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">87</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">22</catStat>
+      </catgry>
+    </var>
+    <var ID="a_174" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 14 Task Figures</labl>
+      <sumStat type="valid">113</sumStat>
+      <sumStat type="invalid">25</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">32</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">81</catStat>
+      </catgry>
+    </var>
+    <var ID="a_175" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 15 Task Figures</labl>
+      <sumStat type="valid">106</sumStat>
+      <sumStat type="invalid">32</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">92</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">14</catStat>
+      </catgry>
+    </var>
+    <var ID="a_176" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 16 Task Figures</labl>
+      <sumStat type="valid">106</sumStat>
+      <sumStat type="invalid">32</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">74</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">32</catStat>
+      </catgry>
+    </var>
+    <var ID="a_177" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 17 Task Figures</labl>
+      <sumStat type="valid">97</sumStat>
+      <sumStat type="invalid">41</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">25</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">62</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">35</catStat>
+      </catgry>
+    </var>
+    <var ID="a_178" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 18 Task Figures</labl>
+      <sumStat type="valid">97</sumStat>
+      <sumStat type="invalid">41</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">25</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">73</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">24</catStat>
+      </catgry>
+    </var>
+    <var ID="a_179" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 19 Task Figures</labl>
+      <sumStat type="valid">98</sumStat>
+      <sumStat type="invalid">40</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">24</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">61</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">37</catStat>
+      </catgry>
+    </var>
+    <var ID="a_180" intrvl="labeled_numeric" files="cogdj">
+      <labl>Row 20 Task Figures</labl>
+      <sumStat type="valid">89</sumStat>
+      <sumStat type="invalid">49</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] does not apply</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] task not answered</labl>
+        <catStat type="freq">33</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Wrong Answer</labl>
+        <catStat type="freq">62</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Right Answer</labl>
+        <catStat type="freq">27</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="cogdj"/>
+</codebook>

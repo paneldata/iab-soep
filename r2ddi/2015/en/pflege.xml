@@ -1,0 +1,298 @@
+<codebook>
+  <dataDscr>
+    <var ID="hhnr" intrvl="numeric" files="pflege">
+      <labl>Original Household Number</labl>
+      <sumStat type="Min.">3144000</sumStat>
+      <sumStat type="1st Qu.">3181000</sumStat>
+      <sumStat type="Median">3231000</sumStat>
+      <sumStat type="Mean">3249000</sumStat>
+      <sumStat type="3rd Qu.">3294000</sumStat>
+      <sumStat type="Max.">3487000</sumStat>
+      <sumStat type="valid">208</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="persnr" intrvl="numeric" files="pflege">
+      <labl>Never Changing Person Id</labl>
+      <sumStat type="Min.">31440000</sumStat>
+      <sumStat type="1st Qu.">31810000</sumStat>
+      <sumStat type="Median">32330000</sumStat>
+      <sumStat type="Mean">32500000</sumStat>
+      <sumStat type="3rd Qu.">32940000</sumStat>
+      <sumStat type="Max.">34870000</sumStat>
+      <sumStat type="valid">208</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="syear" intrvl="numeric" files="pflege">
+      <labl>Survey Year</labl>
+      <sumStat type="Min.">2013</sumStat>
+      <sumStat type="1st Qu.">2013</sumStat>
+      <sumStat type="Median">2014</sumStat>
+      <sumStat type="Mean">2014</sumStat>
+      <sumStat type="3rd Qu.">2015</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="valid">208</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="maxgrad" intrvl="labeled_numeric" files="pflege">
+      <labl>Level of long-term care</labl>
+      <sumStat type="valid">201</sumStat>
+      <sumStat type="invalid">7</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Errand Outside HH</labl>
+        <catStat type="freq">28</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Running The HH</labl>
+        <catStat type="freq">39</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Daily Tasks In HH</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Simple Care Tasks</labl>
+        <catStat type="freq">81</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Difficult Care Tasks</labl>
+        <catStat type="freq">53</catStat>
+      </catgry>
+    </var>
+    <var ID="multgrad" intrvl="numeric" files="pflege">
+      <labl>Long-term care categories</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">10000</sumStat>
+      <sumStat type="Median">11000</sumStat>
+      <sumStat type="Mean">8300</sumStat>
+      <sumStat type="3rd Qu.">11010</sumStat>
+      <sumStat type="Max.">11010</sumStat>
+      <sumStat type="NA's">7</sumStat>
+      <sumStat type="valid">201</sumStat>
+      <sumStat type="invalid">7</sumStat>
+    </var>
+    <var ID="werpflgt" intrvl="numeric" files="pflege">
+      <labl>Person Providing Care</labl>
+      <sumStat type="Min.">10</sumStat>
+      <sumStat type="1st Qu.">100</sumStat>
+      <sumStat type="Median">100</sumStat>
+      <sumStat type="Mean">104000</sumStat>
+      <sumStat type="3rd Qu.">110</sumStat>
+      <sumStat type="Max.">1100000</sumStat>
+      <sumStat type="NA's">1</sumStat>
+      <sumStat type="valid">207</sumStat>
+      <sumStat type="invalid">1</sumStat>
+    </var>
+    <var ID="pnrcare" intrvl="numeric" files="pflege">
+      <labl>PNR, Person Providing Care</labl>
+      <sumStat type="Min.">31440000</sumStat>
+      <sumStat type="1st Qu.">31810000</sumStat>
+      <sumStat type="Median">32280000</sumStat>
+      <sumStat type="Mean">32510000</sumStat>
+      <sumStat type="3rd Qu.">32940000</sumStat>
+      <sumStat type="Max.">34870000</sumStat>
+      <sumStat type="NA's">19</sumStat>
+      <sumStat type="valid">189</sumStat>
+      <sumStat type="invalid">19</sumStat>
+    </var>
+    <var ID="pay" intrvl="labeled_numeric" files="pflege">
+      <labl>Payed Care</labl>
+      <sumStat type="valid">31</sumStat>
+      <sumStat type="invalid">177</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">174</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq">  9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] No</labl>
+        <catStat type="freq"> 22</catStat>
+      </catgry>
+    </var>
+    <var ID="stufe" intrvl="labeled_numeric" files="pflege">
+      <labl>Care Level</labl>
+      <sumStat type="valid">115</sumStat>
+      <sumStat type="invalid">93</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">93</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Care Level 0</labl>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Care Level 1</labl>
+        <catStat type="freq">53</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Care Level 2</labl>
+        <catStat type="freq">42</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Care Level 3</labl>
+        <catStat type="freq">14</catStat>
+      </catgry>
+    </var>
+    <var ID="further" intrvl="numeric" files="pflege">
+      <labl>number of further persons req. help</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.125</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="NA's">192</sumStat>
+      <sumStat type="valid">16</sumStat>
+      <sumStat type="invalid">192</sumStat>
+    </var>
+    <var ID="carecost" intrvl="numeric" files="pflege">
+      <labl>regular monthly costs for care</labl>
+      <sumStat type="Min.">5</sumStat>
+      <sumStat type="1st Qu.">50</sumStat>
+      <sumStat type="Median">100</sumStat>
+      <sumStat type="Mean">175.9</sumStat>
+      <sumStat type="3rd Qu.">250</sumStat>
+      <sumStat type="Max.">1000</sumStat>
+      <sumStat type="NA's">137</sumStat>
+      <sumStat type="valid">71</sumStat>
+      <sumStat type="invalid">137</sumStat>
+    </var>
+    <var ID="appraisal" intrvl="labeled_numeric" files="pflege">
+      <labl>Officially Assessed As in Need of Care</labl>
+      <sumStat type="valid">42</sumStat>
+      <sumStat type="invalid">166</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">165</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq"> 42</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="pflege"/>
+</codebook>

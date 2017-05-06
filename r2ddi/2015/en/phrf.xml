@@ -1,0 +1,951 @@
+<codebook>
+  <dataDscr>
+    <var ID="hhnr" intrvl="numeric" files="phrf">
+      <labl>Original Household Number</labl>
+      <sumStat type="Min.">3144000</sumStat>
+      <sumStat type="1st Qu.">3215000</sumStat>
+      <sumStat type="Median">3281000</sumStat>
+      <sumStat type="Mean">3298000</sumStat>
+      <sumStat type="3rd Qu.">3402000</sumStat>
+      <sumStat type="Max.">3500000</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="persnr" intrvl="numeric" files="phrf">
+      <labl>Never Changing Person Id</labl>
+      <sumStat type="Min.">31440000</sumStat>
+      <sumStat type="1st Qu.">32160000</sumStat>
+      <sumStat type="Median">32830000</sumStat>
+      <sumStat type="Mean">32990000</sumStat>
+      <sumStat type="3rd Qu.">34020000</sumStat>
+      <sumStat type="Max.">3.5e+07</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="prgroup" intrvl="numeric" files="phrf">
+      <labl>Random Groups</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">4</sumStat>
+      <sumStat type="Mean">4.495</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">8</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse staying Probability 1985</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 1986</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="dpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 1987</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="epbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 1988</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="fpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 1989</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="gpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 1990</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 1991</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="ipbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 1992</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="jpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 1993</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="kpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 1994</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="lpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 1995</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="mpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 1996</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="npbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 1997</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="opbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 1998</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="ppbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 1999</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="qpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 2000</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="rpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 2001</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="spbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 2002</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="tpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 2003</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="upbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 2004</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="vpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 2005</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="wpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 2006</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="xpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 2007</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="ypbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 2008</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="zpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 2009</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bapbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 2010</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bbpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 2011</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bcpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 2012</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bdpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 2013</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bepbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability 2014</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0.6262</sumStat>
+      <sumStat type="3rd Qu.">1.23</sumStat>
+      <sumStat type="Max.">4.7</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bfpbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Stay Probability</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0.5298</sumStat>
+      <sumStat type="3rd Qu.">1.17</sumStat>
+      <sumStat type="Max.">5.94</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="aphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 1984</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 1985</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 1986</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="dphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 1987</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="ephrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 1988</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="fphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 1989</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="gphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 1990</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 1991</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="iphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 1992</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="jphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 1993</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="kphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 1994</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="lphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 1995</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="mphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 1996</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="nphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 1997</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="ophrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 1998</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 1999</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="qphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 2000</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="rphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 2001</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="sphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 2002</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="tphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 2003</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="uphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 2004</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="vphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 2005</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="wphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 2006</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="xphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 2007</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="yphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 2008</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="zphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 2009</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="baphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 2010</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bbphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 2011</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bcphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 2012</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bdphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 2013</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">285.7</sumStat>
+      <sumStat type="Mean">609</sumStat>
+      <sumStat type="3rd Qu.">768</sumStat>
+      <sumStat type="Max.">9289</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bephrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Wave 2014</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">596.6</sumStat>
+      <sumStat type="3rd Qu.">710.4</sumStat>
+      <sumStat type="Max.">9690</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bfphrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor 2015</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">266.8</sumStat>
+      <sumStat type="Mean">715.8</sumStat>
+      <sumStat type="3rd Qu.">896.6</sumStat>
+      <sumStat type="Max.">10010</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="ophrfad" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Samples A - D  Wave 1998</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="ophrfe" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Sample E Wave 1998</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="qphrfae" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Samples A - E Wave 2000</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="qphrff" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Sample F Wave 2000</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="sphrfaf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Samples A - F Wave 2002</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="sphrfg" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Sample G Wave 2002</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="wphrfag" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Samples A - G Wave 2006</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="wphrfh" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Sample H Wave 2006</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="baphrfah" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Sample A-H Wave 2010</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="baphrfl1" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Sample L1 Wave 2010</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="baphrfl2" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Sample L2 Wave 2010</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bbphrfal2" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Sample A-L2 Wave 2011</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bbphrfl3" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Sample L3 Wave 2011</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bbphrfj" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Sample J Wave 2011</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bcphrfaj" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Samples A - J Wave 2012</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bcphrfk" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Sample K Wave 2011</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bdphrfak" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Samples A - K Wave 2013</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bdphrfm1" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Sample M Wave 2013</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">459.7</sumStat>
+      <sumStat type="Mean">968.8</sumStat>
+      <sumStat type="3rd Qu.">1248</sumStat>
+      <sumStat type="Max.">19670</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bfphrfam1" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Sample A To M1 Wave 2015</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">617.1</sumStat>
+      <sumStat type="3rd Qu.">623.9</sumStat>
+      <sumStat type="Max.">12860</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bfphrfm2" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor Sample M2 Wave 2015</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">198.8</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">8207</sumStat>
+      <sumStat type="valid">11976</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="phrf"/>
+</codebook>

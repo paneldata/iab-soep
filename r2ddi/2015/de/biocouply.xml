@@ -1,0 +1,481 @@
+<codebook>
+  <dataDscr>
+    <var ID="hhnr" intrvl="numeric" files="biocouply">
+      <labl>Ursprungshaushaltsnummer</labl>
+      <sumStat type="Min.">3144000</sumStat>
+      <sumStat type="1st Qu.">3216000</sumStat>
+      <sumStat type="Median">3288000</sumStat>
+      <sumStat type="Mean">3303000</sumStat>
+      <sumStat type="3rd Qu.">3413000</sumStat>
+      <sumStat type="Max.">3500000</sumStat>
+      <sumStat type="valid">26948</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="persnr" intrvl="numeric" files="biocouply">
+      <labl>Personal identifier</labl>
+      <sumStat type="Min.">31440000</sumStat>
+      <sumStat type="1st Qu.">32170000</sumStat>
+      <sumStat type="Median">32890000</sumStat>
+      <sumStat type="Mean">33040000</sumStat>
+      <sumStat type="3rd Qu.">34130000</sumStat>
+      <sumStat type="Max.">3.5e+07</sumStat>
+      <sumStat type="valid">26948</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="spellnr" intrvl="numeric" files="biocouply">
+      <labl>Consecutive spell number of the event per person</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">3.394</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">18</sumStat>
+      <sumStat type="valid">26948</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="spelltyp" intrvl="labeled_numeric" files="biocouply">
+      <labl>Partnership status</labl>
+      <sumStat type="valid">26898</sumStat>
+      <sumStat type="invalid">50</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">  50</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] married, spouse in household</labl>
+        <catStat type="freq">4085</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] married, spouse not in household</labl>
+        <catStat type="freq"> 741</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] coupled, partner in household</labl>
+        <catStat type="freq">4787</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] coupled, partner not in household</labl>
+        <catStat type="freq">7615</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] single</labl>
+        <catStat type="freq">8636</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] married / reg. same-sex p., separated</labl>
+        <catStat type="freq"> 228</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] reg. same-sex p.,partner in household</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] reg. same-sex p.,partner not in household</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>98</catValu>
+        <labl>[98] unknown</labl>
+        <catStat type="freq"> 592</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>99</catValu>
+        <labl>[99] unit nonresponse</labl>
+        <catStat type="freq"> 202</catStat>
+      </catgry>
+    </var>
+    <var ID="begin" intrvl="numeric" files="biocouply">
+      <labl>Age when spell begins</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">17</sumStat>
+      <sumStat type="Median">22</sumStat>
+      <sumStat type="Mean">21.08</sumStat>
+      <sumStat type="3rd Qu.">28</sumStat>
+      <sumStat type="Max.">96</sumStat>
+      <sumStat type="NA's">397</sumStat>
+      <sumStat type="valid">26551</sumStat>
+      <sumStat type="invalid">397</sumStat>
+    </var>
+    <var ID="end" intrvl="numeric" files="biocouply">
+      <labl>Age when spell ends</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">21</sumStat>
+      <sumStat type="Median">26</sumStat>
+      <sumStat type="Mean">28.93</sumStat>
+      <sumStat type="3rd Qu.">34</sumStat>
+      <sumStat type="Max.">96</sumStat>
+      <sumStat type="NA's">432</sumStat>
+      <sumStat type="valid">26516</sumStat>
+      <sumStat type="invalid">432</sumStat>
+    </var>
+    <var ID="beginy" intrvl="numeric" files="biocouply">
+      <labl>Begin, calendar year</labl>
+      <sumStat type="Min.">1918</sumStat>
+      <sumStat type="1st Qu.">1987</sumStat>
+      <sumStat type="Median">2000</sumStat>
+      <sumStat type="Mean">1996</sumStat>
+      <sumStat type="3rd Qu.">2009</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="NA's">435</sumStat>
+      <sumStat type="valid">26513</sumStat>
+      <sumStat type="invalid">435</sumStat>
+    </var>
+    <var ID="endy" intrvl="numeric" files="biocouply">
+      <labl>End, calendar year</labl>
+      <sumStat type="Min.">1936</sumStat>
+      <sumStat type="1st Qu.">1998</sumStat>
+      <sumStat type="Median">2008</sumStat>
+      <sumStat type="Mean">2004</sumStat>
+      <sumStat type="3rd Qu.">2014</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="NA's">434</sumStat>
+      <sumStat type="valid">26514</sumStat>
+      <sumStat type="invalid">434</sumStat>
+    </var>
+    <var ID="pdeath" intrvl="labeled_numeric" files="biocouply">
+      <labl>Death indicator: spell ends with death of partner?</labl>
+      <sumStat type="valid">17215</sumStat>
+      <sumStat type="invalid">9733</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq"> 8636</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq"> 1097</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] spell does not ends with death of partner</labl>
+        <catStat type="freq">17097</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] spell ends with death of partner</labl>
+        <catStat type="freq">  118</catStat>
+      </catgry>
+    </var>
+    <var ID="divorce" intrvl="labeled_numeric" files="biocouply">
+      <labl>Divorce indicator: spell ends with divorce?</labl>
+      <sumStat type="valid">3887</sumStat>
+      <sumStat type="invalid">23061</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">21038</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq"> 2023</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] spell does not end with divorce</labl>
+        <catStat type="freq"> 3626</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] spell ends with divorce</labl>
+        <catStat type="freq">  261</catStat>
+      </catgry>
+    </var>
+    <var ID="censor" intrvl="labeled_numeric" files="biocouply">
+      <labl>Censoring information</labl>
+      <sumStat type="valid">26948</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] not censored</labl>
+        <catStat type="freq">15397</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] LC: missing</labl>
+        <catStat type="freq"> 5203</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] LC: after gap</labl>
+        <catStat type="freq">   20</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] RC: missing</labl>
+        <catStat type="freq">  149</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] RC: before gap</labl>
+        <catStat type="freq">  685</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] RC: last spell</labl>
+        <catStat type="freq"> 4322</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] RC: death</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] LC+RC: missing &amp; missing</labl>
+        <catStat type="freq">  320</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] LC+RC: missing &amp; before gap</labl>
+        <catStat type="freq">  143</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] LC+RC: missing &amp; last spell</labl>
+        <catStat type="freq">  404</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] LC+RC: missing &amp; death</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] LC+RC: after gap &amp; missing</labl>
+        <catStat type="freq">    5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] LC+RC: after gap &amp; before gap</labl>
+        <catStat type="freq">    1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] LC+RC: after gap &amp; last spell</labl>
+        <catStat type="freq">  298</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] LC+RC: after gap &amp; death</labl>
+        <catStat type="freq">    1</catStat>
+      </catgry>
+    </var>
+    <var ID="remark" intrvl="labeled_numeric" files="biocouply">
+      <labl>Error code: Comment on spell</labl>
+      <sumStat type="valid">26948</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] orig. spell</labl>
+        <catStat type="freq">17899</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] edit. spell</labl>
+        <catStat type="freq">  175</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] added spell</labl>
+        <catStat type="freq"> 2768</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] gap spell</labl>
+        <catStat type="freq">  602</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] first spell</labl>
+        <catStat type="freq"> 5504</catStat>
+      </catgry>
+    </var>
+    <var ID="source" intrvl="labeled_numeric" files="biocouply">
+      <labl>Source of Information</labl>
+      <sumStat type="valid">26621</sumStat>
+      <sumStat type="invalid">327</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">  327</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Biography-questionnaire</labl>
+        <catStat type="freq">19878</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Personal-questionnaire</labl>
+        <catStat type="freq"> 1628</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Biography- and personal-questionnaire</labl>
+        <catStat type="freq"> 5115</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="biocouply"/>
+</codebook>

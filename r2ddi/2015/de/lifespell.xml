@@ -1,0 +1,580 @@
+<codebook>
+  <dataDscr>
+    <var ID="hhnr" intrvl="numeric" files="lifespell">
+      <labl>Ursprungshaushaltsnummer</labl>
+      <sumStat type="Min.">3144000</sumStat>
+      <sumStat type="1st Qu.">3216000</sumStat>
+      <sumStat type="Median">3284000</sumStat>
+      <sumStat type="Mean">3301000</sumStat>
+      <sumStat type="3rd Qu.">3408000</sumStat>
+      <sumStat type="Max.">3500000</sumStat>
+      <sumStat type="valid">34235</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="persnr" intrvl="numeric" files="lifespell">
+      <labl>Unveraenderliche Personennummer</labl>
+      <sumStat type="Min.">31440000</sumStat>
+      <sumStat type="1st Qu.">32170000</sumStat>
+      <sumStat type="Median">32860000</sumStat>
+      <sumStat type="Mean">33010000</sumStat>
+      <sumStat type="3rd Qu.">34080000</sumStat>
+      <sumStat type="Max.">3.5e+07</sumStat>
+      <sumStat type="valid">34235</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="spellnr" intrvl="numeric" files="lifespell">
+      <labl>Number of spell</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.036</sumStat>
+      <sumStat type="3rd Qu.">3</sumStat>
+      <sumStat type="Max.">5</sumStat>
+      <sumStat type="valid">34235</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="spelltyp" intrvl="labeled_numeric" files="lifespell">
+      <labl>Type of spell</labl>
+      <sumStat type="valid">34235</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Living in Germany</labl>
+        <catStat type="freq">13149</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] SOEP</labl>
+        <catStat type="freq">11976</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Living Abroad</labl>
+        <catStat type="freq"> 7664</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Deceased</labl>
+        <catStat type="freq">   24</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Gap</labl>
+        <catStat type="freq"> 1422</catStat>
+      </catgry>
+    </var>
+    <var ID="begin" intrvl="numeric" files="lifespell">
+      <labl>Year Spell begins</labl>
+      <sumStat type="Min.">1918</sumStat>
+      <sumStat type="1st Qu.">1990</sumStat>
+      <sumStat type="Median">2011</sumStat>
+      <sumStat type="Mean">2001</sumStat>
+      <sumStat type="3rd Qu.">2013</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="valid">34235</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="end" intrvl="numeric" files="lifespell">
+      <labl>Year Spell ends</labl>
+      <sumStat type="Min.">1925</sumStat>
+      <sumStat type="1st Qu.">2012</sumStat>
+      <sumStat type="Median">2013</sumStat>
+      <sumStat type="Mean">2010</sumStat>
+      <sumStat type="3rd Qu.">2015</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="valid">34235</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="zensor" intrvl="labeled_numeric" files="lifespell">
+      <labl>Censor variable</labl>
+      <sumStat type="valid">34235</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] left censored</labl>
+        <catStat type="freq">   28</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] left censored: gap</labl>
+        <catStat type="freq"> 1423</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>[20] right censored</labl>
+        <catStat type="freq">   63</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>[21] right censored: gap</labl>
+        <catStat type="freq"> 1369</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <labl>[22] rc: no information after SOEP</labl>
+        <catStat type="freq"> 1598</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <labl>[23] rc: no information after study 1992</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>24</catValu>
+        <labl>[24] rc: no information after study 2001</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>25</catValu>
+        <labl>[25] rc: no information after study 2006</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>26</catValu>
+        <labl>[26] rc: no information after study 2008</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>27</catValu>
+        <labl>[27] rc: end of survey</labl>
+        <catStat type="freq">10354</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>40</catValu>
+        <labl>[40] spell does not exist</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>50</catValu>
+        <labl>[50] not censored</labl>
+        <catStat type="freq">17978</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>60</catValu>
+        <labl>[60] right+left censored: gap</labl>
+        <catStat type="freq"> 1422</catStat>
+      </catgry>
+    </var>
+    <var ID="info" intrvl="labeled_numeric" files="lifespell">
+      <labl>Origin of information for spell</labl>
+      <sumStat type="valid">34235</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] SOEP Survey</labl>
+        <catStat type="freq">19215</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] SOEP Fieldwork</labl>
+        <catStat type="freq">13598</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Study 1992</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Study 2001</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Study 2006</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Study 2008</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] no info</labl>
+        <catStat type="freq"> 1422</catStat>
+      </catgry>
+    </var>
+    <var ID="study1992" intrvl="labeled_numeric" files="lifespell">
+      <labl>Drop-out study 1992</labl>
+      <sumStat type="valid">34235</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] not in study</labl>
+        <catStat type="freq">34235</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] found in study</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] not found in study</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+    </var>
+    <var ID="study2001" intrvl="labeled_numeric" files="lifespell">
+      <labl>Drop-out study 2001</labl>
+      <sumStat type="valid">34235</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] not in study</labl>
+        <catStat type="freq">34235</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] found in study</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] not found in study</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+    </var>
+    <var ID="study2006" intrvl="labeled_numeric" files="lifespell">
+      <labl>Drop-out study 2006</labl>
+      <sumStat type="valid">34235</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] not in study</labl>
+        <catStat type="freq">34235</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] found in study</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] not found in study</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+    </var>
+    <var ID="study2008" intrvl="labeled_numeric" files="lifespell">
+      <labl>Drop-out study 2008</labl>
+      <sumStat type="valid">34235</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] not in study</labl>
+        <catStat type="freq">34235</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] found in study</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] not found in study</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+    </var>
+    <var ID="flag1" intrvl="labeled_numeric" files="lifespell">
+      <labl>Spell information deviates from other SOEP information</labl>
+      <sumStat type="valid">34235</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Consistent Information</labl>
+        <catStat type="freq">34177</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Conflicting Information</labl>
+        <catStat type="freq">   58</catStat>
+      </catgry>
+    </var>
+    <var ID="flag2" intrvl="labeled_numeric" files="lifespell">
+      <labl>Country of birth unknown</labl>
+      <sumStat type="valid">34235</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Country of Birth Known</labl>
+        <catStat type="freq">25422</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Country of Birth Estimated</labl>
+        <catStat type="freq"> 8813</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="lifespell"/>
+</codebook>

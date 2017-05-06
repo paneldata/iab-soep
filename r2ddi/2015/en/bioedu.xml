@@ -1,0 +1,4426 @@
+<codebook>
+  <dataDscr>
+    <var ID="hhnr" intrvl="numeric" files="bioedu">
+      <labl>Original Household Number</labl>
+      <sumStat type="Min.">3144000</sumStat>
+      <sumStat type="1st Qu.">3211000</sumStat>
+      <sumStat type="Median">3276000</sumStat>
+      <sumStat type="Mean">3291000</sumStat>
+      <sumStat type="3rd Qu.">3338000</sumStat>
+      <sumStat type="Max.">3500000</sumStat>
+      <sumStat type="valid">7437</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="persnr" intrvl="numeric" files="bioedu">
+      <labl>Never Changing Person ID</labl>
+      <sumStat type="Min.">31440000</sumStat>
+      <sumStat type="1st Qu.">32110000</sumStat>
+      <sumStat type="Median">32770000</sumStat>
+      <sumStat type="Mean">32910000</sumStat>
+      <sumStat type="3rd Qu.">33390000</sumStat>
+      <sumStat type="Max.">3.5e+07</sumStat>
+      <sumStat type="valid">7437</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="firstobs" intrvl="numeric" files="bioedu">
+      <labl>age at first observation</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">25</sumStat>
+      <sumStat type="Median">34</sumStat>
+      <sumStat type="Mean">33.54</sumStat>
+      <sumStat type="3rd Qu.">43</sumStat>
+      <sumStat type="Max.">95</sumStat>
+      <sumStat type="valid">7437</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="lastobs" intrvl="numeric" files="bioedu">
+      <labl>age at last observation</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">26</sumStat>
+      <sumStat type="Median">35</sumStat>
+      <sumStat type="Mean">34.59</sumStat>
+      <sumStat type="3rd Qu.">44</sumStat>
+      <sumStat type="Max.">96</sumStat>
+      <sumStat type="valid">7437</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="gebjahr" intrvl="numeric" files="bioedu">
+      <labl>Year of birth</labl>
+      <sumStat type="Min.">1918</sumStat>
+      <sumStat type="1st Qu.">1970</sumStat>
+      <sumStat type="Median">1980</sumStat>
+      <sumStat type="Mean">1980</sumStat>
+      <sumStat type="3rd Qu.">1989</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="valid">7437</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="gebmonat" intrvl="labeled_numeric" files="bioedu">
+      <labl>Month of birth</labl>
+      <sumStat type="valid">5070</sumStat>
+      <sumStat type="invalid">2367</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">1675</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 692</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] January</labl>
+        <catStat type="freq"> 548</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] February</labl>
+        <catStat type="freq"> 394</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] March</labl>
+        <catStat type="freq"> 468</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] April</labl>
+        <catStat type="freq"> 443</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] May</labl>
+        <catStat type="freq"> 455</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] June</labl>
+        <catStat type="freq"> 396</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] July</labl>
+        <catStat type="freq"> 423</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] August</labl>
+        <catStat type="freq"> 401</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] September</labl>
+        <catStat type="freq"> 425</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] October</labl>
+        <catStat type="freq"> 410</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] November</labl>
+        <catStat type="freq"> 352</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] December</labl>
+        <catStat type="freq"> 355</catStat>
+      </catgry>
+    </var>
+    <var ID="beinfo" intrvl="numeric" files="bioedu">
+      <labl>pattern of observation</labl>
+      <sumStat type="Min.">1e+08</sumStat>
+      <sumStat type="1st Qu.">1e+08</sumStat>
+      <sumStat type="Median">1e+08</sumStat>
+      <sumStat type="Mean">106800000</sumStat>
+      <sumStat type="3rd Qu.">1e+08</sumStat>
+      <sumStat type="Max.">4e+08</sumStat>
+      <sumStat type="NA's">305</sumStat>
+      <sumStat type="valid">7132</sumStat>
+      <sumStat type="invalid">305</sumStat>
+    </var>
+    <var ID="bet0age" intrvl="numeric" files="bioedu">
+      <labl>Age (y.), first observed attendance of ECEC</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">5.107</sumStat>
+      <sumStat type="3rd Qu.">6</sumStat>
+      <sumStat type="Max.">15</sumStat>
+      <sumStat type="NA's">6885</sumStat>
+      <sumStat type="valid">552</sumStat>
+      <sumStat type="invalid">6885</sumStat>
+    </var>
+    <var ID="bet0agem" intrvl="numeric" files="bioedu">
+      <labl>Age (mon.), first observed attendance of ECEC</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">37</sumStat>
+      <sumStat type="Median">59</sumStat>
+      <sumStat type="Mean">59.47</sumStat>
+      <sumStat type="3rd Qu.">79</sumStat>
+      <sumStat type="Max.">161</sumStat>
+      <sumStat type="NA's">7196</sumStat>
+      <sumStat type="valid">241</sumStat>
+      <sumStat type="invalid">7196</sumStat>
+    </var>
+    <var ID="bet0fst" intrvl="labeled_numeric" files="bioedu">
+      <labl>Fed. State, first observed attendance of ECEC</labl>
+      <sumStat type="valid">552</sumStat>
+      <sumStat type="invalid">6885</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">6885</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] BE</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] SH</labl>
+        <catStat type="freq">  18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH</labl>
+        <catStat type="freq">  17</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] NI</labl>
+        <catStat type="freq">  40</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] HB</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] NRW</labl>
+        <catStat type="freq"> 147</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] HE</labl>
+        <catStat type="freq">  47</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] SL/RP</labl>
+        <catStat type="freq">  29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] BW</labl>
+        <catStat type="freq">  83</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] BY</labl>
+        <catStat type="freq"> 104</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] SL</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] BE</labl>
+        <catStat type="freq">  23</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] BB</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] MV</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] SN</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] ST</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] TH</labl>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+    </var>
+    <var ID="bet0obs" intrvl="labeled_numeric" files="bioedu">
+      <labl>uncensored first attendance of ECEC</labl>
+      <sumStat type="valid">222</sumStat>
+      <sumStat type="invalid">7215</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7215</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq"> 222</catStat>
+      </catgry>
+    </var>
+    <var ID="bet0year" intrvl="numeric" files="bioedu">
+      <labl>Year, first observed attendance of ECEC</labl>
+      <sumStat type="Min.">2013</sumStat>
+      <sumStat type="1st Qu.">2013</sumStat>
+      <sumStat type="Median">2013</sumStat>
+      <sumStat type="Mean">2014</sumStat>
+      <sumStat type="3rd Qu.">2015</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="NA's">6885</sumStat>
+      <sumStat type="valid">552</sumStat>
+      <sumStat type="invalid">6885</sumStat>
+    </var>
+    <var ID="bet1age" intrvl="numeric" files="bioedu">
+      <labl>Age (y.), last observed attendance of ECEC</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">5.386</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">15</sumStat>
+      <sumStat type="NA's">6885</sumStat>
+      <sumStat type="valid">552</sumStat>
+      <sumStat type="invalid">6885</sumStat>
+    </var>
+    <var ID="bet1agem" intrvl="numeric" files="bioedu">
+      <labl>Age (mon.), last observed attendance of ECEC</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">45</sumStat>
+      <sumStat type="Median">60</sumStat>
+      <sumStat type="Mean">63.33</sumStat>
+      <sumStat type="3rd Qu.">81</sumStat>
+      <sumStat type="Max.">161</sumStat>
+      <sumStat type="NA's">7196</sumStat>
+      <sumStat type="valid">241</sumStat>
+      <sumStat type="invalid">7196</sumStat>
+    </var>
+    <var ID="bet1fst" intrvl="labeled_numeric" files="bioedu">
+      <labl>Fed. State, last observed attendance of ECEC</labl>
+      <sumStat type="valid">552</sumStat>
+      <sumStat type="invalid">6885</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">6885</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] BE</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] SH</labl>
+        <catStat type="freq">  18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH</labl>
+        <catStat type="freq">  17</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] NI</labl>
+        <catStat type="freq">  40</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] HB</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] NRW</labl>
+        <catStat type="freq"> 147</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] HE</labl>
+        <catStat type="freq">  47</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] SL/RP</labl>
+        <catStat type="freq">  29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] BW</labl>
+        <catStat type="freq">  83</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] BY</labl>
+        <catStat type="freq"> 104</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] SL</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] BE</labl>
+        <catStat type="freq">  23</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] BB</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] MV</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] SN</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] ST</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] TH</labl>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+    </var>
+    <var ID="bet1obs" intrvl="labeled_numeric" files="bioedu">
+      <labl>uncensored last attendance of ECEC</labl>
+      <sumStat type="valid">300</sumStat>
+      <sumStat type="invalid">7137</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7137</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq"> 300</catStat>
+      </catgry>
+    </var>
+    <var ID="bet1year" intrvl="numeric" files="bioedu">
+      <labl>Year, last observed attendance of ECEC</labl>
+      <sumStat type="Min.">2013</sumStat>
+      <sumStat type="1st Qu.">2013</sumStat>
+      <sumStat type="Median">2014</sumStat>
+      <sumStat type="Mean">2014</sumStat>
+      <sumStat type="3rd Qu.">2015</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="NA's">6885</sumStat>
+      <sumStat type="valid">552</sumStat>
+      <sumStat type="invalid">6885</sumStat>
+    </var>
+    <var ID="bet2age" intrvl="numeric" files="bioedu">
+      <labl>school enrolment, age in years</labl>
+      <sumStat type="Min.">5</sumStat>
+      <sumStat type="1st Qu.">6</sumStat>
+      <sumStat type="Median">7</sumStat>
+      <sumStat type="Mean">6.678</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">9</sumStat>
+      <sumStat type="NA's">7263</sumStat>
+      <sumStat type="valid">174</sumStat>
+      <sumStat type="invalid">7263</sumStat>
+    </var>
+    <var ID="bet2agem" intrvl="numeric" files="bioedu">
+      <labl>school enrolment, age in months</labl>
+      <sumStat type="Min.">59</sumStat>
+      <sumStat type="1st Qu.">75</sumStat>
+      <sumStat type="Median">79</sumStat>
+      <sumStat type="Mean">82.35</sumStat>
+      <sumStat type="3rd Qu.">90.25</sumStat>
+      <sumStat type="Max.">106</sumStat>
+      <sumStat type="NA's">7357</sumStat>
+      <sumStat type="valid">80</sumStat>
+      <sumStat type="invalid">7357</sumStat>
+    </var>
+    <var ID="bet2fst" intrvl="labeled_numeric" files="bioedu">
+      <labl>school enrolment, Fed. State</labl>
+      <sumStat type="valid">174</sumStat>
+      <sumStat type="invalid">7263</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7263</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] BE</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] SH</labl>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] NI</labl>
+        <catStat type="freq">  15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] HB</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] NRW</labl>
+        <catStat type="freq">  55</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] HE</labl>
+        <catStat type="freq">  14</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] SL/RP</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] BW</labl>
+        <catStat type="freq">  26</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] BY</labl>
+        <catStat type="freq">  34</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] SL</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] BE</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] BB</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] MV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] SN</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] ST</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] TH</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bet2info" intrvl="string" files="bioedu">
+      <labl>school enrolment, construction of variable</labl>
+      <sumStat type="valid">249</sumStat>
+      <sumStat type="invalid">7188</sumStat>
+    </var>
+    <var ID="bet2obs" intrvl="labeled_numeric" files="bioedu">
+      <labl>school enrolment observed</labl>
+      <sumStat type="valid">174</sumStat>
+      <sumStat type="invalid">7263</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7263</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq"> 174</catStat>
+      </catgry>
+    </var>
+    <var ID="bet2type" intrvl="labeled_numeric" files="bioedu">
+      <labl>school enrolment, type of school</labl>
+      <sumStat type="valid">174</sumStat>
+      <sumStat type="invalid">7263</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7263</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Primary school</labl>
+        <catStat type="freq"> 171</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Secondary general school</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Intermediate school</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Upper secondary school</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Comprehensive school</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Other school</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Evening school</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] Technical high school</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] POS (Grade 1-10, East Germany)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] EOS (Grade 11/12, East Germany)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bet2year" intrvl="numeric" files="bioedu">
+      <labl>school enrolment, year</labl>
+      <sumStat type="Min.">2013</sumStat>
+      <sumStat type="1st Qu.">2014</sumStat>
+      <sumStat type="Median">2014</sumStat>
+      <sumStat type="Mean">2014</sumStat>
+      <sumStat type="3rd Qu.">2015</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="NA's">7263</sumStat>
+      <sumStat type="valid">174</sumStat>
+      <sumStat type="invalid">7263</sumStat>
+    </var>
+    <var ID="bet3age" intrvl="numeric" files="bioedu">
+      <labl>transition to sec. school, age in years</labl>
+      <sumStat type="Min.">8</sumStat>
+      <sumStat type="1st Qu.">9</sumStat>
+      <sumStat type="Median">10</sumStat>
+      <sumStat type="Mean">9.828</sumStat>
+      <sumStat type="3rd Qu.">11</sumStat>
+      <sumStat type="Max.">13</sumStat>
+      <sumStat type="NA's">7408</sumStat>
+      <sumStat type="valid">29</sumStat>
+      <sumStat type="invalid">7408</sumStat>
+    </var>
+    <var ID="bet3agem" intrvl="numeric" files="bioedu">
+      <labl>transition to sec. school, age in months</labl>
+      <sumStat type="Min.">100</sumStat>
+      <sumStat type="1st Qu.">101</sumStat>
+      <sumStat type="Median">101</sumStat>
+      <sumStat type="Mean">102.6</sumStat>
+      <sumStat type="3rd Qu.">103</sumStat>
+      <sumStat type="Max.">108</sumStat>
+      <sumStat type="NA's">7432</sumStat>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">7432</sumStat>
+    </var>
+    <var ID="bet3fst" intrvl="labeled_numeric" files="bioedu">
+      <labl>transition to sec. school, Fed. State</labl>
+      <sumStat type="valid">29</sumStat>
+      <sumStat type="invalid">7408</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7408</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] BE</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] SH</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] NI</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] HB</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] NRW</labl>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] HE</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] SL/RP</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] BW</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] BY</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] SL</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] BE</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] BB</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] MV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] SN</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] ST</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] TH</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bet3info" intrvl="string" files="bioedu">
+      <labl>transition to sec. school, construction of variable</labl>
+      <sumStat type="valid">30</sumStat>
+      <sumStat type="invalid">7407</sumStat>
+    </var>
+    <var ID="bet3obs" intrvl="labeled_numeric" files="bioedu">
+      <labl>transition to secondary school observed</labl>
+      <sumStat type="valid">29</sumStat>
+      <sumStat type="invalid">7408</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7408</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq">  29</catStat>
+      </catgry>
+    </var>
+    <var ID="bet3type" intrvl="labeled_numeric" files="bioedu">
+      <labl>transition to sec. school, type of school</labl>
+      <sumStat type="valid">29</sumStat>
+      <sumStat type="invalid">7408</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7408</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Primary school</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Secondary general school</labl>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Intermediate school</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Upper secondary school</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Comprehensive school</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Other school</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Evening school</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] Technical high school</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] POS (Grade 1-10, East Germany)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] EOS (Grade 11/12, East Germany)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bet3year" intrvl="numeric" files="bioedu">
+      <labl>transition to sec. school, year</labl>
+      <sumStat type="Min.">2013</sumStat>
+      <sumStat type="1st Qu.">2013</sumStat>
+      <sumStat type="Median">2014</sumStat>
+      <sumStat type="Mean">2014</sumStat>
+      <sumStat type="3rd Qu.">2014</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="NA's">7408</sumStat>
+      <sumStat type="valid">29</sumStat>
+      <sumStat type="invalid">7408</sumStat>
+    </var>
+    <var ID="bet4age" intrvl="numeric" files="bioedu">
+      <labl>first exit from school, age in years</labl>
+      <sumStat type="Min.">16</sumStat>
+      <sumStat type="1st Qu.">17</sumStat>
+      <sumStat type="Median">19</sumStat>
+      <sumStat type="Mean">18.62</sumStat>
+      <sumStat type="3rd Qu.">20</sumStat>
+      <sumStat type="Max.">23</sumStat>
+      <sumStat type="NA's">7400</sumStat>
+      <sumStat type="valid">37</sumStat>
+      <sumStat type="invalid">7400</sumStat>
+    </var>
+    <var ID="bet4cert" intrvl="labeled_numeric" files="bioedu">
+      <labl>first exit from school, certificate</labl>
+      <sumStat type="valid">19</sumStat>
+      <sumStat type="invalid">7418</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7400</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">  18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Secondary school degree</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Intermediate school degree</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Technical school degree</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Upper secondary degree</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Other school degree</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] No school degree (yet), dropout</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+    </var>
+    <var ID="bet4cert_g" intrvl="labeled_numeric" files="bioedu">
+      <labl>Gap Between Year of Exit From School And Collection of Data On Certificate</labl>
+      <sumStat type="valid">19</sumStat>
+      <sumStat type="invalid">7418</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>101</catValu>
+        <labl>[101] -1</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>102</catValu>
+        <labl>[102] -2</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>103</catValu>
+        <labl>[103] -3</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>104</catValu>
+        <labl>[104] -4</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7418</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bet4cert_s" intrvl="labeled_numeric" files="bioedu">
+      <labl>school leaving certificate, source</labl>
+      <sumStat type="valid">19</sumStat>
+      <sumStat type="invalid">7418</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7418</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] P/BIO (1984-93)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] BIO (1994/95)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] BIO (1996-)</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] P (2000, 2002, 2006, 2009, 2011, 2012)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] PAUSL (1984-93)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] BIO AUSL (1994/95)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] P changes since last year (1985-)</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] BIOAGE17</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] PLUECKE changes since last year (1985-)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] P East changes since last year (1990-93)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bet4fst" intrvl="labeled_numeric" files="bioedu">
+      <labl>first exit from school, Fed. State</labl>
+      <sumStat type="valid">37</sumStat>
+      <sumStat type="invalid">7400</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7400</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] BE</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] SH</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] NI</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] HB</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] NRW</labl>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] HE</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] SL/RP</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] BW</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] BY</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] SL</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] BE</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] BB</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] MV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] SN</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] ST</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] TH</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bet4info" intrvl="string" files="bioedu">
+      <labl>school exit, construction of variable</labl>
+      <sumStat type="valid">303</sumStat>
+      <sumStat type="invalid">7134</sumStat>
+    </var>
+    <var ID="bet4obs" intrvl="labeled_numeric" files="bioedu">
+      <labl>first exit from school observed</labl>
+      <sumStat type="valid">37</sumStat>
+      <sumStat type="invalid">7400</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7400</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq">  37</catStat>
+      </catgry>
+    </var>
+    <var ID="bet4type" intrvl="labeled_numeric" files="bioedu">
+      <labl>first exit from school, type of school</labl>
+      <sumStat type="valid">37</sumStat>
+      <sumStat type="invalid">7400</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7400</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Primary school</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Secondary general school</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Intermediate school</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Upper secondary school</labl>
+        <catStat type="freq">  12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Comprehensive school</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Other school</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Evening school</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] Technical high school</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] POS (Grade 1-10, East Germany)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] EOS (Grade 11/12, East Germany)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bet4year" intrvl="numeric" files="bioedu">
+      <labl>first exit from school, year</labl>
+      <sumStat type="Min.">2013</sumStat>
+      <sumStat type="1st Qu.">2013</sumStat>
+      <sumStat type="Median">2014</sumStat>
+      <sumStat type="Mean">2014</sumStat>
+      <sumStat type="3rd Qu.">2014</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="NA's">7400</sumStat>
+      <sumStat type="valid">37</sumStat>
+      <sumStat type="invalid">7400</sumStat>
+    </var>
+    <var ID="bet5age" intrvl="numeric" files="bioedu">
+      <labl>first entry into vocational, age in years</labl>
+      <sumStat type="Min.">15</sumStat>
+      <sumStat type="1st Qu.">19</sumStat>
+      <sumStat type="Median">21</sumStat>
+      <sumStat type="Mean">23.77</sumStat>
+      <sumStat type="3rd Qu.">25</sumStat>
+      <sumStat type="Max.">61</sumStat>
+      <sumStat type="NA's">7345</sumStat>
+      <sumStat type="valid">92</sumStat>
+      <sumStat type="invalid">7345</sumStat>
+    </var>
+    <var ID="bet5fst" intrvl="labeled_numeric" files="bioedu">
+      <labl>first entry into vocational, Fed. State</labl>
+      <sumStat type="valid">92</sumStat>
+      <sumStat type="invalid">7345</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7345</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] BE</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] SH</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] NI</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] HB</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] NRW</labl>
+        <catStat type="freq">  26</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] HE</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] SL/RP</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] BW</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] BY</labl>
+        <catStat type="freq">  15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] SL</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] BE</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] BB</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] MV</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] SN</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] ST</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] TH</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+    </var>
+    <var ID="bet5info" intrvl="string" files="bioedu">
+      <labl>entry vocational, construction of variable</labl>
+      <sumStat type="valid">113</sumStat>
+      <sumStat type="invalid">7324</sumStat>
+    </var>
+    <var ID="bet5month" intrvl="numeric" files="bioedu">
+      <labl>first entry into vocational, calendar month</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">7.5</sumStat>
+      <sumStat type="Median">8</sumStat>
+      <sumStat type="Mean">7.509</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="NA's">7382</sumStat>
+      <sumStat type="valid">55</sumStat>
+      <sumStat type="invalid">7382</sumStat>
+    </var>
+    <var ID="bet5obs" intrvl="labeled_numeric" files="bioedu">
+      <labl>first entry into voc training observed</labl>
+      <sumStat type="valid">92</sumStat>
+      <sumStat type="invalid">7345</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7345</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq">  92</catStat>
+      </catgry>
+    </var>
+    <var ID="bet5type" intrvl="labeled_numeric" files="bioedu">
+      <labl>first entry into vocational, type of training</labl>
+      <sumStat type="valid">92</sumStat>
+      <sumStat type="invalid">7345</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7345</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Apprenticeship</labl>
+        <catStat type="freq">  52</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Specialized vocational school</labl>
+        <catStat type="freq">  13</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Health care school</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Specialized technical school</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Civil service training</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Other vocational education</labl>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Vocational school, unspecified training</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] Apprenticeship, East Germany</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bet5year" intrvl="numeric" files="bioedu">
+      <labl>first entry into vocational, year</labl>
+      <sumStat type="Min.">2013</sumStat>
+      <sumStat type="1st Qu.">2013</sumStat>
+      <sumStat type="Median">2014</sumStat>
+      <sumStat type="Mean">2014</sumStat>
+      <sumStat type="3rd Qu.">2015</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="NA's">7345</sumStat>
+      <sumStat type="valid">92</sumStat>
+      <sumStat type="invalid">7345</sumStat>
+    </var>
+    <var ID="bet5year_g" intrvl="numeric" files="bioedu">
+      <labl>gap between observed entry and source of year</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">0.8209</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="NA's">7370</sumStat>
+      <sumStat type="valid">67</sumStat>
+      <sumStat type="invalid">7370</sumStat>
+    </var>
+    <var ID="bet5year_s" intrvl="labeled_numeric" files="bioedu">
+      <labl>first entry into vocational, source of year</labl>
+      <sumStat type="valid">92</sumStat>
+      <sumStat type="invalid">7345</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7345</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] P start working in current job</labl>
+        <catStat type="freq">  53</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] P start working with current employer</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] P educational participation + calendar</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] P educational participation</labl>
+        <catStat type="freq">  25</catStat>
+      </catgry>
+    </var>
+    <var ID="bet5z_age" intrvl="numeric" files="bioedu">
+      <labl>vocational orientation, age at first observed year</labl>
+      <sumStat type="Min.">17</sumStat>
+      <sumStat type="1st Qu.">17</sumStat>
+      <sumStat type="Median">17</sumStat>
+      <sumStat type="Mean">17</sumStat>
+      <sumStat type="3rd Qu.">17</sumStat>
+      <sumStat type="Max.">17</sumStat>
+      <sumStat type="NA's">7436</sumStat>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">7436</sumStat>
+    </var>
+    <var ID="bet5z_year" intrvl="numeric" files="bioedu">
+      <labl>vocational orientation, first observed year</labl>
+      <sumStat type="Min.">2014</sumStat>
+      <sumStat type="1st Qu.">2014</sumStat>
+      <sumStat type="Median">2014</sumStat>
+      <sumStat type="Mean">2014</sumStat>
+      <sumStat type="3rd Qu.">2014</sumStat>
+      <sumStat type="Max.">2014</sumStat>
+      <sumStat type="NA's">7436</sumStat>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">7436</sumStat>
+    </var>
+    <var ID="bet6age" intrvl="numeric" files="bioedu">
+      <labl>first exit from vocational, age in years</labl>
+      <sumStat type="Min.">16</sumStat>
+      <sumStat type="1st Qu.">21</sumStat>
+      <sumStat type="Median">22</sumStat>
+      <sumStat type="Mean">24.93</sumStat>
+      <sumStat type="3rd Qu.">26</sumStat>
+      <sumStat type="Max.">59</sumStat>
+      <sumStat type="NA's">7310</sumStat>
+      <sumStat type="valid">127</sumStat>
+      <sumStat type="invalid">7310</sumStat>
+    </var>
+    <var ID="bet6cert" intrvl="labeled_numeric" files="bioedu">
+      <labl>first exit from vocational, certificate</labl>
+      <sumStat type="valid">75</sumStat>
+      <sumStat type="invalid">7362</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7310</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">  52</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Apprenticeship</labl>
+        <catStat type="freq">  62</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Vocational school, health care school</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Technical school</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Civil service training</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Other training</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] Vocational training (GDR)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] Master craftsman (GDR)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] Other training (GDR)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>[20] Dropout</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+    </var>
+    <var ID="bet6cert_g" intrvl="numeric" files="bioedu">
+      <labl>Gap Between Year of Exit From Vocational And Collection of Data On Certificate</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.013</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="NA's">7362</sumStat>
+      <sumStat type="valid">75</sumStat>
+      <sumStat type="invalid">7362</sumStat>
+    </var>
+    <var ID="bet6cert_s" intrvl="labeled_numeric" files="bioedu">
+      <labl>vocational certificate, source</labl>
+      <sumStat type="valid">75</sumStat>
+      <sumStat type="invalid">7362</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7310</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">  52</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] P/BIO (1984-93)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] BIO (1994/95)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] BIO (1996-)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] P (2000, 2002, 2006, 2009, 2011, 2012)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] PAUSL (1984-93)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] BIO AUSL (1994/95)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] P changes since last year (1985-)</labl>
+        <catStat type="freq">  75</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] BIOAGE17</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] PLUECKE changes since last year (1985-)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] P East changes since last year (1990-93)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bet6fst" intrvl="labeled_numeric" files="bioedu">
+      <labl>first exit from vocational, Fed. State</labl>
+      <sumStat type="valid">127</sumStat>
+      <sumStat type="invalid">7310</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7310</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] BE</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] SH</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] NI</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] HB</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] NRW</labl>
+        <catStat type="freq">  39</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] HE</labl>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] SL/RP</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] BW</labl>
+        <catStat type="freq">  21</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] BY</labl>
+        <catStat type="freq">  16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] SL</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] BE</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] BB</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] MV</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] SN</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] ST</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] TH</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+    </var>
+    <var ID="bet6info" intrvl="string" files="bioedu">
+      <labl>exit vocational, construction of variable</labl>
+      <sumStat type="valid">154</sumStat>
+      <sumStat type="invalid">7283</sumStat>
+    </var>
+    <var ID="bet6month" intrvl="numeric" files="bioedu">
+      <labl>first exit from vocational, calendar month</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">5</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">5.841</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="NA's">7355</sumStat>
+      <sumStat type="valid">82</sumStat>
+      <sumStat type="invalid">7355</sumStat>
+    </var>
+    <var ID="bet6obs" intrvl="labeled_numeric" files="bioedu">
+      <labl>first exit from voc training observed</labl>
+      <sumStat type="valid">127</sumStat>
+      <sumStat type="invalid">7310</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7310</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq"> 127</catStat>
+      </catgry>
+    </var>
+    <var ID="bet6type" intrvl="labeled_numeric" files="bioedu">
+      <labl>first exit from vocational, type of training</labl>
+      <sumStat type="valid">127</sumStat>
+      <sumStat type="invalid">7310</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7310</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Apprenticeship</labl>
+        <catStat type="freq">  90</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Specialized vocational school</labl>
+        <catStat type="freq">  14</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Health care school</labl>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Specialized technical school</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Civil service training</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Other vocational education</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Vocational school, unspecified training</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] Apprenticeship, East Germany</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bet6year" intrvl="numeric" files="bioedu">
+      <labl>first exit from vocational, year</labl>
+      <sumStat type="Min.">2013</sumStat>
+      <sumStat type="1st Qu.">2013</sumStat>
+      <sumStat type="Median">2014</sumStat>
+      <sumStat type="Mean">2014</sumStat>
+      <sumStat type="3rd Qu.">2014</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="NA's">7310</sumStat>
+      <sumStat type="valid">127</sumStat>
+      <sumStat type="invalid">7310</sumStat>
+    </var>
+    <var ID="bet6year_s" intrvl="labeled_numeric" files="bioedu">
+      <labl>first exit from vocational, source of year</labl>
+      <sumStat type="valid">127</sumStat>
+      <sumStat type="invalid">7310</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7310</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] P changes since last year</labl>
+        <catStat type="freq">  85</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] P educational participation + calendar</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] P educational participation</labl>
+        <catStat type="freq">  32</catStat>
+      </catgry>
+    </var>
+    <var ID="bet7age" intrvl="numeric" files="bioedu">
+      <labl>first entry into tertiary, age in years</labl>
+      <sumStat type="Min.">19</sumStat>
+      <sumStat type="1st Qu.">20</sumStat>
+      <sumStat type="Median">22</sumStat>
+      <sumStat type="Mean">23.1</sumStat>
+      <sumStat type="3rd Qu.">24</sumStat>
+      <sumStat type="Max.">40</sumStat>
+      <sumStat type="NA's">7388</sumStat>
+      <sumStat type="valid">49</sumStat>
+      <sumStat type="invalid">7388</sumStat>
+    </var>
+    <var ID="bet7fst" intrvl="labeled_numeric" files="bioedu">
+      <labl>first entry into tertiary, Fed. State</labl>
+      <sumStat type="valid">49</sumStat>
+      <sumStat type="invalid">7388</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7388</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] BE</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] SH</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] NI</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] HB</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] NRW</labl>
+        <catStat type="freq">  15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] HE</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] SL/RP</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] BW</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] BY</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] SL</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] BE</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] BB</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] MV</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] SN</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] ST</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] TH</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bet7info" intrvl="string" files="bioedu">
+      <labl>entry tertiary, construction of variable</labl>
+      <sumStat type="valid">56</sumStat>
+      <sumStat type="invalid">7381</sumStat>
+    </var>
+    <var ID="bet7obs" intrvl="labeled_numeric" files="bioedu">
+      <labl>first entry into tertiary edu observed</labl>
+      <sumStat type="valid">49</sumStat>
+      <sumStat type="invalid">7388</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7388</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq">  49</catStat>
+      </catgry>
+    </var>
+    <var ID="bet7type" intrvl="labeled_numeric" files="bioedu">
+      <labl>first entry into tertiary, type of school</labl>
+      <sumStat type="valid">49</sumStat>
+      <sumStat type="invalid">7388</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7388</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] University of applied sciences</labl>
+        <catStat type="freq">  20</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] University</labl>
+        <catStat type="freq">  29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Doctorate</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Vocational College</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Other</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bet7year" intrvl="numeric" files="bioedu">
+      <labl>first entry into tertiary, year</labl>
+      <sumStat type="Min.">2013</sumStat>
+      <sumStat type="1st Qu.">2013</sumStat>
+      <sumStat type="Median">2014</sumStat>
+      <sumStat type="Mean">2014</sumStat>
+      <sumStat type="3rd Qu.">2015</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="NA's">7388</sumStat>
+      <sumStat type="valid">49</sumStat>
+      <sumStat type="invalid">7388</sumStat>
+    </var>
+    <var ID="bet7year_s" intrvl="labeled_numeric" files="bioedu">
+      <labl>first entry into tertiary, source of year</labl>
+      <sumStat type="valid">49</sumStat>
+      <sumStat type="invalid">7388</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7388</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] P educational participation + calendar</labl>
+        <catStat type="freq">  29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] P educational participation</labl>
+        <catStat type="freq">  20</catStat>
+      </catgry>
+    </var>
+    <var ID="bet8age" intrvl="numeric" files="bioedu">
+      <labl>first exit from tertiary, age in years</labl>
+      <sumStat type="Min.">18</sumStat>
+      <sumStat type="1st Qu.">23</sumStat>
+      <sumStat type="Median">27</sumStat>
+      <sumStat type="Mean">27.38</sumStat>
+      <sumStat type="3rd Qu.">30</sumStat>
+      <sumStat type="Max.">49</sumStat>
+      <sumStat type="NA's">7374</sumStat>
+      <sumStat type="valid">63</sumStat>
+      <sumStat type="invalid">7374</sumStat>
+    </var>
+    <var ID="bet8cert" intrvl="labeled_numeric" files="bioedu">
+      <labl>first exit from tertiary, certificate</labl>
+      <sumStat type="valid">22</sumStat>
+      <sumStat type="invalid">7415</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7374</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">  41</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Applied University</labl>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] University</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Doctorate</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Vocational College</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Other</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>[20] Dropout</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+    </var>
+    <var ID="bet8cert_g" intrvl="numeric" files="bioedu">
+      <labl>Gap Between Year of Exit From Tertiary And Collection of Data On Certificate</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">0.9091</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="NA's">7415</sumStat>
+      <sumStat type="valid">22</sumStat>
+      <sumStat type="invalid">7415</sumStat>
+    </var>
+    <var ID="bet8cert_s" intrvl="labeled_numeric" files="bioedu">
+      <labl>tertiary certificate, source</labl>
+      <sumStat type="valid">22</sumStat>
+      <sumStat type="invalid">7415</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7374</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">  41</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] P/BIO (1984-93)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] BIO (1994/95)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] BIO (1996-)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] P (2000, 2002, 2006, 2009, 2011, 2012)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] PAUSL (1984-93)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] BIO AUSL (1994/95)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] P changes since last year (1985-)</labl>
+        <catStat type="freq">  22</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] BIOAGE17</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] PLUECKE changes since last year (1985-)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] P East changes since last year (1990-93)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bet8fst" intrvl="labeled_numeric" files="bioedu">
+      <labl>first exit from tertiary, Fed. State</labl>
+      <sumStat type="valid">63</sumStat>
+      <sumStat type="invalid">7374</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7374</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] BE</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] SH</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] NI</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] HB</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] NRW</labl>
+        <catStat type="freq">  13</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] HE</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] SL/RP</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] BW</labl>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] BY</labl>
+        <catStat type="freq">  12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] SL</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] BE</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] BB</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] MV</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] SN</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] ST</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] TH</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+    </var>
+    <var ID="bet8info" intrvl="string" files="bioedu">
+      <labl>exit tertiary, construction of variable</labl>
+      <sumStat type="valid">79</sumStat>
+      <sumStat type="invalid">7358</sumStat>
+    </var>
+    <var ID="bet8month" intrvl="numeric" files="bioedu">
+      <labl>first exit from tertiary, calendar month</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">6.346</sumStat>
+      <sumStat type="3rd Qu.">8</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="NA's">7411</sumStat>
+      <sumStat type="valid">26</sumStat>
+      <sumStat type="invalid">7411</sumStat>
+    </var>
+    <var ID="bet8obs" intrvl="labeled_numeric" files="bioedu">
+      <labl>first exit from tertiary edu observed</labl>
+      <sumStat type="valid">63</sumStat>
+      <sumStat type="invalid">7374</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7374</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq">  63</catStat>
+      </catgry>
+    </var>
+    <var ID="bet8type" intrvl="labeled_numeric" files="bioedu">
+      <labl>first exit from tertiary, type of training</labl>
+      <sumStat type="valid">63</sumStat>
+      <sumStat type="invalid">7374</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7374</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] University of applied sciences</labl>
+        <catStat type="freq">  34</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] University</labl>
+        <catStat type="freq">  29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Doctorate</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Vocational College</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Other</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bet8year" intrvl="numeric" files="bioedu">
+      <labl>first exit from tertiary, year</labl>
+      <sumStat type="Min.">2013</sumStat>
+      <sumStat type="1st Qu.">2013</sumStat>
+      <sumStat type="Median">2014</sumStat>
+      <sumStat type="Mean">2014</sumStat>
+      <sumStat type="3rd Qu.">2014</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="NA's">7374</sumStat>
+      <sumStat type="valid">63</sumStat>
+      <sumStat type="invalid">7374</sumStat>
+    </var>
+    <var ID="bet8year_s" intrvl="labeled_numeric" files="bioedu">
+      <labl>first exit from tertiary, source of year</labl>
+      <sumStat type="valid">63</sumStat>
+      <sumStat type="invalid">7374</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7374</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] P changes since last year</labl>
+        <catStat type="freq">  28</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] P educational participation + calendar</labl>
+        <catStat type="freq">  15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] P educational participation</labl>
+        <catStat type="freq">  20</catStat>
+      </catgry>
+    </var>
+    <var ID="bex4age" intrvl="numeric" files="bioedu">
+      <labl>last observed year in school, age in years</labl>
+      <sumStat type="Min.">6</sumStat>
+      <sumStat type="1st Qu.">9</sumStat>
+      <sumStat type="Median">12</sumStat>
+      <sumStat type="Mean">12.34</sumStat>
+      <sumStat type="3rd Qu.">15</sumStat>
+      <sumStat type="Max.">33</sumStat>
+      <sumStat type="NA's">6750</sumStat>
+      <sumStat type="valid">687</sumStat>
+      <sumStat type="invalid">6750</sumStat>
+    </var>
+    <var ID="bex4cert" intrvl="labeled_numeric" files="bioedu">
+      <labl>highest school leaving certificate ever obtained</labl>
+      <sumStat type="valid">2253</sumStat>
+      <sumStat type="invalid">5184</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">5166</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">  18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Secondary school degree</labl>
+        <catStat type="freq"> 693</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Intermediate school degree</labl>
+        <catStat type="freq"> 654</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Technical school degree</labl>
+        <catStat type="freq"> 227</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Upper secondary degree</labl>
+        <catStat type="freq"> 565</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Other school degree</labl>
+        <catStat type="freq">  22</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] No school degree (yet), dropout</labl>
+        <catStat type="freq">  92</catStat>
+      </catgry>
+    </var>
+    <var ID="bex4cert2" intrvl="labeled_numeric" files="bioedu">
+      <labl>highest school leaving certificate (abroad)</labl>
+      <sumStat type="valid">4198</sumStat>
+      <sumStat type="invalid">3239</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">3239</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Compulsory school without degree</labl>
+        <catStat type="freq"> 358</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Compulsory school with degree</labl>
+        <catStat type="freq">1511</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] More than compulsory school</labl>
+        <catStat type="freq">2329</catStat>
+      </catgry>
+    </var>
+    <var ID="bex4fst" intrvl="labeled_numeric" files="bioedu">
+      <labl>last observed year in school, Fed. State</labl>
+      <sumStat type="valid">671</sumStat>
+      <sumStat type="invalid">6766</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">6766</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] BE</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] SH</labl>
+        <catStat type="freq">  23</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH</labl>
+        <catStat type="freq">  22</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] NI</labl>
+        <catStat type="freq">  57</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] HB</labl>
+        <catStat type="freq">  15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] NRW</labl>
+        <catStat type="freq"> 208</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] HE</labl>
+        <catStat type="freq">  47</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] SL/RP</labl>
+        <catStat type="freq">  35</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] BW</labl>
+        <catStat type="freq">  91</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] BY</labl>
+        <catStat type="freq"> 109</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] SL</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] BE</labl>
+        <catStat type="freq">  20</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] BB</labl>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] MV</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] SN</labl>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] ST</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] TH</labl>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+    </var>
+    <var ID="bex4type" intrvl="labeled_numeric" files="bioedu">
+      <labl>last observed year in school, type of school</labl>
+      <sumStat type="valid">687</sumStat>
+      <sumStat type="invalid">6750</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">6750</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Primary school</labl>
+        <catStat type="freq"> 278</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Secondary general school</labl>
+        <catStat type="freq">  64</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Intermediate school</labl>
+        <catStat type="freq"> 112</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Upper secondary school</labl>
+        <catStat type="freq"> 123</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Comprehensive school</labl>
+        <catStat type="freq">  53</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Other school</labl>
+        <catStat type="freq">  29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Evening school</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] Technical high school</labl>
+        <catStat type="freq">  24</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] POS (Grade 1-10, East Germany)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] EOS (Grade 11/12, East Germany)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bex4year" intrvl="numeric" files="bioedu">
+      <labl>last observed year in school, year</labl>
+      <sumStat type="Min.">2013</sumStat>
+      <sumStat type="1st Qu.">2014</sumStat>
+      <sumStat type="Median">2015</sumStat>
+      <sumStat type="Mean">2015</sumStat>
+      <sumStat type="3rd Qu.">2015</sumStat>
+      <sumStat type="Max.">2016</sumStat>
+      <sumStat type="NA's">6750</sumStat>
+      <sumStat type="valid">687</sumStat>
+      <sumStat type="invalid">6750</sumStat>
+    </var>
+    <var ID="bex6age" intrvl="numeric" files="bioedu">
+      <labl>last observed year in vocational, age in years</labl>
+      <sumStat type="Min.">15</sumStat>
+      <sumStat type="1st Qu.">20</sumStat>
+      <sumStat type="Median">22</sumStat>
+      <sumStat type="Mean">24.53</sumStat>
+      <sumStat type="3rd Qu.">26</sumStat>
+      <sumStat type="Max.">62</sumStat>
+      <sumStat type="NA's">7043</sumStat>
+      <sumStat type="valid">394</sumStat>
+      <sumStat type="invalid">7043</sumStat>
+    </var>
+    <var ID="bex6cert1" intrvl="labeled_numeric" files="bioedu">
+      <labl>observed vocational degree no 1, type</labl>
+      <sumStat type="valid">1281</sumStat>
+      <sumStat type="invalid">6156</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">6156</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Apprenticeship</labl>
+        <catStat type="freq">1012</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Vocational school, health care school</labl>
+        <catStat type="freq"> 183</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Technical school</labl>
+        <catStat type="freq">  39</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Civil service training</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Other training</labl>
+        <catStat type="freq">  45</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] Vocational training (GDR)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] Master craftsman (GDR)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] Other training (GDR)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>[20] Dropout</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bex6cert2" intrvl="labeled_numeric" files="bioedu">
+      <labl>observed vocational degree no 2, type</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">7380</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7380</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Apprenticeship</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Vocational school, health care school</labl>
+        <catStat type="freq">  22</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Technical school</labl>
+        <catStat type="freq">  27</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Civil service training</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Other training</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] Vocational training (GDR)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] Master craftsman (GDR)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] Other training (GDR)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>[20] Dropout</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bex6cert3" intrvl="unknown" files="bioedu">
+      <labl>observed vocational degree no 3, type</labl>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 1</catValu>
+        <labl>[1] Apprenticeship</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 2</catValu>
+        <labl>[2] Vocational School, Health Care School</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 3</catValu>
+        <labl>[3] Technical School</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 4</catValu>
+        <labl>[4] Civil Service Training</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 5</catValu>
+        <labl>[5] Other Training</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] Vocational Training (GDR)</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] Master Craftsman (GDR)</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] Other Training (GDR)</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>[20] Drop-out</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="bex6cert4" intrvl="labeled_numeric" files="bioedu">
+      <labl>observed vocational degree abroad, type</labl>
+      <sumStat type="valid">1129</sumStat>
+      <sumStat type="invalid">6308</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">6308</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Apprenticeship</labl>
+        <catStat type="freq"> 551</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Vocational school, health care school</labl>
+        <catStat type="freq"> 578</catStat>
+      </catgry>
+    </var>
+    <var ID="bex6certn" intrvl="numeric" files="bioedu">
+      <labl>observed vocational degrees, number</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0.5156</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="NA's">4842</sumStat>
+      <sumStat type="valid">2595</sumStat>
+      <sumStat type="invalid">4842</sumStat>
+    </var>
+    <var ID="bex6fst" intrvl="labeled_numeric" files="bioedu">
+      <labl>last observed year in vocational, Fed. State</labl>
+      <sumStat type="valid">394</sumStat>
+      <sumStat type="invalid">7043</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7043</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] BE</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] SH</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] NI</labl>
+        <catStat type="freq">  32</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] HB</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] NRW</labl>
+        <catStat type="freq">  99</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] HE</labl>
+        <catStat type="freq">  33</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] SL/RP</labl>
+        <catStat type="freq">  22</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] BW</labl>
+        <catStat type="freq">  67</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] BY</labl>
+        <catStat type="freq">  49</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] SL</labl>
+        <catStat type="freq">  12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] BE</labl>
+        <catStat type="freq">  15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] BB</labl>
+        <catStat type="freq">  15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] MV</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] SN</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] ST</labl>
+        <catStat type="freq">  12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] TH</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+    </var>
+    <var ID="bex6type" intrvl="labeled_numeric" files="bioedu">
+      <labl>last observed year in vocational, type of school</labl>
+      <sumStat type="valid">394</sumStat>
+      <sumStat type="invalid">7043</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7043</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Apprenticeship</labl>
+        <catStat type="freq"> 268</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Specialized vocational school</labl>
+        <catStat type="freq">  44</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Health care school</labl>
+        <catStat type="freq">  36</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Specialized technical school</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Civil service training</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Other vocational education</labl>
+        <catStat type="freq">  22</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Vocational school, unspecified training</labl>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] Apprenticeship, East Germany</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bex6year" intrvl="numeric" files="bioedu">
+      <labl>last observed year in vocational, year</labl>
+      <sumStat type="Min.">2013</sumStat>
+      <sumStat type="1st Qu.">2013</sumStat>
+      <sumStat type="Median">2014</sumStat>
+      <sumStat type="Mean">2014</sumStat>
+      <sumStat type="3rd Qu.">2015</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="NA's">7043</sumStat>
+      <sumStat type="valid">394</sumStat>
+      <sumStat type="invalid">7043</sumStat>
+    </var>
+    <var ID="bex8age" intrvl="numeric" files="bioedu">
+      <labl>last observed year in tertiary, age in years</labl>
+      <sumStat type="Min.">18</sumStat>
+      <sumStat type="1st Qu.">23</sumStat>
+      <sumStat type="Median">26</sumStat>
+      <sumStat type="Mean">27.34</sumStat>
+      <sumStat type="3rd Qu.">31</sumStat>
+      <sumStat type="Max.">49</sumStat>
+      <sumStat type="NA's">7133</sumStat>
+      <sumStat type="valid">304</sumStat>
+      <sumStat type="invalid">7133</sumStat>
+    </var>
+    <var ID="bex8cert" intrvl="labeled_numeric" files="bioedu">
+      <labl>tertiary degree</labl>
+      <sumStat type="valid">444</sumStat>
+      <sumStat type="invalid">6993</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">6993</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] University of applied sciences</labl>
+        <catStat type="freq"> 126</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] University</labl>
+        <catStat type="freq"> 288</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Doctorate</labl>
+        <catStat type="freq">  27</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Vocational College</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Other</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>[20] Dropout</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="bex8cert2" intrvl="labeled_numeric" files="bioedu">
+      <labl>tertiary degree (abroad)</labl>
+      <sumStat type="valid">711</sumStat>
+      <sumStat type="invalid">6726</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">6726</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq"> 711</catStat>
+      </catgry>
+    </var>
+    <var ID="bex8fst" intrvl="labeled_numeric" files="bioedu">
+      <labl>last observed year in tertiary, Fed. State</labl>
+      <sumStat type="valid">304</sumStat>
+      <sumStat type="invalid">7133</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7133</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] BE</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] SH</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH</labl>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] NI</labl>
+        <catStat type="freq">  16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] HB</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] NRW</labl>
+        <catStat type="freq">  80</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] HE</labl>
+        <catStat type="freq">  38</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] SL/RP</labl>
+        <catStat type="freq">  18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] BW</labl>
+        <catStat type="freq">  36</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] BY</labl>
+        <catStat type="freq">  49</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] SL</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] BE</labl>
+        <catStat type="freq">  25</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] BB</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] MV</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] SN</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] ST</labl>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] TH</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+    </var>
+    <var ID="bex8type" intrvl="labeled_numeric" files="bioedu">
+      <labl>last observed year in tertiary, type of school</labl>
+      <sumStat type="valid">304</sumStat>
+      <sumStat type="invalid">7133</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">7133</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] University of applied sciences</labl>
+        <catStat type="freq">  91</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] University</labl>
+        <catStat type="freq"> 185</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Doctorate</labl>
+        <catStat type="freq">  20</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Vocational College</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Other</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+    </var>
+    <var ID="bex8year" intrvl="numeric" files="bioedu">
+      <labl>last observed year in tertiary, year</labl>
+      <sumStat type="Min.">2013</sumStat>
+      <sumStat type="1st Qu.">2013</sumStat>
+      <sumStat type="Median">2014</sumStat>
+      <sumStat type="Mean">2014</sumStat>
+      <sumStat type="3rd Qu.">2015</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="NA's">7133</sumStat>
+      <sumStat type="valid">304</sumStat>
+      <sumStat type="invalid">7133</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="bioedu"/>
+</codebook>

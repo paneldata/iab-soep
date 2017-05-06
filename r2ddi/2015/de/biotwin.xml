@@ -1,0 +1,171 @@
+<codebook>
+  <dataDscr>
+    <var ID="hhnr" intrvl="numeric" files="biotwin">
+      <labl>Ursprungshaushaltsnummer</labl>
+      <sumStat type="Min.">3148000</sumStat>
+      <sumStat type="1st Qu.">3226000</sumStat>
+      <sumStat type="Median">3283000</sumStat>
+      <sumStat type="Mean">3298000</sumStat>
+      <sumStat type="3rd Qu.">3355000</sumStat>
+      <sumStat type="Max.">3478000</sumStat>
+      <sumStat type="valid">120</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="persnr" intrvl="numeric" files="biotwin">
+      <labl>Personennummer 1. Geschwister</labl>
+      <sumStat type="Min.">31480000</sumStat>
+      <sumStat type="1st Qu.">32260000</sumStat>
+      <sumStat type="Median">32830000</sumStat>
+      <sumStat type="Mean">32980000</sumStat>
+      <sumStat type="3rd Qu.">33550000</sumStat>
+      <sumStat type="Max.">34780000</sumStat>
+      <sumStat type="valid">120</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pnrtwin" intrvl="numeric" files="biotwin">
+      <labl>Personennummer 2. Geschwister</labl>
+      <sumStat type="Min.">31480000</sumStat>
+      <sumStat type="1st Qu.">32260000</sumStat>
+      <sumStat type="Median">32830000</sumStat>
+      <sumStat type="Mean">32980000</sumStat>
+      <sumStat type="3rd Qu.">33550000</sumStat>
+      <sumStat type="Max.">34780000</sumStat>
+      <sumStat type="valid">120</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pnrtrip" intrvl="unknown" files="biotwin">
+      <labl>Personennummer 3. Geschwister</labl>
+    </var>
+    <var ID="pnrquad" intrvl="unknown" files="biotwin">
+      <labl>Personennummer 4. Geschwister</labl>
+    </var>
+    <var ID="pnrmoth" intrvl="numeric" files="biotwin">
+      <labl>Personennummer der Mutter</labl>
+      <sumStat type="Min.">31480000</sumStat>
+      <sumStat type="1st Qu.">32220000</sumStat>
+      <sumStat type="Median">32680000</sumStat>
+      <sumStat type="Mean">32800000</sumStat>
+      <sumStat type="3rd Qu.">33360000</sumStat>
+      <sumStat type="Max.">34710000</sumStat>
+      <sumStat type="NA's">32</sumStat>
+      <sumStat type="valid">88</sumStat>
+      <sumStat type="invalid">32</sumStat>
+    </var>
+    <var ID="biomonoz" intrvl="labeled_numeric" files="biotwin">
+      <labl>Geschlechtskonstellation der Geschwister</labl>
+      <sumStat type="valid">120</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Moeglicherweise eineiige Zwillinge</labl>
+        <catStat type="freq">79</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Definitiv eineiige Zwillinge</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Definitiv zweieiige Zwillinge</labl>
+        <catStat type="freq">41</catStat>
+      </catgry>
+    </var>
+    <var ID="infotwin" intrvl="labeled_numeric" files="biotwin">
+      <labl>Zwillingsstatus: Quelle der Information</labl>
+      <sumStat type="valid">120</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Zwillinge - Nicht in 2006, (generiert)</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Zwillinge - 2006 (Angabe nicht pruefbar)</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Zwillinge - 2006 (Angabe verweigert)</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Zwillinge - 2006 (Angabe validiert)</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Zwillinge - seit 2007, (gen.,GebJahr,Mon</labl>
+        <catStat type="freq">54</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Zwillinge - seit 2007, (gen.,GebJahr)</labl>
+        <catStat type="freq">66</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="biotwin"/>
+</codebook>
