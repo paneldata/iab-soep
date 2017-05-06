@@ -38,6 +38,7 @@ def concepts():
     valid = x.ix[ : , "concept_name"].duplicated() == False
     x = x.ix[valid]
     dor1.lower_all_names(x)
+    print(len(x))
     x.to_csv("ddionrails/concepts.csv", index=False)
 
 def main():
@@ -46,7 +47,6 @@ def main():
     datasets()
     variables()
     convert_r2ddi.Parser("iab-soep-mig", version="2015").write_json()
-    copy.bibtex()
 
 if __name__ == "__main__":
     main()
