@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hhnrakt": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Aktuelle Haushaltsnummer (=BDHNNR)"
   },
   "bdhhnr": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Aktuelle Haushaltsnummer (=HHNRAKT)"
   },
   "bdsampreg": {
@@ -183,6 +192,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Aktuelle Stichprobenregion"
   },
   "bdbula": {
@@ -325,6 +337,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Bundesland"
   },
   "bdregtyp": {
@@ -397,6 +412,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Siedlungsstruktureller Regionsgrundtyp des BBSR"
   },
   "bdwum1": {
@@ -504,6 +522,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Wohnumfeld 1 - Haustyp"
   },
   "bdwum2": {
@@ -611,6 +632,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Wohnumfeld 2 - Privat-,Anstaltshaushalt"
   },
   "bdwum3": {
@@ -708,6 +732,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Wohnumfeld 3 - Quartier"
   },
   "bdhtyp": {
@@ -795,6 +822,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Haushaltstyp"
   },
   "bdhhgr": {
@@ -927,6 +957,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Zahl der Personen im Haushalt"
   },
   "bdhpmax": {
@@ -1054,6 +1087,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Hoechste vergebene Personennummer im HH"
   },
   "bddatumtg": {
@@ -1276,6 +1312,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Tag letzter HH-Kontakt"
   },
   "bddatummo": {
@@ -1403,6 +1442,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Monat letzter HH-Kontakt"
   },
   "bddatumy": {
@@ -1470,6 +1512,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Interviewjahr"
   },
   "bdhader": {
@@ -1572,6 +1617,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Adressenermittlung Haushalt"
   },
   "bdhadq": {
@@ -1654,6 +1702,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Informationsquelle"
   },
   "bdwein": {
@@ -1721,6 +1772,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Welle Einzug an diese Adresse"
   },
   "bdhtel": {
@@ -1788,6 +1842,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Telefon"
   },
   "bdemail": {
@@ -1855,6 +1912,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Haushalt mit e-mail-Anschluss"
   },
   "bdintza": {
@@ -1937,6 +1997,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Zahl der eingesetzten Interviewer"
   },
   "intid": {
@@ -3084,6 +3147,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Interviewer ID"
   },
   "intid_01": {
@@ -4266,6 +4332,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "ID des zuerst eingesetzten Interviewers"
   },
   "bdintk": {
@@ -4378,6 +4447,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Interviewerkontakte"
   },
   "bdtelk1": {
@@ -4454,6 +4526,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Telefonkontakte 1, Bearbeitung"
   },
   "bdtelk2": {
@@ -4525,6 +4600,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Telefonkontakte 2, Nacherhebung"
   },
   "bdschk": {
@@ -4597,6 +4675,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Schriftliche Kontakte"
   },
   "bdsplit": {
@@ -4749,6 +4830,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Startbearbeitungsform"
   },
   "bdhform1": {
@@ -4861,6 +4945,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Hauptb.Bearbeitungsform"
   },
   "bdherg1": {
@@ -4978,6 +5065,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Hauptb.Bearbeitungsergebnis"
   },
   "bdhforms": {
@@ -5090,6 +5180,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Schlusscode Bearbeitungsform"
   },
   "bdhergs": {
@@ -5337,6 +5430,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Schlusscode Bearbeitungsergebnis"
   },
   "bdhstu": {
@@ -5419,6 +5515,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Bearbeitungsstufen Haushalt"
   },
   "bdinckontr": {
@@ -5490,6 +5589,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Incentivierungshaushalte"
   },
   "bdvodere": {
@@ -5561,6 +5663,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Wahl der Incentivierung"
   },
   "bdhand": {
@@ -5637,6 +5742,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Handakte;Besonderheiten"
   },
   "sample1": {
@@ -5844,6 +5952,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "2013",
     "label_de": "Stichprobenkennzeichen TNS-Infratest"
   }
 }

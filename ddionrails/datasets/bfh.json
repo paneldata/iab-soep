@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hhnrakt": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Aktuelle Haushaltsnummer (=BFHHNR)"
   },
   "bfhhnr": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Aktuelle Haushaltsnummer (HHNRAKT)"
   },
   "welle": {
@@ -149,6 +158,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Befragungswelle (1984=1)"
   },
   "sample1": {
@@ -361,6 +373,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Stichprobenkennzeichen"
   },
   "bfausku": {
@@ -399,6 +414,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Auskunftsperson im HH (PNR)"
   },
   "bfh01": {
@@ -481,6 +499,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Veraenderung der Wohnsit."
   },
   "bfh0201": {
@@ -603,6 +624,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Seit wann in dieser Wohnung, Monat"
   },
   "bfh0202": {
@@ -643,6 +667,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Seit wann in dieser Wohnung, Jahr"
   },
   "bfh0301": {
@@ -710,6 +737,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kuendigung durch Vermieter"
   },
   "bfh0302": {
@@ -777,6 +807,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Mietverhaeltnis unsicher"
   },
   "bfh0303": {
@@ -844,6 +877,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Eigenheimerwerb"
   },
   "bfh0304": {
@@ -905,6 +941,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Erbschaft/Schenkung"
   },
   "bfh0305": {
@@ -972,6 +1011,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Fortzug aus Elternhaus"
   },
   "bfh0306": {
@@ -1039,6 +1081,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Berufliche Gruende"
   },
   "bfh0307": {
@@ -1106,6 +1151,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Famil. Gruende: Zusammenzug Mit Partner"
   },
   "bfh0308": {
@@ -1173,6 +1221,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Famil. Gruende: Heirat"
   },
   "bfh0309": {
@@ -1240,6 +1291,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Famil. Gruende: Trennung"
   },
   "bfh0310": {
@@ -1307,6 +1361,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Famil. Gruende: Sonstiges"
   },
   "bfh0311": {
@@ -1374,6 +1431,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Bisherige Wohnung: Zu klein"
   },
   "bfh0312": {
@@ -1441,6 +1501,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Bisherige Wohnung: Zu gross"
   },
   "bfh0313": {
@@ -1508,6 +1571,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Bisherige Wohnung: Wohnkosten"
   },
   "bfh0314": {
@@ -1575,6 +1641,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Andere Gruende: Ausstattung"
   },
   "bfh0315": {
@@ -1642,6 +1711,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Andere Gruende: Wohnlage"
   },
   "bfh0316": {
@@ -1709,6 +1781,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Andere Gruende: Nicht barrierefrei"
   },
   "bfh0317": {
@@ -1776,6 +1851,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Andere Gruende: Wohnumfeld"
   },
   "bfh0318": {
@@ -1843,6 +1921,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Andere Gruende: Lebenssituation"
   },
   "bfh0319": {
@@ -1910,6 +1991,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Sonstiger Grund"
   },
   "bfh0401": {
@@ -1987,6 +2071,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Alte vs. neue Wohnung: Finanzielles"
   },
   "bfh0402": {
@@ -2064,6 +2151,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Alte vs. neue Wohnung: Groesse"
   },
   "bfh0403": {
@@ -2141,6 +2231,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Alte vs. neue Wohnung: Ausstattung"
   },
   "bfh0404": {
@@ -2218,6 +2311,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Alte vs. neue Wohnung: Lage"
   },
   "bfh0405": {
@@ -2295,6 +2391,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": " Alte vs. neue Wohnung: Umwelt"
   },
   "bfh0406": {
@@ -2372,6 +2471,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": " Alte vs. neue Wohnung: Verkehrsverbindungen"
   },
   "bfh0407": {
@@ -2449,6 +2551,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": " Alte vs. neue Wohnung: Nachbarschaft"
   },
   "bfh0408": {
@@ -2526,6 +2631,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": " Alte vs. neue Wohnung: Mietverhaeltnis"
   },
   "bfh05": {
@@ -2613,6 +2721,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wohngegend des Zielhaushaltes"
   },
   "bfh06": {
@@ -2710,6 +2821,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Haustyp des Zielhaushaltes"
   },
   "bfh0701": {
@@ -2812,6 +2926,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Baujahr Schaetzung"
   },
   "bfh0702": {
@@ -2852,6 +2969,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Datierung"
   },
   "bfh08": {
@@ -2954,6 +3074,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wohnheim"
   },
   "bfh09": {
@@ -3031,6 +3154,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Sozialwohnung"
   },
   "bfh10": {
@@ -3103,6 +3229,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Aenderung Wohnflaeche seit letztem Jahr"
   },
   "bfh11": {
@@ -3143,6 +3272,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wohnflaeche insgesamt in qm"
   },
   "bfh12": {
@@ -3181,6 +3313,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Anzahl der Wohnraeume"
   },
   "bfh13": {
@@ -3268,6 +3403,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Beurteilung der Wohnungsgroesse"
   },
   "bfh14": {
@@ -3350,6 +3488,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Zustand des Hauses in dem man wohnt"
   },
   "bfh1501": {
@@ -3417,6 +3558,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Seit Vorjahr-Kueche eingebaut"
   },
   "bfh1502": {
@@ -3484,6 +3628,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Seit Vorjahr-Bad,Dusche,WC eingebaut"
   },
   "bfh1503": {
@@ -3551,6 +3698,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Seit Vorjahr-Heizung eingebaut"
   },
   "bfh1504": {
@@ -3618,6 +3768,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Seit Vorjahr-neue Fenster eingebaut"
   },
   "bfh1505": {
@@ -3685,6 +3838,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Seit Vorjahr-Waermedaemmung eingebaut"
   },
   "bfh1506": {
@@ -3752,6 +3908,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Seit Vorjahr-altersgerchte Umbauten"
   },
   "bfh1507": {
@@ -3819,6 +3978,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Seit Vorjahr-sonst. groessere Massnahmen"
   },
   "bfh1508": {
@@ -3886,6 +4048,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Seit Vorjahr-keine Modernisierungen"
   },
   "bfh16": {
@@ -3963,6 +4128,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Modernisierung auf Kosten von"
   },
   "bfh17": {
@@ -4040,6 +4208,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Modernisierung durchgefuehrt von"
   },
   "bfh18": {
@@ -4080,6 +4251,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Ausgaben Modernisierung"
   },
   "bfh1901": {
@@ -4152,6 +4326,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Foerdermittel Modernisierung"
   },
   "bfh1902": {
@@ -4192,6 +4369,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Betrag Foerdermittel"
   },
   "bfh2001": {
@@ -4264,6 +4444,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Barrierefreies Wohnen"
   },
   "bfh2002": {
@@ -4336,6 +4519,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wohnung mit Fussbodenheizung (ganz/teilweise)"
   },
   "bfh2003": {
@@ -4408,6 +4594,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wohnung mit Balkon,Terasse"
   },
   "bfh2004": {
@@ -4480,6 +4669,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wohnung mit Garten,-benutzung"
   },
   "bfh2005": {
@@ -4552,6 +4744,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wohnung mit Alarmanlage"
   },
   "bfh2006": {
@@ -4624,6 +4819,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wohnung mit Klimaanlage"
   },
   "bfh2007": {
@@ -4696,6 +4894,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wohnung mit Sonnenkollekt., Solarenergie"
   },
   "bfh2008": {
@@ -4768,6 +4969,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wohnung mit sonst. alternat. Energiequellen"
   },
   "bfh2009": {
@@ -4840,6 +5044,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Fenster Doppelverglasung"
   },
   "bfh2010": {
@@ -4912,6 +5119,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Waermedaemmung"
   },
   "bfh2011": {
@@ -4984,6 +5194,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wohnung mit Aufzug/Fahrstuhl im Haus"
   },
   "bfh2012": {
@@ -5056,6 +5269,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wohnung mit Keller,Abstellraeume"
   },
   "bfh2013": {
@@ -5128,6 +5344,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Garage/Stellplatz"
   },
   "bfh21": {
@@ -5200,6 +5419,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Eigentuemerwechsel Vorjahr"
   },
   "bfh2201": {
@@ -5277,6 +5499,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Eigentuemerwechsel Art"
   },
   "bfh2202": {
@@ -5349,6 +5574,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Eigentumerwerb durch"
   },
   "bfh2203": {
@@ -5421,6 +5649,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Art der Veraeusserung"
   },
   "bfh23": {
@@ -5503,6 +5734,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Haupt-, Untermieter, Eigentuemer"
   },
   "bfh24": {
@@ -5575,6 +5809,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Zins-,Tilgungszahlungen f Wohnung"
   },
   "bfh25": {
@@ -5615,6 +5852,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Monatl Zins-,Tilgungszahlungen"
   },
   "bfh26": {
@@ -5655,6 +5895,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hoehe Instandhaltungskosten letzt.J"
   },
   "bfh27": {
@@ -5727,6 +5970,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Solarstrom"
   },
   "bfh2801": {
@@ -5767,6 +6013,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Solarstrom Leistung/kWpeak"
   },
   "bfh2802": {
@@ -5807,6 +6056,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Solarstrom Leistung: Weiss nicht"
   },
   "bfh2901": {
@@ -5847,6 +6099,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Solarstrom Ertrag 2014/kWh"
   },
   "bfh2902": {
@@ -5887,6 +6142,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Solarstrom Ertrag: Weiss nicht"
   },
   "bfh30": {
@@ -5959,6 +6217,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Solarthermie"
   },
   "bfh3101": {
@@ -5979,6 +6240,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Solarthermie Ertrag 2014/kWh"
   },
   "bfh3102": {
@@ -6019,6 +6283,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Solarthermie Ertrag: Weiss nicht"
   },
   "bfh32": {
@@ -6091,6 +6358,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "V. Eigentuemer verbilligt ueberl.Whg"
   },
   "bfh33": {
@@ -6183,6 +6453,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Eigentuemer der Wohnung"
   },
   "bfh3401": {
@@ -6223,6 +6496,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hoehe der monatlichen Miete"
   },
   "bfh3402": {
@@ -6295,6 +6571,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Zahle keine Miete"
   },
   "bfh3501": {
@@ -6335,6 +6614,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Fernwaerme: Heizung"
   },
   "bfh3502": {
@@ -6375,6 +6657,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Fernwaerme: Warmwasser"
   },
   "bfh3503": {
@@ -6395,6 +6680,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Fernwaerme: K.A."
   },
   "bfh3504": {
@@ -6435,6 +6723,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Monatl.Betrag: Fernwaerme"
   },
   "bfh3505": {
@@ -6475,6 +6766,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Jaehrl.Betrag: Fernwaerme"
   },
   "bfh3506": {
@@ -6515,6 +6809,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Gas: Heizung"
   },
   "bfh3507": {
@@ -6555,6 +6852,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Gas: Warmwasser"
   },
   "bfh3508": {
@@ -6595,6 +6895,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Gas: Kochen"
   },
   "bfh3509": {
@@ -6615,6 +6918,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Gas: K.A."
   },
   "bfh3510": {
@@ -6655,6 +6961,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Monatl.Betrag: Gas"
   },
   "bfh3511": {
@@ -6695,6 +7004,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Jaehrl. Betrag: Gas"
   },
   "bfh3512": {
@@ -6735,6 +7047,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Fluessiggas: Heizung"
   },
   "bfh3513": {
@@ -6775,6 +7090,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Fluessiggas: Warmwasser"
   },
   "bfh3514": {
@@ -6815,6 +7133,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Fluessiggas: Kochen"
   },
   "bfh3515": {
@@ -6835,6 +7156,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Fluessiggas: K.A."
   },
   "bfh3516": {
@@ -6875,6 +7199,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Monatl. Betrag: Fluessiggas"
   },
   "bfh3517": {
@@ -6915,6 +7242,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Jaehrl. Betrag: Fluessiggas"
   },
   "bfh3518": {
@@ -6955,6 +7285,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Strom: Heizung"
   },
   "bfh3519": {
@@ -6995,6 +7328,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Strom: Warmwasser"
   },
   "bfh3520": {
@@ -7035,6 +7371,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Strom: Kochen"
   },
   "bfh3521": {
@@ -7075,6 +7414,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Strom: Licht"
   },
   "bfh3522": {
@@ -7095,6 +7437,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Strom: K.A."
   },
   "bfh3523": {
@@ -7135,6 +7480,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Monatl. Betrag: Strom"
   },
   "bfh3524": {
@@ -7175,6 +7523,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Jaehrl. Betrag: Strom"
   },
   "bfh3525": {
@@ -7215,6 +7566,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Heizoel: Heizung"
   },
   "bfh3526": {
@@ -7255,6 +7609,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Heizoel: Warmwasser"
   },
   "bfh3527": {
@@ -7295,6 +7652,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Heizoel: Kochen"
   },
   "bfh3528": {
@@ -7315,6 +7675,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Heizoel: K.A."
   },
   "bfh3529": {
@@ -7355,6 +7718,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Monatl. Betrag: Heizoel"
   },
   "bfh3530": {
@@ -7395,6 +7761,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Jaehrl. Betrag: Heizoel"
   },
   "bfh3531": {
@@ -7435,6 +7804,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kohle: Heizung"
   },
   "bfh3532": {
@@ -7475,6 +7847,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kohle: Warmwasser"
   },
   "bfh3533": {
@@ -7515,6 +7890,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kohle: Kochen"
   },
   "bfh3534": {
@@ -7535,6 +7913,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kohle: K.A."
   },
   "bfh3535": {
@@ -7575,6 +7956,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Monatl. Betrag: Kohle"
   },
   "bfh3536": {
@@ -7615,6 +7999,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Jaehrl. Betrag: Kohle"
   },
   "bfh3537": {
@@ -7655,6 +8042,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Holz/Pellets: Heizung"
   },
   "bfh3538": {
@@ -7695,6 +8085,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Holz/Pellets: Warmwasser"
   },
   "bfh3539": {
@@ -7735,6 +8128,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Holz/Pellets: Kochen"
   },
   "bfh3540": {
@@ -7755,6 +8151,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Holz/Pellets: K.A."
   },
   "bfh3541": {
@@ -7795,6 +8194,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Monatl. Betrag: Holz/Pellets"
   },
   "bfh3542": {
@@ -7835,6 +8237,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Jaehrl. Betrag: Holz/Pellets"
   },
   "bfh3543": {
@@ -7875,6 +8280,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Biomasse: Heizung"
   },
   "bfh3544": {
@@ -7915,6 +8323,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Biomasse: Warmwasser"
   },
   "bfh3545": {
@@ -7935,6 +8346,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Biomasse: K.A."
   },
   "bfh3546": {
@@ -7975,6 +8389,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Monatl. Betrag: Biomasse"
   },
   "bfh3547": {
@@ -8015,6 +8432,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Jaehrl. Betrag: Biomasse"
   },
   "bfh3548": {
@@ -8055,6 +8475,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Solar: Heizung"
   },
   "bfh3549": {
@@ -8095,6 +8518,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Solar: Warmwasser"
   },
   "bfh3550": {
@@ -8135,6 +8561,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Umweltwaerme: Heizung"
   },
   "bfh3551": {
@@ -8175,6 +8604,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Umweltwaerme: Warmwasser"
   },
   "bfh3552": {
@@ -8195,6 +8627,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Heizung Gesamt: K.A."
   },
   "bfh3553": {
@@ -8215,6 +8650,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Warmwasser Gesamt: K.A."
   },
   "bfh3554": {
@@ -8235,6 +8673,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kochen Gesamt: K.A."
   },
   "bfh3555": {
@@ -8255,6 +8696,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Licht Gesamt: K.A."
   },
   "bfh3601": {
@@ -8327,6 +8771,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Nebenkosten"
   },
   "bfh3602": {
@@ -8367,6 +8814,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Betrag: Monat"
   },
   "bfh3603": {
@@ -8407,6 +8857,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Betrag: Jahr"
   },
   "bfh37": {
@@ -8479,6 +8932,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Miet- u.Pachteinnahmen Vorjahr"
   },
   "bfh38": {
@@ -8519,6 +8975,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Miet- u.Pachteinnahmen Betrag Vorjahr"
   },
   "bfh3901": {
@@ -8559,6 +9018,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Betriebs- u.Instandhaltgskosten Vorjahr"
   },
   "bfh3902": {
@@ -8599,6 +9061,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Tilgungs-u.Zinszahlungen Vorjahr"
   },
   "bfh4001": {
@@ -8671,6 +9136,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Steuerlich absetzten, Vorjahr"
   },
   "bfh4002": {
@@ -8711,6 +9179,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Steuerlich absetzten, Betrag Vorjahr"
   },
   "bfh41": {
@@ -8783,6 +9254,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Abzahlung Kredite"
   },
   "bfh42": {
@@ -8803,6 +9277,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Abzahlung Kredite Hoehe"
   },
   "bfh43": {
@@ -8880,6 +9357,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Belastung durch Rueckzahlung Kredite"
   },
   "bfh4401": {
@@ -8941,6 +9421,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Sparbuch Vorjahr"
   },
   "bfh4402": {
@@ -9002,6 +9485,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Bausparvertrag Vorjahr"
   },
   "bfh4403": {
@@ -9063,6 +9549,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Lebensversicherung Vorjahr"
   },
   "bfh4404": {
@@ -9124,6 +9613,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "festverzinsl. Wertpapiere Vorjahr"
   },
   "bfh4405": {
@@ -9185,6 +9677,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "sonstige Wertpapiere Vorjahr"
   },
   "bfh4406": {
@@ -9246,6 +9741,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Betriebsvermoegen Vorjahr"
   },
   "bfh4407": {
@@ -9307,6 +9805,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Keine Wertanlagen Vorjahr"
   },
   "bfh4408": {
@@ -9373,6 +9874,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Verluste steuerlich absetzen"
   },
   "bfh4409": {
@@ -9393,6 +9897,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Verluste steuerlich absetzen, Betrag"
   },
   "bfh4410": {
@@ -9413,6 +9920,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wertanlagen k.A."
   },
   "bfh4501": {
@@ -9433,6 +9943,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Zins-u. Dividendeneinnahmen Vorjahr"
   },
   "bfh4502": {
@@ -9519,6 +10032,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Zins-u. Dividendeneinnahmen geschaetzt Vorjahr"
   },
   "bfh4601": {
@@ -9591,6 +10107,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "unerwartete Geldbetraege, Sachwerte ueber 500 EURO"
   },
   "bfh4602": {
@@ -9658,6 +10177,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Erbschaft"
   },
   "bfh4603": {
@@ -9725,6 +10247,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Schenkung"
   },
   "bfh4604": {
@@ -9792,6 +10317,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Lotteriegewinn"
   },
   "bfh4605": {
@@ -9812,6 +10340,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "unerwartete Geldbetraege,Sachwerte k.A."
   },
   "bfh47": {
@@ -9852,6 +10383,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hoehe unerw. Geldbetrage,Sachwerte in EURO"
   },
   "bfh4801": {
@@ -9924,6 +10458,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kindergeldbezug letztes Jahr"
   },
   "bfh4802": {
@@ -9964,6 +10501,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kindergeld letzt.J Monate"
   },
   "bfh4803": {
@@ -10004,6 +10544,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kindergeld letzt.J Betrag(Monat)"
   },
   "bfh4804": {
@@ -10076,6 +10619,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kindergeldbezug heute"
   },
   "bfh4805": {
@@ -10116,6 +10662,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kindergeldbezug heute Betrag"
   },
   "bfh4806": {
@@ -10156,6 +10705,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Anz. Kinder"
   },
   "bfh4807": {
@@ -10228,6 +10780,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kinderzuschlag letztes Jahr"
   },
   "bfh4808": {
@@ -10268,6 +10823,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kinderzuschlag Anzahl Monate Vorjahr"
   },
   "bfh4809": {
@@ -10308,6 +10866,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kinderzuschlag Betrag Monat Vorjahr"
   },
   "bfh4810": {
@@ -10380,6 +10941,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kinderzuschlagbezug heute"
   },
   "bfh4811": {
@@ -10420,6 +10984,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kinderzuschlagbezug heute Betrag"
   },
   "bfh4812": {
@@ -10492,6 +11059,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Betreuungsgeld letztes Jahr"
   },
   "bfh4813": {
@@ -10532,6 +11102,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Betreuungsgeld Anzahl Monate Vorjahr"
   },
   "bfh4814": {
@@ -10572,6 +11145,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Betreuungsgeld Betrag Monat Vorjahr"
   },
   "bfh4815": {
@@ -10644,6 +11220,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Betreuungsgeld heute"
   },
   "bfh4816": {
@@ -10684,6 +11263,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Betreuungsgeld heute Betrag"
   },
   "bfh4817": {
@@ -10756,6 +11338,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "ALG2, Sozialgeld im letzten Jahr, bezogen"
   },
   "bfh4818": {
@@ -10796,6 +11381,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "ALG2, Sozialgeld im letzten Jahr, Anzahl Monate"
   },
   "bfh4819": {
@@ -10836,6 +11424,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "ALG2, Sozialgeld im letzten Jahr, Betrag pro Monat"
   },
   "bfh4820": {
@@ -10908,6 +11499,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "ALG2, Sozialgeld heute"
   },
   "bfh4821": {
@@ -10948,6 +11542,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "ALG2, Sozialgeld heute Betrag"
   },
   "bfh4822": {
@@ -11020,6 +11617,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Leistungen der Pflegeversicherung Vorjahr"
   },
   "bfh4823": {
@@ -11060,6 +11660,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Leistungen der Pflegeversicherung Monate"
   },
   "bfh4824": {
@@ -11100,6 +11703,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Leistungen der Pflegeversicherung Betrag pro Monat"
   },
   "bfh4825": {
@@ -11172,6 +11778,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Pflegevers. Leistungen"
   },
   "bfh4826": {
@@ -11212,6 +11821,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Pflegevers. Betrag"
   },
   "bfh4827": {
@@ -11284,6 +11896,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hilfe Lebensunterhalt (HLU,HBL) Vorjahr"
   },
   "bfh4828": {
@@ -11324,6 +11939,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hilfe Lebensunterhalt (HLU,HBL) Monate"
   },
   "bfh4829": {
@@ -11364,6 +11982,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hilfe Lebensunterhalt (HLU,HBL) Betrag pro Monat"
   },
   "bfh4830": {
@@ -11436,6 +12057,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hilfe Lebensunterhalt (HLU, HBL) heute"
   },
   "bfh4831": {
@@ -11476,6 +12100,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hilfe Lebensunterhalt (HLU, HBL) Betrag"
   },
   "bfh4832": {
@@ -11548,6 +12175,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Grundsicherung im Alter Vorjahr"
   },
   "bfh4833": {
@@ -11588,6 +12218,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Grundsicherung im Alter Monate"
   },
   "bfh4834": {
@@ -11628,6 +12261,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Grundsicherung im Alter Betrag pro Monat"
   },
   "bfh4835": {
@@ -11700,6 +12336,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Grundsicherung im Alter heute"
   },
   "bfh4836": {
@@ -11740,6 +12379,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Grundsicherung im Alter heute Betrag"
   },
   "bfh4837": {
@@ -11812,6 +12454,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wohngeld,Lastenzuschuss Vorjahr"
   },
   "bfh4838": {
@@ -11852,6 +12497,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Im letzten Jahr: Monate mit Wohngeld o. Lastenzuschuss"
   },
   "bfh4839": {
@@ -11892,6 +12540,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wohngeld,Lastenzuschuss pro Monat"
   },
   "bfh4840": {
@@ -11964,6 +12615,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wohngeldbezug heute"
   },
   "bfh4841": {
@@ -12004,6 +12658,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wohngeldbezug heute Betrag"
   },
   "bfh4901": {
@@ -12044,6 +12701,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "HH-Nettoeinkommen"
   },
   "bfh4902": {
@@ -12156,6 +12816,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "HH-Nettoeinkommensgruppen, nur CAPI"
   },
   "bfh5001": {
@@ -12196,6 +12859,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Sparen: Vermoegensbild."
   },
   "bfh5002": {
@@ -12236,6 +12902,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Sparbetrag/Monat"
   },
   "bfh5003": {
@@ -12276,6 +12945,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Sparen: Vorsorge"
   },
   "bfh5004": {
@@ -12316,6 +12988,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "ae Sparbetrag/Monat"
   },
   "bfh5005": {
@@ -12388,6 +13063,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Sparbetrag monatlich"
   },
   "bfh51": {
@@ -12465,6 +13143,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "puenktliche Mietzahlung"
   },
   "bfh5201": {
@@ -12537,6 +13218,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Haushalt: Farbfernseher"
   },
   "bfh5202": {
@@ -12614,6 +13298,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Gruende"
   },
   "bfh5203": {
@@ -12686,6 +13373,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Haushalt: Festnetzanschluss"
   },
   "bfh5204": {
@@ -12726,6 +13416,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Festnetzanschluss: Anzahl"
   },
   "bfh5205": {
@@ -12803,6 +13496,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kein Festnetzanschl. Gruende"
   },
   "bfh5206": {
@@ -12875,6 +13571,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Haushalt: Handy"
   },
   "bfh5207": {
@@ -12915,6 +13614,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Handy: Anzahl"
   },
   "bfh5208": {
@@ -12992,6 +13694,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kein Handy Gruende"
   },
   "bfh5209": {
@@ -13064,6 +13769,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Haushalt: Internet"
   },
   "bfh5210": {
@@ -13141,6 +13849,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kein Internet Gruende"
   },
   "bfh5211": {
@@ -13213,6 +13924,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Guter Zustand d. Hauses"
   },
   "bfh5212": {
@@ -13290,6 +14004,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Keine guter Zust. Gruende"
   },
   "bfh5213": {
@@ -13362,6 +14079,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Gute Wohngegend"
   },
   "bfh5214": {
@@ -13439,6 +14159,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Keine gute Wohngegend Gruende"
   },
   "bfh5215": {
@@ -13511,6 +14234,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Notfallruecklagen"
   },
   "bfh5216": {
@@ -13588,6 +14314,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Keine Notfallrueckl.Gruende"
   },
   "bfh5217": {
@@ -13660,6 +14389,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Jaehrliche Urlaubsreise"
   },
   "bfh5218": {
@@ -13737,6 +14469,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Keine jaehrl. Reise Gruende"
   },
   "bfh5219": {
@@ -13809,6 +14544,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Freunde zum Essen einladen 1/Monat"
   },
   "bfh5220": {
@@ -13886,6 +14624,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Keine Einladungen Gruende"
   },
   "bfh5221": {
@@ -13958,6 +14699,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Alle 2 Tage: Fisch/Fleisch/Gefluegel"
   },
   "bfh5222": {
@@ -14035,6 +14779,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kein Fleisch Gruende"
   },
   "bfh5223": {
@@ -14107,6 +14854,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Ersetzung alter Moebel"
   },
   "bfh5224": {
@@ -14184,6 +14934,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Keine neuen Moebel Gruende"
   },
   "bfh5301": {
@@ -14224,6 +14977,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Anzahl Fahrzeuge"
   },
   "bfh5302": {
@@ -14301,6 +15057,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Keine Fahrzeuge Gruende"
   },
   "bfh5401": {
@@ -14373,6 +15132,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "1. Fahrzeug"
   },
   "bfh5402": {
@@ -14445,6 +15207,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "2. Fahrzeug"
   },
   "bfh5403": {
@@ -14517,6 +15282,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "3. Fahrzeug"
   },
   "bfh5404": {
@@ -14589,6 +15357,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "4. Fahrzeug"
   },
   "bfh5501": {
@@ -14629,6 +15400,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "1. Fahrzeug: Normalbenzin/Super"
   },
   "bfh5502": {
@@ -14669,6 +15443,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "2. Fahrzeug: Normalbenzin/Super"
   },
   "bfh5503": {
@@ -14709,6 +15486,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "3. Fahrzeug: Normalbenzin/Super"
   },
   "bfh5504": {
@@ -14749,6 +15529,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "4. Fahrzeug: Normalbenzin/Super"
   },
   "bfh5505": {
@@ -14769,6 +15552,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Normalbenzin/Super: K.A."
   },
   "bfh5506": {
@@ -14809,6 +15595,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Normalbenzin Kosten/Monat"
   },
   "bfh5507": {
@@ -14849,6 +15638,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Normalbenzin Kosten/Jahr"
   },
   "bfh5508": {
@@ -14889,6 +15681,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "1. Fahrzeug: E10"
   },
   "bfh5509": {
@@ -14929,6 +15724,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "2. Fahrzeug: E10"
   },
   "bfh5510": {
@@ -14969,6 +15767,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "3. Fahrzeug: E10"
   },
   "bfh5511": {
@@ -14989,6 +15790,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "4. Fahrzeug: E10"
   },
   "bfh5512": {
@@ -15009,6 +15813,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "E10: K.A:"
   },
   "bfh5513": {
@@ -15049,6 +15856,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "E10 Kosten/Monat"
   },
   "bfh5514": {
@@ -15089,6 +15899,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "E10 Kosten/Jahr"
   },
   "bfh5515": {
@@ -15129,6 +15942,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "1. Fahrzeug: Diesel"
   },
   "bfh5516": {
@@ -15169,6 +15985,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "2. Fahrzeug: Diesel"
   },
   "bfh5517": {
@@ -15209,6 +16028,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "3. Fahrzeug: Diesel"
   },
   "bfh5518": {
@@ -15249,6 +16071,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "4. Fahrzeug: Diesel"
   },
   "bfh5519": {
@@ -15269,6 +16094,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Diesel: K.A."
   },
   "bfh5520": {
@@ -15309,6 +16137,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Diesel Kosten/Monat"
   },
   "bfh5521": {
@@ -15349,6 +16180,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Diesel Kosten/Jahr"
   },
   "bfh5522": {
@@ -15389,6 +16223,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "1. Fahrzeug: Gas"
   },
   "bfh5523": {
@@ -15429,6 +16266,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "2. Fahrzeug: Gas"
   },
   "bfh5524": {
@@ -15469,6 +16309,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "3. Fahrzeug: Gas"
   },
   "bfh5525": {
@@ -15509,6 +16352,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "4. Fahrzeug: Gas"
   },
   "bfh5526": {
@@ -15529,6 +16375,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Gas: K.A."
   },
   "bfh5527": {
@@ -15569,6 +16418,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Gas Kosten/Monat"
   },
   "bfh5528": {
@@ -15589,6 +16441,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Gas Kosten/Jahr"
   },
   "bfh5529": {
@@ -15629,6 +16484,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "1. Fahrzeug: Biodiesel"
   },
   "bfh5530": {
@@ -15649,6 +16507,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "2. Fahrzeug: Biodiesel"
   },
   "bfh5531": {
@@ -15669,6 +16530,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "3. Fahrzeug: Biodiesel"
   },
   "bfh5532": {
@@ -15689,6 +16553,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "4. Fahrzeug: Biodiesel"
   },
   "bfh5533": {
@@ -15709,6 +16576,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Biodiesel: K.A."
   },
   "bfh5534": {
@@ -15749,6 +16619,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Biodiesel Kosten/Monat"
   },
   "bfh5535": {
@@ -15769,6 +16642,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Biodiesel Kosten/Jahr"
   },
   "bfh5536": {
@@ -15809,6 +16685,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "1. Fahrzeug: Strom"
   },
   "bfh5537": {
@@ -15829,6 +16708,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "2. Fahrzeug: Strom"
   },
   "bfh5538": {
@@ -15849,6 +16731,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "3. Fahrzeug: Strom"
   },
   "bfh5539": {
@@ -15869,6 +16754,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "4. Fahrzeug: Strom"
   },
   "bfh5540": {
@@ -15889,6 +16777,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Strom: K.A."
   },
   "bfh5541": {
@@ -15929,6 +16820,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Strom Kosten/Monat"
   },
   "bfh5542": {
@@ -15949,6 +16843,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Strom Kosten/Jahr"
   },
   "bfh5543": {
@@ -15969,6 +16866,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "1. Fahrzeug: Wasserstoff"
   },
   "bfh5544": {
@@ -16009,6 +16909,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "2. Fahrzeug: Wasserstoff"
   },
   "bfh5545": {
@@ -16029,6 +16932,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "3. Fahrzeug: Wasserstoff"
   },
   "bfh5546": {
@@ -16049,6 +16955,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "4. Fahrzeug: Wasserstoff"
   },
   "bfh5547": {
@@ -16069,6 +16978,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wasserstoff: K.A."
   },
   "bfh5548": {
@@ -16089,6 +17001,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wasserstoff Kosten/Monat"
   },
   "bfh5549": {
@@ -16109,6 +17024,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wasserstoff Kosten/Jahr"
   },
   "bfh5405": {
@@ -16129,6 +17047,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "1.Fahrzeug Gesamt: K.A."
   },
   "bfh5406": {
@@ -16149,6 +17070,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "2.Fahrzeug Gesamt: K.A."
   },
   "bfh5407": {
@@ -16169,6 +17093,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "3.Fahrzeug Gesamt: K.A."
   },
   "bfh5408": {
@@ -16189,6 +17116,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "4.Fahrzeug Gesamt: K.A."
   },
   "bfh56": {
@@ -16261,6 +17191,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "E-Bike"
   },
   "bfh57": {
@@ -16301,6 +17234,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Anzahl E-Bikes"
   },
   "bfh58": {
@@ -16373,6 +17309,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Oekostromtarif"
   },
   "bfh59": {
@@ -16413,6 +17352,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Seit wann Oekostromtarif"
   },
   "bfh60": {
@@ -16485,6 +17427,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Stromanbieterwechsel seit 5 Jahren"
   },
   "bfh6101": {
@@ -16557,6 +17502,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wechsel seit 5 Jahren trotz Verfuegbarkeit"
   },
   "bfh6102": {
@@ -16597,6 +17545,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wechsel Anzahl"
   },
   "bfh6103": {
@@ -16637,6 +17588,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wechsel Jahr"
   },
   "bfh62": {
@@ -16709,6 +17663,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hilfe-,Pflegebeduerft. Person im HH"
   },
   "bfh6301": {
@@ -16749,6 +17706,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "PNR hilfebeduerfige Person"
   },
   "bfh6302": {
@@ -16816,6 +17776,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hilfe bei Besorgungen ausser HH"
   },
   "bfh6303": {
@@ -16883,6 +17846,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hilfe bei Haushaltsfuehrung"
   },
   "bfh6304": {
@@ -16950,6 +17916,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hilfe bei einfacher Pflegetaetigkeit"
   },
   "bfh6305": {
@@ -17017,6 +17986,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hilfe bei schwieriger Pflegetaetigkeit"
   },
   "bfh6306": {
@@ -17078,6 +18050,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hilfe k.A."
   },
   "bfh6401": {
@@ -17150,6 +18125,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Leistungen der Pflegeversicherung"
   },
   "bfh6402": {
@@ -17232,6 +18210,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Pflegestufe"
   },
   "bfh65": {
@@ -17304,6 +18285,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Gutachten: Alltagskompetenz"
   },
   "bfh6601": {
@@ -17371,6 +18355,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hilfe v. Angehoerigen im HH"
   },
   "bfh6602": {
@@ -17411,6 +18398,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "PNR der Hauptpflegeperson im HH"
   },
   "bfh6603": {
@@ -17478,6 +18468,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wohlfahrtsverbaende"
   },
   "bfh6604": {
@@ -17545,6 +18538,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hilfe v. privaten Pflegedienst"
   },
   "bfh6605": {
@@ -17612,6 +18608,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Freunde/Bekannte/Nachbarn"
   },
   "bfh6606": {
@@ -17679,6 +18678,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hilfe v. Angeh. ausser HH"
   },
   "bfh6607": {
@@ -17740,6 +18742,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Sonst. Pflegehilfe"
   },
   "bfh6608": {
@@ -17760,6 +18765,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Gesamt-KA der hilfeleistenden Personen"
   },
   "bfh6609": {
@@ -17832,6 +18840,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Person erhaelt Bezahlung"
   },
   "bfh6701": {
@@ -17904,6 +18915,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Weitere pflegebeduerftige Personen im HH"
   },
   "bfh6702": {
@@ -17944,6 +18958,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Anzahl weiterer pflegebeduerftiger Personen"
   },
   "bfh6801": {
@@ -18016,6 +19033,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Regelmaessige Kosten fuer Pflege"
   },
   "bfh6802": {
@@ -18056,6 +19076,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Betrag Pflegekosten im Monat"
   },
   "bfh6901": {
@@ -18133,6 +19156,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Putz-,Haushaltshilfe beschaeftigt"
   },
   "bfh6902": {
@@ -18173,6 +19199,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "durchschnittliche Kosten im Monat"
   },
   "bfh70": {
@@ -18245,6 +19274,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kinder bis 16 Jahre im Haushalt"
   },
   "bfhhtagin": {
@@ -18283,6 +19315,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Tag des Interviews"
   },
   "bfhhmonin": {
@@ -18405,6 +19440,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Monat des Interviews"
   },
   "bfhdatst": {
@@ -18443,6 +19481,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Interview beendet Uhrzeit (Stunde)"
   },
   "bfhdatmi": {
@@ -18481,6 +19522,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Interview beendet Uhrzeit (Minuten)"
   },
   "bfhivform": {
@@ -18588,6 +19632,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Durchfuehrung der Befragung"
   },
   "bfhhdaer1": {
@@ -18628,6 +19675,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Interviewdauer muendlich"
   },
   "bfhhdaer2": {
@@ -18648,6 +19698,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Interviewdauer schriftlich"
   },
   "bfhpmax": {
@@ -18686,6 +19739,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Hoechste vergebene PNR im Haushalt"
   },
   "bfh_4101": {
@@ -18726,6 +19782,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kreditabzahlung in D"
   },
   "bfh_4102": {
@@ -18766,6 +19825,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kreditabzahlung in D im Ausland"
   },
   "bfh_4201": {
@@ -18806,6 +19868,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "ae Kreditabzahl./Monat in D"
   },
   "bfh_4202": {
@@ -18846,6 +19911,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "ae Kreditabzahl./Monat im Ausland"
   },
   "bfh_4401": {
@@ -18886,6 +19954,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Sparbuch o.ae. 2014 in D"
   },
   "bfh_4402": {
@@ -18926,6 +19997,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Sparbuch o.ae. 2014 im Ausland"
   },
   "bfh_4403": {
@@ -18966,6 +20040,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Bausparvertrag 2014 in D"
   },
   "bfh_4404": {
@@ -19006,6 +20083,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Bausparvertrag 2014 im Ausland"
   },
   "bfh_4405": {
@@ -19046,6 +20126,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Lebensversicherung 2014 in D"
   },
   "bfh_4406": {
@@ -19086,6 +20169,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Lebensversicherung 2014 im Ausland"
   },
   "bfh_4407": {
@@ -19126,6 +20212,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Festverzinsl. Wertpapiere 2014 in D"
   },
   "bfh_4408": {
@@ -19166,6 +20255,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Festverzinsl. Wertpapiere 2014 im Ausland"
   },
   "bfh_4409": {
@@ -19206,6 +20298,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Andere Wertpapiere 2014 in D"
   },
   "bfh_4410": {
@@ -19246,6 +20341,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Andere Wertpapiere 2014 im Ausland"
   },
   "bfh_4411": {
@@ -19286,6 +20384,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Betriebsvermoegen 2014 in D"
   },
   "bfh_4412": {
@@ -19326,6 +20427,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Betriebsvermoegen 2014 im Ausland"
   },
   "bfh_4413": {
@@ -19366,6 +20470,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Keine Wertanlagen 2014 in D/Gesamt KA"
   },
   "bfh_4414": {
@@ -19406,6 +20513,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Keine Wertanlagen 2014 im Ausland/Gesamt KA"
   },
   "bfh_4415": {
@@ -19446,6 +20556,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Verlustausgleich 2014 in D"
   },
   "bfh_4416": {
@@ -19486,6 +20599,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Verlustausgleich 2014 im Ausland"
   },
   "bfh_4417": {
@@ -19526,6 +20642,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "ae Verlustausgleich 2014 in D"
   },
   "bfh_4418": {
@@ -19546,6 +20665,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "ae Verlustausgleich 2014 im Ausland"
   },
   "bfh_4419": {
@@ -19566,6 +20688,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "KA Wertanlagen in D"
   },
   "bfh_4420": {
@@ -19586,6 +20711,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "KA Wertanlagen im Ausland"
   },
   "bfh_4501": {
@@ -19626,6 +20754,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "ae Einnahmen (Wertanlagen) 2014 in D"
   },
   "bfh_4502": {
@@ -19666,6 +20797,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "ae Einnahmen (Wertanlagen) 2014 im Ausland"
   },
   "bfh_4503": {
@@ -19706,6 +20840,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Geschaetzte Einnahmen (Wertanlagen) 2014 in D"
   },
   "bfh_4504": {
@@ -19746,6 +20883,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Geschaetzte Einnahmen (Wertanlagen) 2014 im Ausland"
   },
   "bfh_hbuh1": {
@@ -19786,6 +20926,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Englische Uebersetzungshilfe"
   },
   "bfh_hbuh2": {
@@ -19826,6 +20969,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Tuerkische Uebersetzungshilfe"
   },
   "bfh_hbuh3": {
@@ -19866,6 +21012,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Russische Uebersetzungshilfe"
   },
   "bfh_hbuh4": {
@@ -19906,6 +21055,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Rumaenische Uebersetzungshilfe"
   },
   "bfh_hbuh5": {
@@ -19946,6 +21098,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Polnische Uebersetzungshilfe"
   },
   "bfh_hbuh6": {
@@ -19986,6 +21141,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Uebersetzungshilfe deutsch sprechende Pers. in HH"
   },
   "bfh_hbuh7": {
@@ -20026,6 +21184,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Professioneller Dolmetscher"
   },
   "bfh_hbuh8": {
@@ -20066,6 +21227,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Uebersetzungshilfe deutsch sprechende Pers. ausserhalb HH"
   },
   "bfh_hbuh9": {
@@ -20106,6 +21270,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Keine Uebersetzungshilfe"
   },
   "bfh_hvj": {
@@ -20146,6 +21313,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Vor einem Jahr schon in dieser Wohnung"
   },
   "bfh_ze02": {
@@ -20227,6 +21397,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Zins u. Tilgung /Monat KA"
   },
   "bfh_ze03": {
@@ -20308,6 +21481,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Instandh.kosten 2014 KA"
   },
   "bfh_zverm2": {
@@ -20389,6 +21565,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Miet-/Pachteinnahmen 2014 KA"
   },
   "bfh_zverm3": {
@@ -20470,6 +21649,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Betriebs-/Instandhalt.kosten 2014 KA"
   },
   "bfh_zverm4": {
@@ -20551,6 +21733,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Tilgung/Zinsen 2014 KA"
   },
   "bfh_zlkg1": {
@@ -20617,6 +21802,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kindergeld 2014 KA"
   },
   "bfh_zlbg1": {
@@ -20683,6 +21871,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Betreuungsgeld 2014 KA"
   },
   "bfh_zlpg1": {
@@ -20749,6 +21940,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Pflegevers. 2014 KA"
   },
   "bfh_zlsh1": {
@@ -20815,6 +22009,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Lfd. Hilfe 2014 KA"
   },
   "bfh_zlgs1": {
@@ -20881,6 +22078,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Grundsicherung 2014 KA"
   },
   "bfh_zdkg1": {
@@ -20947,6 +22147,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Kindergeld heute KA"
   },
   "bfh_zdbg1": {
@@ -21013,6 +22216,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Betreuungsgeld heute KA"
   },
   "bfh_zdpg1": {
@@ -21079,6 +22285,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Pflegevers. heute KA"
   },
   "bfh_zdsh1": {
@@ -21145,6 +22354,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Lfd. Hilfe heute KA"
   },
   "bfh_zdgs1": {
@@ -21211,6 +22423,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Grundsicherung heute KA"
   },
   "intid": {
@@ -21249,6 +22464,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Interviewer-ID"
   }
 }

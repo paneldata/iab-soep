@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hhnrakt": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "aktuelle haushaltsnummer"
   },
   "persnr": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "unveraenderliche personennr. des kindes"
   },
   "persnre": {
@@ -151,6 +160,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "unveraenderliche personennr. der mutter"
   },
   "syear": {
@@ -189,6 +201,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "survey year, erhebungsjahr"
   },
   "bioage": {
@@ -296,6 +311,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "bioage data set"
   },
   "test": {
@@ -413,6 +431,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Testfrage verstanden"
   },
   "mode": {
@@ -515,6 +536,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Befragungsform"
   },
   "sample1": {
@@ -722,6 +746,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Stichprobenkennzeichen TNS-Infratest"
   },
   "paround": {
@@ -804,6 +831,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Anwesende Personen"
   },
   "birthm": {
@@ -926,6 +956,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "geburtsmonat des kindes"
   },
   "birthy": {
@@ -964,6 +997,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "geburtsjahr des kindes"
   },
   "age": {
@@ -1004,6 +1040,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "alter des kindes in mon. z. ztpkt. d. befr."
   },
   "sex": {
@@ -1076,6 +1115,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "geschlecht des kindes"
   },
   "sexresp": {
@@ -1148,6 +1190,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "geschlecht des elternteiles"
   },
   "nchild": {
@@ -1188,6 +1233,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "neugeborenes wievieltes kind"
   },
   "biochild": {
@@ -1260,6 +1308,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "leibliches kind"
   },
   "heightb": {
@@ -1300,6 +1351,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Height of child at birth in cm"
   },
   "weightb": {
@@ -1340,6 +1394,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "geburtsgewicht des kindes in gramm"
   },
   "height": {
@@ -1380,6 +1437,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "koerpergroesse des kindes in cm"
   },
   "weight": {
@@ -1420,6 +1480,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "gewicht des kindes in kilo"
   },
   "circum": {
@@ -1460,6 +1523,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kopfumfang des kindes in cm"
   },
   "lstmedex": {
@@ -1572,6 +1638,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "letzte aerztliche vorsorgeuntersuchung"
   },
   "medaid3mb": {
@@ -1633,6 +1702,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "anzahl aerztl. hilfe i. d. ersten 3 monaten"
   },
   "medaid3m": {
@@ -1735,6 +1807,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "anzahl aerztl. hilfe i. d. letzten 3 monaten"
   },
   "hospital3mb": {
@@ -1862,6 +1937,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "dauer khausaufent. i. erst. 3 mon. in tg"
   },
   "hospital12m": {
@@ -1974,6 +2052,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "dauer krankenhausaufent. i. d. letzten 12 mon. in tg"
   },
   "chhealth": {
@@ -2061,6 +2142,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "allgemeiner gesundheitszustand, kind"
   },
   "health": {
@@ -2143,6 +2227,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "gesundheit des kindes macht sorgen"
   },
   "disord": {
@@ -2220,6 +2307,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Anhaltspunkte fuer Stoerungen"
   },
   "disord1": {
@@ -2281,6 +2371,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Stoerungen: Wahrnehmung"
   },
   "disord2": {
@@ -2342,6 +2435,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Stoerungen: Motorik"
   },
   "disord3": {
@@ -2403,6 +2499,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Stoerungen: Neurolog. Stoerung"
   },
   "disord4": {
@@ -2464,6 +2563,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Stoerungen: Sprache"
   },
   "disord5": {
@@ -2525,6 +2627,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Stoerungen: Regulation"
   },
   "disord6": {
@@ -2592,6 +2697,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Stoerungen: Chronische Krankheit"
   },
   "disord7": {
@@ -2659,6 +2767,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Stoerungen: koerperliche Behinderung"
   },
   "disord8": {
@@ -2720,6 +2831,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Stoerungen: geistige Behinderung"
   },
   "disord9": {
@@ -2781,6 +2895,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Stoerungen: sonstige"
   },
   "disordno": {
@@ -2848,6 +2965,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Keine Einschraenken, Stoerungen, Behinderungen"
   },
   "ill0": {
@@ -2920,6 +3040,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "einschraenkungen im vergleich zu gleichaltrigen"
   },
   "ill10": {
@@ -2987,6 +3110,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "atemwegserkrankungen"
   },
   "ill11": {
@@ -3054,6 +3180,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "asthma"
   },
   "ill12": {
@@ -3121,6 +3250,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "chronische bronchitis"
   },
   "ill13": {
@@ -3188,6 +3320,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "spast.,akute bronchitis"
   },
   "ill14": {
@@ -3255,6 +3390,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "pseudokrupp/kruppsyndrom"
   },
   "ill2": {
@@ -3322,6 +3460,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "mittelohrentzuendung"
   },
   "ill31": {
@@ -3389,6 +3530,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "heuschnupfen"
   },
   "ill32": {
@@ -3456,6 +3600,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "allergien"
   },
   "ill4": {
@@ -3523,6 +3670,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "neurodermitis"
   },
   "ill5": {
@@ -3590,6 +3740,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "fehlsichtigkeit"
   },
   "ill6": {
@@ -3657,6 +3810,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "schwerhoerigkeit"
   },
   "ill7": {
@@ -3724,6 +3880,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "ernaehrungsstoerungen"
   },
   "ill8": {
@@ -3791,6 +3950,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "motorik,bewegungsapparat"
   },
   "ill9": {
@@ -3858,6 +4020,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "sonstige stoerungen,behinderungen"
   },
   "illno": {
@@ -3925,6 +4090,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "keine einschraenken, stoerungen, behinderungen"
   },
   "delivpl": {
@@ -4002,6 +4170,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "ort der enbindung"
   },
   "birthpw": {
@@ -4042,6 +4213,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "geburt in schwangerschaftswoche"
   },
   "pregplan": {
@@ -4119,6 +4293,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "schwangerschaft geplant,ungeplant"
   },
   "feeling1": {
@@ -4201,6 +4378,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "koerperliches befinden letz.drittel der ss"
   },
   "feeling2": {
@@ -4283,6 +4463,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "koerperliches befinden erste 3 monate n.g."
   },
   "feeling3": {
@@ -4365,6 +4548,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "seelisches befinden letz.drittel der ss"
   },
   "feeling4": {
@@ -4447,6 +4633,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "seelisches befinden erste 3 monate n.g."
   },
   "pregy": {
@@ -4579,6 +4768,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "mutter: schwanger bei personinterview, jahr"
   },
   "pregmo": {
@@ -4691,6 +4883,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "mutter: schwangerschaftsmonat bei interview"
   },
   "prebeg": {
@@ -5593,6 +5788,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "spell beginn schwangerschaft(monat,01.83=1)"
   },
   "preend": {
@@ -6540,6 +6738,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "spell ende schwangersch.,geburt(monat,01.83=1)"
   },
   "delivcs": {
@@ -6612,6 +6813,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "entbindung mit kaiserschnitt"
   },
   "breastf": {
@@ -6684,6 +6888,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind gestillt"
   },
   "breastfm": {
@@ -6724,6 +6931,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "stillzeit in monaten"
   },
   "breastfc": {
@@ -6791,6 +7001,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Kind wird noch gestillt"
   },
   "change1": {
@@ -6873,6 +7086,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "lebensumstaende stark veraendert"
   },
   "change2": {
@@ -6955,6 +7171,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind bereitet glueck und freude"
   },
   "change3": {
@@ -7037,6 +7256,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "oft am ende der kraefte"
   },
   "change4": {
@@ -7119,6 +7341,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "mutterrolle sehr befriedigend"
   },
   "change5": {
@@ -7201,6 +7426,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "neuen aufgaben,anforderungen oft nicht gew."
   },
   "change6": {
@@ -7283,6 +7511,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "ueber kind neue kontakte knuepfen"
   },
   "change7": {
@@ -7365,6 +7596,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "unter einschr. auf mutterrolle leiden"
   },
   "change8": {
@@ -7447,6 +7681,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind viel zaertlichkeit geben ist wichtig"
   },
   "fathinhh": {
@@ -7519,6 +7756,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "vater lebt im haushalt"
   },
   "suppartn": {
@@ -7606,6 +7846,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "unterstuetzung durch den partner"
   },
   "maincare": {
@@ -7678,6 +7921,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "mutter hauptbetreuungsperson"
   },
   "care1h": {
@@ -7718,6 +7964,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "betreuung durch partner (in h pro woche)"
   },
   "care2h": {
@@ -7758,6 +8007,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "betreuung durch vater des kindes (in h/woche)"
   },
   "care3h": {
@@ -7798,6 +8050,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "betreuung durch grosseltern (in h pro woche)"
   },
   "care4h": {
@@ -7838,6 +8093,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "betreuung durch aelt. geschw. (in h pro woche)"
   },
   "care5h": {
@@ -7878,6 +8136,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "betreuung durch andere verwandte (in h pro woche)"
   },
   "care6h": {
@@ -7918,6 +8179,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "betreuung durch tagesmutter (in h pro woche)"
   },
   "care7h": {
@@ -7958,6 +8222,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "betreuung durch kinderfrau (im hh) (in h/woche)"
   },
   "care8h": {
@@ -7998,6 +8265,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "betreuung durch krippe (in h pro woche)"
   },
   "care9h": {
@@ -8038,6 +8308,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "betreuung in schule (h/woche)"
   },
   "care10h": {
@@ -8078,6 +8351,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "betreuung in hort und ausserschulischen einrichtungen (h/woche)"
   },
   "care11h": {
@@ -8118,6 +8394,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "betreuung in sozialen einrichtungen (h/woche)"
   },
   "care12h": {
@@ -8158,6 +8437,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "betreuung durch andere (in h pro woche)"
   },
   "care13h": {
@@ -8198,6 +8480,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Hortbesuch Wochentags in Stunden"
   },
   "care14h": {
@@ -8238,6 +8523,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Hortbesuch Wochenende in Stunden"
   },
   "care15h": {
@@ -8278,6 +8566,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Jugendzentrum, Gemeindetreff Wochentags in Stunden"
   },
   "care16h": {
@@ -8318,6 +8609,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Jugendzentrum, Gemeindetreff Wochenende in Stunden"
   },
   "care17h": {
@@ -8358,6 +8652,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Sportverein, Freizeiteinrichtung Wochentags in Stunden"
   },
   "care18h": {
@@ -8398,6 +8695,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Sportverein, Freizeiteinrichtung Wochenende in Stunden"
   },
   "care19": {
@@ -8465,6 +8765,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "keine betreuung ausser durch die mutter"
   },
   "activ1": {
@@ -8547,6 +8850,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit(vor-)singen kinderlieder letzte 14 tage"
   },
   "activ2": {
@@ -8629,6 +8935,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit spaziergaenge an frischer luft letzte 14 tage"
   },
   "activ3": {
@@ -8711,6 +9020,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit malen,basteln letzte 14 tage"
   },
   "activ4": {
@@ -8793,6 +9105,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit geschichten vorlesen,erzaehlen letzte 14 tage"
   },
   "activ5": {
@@ -8875,6 +9190,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit bilderbuecher anschauen letzte 14 tage"
   },
   "activ6": {
@@ -8957,6 +9275,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit zum spielplatz gehen letzte 14 tage"
   },
   "activ7": {
@@ -9039,6 +9360,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit besuch bei anderen familien letzte 14 tage"
   },
   "activ8": {
@@ -9121,6 +9445,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit einkaufen gehen letzte 14 tage"
   },
   "activ9": {
@@ -9203,6 +9530,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit zusammen video,tv anschauen letzte 14 tage"
   },
   "activ10": {
@@ -9285,6 +9615,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit karten-/wuerfelspiele spielen letzte 14 tage"
   },
   "activ11": {
@@ -9367,6 +9700,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit zusammen pc-/internetspiele letzte 14 tage"
   },
   "activ12": {
@@ -9449,6 +9785,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "hfgkt besuch kindertheater/zirkus/museum letzte 14 tage"
   },
   "activ13": {
@@ -9531,6 +9870,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "hfgkt geschichte vorlesen/erzaehlen and.sprache letzte 14 tage"
   },
   "activ1_fid": {
@@ -9612,6 +9954,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Last 14 ds: Singing childrens songs"
   },
   "activ2_fid": {
@@ -9693,6 +10038,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Last 14 ds: Taking walks outdoors"
   },
   "activ3_fid": {
@@ -9774,6 +10122,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Last 14 ds: Drawing or doing arts/crafts"
   },
   "activ4_fid": {
@@ -9855,6 +10206,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Last 14 ds: Reading/telling stories (German)"
   },
   "activ5_fid": {
@@ -9936,6 +10290,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Last 14 ds: Looking at picture books"
   },
   "activ6_fid": {
@@ -10017,6 +10374,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Last 14 ds: Going to playground"
   },
   "activ7_fid": {
@@ -10098,6 +10458,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Last 14 ds: Visiting oth. families w. children"
   },
   "activ8_fid": {
@@ -10179,6 +10542,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Last 14 ds: Going shopping w. child"
   },
   "activ9_fid": {
@@ -10260,6 +10626,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Last 14 ds: Watching TV/videos/DVD w. child"
   },
   "activ10_fid": {
@@ -10341,6 +10710,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Last 14 ds: Reading/telling stories (not German)"
   },
   "activ11_fid": {
@@ -10422,6 +10794,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Last 14 ds: Actions outside (walks o. similar)"
   },
   "activ12_fid": {
@@ -10503,6 +10878,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Last 14 ds: Card games or similar"
   },
   "activ13_fid": {
@@ -10584,6 +10962,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Last 14 ds: Playing computer game w. child"
   },
   "activ14_fid": {
@@ -10665,6 +11046,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Last 14 ds: Going to theater, circus, museum w. child"
   },
   "freqact1": {
@@ -10752,6 +11136,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit fernsehen, video"
   },
   "freqact2": {
@@ -10839,6 +11226,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit computerspiele"
   },
   "freqact3": {
@@ -10926,6 +11316,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit soziale Online-Netzwerke"
   },
   "freqact4": {
@@ -11013,6 +11406,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit im internet"
   },
   "freqact5": {
@@ -11100,6 +11496,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit musik hoeren"
   },
   "freqact6": {
@@ -11187,6 +11586,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit musik machen"
   },
   "freqact7": {
@@ -11274,6 +11676,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit sport treiben"
   },
   "freqact8": {
@@ -11361,6 +11766,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit mit familie etw. unternehmen"
   },
   "freqact9": {
@@ -11448,6 +11856,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit tanzen, theater spielen"
   },
   "freqact10": {
@@ -11535,6 +11946,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit technisches werken, arbeiten"
   },
   "freqact11": {
@@ -11622,6 +12036,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit malen und basteln"
   },
   "freqact12": {
@@ -11709,6 +12126,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit lesen"
   },
   "freqact13": {
@@ -11796,6 +12216,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit nichts tun, traeumen"
   },
   "freqact14": {
@@ -11883,6 +12306,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit freunde treffen"
   },
   "freqact15": {
@@ -11970,6 +12396,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Telefonieren"
   },
   "freqact16": {
@@ -12057,6 +12486,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit SMS austauschen"
   },
   "freqact17": {
@@ -12144,6 +12576,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit kirchgang, religioese veranstaltungen"
   },
   "freqact18": {
@@ -12231,6 +12666,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit teilnahme an jugendgruppen"
   },
   "freqact19": {
@@ -12318,6 +12756,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Um ein Haustier / Tiere kuemmern"
   },
   "allow": {
@@ -12390,6 +12831,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "taschengeld"
   },
   "allowpw": {
@@ -12430,6 +12874,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "taschengeld pro woche"
   },
   "allowpm": {
@@ -12470,6 +12917,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "taschengeld pro monat"
   },
   "eatweek1": {
@@ -12557,6 +13007,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "ort der mahlzeit unter der woche fruehstueck"
   },
   "eatweek2": {
@@ -12644,6 +13097,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "ort der mahlzeit unter der woche mittagessen"
   },
   "eatweek3": {
@@ -12731,6 +13187,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "ort der mahlzeit unter der woche abendessen"
   },
   "eatsat1": {
@@ -12818,6 +13277,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "ort der mahlzeit samstags fruehstueck"
   },
   "eatsat2": {
@@ -12905,6 +13367,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "ort der mahlzeit samstags mittagessen"
   },
   "eatsat3": {
@@ -12992,6 +13457,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "ort der mahlzeit samstags abendessen"
   },
   "eatson1": {
@@ -13079,6 +13547,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "ort der mahlzeit sonntags fruehstueck"
   },
   "eatson2": {
@@ -13166,6 +13637,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "ort der mahlzeit sonntags mittagessen"
   },
   "eatson3": {
@@ -13253,6 +13727,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "ort der mahlzeit sonntags abendessen"
   },
   "eatwend1": {
@@ -13340,6 +13817,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ort der Mahlzeit Wochenende Fruehstueck"
   },
   "eatwend2": {
@@ -13427,6 +13907,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ort der Mahlzeit Wochenende Mittagessen"
   },
   "eatwend3": {
@@ -13514,6 +13997,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ort der Mahlzeit Wochenende Abendessen"
   },
   "frndchld": {
@@ -13554,6 +14040,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "anzahl freunde kinder"
   },
   "frndadlt": {
@@ -13594,6 +14083,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "anzahl freunde erwachsene"
   },
   "frnds": {
@@ -13634,6 +14126,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Number of close friends"
   },
   "tvyn": {
@@ -13711,6 +14206,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "darf das kind allein fernsehen,video schauen"
   },
   "tvhrs": {
@@ -13751,6 +14249,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "allein fernsehen,video schauen (in h/woche)"
   },
   "language": {
@@ -13828,6 +14329,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "umgangssprache des kindes"
   },
   "temp1": {
@@ -13910,6 +14414,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind meist froehlich, zufrieden"
   },
   "temp2": {
@@ -13992,6 +14499,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind leicht erregbar,weint haeufig"
   },
   "temp3": {
@@ -14074,6 +14584,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind schwer zu troesten"
   },
   "temp4": {
@@ -14156,6 +14669,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind neugierig,aktiv"
   },
   "temp5": {
@@ -14238,6 +14754,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind eher zurueckhaltend"
   },
   "temp6": {
@@ -14320,6 +14839,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind gespraechig, redet gern"
   },
   "temp7": {
@@ -14402,6 +14924,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind zeigt mitgefuehl, wenn andere traurig sind"
   },
   "char1a": {
@@ -14519,6 +15044,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist eher schuechtern,kontaktfreudig"
   },
   "char1b": {
@@ -14636,6 +15164,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist gespraechig/still"
   },
   "char2": {
@@ -14753,6 +15284,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist eher konzentriert,leicht ablenkbar"
   },
   "char3": {
@@ -14870,6 +15404,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist eher trotzig,fuegsam"
   },
   "char4": {
@@ -14987,6 +15524,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind begreift eher schnell, braucht mehr zeit"
   },
   "char5": {
@@ -15104,6 +15644,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist unordentlich/ordentlich"
   },
   "char6": {
@@ -15221,6 +15764,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist gutmuetig/leicht reizbar"
   },
   "char7": {
@@ -15338,6 +15884,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist wenig interessiert/wissensdurstig"
   },
   "char8": {
@@ -15455,6 +16004,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind hat selbstvertrauen/ist unsicher"
   },
   "char9": {
@@ -15572,6 +16124,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist zurueckgezogen/kontaktfreudig"
   },
   "char10": {
@@ -15689,6 +16244,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist aengstlich/unaengstlich"
   },
   "char11": {
@@ -15786,6 +16344,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Arbeite gruendlich"
   },
   "char12": {
@@ -15883,6 +16444,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bin kommunikativ"
   },
   "char13": {
@@ -15980,6 +16544,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bin manchmal grob zu anderen"
   },
   "char14": {
@@ -16077,6 +16644,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bin originell"
   },
   "char15": {
@@ -16174,6 +16744,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Mache mir oft Sorgen"
   },
   "char16": {
@@ -16271,6 +16844,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Kann verzeihen"
   },
   "char17": {
@@ -16368,6 +16944,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bin eher faul"
   },
   "char18": {
@@ -16465,6 +17044,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bin gesellig"
   },
   "char19": {
@@ -16562,6 +17144,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Schaetze kuenstler. Erfahrung"
   },
   "char20": {
@@ -16659,6 +17244,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bin leicht nervoes"
   },
   "char21": {
@@ -16756,6 +17344,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Erledige Aufgaben wirksam/effizient"
   },
   "char22": {
@@ -16853,6 +17444,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bin zurueckhaltend"
   },
   "char23": {
@@ -16945,6 +17539,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Gehe mit anderen freundlich um"
   },
   "char24": {
@@ -17042,6 +17639,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Habe lebhafte Phantasie"
   },
   "char25": {
@@ -17139,6 +17739,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Kann mit Stress gut umgehen"
   },
   "char26": {
@@ -17236,6 +17839,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wissbegierig"
   },
   "char27": {
@@ -17333,6 +17939,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Habe positive Einstellung zu mir selbst"
   },
   "char28": {
@@ -17430,6 +18039,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Kann leicht verzichten, wenn ich sparen will"
   },
   "char29": {
@@ -17527,6 +18139,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Habe lieber heute Spass und denke nicht an morgen"
   },
   "char30": {
@@ -17644,6 +18259,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Selbsteinschaetzung Risikobereitschaft"
   },
   "behav1": {
@@ -17741,6 +18359,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist ruecksichtsvoll"
   },
   "behav2": {
@@ -17838,6 +18459,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist unruhig, ueberaktiv, kann nicht still sitzen"
   },
   "behav3": {
@@ -17935,6 +18559,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind teilt gerne mit anderen"
   },
   "behav4": {
@@ -18032,6 +18659,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind hat oft wutanfaelle, ist aufbrausend"
   },
   "behav5": {
@@ -18129,6 +18759,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist einzelgaenger, spielt meist alleine"
   },
   "behav6": {
@@ -18226,6 +18859,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist hilfsbereit, wenn andere verletzt,krank,betruebt sind"
   },
   "behav7": {
@@ -18323,6 +18959,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist zappelig"
   },
   "behav8": {
@@ -18420,6 +19059,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind streitet oft mit anderen kindern, schikaniert sie"
   },
   "behav9": {
@@ -18517,6 +19159,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist oft ungluecklich o. niedergeschlagen; weint haeufig"
   },
   "behav10": {
@@ -18614,6 +19259,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist bei anderen kindern beliebt"
   },
   "behav11": {
@@ -18711,6 +19359,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist leicht ablenkbar, unkonzentriert"
   },
   "behav12": {
@@ -18808,6 +19459,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ist in neuen situationen nervoes,anklammernd"
   },
   "behav13": {
@@ -18905,6 +19559,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind wird von anderen gehaenselt o. schikaniert"
   },
   "behav14": {
@@ -19002,6 +19659,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind hilft anderen oft freiwillig"
   },
   "behav15": {
@@ -19099,6 +19759,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind kommt mit erwachsenen besser aus als mit anderen kindern"
   },
   "behav16": {
@@ -19196,6 +19859,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind hat viele aengste, fuerchtet sich leicht"
   },
   "behav17": {
@@ -19293,6 +19959,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind fuehrt aufgaben zu ende, kann sich lange konzentrieren"
   },
   "behav18": {
@@ -19390,6 +20059,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind denkt nach bevor es handelt"
   },
   "behav1_fid": {
@@ -19456,6 +20128,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. is considerate"
   },
   "behav2_fid": {
@@ -19522,6 +20197,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. is anxious, over-active, cannot sit quietly"
   },
   "behav3_fid": {
@@ -19588,6 +20266,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. often complains a. headache/stomach sickness"
   },
   "behav4_fid": {
@@ -19654,6 +20335,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. likes to share with other children"
   },
   "behav5_fid": {
@@ -19720,6 +20404,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. has rage attacks, is choleric"
   },
   "behav6_fid": {
@@ -19786,6 +20473,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. is a loner, plays mostly alone"
   },
   "behav7_fid": {
@@ -19852,6 +20542,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. is compliant, does what adults ask for"
   },
   "behav8_fid": {
@@ -19918,6 +20611,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. has a lot of worries, is depressed"
   },
   "behav9_fid": {
@@ -19984,6 +20680,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. is helpful if others are injured/ill/unhappy"
   },
   "behav10_fid": {
@@ -20050,6 +20749,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. is fidgety"
   },
   "behav11_fid": {
@@ -20116,6 +20818,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. has at least one good friend"
   },
   "behav12_fid": {
@@ -20182,6 +20887,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. quarrels with other children, mobs them"
   },
   "behav13_fid": {
@@ -20248,6 +20956,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. is often unhappy or depressed, weeps often"
   },
   "behav14_fid": {
@@ -20314,6 +21025,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. is popular with other children"
   },
   "behav15_fid": {
@@ -20380,6 +21094,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. is easily distracted, lacks concentration"
   },
   "behav16_fid": {
@@ -20446,6 +21163,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. is nervous, clinging in new situations"
   },
   "behav17_fid": {
@@ -20512,6 +21232,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. is nice to younger children"
   },
   "behav18_fid": {
@@ -20578,6 +21301,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. often lies or cheats"
   },
   "behav19_fid": {
@@ -20649,6 +21375,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. is mobbed by others"
   },
   "behav20_fid": {
@@ -20720,6 +21449,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. offers its help voluntarily"
   },
   "behav21_fid": {
@@ -20791,6 +21523,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. takes things w/o asking for permission"
   },
   "behav22_fid": {
@@ -20862,6 +21597,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. gets along better w. adults than w. children"
   },
   "behav23_fid": {
@@ -20933,6 +21671,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. has many fears, is easily afraid"
   },
   "behav24_fid": {
@@ -21004,6 +21745,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. finishes tasks, can concentrate for long time"
   },
   "behav25_fid": {
@@ -21075,6 +21819,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ch. thinks before acting"
   },
   "behav1_full": {
@@ -21152,6 +21899,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bin nett zu anderen Menschen"
   },
   "behav2_full": {
@@ -21229,6 +21979,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bin oft unruhig, kann nicht still lange stillsitzen"
   },
   "behav3_full": {
@@ -21306,6 +22059,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Habe haeufig Kopf- oder Bauchschmerzen"
   },
   "behav4_full": {
@@ -21383,6 +22139,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Teile gerne mit anderen"
   },
   "behav5_full": {
@@ -21460,6 +22219,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Werde leicht wuetend"
   },
   "behav6_full": {
@@ -21537,6 +22299,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bin meist fuer mich allein"
   },
   "behav7_full": {
@@ -21614,6 +22379,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Tue meist, was man mir sagt"
   },
   "behav8_full": {
@@ -21691,6 +22459,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Mache mir haeufg Sorgen"
   },
   "behav9_full": {
@@ -21768,6 +22539,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bin hilfsbereit, wenn andere verletzt,krank,traurig sind"
   },
   "behav10_full": {
@@ -21845,6 +22619,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bin zappelig"
   },
   "behav11_full": {
@@ -21922,6 +22699,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Habe gute Freunde"
   },
   "behav12_full": {
@@ -21999,6 +22779,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Schlage mich haeufig mit anderen"
   },
   "behav13_full": {
@@ -22076,6 +22859,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Kann andere zwingen, zu tun was ich will"
   },
   "behav14_full": {
@@ -22153,6 +22939,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bin oft ungluecklich o. niedergeschlagen; muss haeufig weinen"
   },
   "behav15_full": {
@@ -22230,6 +23019,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bin bei Gleichaltrigen beliebt"
   },
   "behav16_full": {
@@ -22307,6 +23099,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bin leicht ablenkbar, unkonzentriert"
   },
   "behav17_full": {
@@ -22384,6 +23179,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bin in neuen Situationen nervoes, verliere Selbtsvertrauen"
   },
   "behav18_full": {
@@ -22461,6 +23259,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bin nett zu juengeren"
   },
   "behav19_full": {
@@ -22538,6 +23339,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Andere behaupten oft, ich luege"
   },
   "behav20_full": {
@@ -22615,6 +23419,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Werde von anderen gehaenselt o. schikaniert"
   },
   "behav21_full": {
@@ -22692,6 +23499,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Helfe anderen oft freiwillig"
   },
   "behav22_full": {
@@ -22769,6 +23579,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Denke nach, bevor ich etwas tue"
   },
   "behav23_full": {
@@ -22846,6 +23659,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Nehme Dinge, die mir nicht gehoeren"
   },
   "behav24_full": {
@@ -22923,6 +23739,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Komme mit Erwachsenen besser aus als mit Gleichaltrigen"
   },
   "behav25_full": {
@@ -23000,6 +23819,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Habe viele Aengste, fuerchte mich leicht"
   },
   "behav26_full": {
@@ -23077,6 +23899,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Fuehre Aufgaben zu Ende, kann mich lange konzentrieren"
   },
   "spch1": {
@@ -23148,6 +23973,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind versteht kurze anweisungen"
   },
   "spch2": {
@@ -23219,6 +24047,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind bildet saetze mit min. 2 woertern"
   },
   "spch3": {
@@ -23296,6 +24127,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind spricht in ganzen saetzen"
   },
   "spch4": {
@@ -23367,6 +24201,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind hoert einer geschichte 5 min. o. laenger aufm. zu"
   },
   "spch5": {
@@ -23444,6 +24281,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind ueberbringt einfache nachrichten"
   },
   "spch6": {
@@ -23521,6 +24361,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind folgt anweisungen, die es fuenf minuten zuvor gehoert hat"
   },
   "spch7": {
@@ -23598,6 +24441,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind nennt seinen vor- und nachnamen, wenn es danach gefragt wird"
   },
   "spch8": {
@@ -23675,6 +24521,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind hoert in der regel geschichten mindestens 15 min. aufmerksam zu"
   },
   "spch10_fid": {
@@ -23746,6 +24595,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child can identify at least 5 body parts"
   },
   "spch11_fid": {
@@ -23817,6 +24669,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child can identfy daily-life-objects in a book"
   },
   "spch12_fid": {
@@ -23888,6 +24743,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child answers questions in words, or tries to"
   },
   "spch13_fid": {
@@ -23959,6 +24817,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child can name at least 10 objects"
   },
   "spch14_fid": {
@@ -24030,6 +24891,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child can describe things in simple words"
   },
   "skll1": {
@@ -24107,6 +24971,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind isst selbstaendig mit loeffel ohne zu kleckern"
   },
   "skll2": {
@@ -24184,6 +25051,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind putzt sich selbst die nase"
   },
   "skll3": {
@@ -24261,6 +25131,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind benuetzt fur grosses geschaeft toilette"
   },
   "skll4": {
@@ -24338,6 +25211,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind zieht sich hosen und unterhosen selbst richtig an"
   },
   "skll5": {
@@ -24415,6 +25291,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind putzt sich selbst die zaehne"
   },
   "skll6_fid": {
@@ -24486,6 +25365,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child closes press buttons w/o assistance"
   },
   "skll7_fid": {
@@ -24557,6 +25439,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child covers mouth and nose when sneezing"
   },
   "skll8_fid": {
@@ -24628,6 +25513,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child takes off sweater/jacket w/o assistance"
   },
   "skll9_fid": {
@@ -24699,6 +25587,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child drinks f. a cup/glass w/o spilling"
   },
   "skll10_fid": {
@@ -24770,6 +25661,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child washes and dries its face w/o assistance"
   },
   "mvmn1": {
@@ -24847,6 +25741,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind laeuft treppen vorwaerts hinunter"
   },
   "mvmn2": {
@@ -24918,6 +25815,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind oeffnet tueren mit tuerklinke"
   },
   "mvmn3": {
@@ -24995,6 +25895,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind klettert auf klettergeruste und hohe spielgeraete"
   },
   "mvmn4": {
@@ -25072,6 +25975,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind schneidet mit schere papier durch"
   },
   "mvmn5": {
@@ -25149,6 +26055,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind malt auf papier erkennbare formen"
   },
   "mvmn6": {
@@ -25226,6 +26135,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind haelt stifte richtig (nicht mit der faust), um zu malen"
   },
   "mvmn6_fid": {
@@ -25297,6 +26209,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child jumps with one foot"
   },
   "mvmn8_fid": {
@@ -25368,6 +26283,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child climbs stairs w. alternating feet"
   },
   "mvmn9_fid": {
@@ -25439,6 +26357,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child can run w/o falling down"
   },
   "mvmn10_fid": {
@@ -25510,6 +26431,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child is able to jump forwards at least 3 times"
   },
   "mvmn11_fid": {
@@ -25581,6 +26505,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child can color simple forms and figures"
   },
   "mvmn12_fid": {
@@ -25652,6 +26579,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child can solve puzzles w. a min. of 2 parts"
   },
   "sclr1": {
@@ -25723,6 +26653,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind nennt vertraute personen beim namen"
   },
   "sclr2": {
@@ -25800,6 +26733,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind nimmt an spielen mit anderen kindern teil"
   },
   "sclr3": {
@@ -25877,6 +26813,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind beschaeftigt sich mit rollenspielen"
   },
   "sclr4": {
@@ -25954,6 +26893,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind zeigt vorliebe fuer spielgefaehrten/freunde"
   },
   "sclr5": {
@@ -26031,6 +26973,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind benennt eigene gefuehle"
   },
   "sclr6": {
@@ -26108,6 +27053,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind wechselt sich mit anderen beim spielen ab, ohne darum gebeten zu werden"
   },
   "sclr6_fid": {
@@ -26179,6 +27127,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child is happy or worried for others"
   },
   "sclr9_fid": {
@@ -26250,6 +27201,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child shows desire to make others feel happy"
   },
   "sclr10_fid": {
@@ -26321,6 +27275,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child shares toys if asked for"
   },
   "sclr11_fid": {
@@ -26392,6 +27349,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child continues playing w/o crying whn parents leave"
   },
   "sclr12_fid": {
@@ -26463,6 +27423,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child creatively plays with household stuff"
   },
   "sclr13_fid": {
@@ -26534,6 +27497,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child seeks to make friends with same-age kids"
   },
   "sclr14_fid": {
@@ -26605,6 +27571,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child fulfils simple requests"
   },
   "sclenrolm": {
@@ -26727,6 +27696,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "einschulungsmonat des kindes"
   },
   "sclenroly": {
@@ -26767,6 +27739,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "einschulungsjahr des kindes"
   },
   "sclenroln": {
@@ -26834,6 +27809,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind noch nicht in der schule"
   },
   "curscol1": {
@@ -26901,6 +27879,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "schulbesuch grundschule"
   },
   "curscol2": {
@@ -26968,6 +27949,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "schulbesuch mit sp. paedagog. konzept"
   },
   "curscol3": {
@@ -27035,6 +28019,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "schulbesuch foerder-, sonder-, sprachheilschule"
   },
   "curscol4": {
@@ -27102,6 +28089,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "schulbesuch hauptschule"
   },
   "curscol5": {
@@ -27169,6 +28159,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "schulbesuch realschule"
   },
   "curscol6": {
@@ -27236,6 +28229,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "schulbesuch gymnasium"
   },
   "curscol7": {
@@ -27303,6 +28299,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "schulbesuch gesamtschule"
   },
   "curscol8": {
@@ -27364,6 +28363,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "schulbesuch sonstige schule"
   },
   "lamark": {
@@ -27456,6 +28458,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "note des letzten zeugnisses deutsch"
   },
   "matmark": {
@@ -27548,6 +28553,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "note des letzten zeugnisses mathematik"
   },
   "flmark": {
@@ -27640,6 +28648,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Note des letzten Zeugnisses erste Fremdsprache"
   },
   "nomark": {
@@ -27707,6 +28718,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "note des letzten zeugnisses trifft nicht zu"
   },
   "sclgrade": {
@@ -27747,6 +28761,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Aktuelle Klassenstufe"
   },
   "sclppls": {
@@ -27787,6 +28804,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Anzahl Schueler in Klasse"
   },
   "sclpplsmig": {
@@ -27994,6 +29014,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Anzahl Schueler nicht deutsch in Klasse"
   },
   "sclpplsdk": {
@@ -28061,6 +29084,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Weiss nicht Anzahl Schueler nicht deutsch in Klasse"
   },
   "sclteachr1": {
@@ -28133,6 +29159,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Lehrer rufen mich seltener auf"
   },
   "sclteachr2": {
@@ -28205,6 +29234,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Lehrer benoten mich strenger"
   },
   "sclteachr3": {
@@ -28277,6 +29309,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Lehrer ermahnen mich oefter"
   },
   "sclteachr4": {
@@ -28349,6 +29384,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Lehrer halten mich fuer weniger klug"
   },
   "sclmobh": {
@@ -28389,6 +29427,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Beginn Schule Montag Stunde"
   },
   "sclmobm": {
@@ -28429,6 +29470,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Beginn Schule Montag Minute"
   },
   "scltubh": {
@@ -28469,6 +29513,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Beginn Schule Dienstag Stunde"
   },
   "scltubm": {
@@ -28509,6 +29556,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Beginn Schule Dienstag Minute"
   },
   "sclwebh": {
@@ -28549,6 +29599,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Beginn Schule Mittwoch Stunde"
   },
   "sclwebm": {
@@ -28589,6 +29642,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Beginn Schule Mittwoch Minute"
   },
   "sclthbh": {
@@ -28629,6 +29685,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Beginn Schule Donnerstag Stunde"
   },
   "sclthbm": {
@@ -28669,6 +29728,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Beginn Schule Donnerstag Minute"
   },
   "sclfrbh": {
@@ -28709,6 +29771,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Beginn Schule Freitag Stunde"
   },
   "sclfrbm": {
@@ -28749,6 +29814,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Beginn Schule Freitag Minute"
   },
   "sclsabh": {
@@ -28789,6 +29857,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Beginn Schule Samstag Stunde"
   },
   "sclsabm": {
@@ -28829,6 +29900,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Beginn Schule Samstag Minute"
   },
   "sclmoeh": {
@@ -28869,6 +29943,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ende Schule Montag Stunde"
   },
   "sclmoem": {
@@ -28909,6 +29986,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ende Schule Montag Minute"
   },
   "scltueh": {
@@ -28949,6 +30029,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ende Schule Dienstag Stunde"
   },
   "scltuem": {
@@ -28989,6 +30072,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ende Schule Dienstag Minute"
   },
   "sclweeh": {
@@ -29029,6 +30115,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ende Schule Mittwoch Stunde"
   },
   "sclweem": {
@@ -29069,6 +30158,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ende Schule Mittwoch Minute"
   },
   "scltheh": {
@@ -29109,6 +30201,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ende Schule Donnerstag Stunde"
   },
   "sclthem": {
@@ -29149,6 +30244,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ende Schule Donnerstag Minute"
   },
   "sclfreh": {
@@ -29189,6 +30287,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ende Schule Freitag Stunde"
   },
   "sclfrem": {
@@ -29229,6 +30330,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ende Schule Freitag Minute"
   },
   "sclsaeh": {
@@ -29269,6 +30373,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ende Schule Samstag Stunde"
   },
   "sclsaem": {
@@ -29309,6 +30416,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ende Schule Samstag Minute"
   },
   "sclsafreq": {
@@ -29391,6 +30501,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Schule am Samstag"
   },
   "scolcon1": {
@@ -29478,6 +30591,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind geht gerne in die schule"
   },
   "scolcon2": {
@@ -29565,6 +30681,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind hat keinen guten umgang mit klassenkameraden"
   },
   "scolcon3": {
@@ -29652,6 +30771,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind empfindet schule als zeitverschwendung"
   },
   "scolcon4": {
@@ -29739,6 +30861,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind nimmt arbeit in der schule nie ernst"
   },
   "scolcon5": {
@@ -29826,6 +30951,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind kommt im unterricht gut mit"
   },
   "scolcon6": {
@@ -29913,6 +31041,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind kommt mit akt. lehrerin nicht gut aus"
   },
   "scolcon7": {
@@ -30000,6 +31131,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "kind lernt gerne"
   },
   "scolcon8_fid": {
@@ -30081,6 +31215,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Schl. cond.: Gets along w. classmates (SC 2010 only)"
   },
   "scolcon9_fid": {
@@ -30162,6 +31299,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Schl. cond.: Gets along w. teacher (SC 2010 only)"
   },
   "scoldura_fid": {
@@ -30182,6 +31322,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Time in school in months"
   },
   "hwplace_v1": {
@@ -30264,6 +31407,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ort der Arbeit an Hausaufgaben (bioage10)"
   },
   "hwplace_v2": {
@@ -30361,6 +31507,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ort der Arbeit an Hausaufgaben (bioage12)"
   },
   "hwplace_h": {
@@ -30443,6 +31592,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ort der Arbeit an Hausaufgaben (harmonisiert)"
   },
   "hwsupprt": {
@@ -30525,6 +31677,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "haeufigkeit der unterstuetzung bei hausaufgaben"
   },
   "hwduration": {
@@ -30617,6 +31772,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Zeit fuer Arbeit an Hausaufgaben"
   },
   "helphmwk1": {
@@ -30704,6 +31862,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Unterstuetzung bei Hausaufgaben durch Mutter"
   },
   "helphmwk2": {
@@ -30791,6 +31952,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Unterstuetzung bei Hausaufgaben durch Vater"
   },
   "helphmwk3": {
@@ -30878,6 +32042,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Unterstuetzung bei Hausaufgaben durch Grosseltern"
   },
   "helphmwk4": {
@@ -30965,6 +32132,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Unterstuetzung bei Hausaufgaben durch Geschwister"
   },
   "helphmwk5": {
@@ -31052,6 +32222,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Unterstuetzung bei Hausaufgaben durch Freunde"
   },
   "helphmwk6": {
@@ -31139,6 +32312,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Unterstuetzung bei Hausaufgaben durch Nachhilfelehrer"
   },
   "helphmwk7": {
@@ -31226,6 +32402,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Unterstuetzung bei Hausaufgaben durch HA-Betreuung"
   },
   "idegrad1": {
@@ -31323,6 +32502,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "idealvorstellung schulabschluss: hauptschule"
   },
   "idegrad2": {
@@ -31420,6 +32602,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "idealvorstellung schulabschluss: realschule"
   },
   "idegrad3": {
@@ -31517,6 +32702,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "idealvorstellung schulabluss: gymnasium"
   },
   "probgra1": {
@@ -31614,6 +32802,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "wahrscheinlichkeit hauptschulabschluss"
   },
   "probgra2": {
@@ -31711,6 +32902,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "wahrscheinlichkeit realschulabschluss"
   },
   "probgra3": {
@@ -31808,6 +33002,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "wahrscheinlichkeit abitur"
   },
   "idegrad": {
@@ -31885,6 +33082,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Idealvorstellung Schulabschluss"
   },
   "impgrad": {
@@ -31967,6 +33167,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wichtigkeit Schulabschluss"
   },
   "probgra": {
@@ -32049,6 +33252,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "wahrscheinlicher Schulabschluss"
   },
   "parint": {
@@ -32131,6 +33337,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Interesse der Eltern fuer Schule"
   },
   "frnd1grad": {
@@ -32213,6 +33422,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Freund 1: Idealvorstellung Schulabschluss"
   },
   "frnd2grad": {
@@ -32295,6 +33507,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Freund 2: Idealvorstellung Schulabschluss"
   },
   "frnd3grad": {
@@ -32377,6 +33592,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Freund 3: Idealvorstellung Schulabschluss"
   },
   "frnd1meet": {
@@ -32484,6 +33702,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Freund 1: Ort des Kennen Lernens"
   },
   "frnd2meet": {
@@ -32591,6 +33812,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Freund 2: Ort des Kennen Lernens"
   },
   "frnd3meet": {
@@ -32698,6 +33922,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Freund 3: Ort des Kennen Lernens"
   },
   "frndspar": {
@@ -32785,6 +34012,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Einflussnahme Eltern auf Freundeskreis"
   },
   "siblings": {
@@ -32857,6 +34087,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Aeltere Geschwister vorhanden"
   },
   "sib1grad": {
@@ -32939,6 +34172,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Geschwister 1: Idealvorstellung Schulabschluss"
   },
   "sib2grad": {
@@ -33021,6 +34257,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Geschwister 2: Idealvorstellung Schulabschluss"
   },
   "sib3grad": {
@@ -33103,6 +34342,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Geschwister 3: Idealvorstellung Schulabschluss"
   },
   "conscho1": {
@@ -33170,6 +34412,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "regelmaessige teilnahme am elternabend"
   },
   "conscho2": {
@@ -33237,6 +34482,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "regelmaessige besuche von elternsprechtagen"
   },
   "conscho3": {
@@ -33304,6 +34552,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "aufsuchen der lehrer"
   },
   "conscho4": {
@@ -33371,6 +34622,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "engagement als elternvertreter"
   },
   "conscho5": {
@@ -33438,6 +34692,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "sonstige unterstuetzung der schule/lehrer"
   },
   "conscho6": {
@@ -33505,6 +34762,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "mitglied im foerderverein"
   },
   "conscho7": {
@@ -33572,6 +34832,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "nichts davon"
   },
   "edgoal1": {
@@ -33659,6 +34922,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: guter schueler"
   },
   "edgoal2": {
@@ -33746,6 +35012,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: kind versteh sich gut mit anderen"
   },
   "edgoal3": {
@@ -33833,6 +35102,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: interesse, wie und warum dinge passieren"
   },
   "edgoal4": {
@@ -33920,6 +35192,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: verhalten wie normaler junge/normales maedchen"
   },
   "edgoal5": {
@@ -34007,6 +35282,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: ehrlichkeit"
   },
   "edgoal6": {
@@ -34094,6 +35372,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: gute umgangsformen"
   },
   "edgoal7": {
@@ -34181,6 +35462,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: selbstbeherrschung"
   },
   "edgoal8": {
@@ -34268,6 +35552,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: verantwortungsbewusstsein"
   },
   "edgoal9": {
@@ -34355,6 +35642,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: ruecksichtnahme auf andere"
   },
   "edgoal10": {
@@ -34442,6 +35732,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: gehorsam gegenueber eltern"
   },
   "edgoal11": {
@@ -34529,6 +35822,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: gutes urteilsvermoegen"
   },
   "edgoal12": {
@@ -34616,6 +35912,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: ordentlich und sauber sein"
   },
   "edgoal13": {
@@ -34703,6 +36002,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: bemuehen, ziele zu erreichen"
   },
   "edgoal14": {
@@ -34790,6 +36092,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: faehigkeit, sich in gruppen einfuegen"
   },
   "edgoal15": {
@@ -34877,6 +36182,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: sich gegen widerstaende durchzusetzen"
   },
   "edgoal16": {
@@ -34964,6 +36272,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: zufrieden mit dem sein, was man hat und kann"
   },
   "edgoal17": {
@@ -35051,6 +36362,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: risiken im leben vermeiden"
   },
   "edgoal18": {
@@ -35138,6 +36452,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehungsziel: von anderen gemocht werden, liebenswert sein"
   },
   "edbeh1": {
@@ -35225,6 +36542,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: mit worten und gesten zeigen, dass man kind gern hat"
   },
   "edbeh2": {
@@ -35312,6 +36632,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: kind kritisieren"
   },
   "edbeh3": {
@@ -35399,6 +36722,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: nachfragen, was kind getan und erlebt hat"
   },
   "edbeh4": {
@@ -35486,6 +36812,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: kind bestrafen, wenn es etwas gegen eigenen willen tut"
   },
   "edbeh5": {
@@ -35573,6 +36902,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: strafe androhen, aber nicht ausfuehren"
   },
   "edbeh6": {
@@ -35660,6 +36992,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: wissen, wo das kind sich ausser haus aufhaelt"
   },
   "edbeh7": {
@@ -35747,6 +37082,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: streng zu dem kind sein"
   },
   "edbeh8": {
@@ -35834,6 +37172,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: kind troesten, wenn es traurig ist"
   },
   "edbeh9": {
@@ -35921,6 +37262,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: anschreien, wenn es etwas falsch gemacht hat"
   },
   "edbeh10": {
@@ -36008,6 +37352,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: kind fuer undankbar halten, weil es nicht gehorcht"
   },
   "edbeh11": {
@@ -36095,6 +37442,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: eine weile nicht mit kind reden, wenn es etwas angestellt hat"
   },
   "edbeh12": {
@@ -36182,6 +37532,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: kind soll sich anordnungen/entscheidungen nicht widersetzen"
   },
   "edbeh13": {
@@ -36269,6 +37622,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: kind loben"
   },
   "edbeh14": {
@@ -36356,6 +37712,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: beschimpfen, wenn wuetend auf es"
   },
   "edbeh15": {
@@ -36443,6 +37802,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: freundeskreis des kindes aktiv beeinflussen"
   },
   "edbeh16": {
@@ -36530,6 +37892,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: bestrafung abschwaechen/vorzeitig aufheben"
   },
   "edbeh17": {
@@ -36617,6 +37982,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: enttaeuscht, traurig, wenn k. sich schlecht benommen hat"
   },
   "edbeh18": {
@@ -36704,6 +38072,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "erziehung: faellt schwer, in der erziehung konsequent zu sein"
   },
   "bepar1": {
@@ -36791,6 +38162,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "elternrolle: eigene wuensche zugunsten des kindes opfern"
   },
   "bepar2": {
@@ -36878,6 +38252,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "elternrolle: k. will mich aergern, wenn es nicht gehorcht, verbotenes tut"
   },
   "bepar3": {
@@ -36965,6 +38342,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "elternrolle: betreuung und erziehung bestimmen mein ganzes leben"
   },
   "bepar4": {
@@ -37052,6 +38432,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "elternrolle: wunsch, nicht durch elternpflichten gefangen zu sein"
   },
   "bepar5": {
@@ -37139,6 +38522,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "elternrolle: probleme in der erziehung liegen am kind"
   },
   "bepar6": {
@@ -37226,6 +38612,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "elternrolle: wenn mit kind zus. gibt es nicht anderes, was man lieber"
   },
   "bepar7": {
@@ -37313,6 +38702,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "elternrolle: fuer das wohl des kindes alles aushalten"
   },
   "bepar8": {
@@ -37400,6 +38792,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "elternrolle: wenn k. sich falsch verhaelt, dann mit absicht"
   },
   "bepar9": {
@@ -37487,6 +38882,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "elternrolle: oft all. stehen, liegen lasse, um k. zu unterstuetzen"
   },
   "bepar10": {
@@ -37574,6 +38972,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "elternrolle: darauf freuen, mit kind zusammen zu sein"
   },
   "sorrow1": {
@@ -37661,6 +39062,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit bei Sorgen wenden an Freunde"
   },
   "sorrow2": {
@@ -37748,6 +39152,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit bei Sorgen wenden an Geschwister"
   },
   "sorrow3": {
@@ -37835,6 +39242,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit bei Sorgen wenden an Mutter"
   },
   "sorrow4": {
@@ -37922,6 +39332,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit bei Sorgen wenden an Vater"
   },
   "sorrow5": {
@@ -38009,6 +39422,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit bei Sorgen wenden an Grosseltern"
   },
   "support1": {
@@ -38096,6 +39512,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Hilfe und Bestaerken durch Freunde"
   },
   "support2": {
@@ -38183,6 +39602,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Hilfe und Bestaerken durch Geschwister"
   },
   "support3": {
@@ -38270,6 +39692,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Hilfe und Bestaerken durch Mutter"
   },
   "support4": {
@@ -38357,6 +39782,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Hilfe und Bestaerken durch Vater"
   },
   "support5": {
@@ -38444,6 +39872,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Hilfe und Bestaerken durch Grosseltern"
   },
   "bossarnd1": {
@@ -38531,6 +39962,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Herumkommandieren durch Freunde"
   },
   "bossarnd2": {
@@ -38618,6 +40052,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Herumkommandieren durch Geschwister"
   },
   "bossarnd3": {
@@ -38705,6 +40142,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Herumkommandieren durch Mutter"
   },
   "bossarnd4": {
@@ -38792,6 +40232,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Herumkommandieren durch Vater"
   },
   "bossarnd5": {
@@ -38879,6 +40322,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Herumkommandieren durch Grosseltern"
   },
   "motivate1": {
@@ -38966,6 +40412,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Motivation bzgl. Schule durch Freunde"
   },
   "motivate2": {
@@ -39053,6 +40502,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Motivation bzgl. Schule durch Geschwister"
   },
   "motivate3": {
@@ -39140,6 +40592,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Motivation bzgl. Schule durch Mutter"
   },
   "motivate4": {
@@ -39227,6 +40682,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Motivation bzgl. Schule durch Vater"
   },
   "motivate5": {
@@ -39314,6 +40772,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Motivation bzgl. Schule durch Grosseltern"
   },
   "quarrel1": {
@@ -39401,6 +40862,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Streit mit Freunden"
   },
   "quarrel2": {
@@ -39488,6 +40952,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Streit mit Geschwistern"
   },
   "quarrel3": {
@@ -39575,6 +41042,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Streit mit Mutter"
   },
   "quarrel4": {
@@ -39662,6 +41132,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Streit mit Vater"
   },
   "quarrel5": {
@@ -39749,6 +41222,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Streit mit Grosseltern"
   },
   "hhfclts1": {
@@ -39821,6 +41297,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ausstattung Haushalt: eigener Schreibtisch"
   },
   "hhfclts2": {
@@ -39893,6 +41372,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ausstattung Haushalt: eigenes Zimmer"
   },
   "hhfclts3": {
@@ -39965,6 +41447,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ausstattung Haushalt: eigene Buecher"
   },
   "hhfclts4": {
@@ -40037,6 +41522,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ausstattung Haushalt: Lernsoftware"
   },
   "hhfclts5": {
@@ -40109,6 +41597,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ausstattung Haushalt: Buecher, hilfreich bei Hausaufgaben"
   },
   "hhfclts6": {
@@ -40181,6 +41672,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ausstattung Haushalt: klassische Literatur"
   },
   "hhfclts7": {
@@ -40253,6 +41747,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ausstattung Haushalt: Musikinstrumente"
   },
   "hhfclts8": {
@@ -40325,6 +41822,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ausstattung Haushalt: Kunstwerke"
   },
   "hhtech1a": {
@@ -40397,6 +41897,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Technik im Haushalt: Tablet vorhanden"
   },
   "hhtech1b": {
@@ -40469,6 +41972,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Technik im Haushalt: Tablet Nutzung"
   },
   "hhtech2a": {
@@ -40541,6 +42047,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Technik im Haushalt: Computer vorhanden"
   },
   "hhtech2b": {
@@ -40613,6 +42122,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Technik im Haushalt: Computer Nutzung"
   },
   "hhtech3a": {
@@ -40685,6 +42197,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Technik im Haushalt: Spiele-Konsole vorhanden"
   },
   "hhtech3b": {
@@ -40757,6 +42272,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Technik im Haushalt: Spiele-Konsole Nutzung"
   },
   "hhtech4a": {
@@ -40829,6 +42347,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Technik im Haushalt: Smartphone vorhanden"
   },
   "hhtech4b": {
@@ -40901,6 +42422,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Technik im Haushalt: Smartphone Nutzung"
   },
   "hhtech5a": {
@@ -40973,6 +42497,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Technik im Haushalt: anderes Mobiltelefon vorhanden"
   },
   "hhtech5b": {
@@ -41045,6 +42572,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Technik im Haushalt: anderes Mobiltelefon Nutzung"
   },
   "lifesati": {
@@ -41142,6 +42672,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Selbsteinschaetzung allg. Lebenszufriedenheit"
   },
   "actcare1_fid": {
@@ -41203,6 +42736,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Seeking ch. care: Waitinglist"
   },
   "actcare2_fid": {
@@ -41264,6 +42800,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Seeking ch. care: In contact w. nanny/day care"
   },
   "actcare3_fid": {
@@ -41325,6 +42864,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Seeking ch. care: In contact w. welfare office"
   },
   "actcare4_fid": {
@@ -41386,6 +42928,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Seeking ch. care: Other"
   },
   "adpccare1_fid": {
@@ -41452,6 +42997,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Probl. adapting to day care center: Contact with other cildren"
   },
   "adpccare2_fid": {
@@ -41518,6 +43066,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Probl. adapting to day care center: Relationship to child care workers"
   },
   "adpccare3_fid": {
@@ -41584,6 +43135,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Probl. adapting to day care center: Separation from home"
   },
   "adpccare4_fid": {
@@ -41650,6 +43204,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Probl. adapting to day care center: Adjustment to fixed daily rhythm"
   },
   "adpscl1_fid": {
@@ -41716,6 +43273,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Probl. adapting to primary school: Contact with other cildren"
   },
   "adpscl2_fid": {
@@ -41782,6 +43342,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Probl. adapting to primary school: Contact with teachers"
   },
   "adpscl3_fid": {
@@ -41848,6 +43411,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Probl. adapting to primary school: Want of familiar environment"
   },
   "adpscl4_fid": {
@@ -41914,6 +43480,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Probl. adapting to primary school: Abiding by schools rules"
   },
   "adpscl5_fid": {
@@ -41980,6 +43549,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Probl. adapting to primary school: School performance"
   },
   "care1_fid": {
@@ -42041,6 +43613,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Cared for by partner"
   },
   "biopar_fid": {
@@ -42122,6 +43697,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Respondent is mother/father"
   },
   "care2_fid": {
@@ -42183,6 +43761,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Cared for by moth./fath.(if not in household)"
   },
   "care3_fid": {
@@ -42244,6 +43825,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Cared for by grandparents"
   },
   "care4_fid": {
@@ -42305,6 +43889,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Cared for by older siblings"
   },
   "care5_fid": {
@@ -42366,6 +43953,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Cared for by other relatives"
   },
   "care6_fid": {
@@ -42427,6 +44017,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Cared for by nanny/day care (not in-house)"
   },
   "care7_fid": {
@@ -42488,6 +44081,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Cared for by babysitter/nanny (in-house)"
   },
   "care8_fid": {
@@ -42549,6 +44145,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Cared for in crib/day care center"
   },
   "care9_fid": {
@@ -42610,6 +44209,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Cared for at school"
   },
   "care10_fid": {
@@ -42671,6 +44273,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Cared for in after-school hoard"
   },
   "care11_fid": {
@@ -42732,6 +44337,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Cared for in social institution, center"
   },
   "care12_fid": {
@@ -42793,6 +44401,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Cared for by others"
   },
   "careaft_fid": {
@@ -42864,6 +44475,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child in school: Problems with afternoon child care"
   },
   "careaftw_fid": {
@@ -42935,6 +44549,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child n.i. school: Worries about afternoon child care"
   },
   "caremn_fid": {
@@ -43051,6 +44668,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Start current child care, month"
   },
   "caretyp_fid": {
@@ -43122,6 +44742,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Type of child care, if any"
   },
   "careyr_fid": {
@@ -43142,6 +44765,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Start current child care, year"
   },
   "ccare_fid": {
@@ -43208,6 +44834,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child care: day care center/nanny (y/n)"
   },
   "ccarec_fid": {
@@ -43274,6 +44903,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Never changed child care institution"
   },
   "ccarecn_fid": {
@@ -43294,6 +44926,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Number of changes of child care institution"
   },
   "ccarefr_fid": {
@@ -43370,6 +45005,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Child care: freq. of day care center/nanny"
   },
   "disordu_fid": {
@@ -43476,6 +45114,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "First U exam confirming disorder"
   },
   "dvlpm1_fid": {
@@ -43542,6 +45183,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Problems in development/behavioral problems"
   },
   "dvlpm2_fid": {
@@ -43613,6 +45257,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "In therapy/consulting because of behav./devel. problems"
   },
   "famofreq_fid": {
@@ -43699,6 +45346,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Freq. child sees mother/father"
   },
   "fathfreq_fid": {
@@ -43785,6 +45435,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Freq. child sees father"
   },
   "imper1a_fid": {
@@ -43851,6 +45504,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "1st person: Child/adult"
   },
   "imper1b_fid": {
@@ -43917,6 +45573,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "1st person: Relative/not related"
   },
   "imper1c_fid": {
@@ -43983,6 +45642,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "1st person: Gender"
   },
   "imper1d_fid": {
@@ -44003,6 +45665,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "1st person: Age"
   },
   "imper1e_fid": {
@@ -44069,6 +45734,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "1st person: German origin"
   },
   "imper1f_fid": {
@@ -44140,6 +45808,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "1st person: Education"
   },
   "imper2a_fid": {
@@ -44206,6 +45877,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "2nd person: Child/adult"
   },
   "imper2b_fid": {
@@ -44272,6 +45946,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "2nd person: Relative/not related"
   },
   "imper2c_fid": {
@@ -44338,6 +46015,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "2nd person: Gender"
   },
   "imper2d_fid": {
@@ -44358,6 +46038,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "2nd person: Age"
   },
   "imper2e_fid": {
@@ -44424,6 +46107,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "2nd person: German origin"
   },
   "imper2f_fid": {
@@ -44495,6 +46181,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "2nd person: Education"
   },
   "imper3a_fid": {
@@ -44561,6 +46250,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "3rd person: Child/adult"
   },
   "imper3b_fid": {
@@ -44627,6 +46319,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "3rd person: Relative/not related"
   },
   "imper3c_fid": {
@@ -44693,6 +46388,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "3rd person: Gender"
   },
   "imper3d_fid": {
@@ -44713,6 +46411,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "3rd person: Age"
   },
   "imper3e_fid": {
@@ -44779,6 +46480,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "3rd person: German origin"
   },
   "imper3f_fid": {
@@ -44850,6 +46554,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "3rd person: Education"
   },
   "inshelp1_fid": {
@@ -44921,6 +46628,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Used help: Family education facility"
   },
   "inshelp2_fid": {
@@ -44992,6 +46702,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Used help: Family counseling"
   },
   "inshelp3_fid": {
@@ -45063,6 +46776,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Used help: Support by youth-welfare-center"
   },
   "inshelp4_fid": {
@@ -45134,6 +46850,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Used help: Support services by social workers"
   },
   "inshelp5_fid": {
@@ -45205,6 +46924,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Used help: Day-cares services by social workers"
   },
   "inshelp6_fid": {
@@ -45276,6 +46998,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Used help: Consultation of nurse/educator"
   },
   "inshelp7_fid": {
@@ -45347,6 +47072,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Used help: School-counselor/therapist"
   },
   "inshelp8_fid": {
@@ -45418,6 +47146,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Used help: Other aid of youth-welfare-center"
   },
   "inshelp9_fid": {
@@ -45489,6 +47220,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Used help: Other aid"
   },
   "language1_fid": {
@@ -46475,6 +48209,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Language 1"
   },
   "language2_fid": {
@@ -47461,6 +49198,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Language 2"
   },
   "language3_fid": {
@@ -48447,6 +50187,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Language 3"
   },
   "nactcar1_fid": {
@@ -48508,6 +50251,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Not seek. child care: But concrete future plans"
   },
   "nactcar2_fid": {
@@ -48569,6 +50315,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Not seek. child care: Take it as it comes"
   },
   "nactcar3_fid": {
@@ -48630,6 +50379,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Not seek. child care: General disapproval of ch. care"
   },
   "noccare1_fid": {
@@ -48706,6 +50458,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reason no care: Child too young"
   },
   "noccare2_fid": {
@@ -48782,6 +50537,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reason no care: Want to raise child by myself"
   },
   "noccare3_fid": {
@@ -48858,6 +50616,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reason no care: At home anyway and can take care"
   },
   "noccare4_fid": {
@@ -48934,6 +50695,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reason no care: Costs are too high"
   },
   "noccare5_fid": {
@@ -49010,6 +50774,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reason no care: No spots available"
   },
   "noccare6_fid": {
@@ -49086,6 +50853,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reason no care: Distance too far"
   },
   "noccare7_fid": {
@@ -49162,6 +50932,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reason no care: Opening hours not suitable"
   },
   "noccare8_fid": {
@@ -49238,6 +51011,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reason no care: Transfers too time-consuming"
   },
   "noccare9_fid": {
@@ -49314,6 +51090,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reason no care: Child has a chronic disease/disorder"
   },
   "noccare10_fid": {
@@ -49390,6 +51169,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reason no care: Child should spend time w. siblings"
   },
   "noccare11_fid": {
@@ -49466,6 +51248,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reason no care: Good experiences caring at home"
   },
   "reccare1_fid": {
@@ -49542,6 +51327,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reason child care: Employment"
   },
   "reccare2_fid": {
@@ -49618,6 +51406,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reason child care: Increased work schedule"
   },
   "reccare3_fid": {
@@ -49694,6 +51485,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reason child care: Start/contin. acadm. studies"
   },
   "reccare4_fid": {
@@ -49770,6 +51564,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reason child care: Positive impact on childs develop."
   },
   "reccare5_fid": {
@@ -49846,6 +51643,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reason child care: Want more time for myself"
   },
   "reccare6_fid": {
@@ -49922,6 +51722,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reason child care: Other"
   },
   "relapare_fid": {
@@ -50003,6 +51806,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Relationship to biological mother/father"
   },
   "saccare1_fid": {
@@ -50069,6 +51875,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Satisf. child care: with group size"
   },
   "saccare2_fid": {
@@ -50135,6 +51944,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Satisf. child care: With size of staff"
   },
   "saccare3_fid": {
@@ -50201,6 +52013,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Satisf. child care: With opening hours"
   },
   "saccare4_fid": {
@@ -50267,6 +52082,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Satisf. child care: With costs"
   },
   "saccare5_fid": {
@@ -50333,6 +52151,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Satisf. child care: With flexibility"
   },
   "saccare6_fid": {
@@ -50399,6 +52220,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Satisf. child care: With conduct of staff"
   },
   "saccare7_fid": {
@@ -50465,6 +52289,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Satisf. child care: With activities/education"
   },
   "saccare8_fid": {
@@ -50531,6 +52358,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Satisf. child care: With parental participation"
   },
   "saccare9_fid": {
@@ -50597,6 +52427,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Satisf. child care: With contact to nurse/teacher"
   },
   "saccare10_fid": {
@@ -50663,6 +52496,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Satisf. child care: With preparation for school"
   },
   "sathmwk_fid": {
@@ -50729,6 +52565,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Satisfaction help with homework"
   },
   "saticare_fid": {
@@ -50795,6 +52634,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "General satisfaction with child care"
   },
   "scactiv1_fid": {
@@ -50876,6 +52718,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Other school activity: Athletics"
   },
   "scactiv2_fid": {
@@ -50957,6 +52802,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Other school activity: Acting/dancing"
   },
   "scactiv3_fid": {
@@ -51038,6 +52886,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Other school activity: Choir/orchestra/music group"
   },
   "scactiv4_fid": {
@@ -51119,6 +52970,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Other school activity: Other"
   },
   "specned1_fid": {
@@ -51180,6 +53034,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Special needs: Learning"
   },
   "specned2_fid": {
@@ -51241,6 +53098,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Special needs: Linguistic"
   },
   "specned3_fid": {
@@ -51302,6 +53162,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Special needs: Behavior/experience"
   },
   "specned4_fid": {
@@ -51363,6 +53226,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Special needs: Mental"
   },
   "specned5_fid": {
@@ -51424,6 +53290,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Special needs: Amplyopia (eyes)"
   },
   "specned6_fid": {
@@ -51485,6 +53354,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Special needs: Hearing"
   },
   "specned7_fid": {
@@ -51546,6 +53418,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Special needs: Physical/motoric"
   },
   "specned8_fid": {
@@ -51607,6 +53482,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Special needs: Long-lasting disease"
   },
   "specned9_fid": {
@@ -51668,6 +53546,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Special needs: None"
   },
   "stcaremn_fid": {
@@ -51784,6 +53665,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Start of child care (ever), month"
   },
   "stcareyr_fid": {
@@ -51804,6 +53688,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Start of child care (ever), year"
   },
   "timfamod_fid": {
@@ -51824,6 +53711,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Time father/mother sees child (days)"
   },
   "timfamoh_fid": {
@@ -51844,6 +53734,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Time father/mother sees child (hours)"
   },
   "timfathd_fid": {
@@ -51864,6 +53757,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Time father sees child (days)"
   },
   "timfathh_fid": {
@@ -51884,6 +53780,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Time father sees child (hours)"
   },
   "vistfrnd_fid": {
@@ -51965,6 +53864,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Time child spends at friends (alone)"
   }
 }

@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hhnrakt": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Aktuelle Haushaltsnummer (=BFHHNR)"
   },
   "bfhhnr": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Aktuelle Haushaltsnummer (=HHNRAKT)"
   },
   "persnr": {
@@ -149,6 +158,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Unveraenderliche Personennummer"
   },
   "welle": {
@@ -187,6 +199,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Erhebungsjahr"
   },
   "sample1": {
@@ -399,6 +414,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Stichprobenkennzeichen"
   },
   "bfj56": {
@@ -486,6 +504,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Gesundheitszustand"
   },
   "bfj57": {
@@ -524,6 +545,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Koerpergroesse (cm)"
   },
   "bfj58": {
@@ -564,6 +588,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Gewicht (kg)"
   },
   "bfj5901": {
@@ -681,6 +708,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wahrscheinlichkeit in %: gewuenschter Ausbildungs-, Studienplatz"
   },
   "bfj5902": {
@@ -798,6 +828,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wahrscheinlichkeit in %: Abschluss Ausbildungs-, Studienplatz"
   },
   "bfj5903": {
@@ -915,6 +948,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wahrscheinlichkeit in %: Arbeitsplatz"
   },
   "bfj5904": {
@@ -1032,6 +1068,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wahrscheinlichkeit in %: beruflicher Erfolg"
   },
   "bfj5905": {
@@ -1149,6 +1188,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wahrscheinlichkeit in %: arbeitslos"
   },
   "bfj5906": {
@@ -1266,6 +1308,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wahrscheinlichkeit in %: Einschraenkung Familie"
   },
   "bfj5907": {
@@ -1383,6 +1428,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wahrscheinlichkeit in %: Selbstaendigkeit"
   },
   "bfj5908": {
@@ -1500,6 +1548,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wahrscheinlichkeit in %: Ausland arbeiten"
   },
   "bfj5909": {
@@ -1617,6 +1668,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wahrscheinlichkeit in %: Heirat"
   },
   "bfj5910": {
@@ -1734,6 +1788,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wahrscheinlichkeit in %: mit Partner"
   },
   "bfj5911": {
@@ -1851,6 +1908,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wahrscheinlichkeit in %: ein Kind"
   },
   "bfj5912": {
@@ -1968,6 +2028,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Wahrscheinlichkeit in %: mehrere Kinder"
   },
   "bfj6001": {
@@ -2006,6 +2069,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Geburtsjahr"
   },
   "bfj6002": {
@@ -2128,6 +2194,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Geburtsmonat"
   },
   "bfj62": {
@@ -2200,6 +2269,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "in Deutschland geboren"
   },
   "bfj6302": {
@@ -3162,6 +3234,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Geburtsland Code"
   },
   "bfj64": {
@@ -3202,6 +3277,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Zuzug nach Deutschland"
   },
   "bfj65": {
@@ -3309,6 +3387,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Status bei Einwanderung in Deutschland"
   },
   "bfj6601": {
@@ -3396,6 +3477,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Vor Zuzug Deutsch sprechen"
   },
   "bfj6602": {
@@ -3483,6 +3567,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Vor Zuzug Deutsch schreiben"
   },
   "bfj6603": {
@@ -3570,6 +3657,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Vor Zuzug Deutsch lesen"
   },
   "bfj6604": {
@@ -3657,6 +3747,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Sprechkompetenz: deutsch"
   },
   "bfj6605": {
@@ -3744,6 +3837,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Schreibkompetenz: deutsch"
   },
   "bfj6606": {
@@ -3831,6 +3927,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Lesekompetenz: deutsch"
   },
   "bfj91": {
@@ -3948,6 +4047,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "persoenliche Risikobereitschaft"
   },
   "bfj9201": {
@@ -4045,6 +4147,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "wie Leben verlaeuft haengt von einem selbst ab"
   },
   "bfj9202": {
@@ -4142,6 +4247,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "nicht das erreicht was eigentlich verdient"
   },
   "bfj9203": {
@@ -4239,6 +4347,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "was man erreicht ist Frage von Glueck, Schicksal"
   },
   "bfj9204": {
@@ -4336,6 +4447,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "andere bestimmen haeufig ueber mein Leben"
   },
   "bfj9205": {
@@ -4433,6 +4547,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Erfolg muss hart erarbeitet werden"
   },
   "bfj9206": {
@@ -4530,6 +4647,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "bei Schwierigkeiten Zweifel an einem selber"
   },
   "bfj9207": {
@@ -4627,6 +4747,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "soziale Umstaende bestimmen das Leben"
   },
   "bfj9208": {
@@ -4724,6 +4847,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "wichtiger als Anstrengung sind gegebene Faehigkt."
   },
   "bfj9209": {
@@ -4821,6 +4947,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "wenig Kontrolle ueber Ereignisse im Leben"
   },
   "bfj9210": {
@@ -4918,6 +5047,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Einfluss auf soziale Verhaeltn. Durch soz., pol. Engagement"
   },
   "bfj9211": {
@@ -5015,6 +5147,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "heute Verzichten, morgen sich Leisten"
   },
   "bfj9212": {
@@ -5112,6 +5247,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Menschen vertrauen"
   },
   "bfj9213": {
@@ -5209,6 +5347,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "auf niemanden mehr velassen"
   },
   "bfj9214": {
@@ -5306,6 +5447,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Fremden misstrauen"
   },
   "bfj9215": {
@@ -5403,6 +5547,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "heute Spass, nicht an morgen denken"
   },
   "bfj9301": {
@@ -5500,6 +5647,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Persoenliche Eigenschaften: gruendlich Arbeiten"
   },
   "bfj9302": {
@@ -5597,6 +5747,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Persoenliche Eigenschaften: kommunikativ"
   },
   "bfj9303": {
@@ -5694,6 +5847,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Persoenliche Eigenschaften: grob zu anderen"
   },
   "bfj9304": {
@@ -5791,6 +5947,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Persoenliche Eigenschaften: neue Ideen einbringen"
   },
   "bfj9305": {
@@ -5888,6 +6047,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Persoenliche Eigenschaften: oft Sorgen machen"
   },
   "bfj9306": {
@@ -5985,6 +6147,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Persoenliche Eigenschaften: kann verzeihen"
   },
   "bfj9307": {
@@ -6082,6 +6247,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Persoenliche Eigenschaften: faul sein"
   },
   "bfj9308": {
@@ -6179,6 +6347,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Persoenliche Eigenschaften: gesellig sein"
   },
   "bfj9309": {
@@ -6276,6 +6447,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Persoenliche Eigenschaften: Aesthetik schaetzen"
   },
   "bfj9310": {
@@ -6373,6 +6547,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Persoenliche Eigenschaften: nervoes sein"
   },
   "bfj9311": {
@@ -6470,6 +6647,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Persoenliche Eigenschaften: Aufgaben effizient erledigen"
   },
   "bfj9312": {
@@ -6567,6 +6747,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Persoenliche Eigenschaften: zurueckhaltend"
   },
   "bfj9313": {
@@ -6664,6 +6847,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Persoenliche Eigenschaften: ruecksichtsvoll, freundlich"
   },
   "bfj9314": {
@@ -6761,6 +6947,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Persoenliche Eigenschaften: lebhafte Phantasie"
   },
   "bfj9315": {
@@ -6858,6 +7047,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Persoenliche Eigenschaften: entspannt sein, kein Stress"
   },
   "bfj9316": {
@@ -6955,6 +7147,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Persoenliche Eigenschaften: wissbegierig"
   },
   "bfj9317": {
@@ -7052,6 +7247,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Persoenliche Eigenschaften: positive Einstellung zu sich"
   },
   "bfj9401": {
@@ -7139,6 +7337,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Haeufigkeit aergerlich letzte 4 Wochen"
   },
   "bfj9402": {
@@ -7226,6 +7427,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Haeufigkeit aengstlich letzte 4 Wochen"
   },
   "bfj9403": {
@@ -7313,6 +7517,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Haeufigkeit gleucklich letzte 4 Wochen"
   },
   "bfj9404": {
@@ -7400,6 +7607,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Haeufigkeit traurig letzte 4 Wochen"
   },
   "bfj95": {
@@ -7472,6 +7682,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Bezahlte Arbeit ausgeuebt (diese Woche)"
   },
   "bfj96": {
@@ -7544,6 +7757,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "aktiv nach Stelle gesucht (diesen Monat)"
   },
   "bfj97": {
@@ -7616,6 +7832,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Arbeitslos gemeldet"
   },
   "bfj98": {
@@ -7698,6 +7917,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Interesse fuer Politik"
   },
   "bfj99": {
@@ -7770,6 +7992,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Allgemeine Parteienpraeferenz"
   },
   "bfj10001": {
@@ -7982,6 +8207,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Parteipraeferenz"
   },
   "bfj10002": {
@@ -8069,6 +8297,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Parteipraeferenz-Intensitaet"
   },
   "bfj101": {
@@ -8186,6 +8417,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2015",
     "label_de": "Lebenszufriedenheit gegenwaertig"
   }
 }

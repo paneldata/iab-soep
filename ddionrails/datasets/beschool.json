@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "persnr": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unveraenderliche Personennr."
   },
   "welle": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Erhebungsjahr"
   },
   "sample1": {
@@ -318,6 +327,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Stichprobenkennzeichen"
   },
   "hhnrakt": {
@@ -356,6 +368,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Haushaltsnummer"
   },
   "bepnr": {
@@ -394,6 +409,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Lfd. Personennummer"
   },
   "begebj": {
@@ -432,6 +450,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Geburtsjahr"
   },
   "begebm": {
@@ -554,6 +575,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Geburtsmonat"
   },
   "bestest": {
@@ -661,6 +685,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Testfrage Skala verstanden"
   },
   "bes0101": {
@@ -738,6 +765,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nett zu anderen Menschen"
   },
   "bes0102": {
@@ -815,6 +845,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Oft unruhig"
   },
   "bes0103": {
@@ -892,6 +925,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Haeufig Schmerzen"
   },
   "bes0104": {
@@ -969,6 +1005,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Teile gerne"
   },
   "bes0105": {
@@ -1046,6 +1085,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Werde leicht wuetend"
   },
   "bes0106": {
@@ -1123,6 +1165,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Meistens alleine"
   },
   "bes0107": {
@@ -1200,6 +1245,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tue, was man mir sagt"
   },
   "bes0108": {
@@ -1277,6 +1325,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mache mir haeufig Sorgen"
   },
   "bes0109": {
@@ -1354,6 +1405,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Bin hilfsbereit"
   },
   "bes0110": {
@@ -1431,6 +1485,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Dauernd in Bewegung"
   },
   "bes0111": {
@@ -1508,6 +1565,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Gute Freunde"
   },
   "bes0112": {
@@ -1585,6 +1645,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Schlage mich haeufig"
   },
   "bes0113": {
@@ -1662,6 +1725,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kann andere zwingen"
   },
   "bes0114": {
@@ -1739,6 +1805,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Oft ungluecklich"
   },
   "bes0115": {
@@ -1816,6 +1885,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Im Allgemeinen beliebt"
   },
   "bes0116": {
@@ -1893,6 +1965,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Leicht ablenkbar"
   },
   "bes0117": {
@@ -1970,6 +2045,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nervoes in neuen Situationen"
   },
   "bes0118": {
@@ -2047,6 +2125,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nett zu Juengeren"
   },
   "bes0119": {
@@ -2124,6 +2205,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Andere behaupten, dass ich luege"
   },
   "bes0120": {
@@ -2201,6 +2285,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Werde gehaenselt"
   },
   "bes0121": {
@@ -2278,6 +2365,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Helfe freiwillig"
   },
   "bes0122": {
@@ -2355,6 +2445,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Denke nach, bevor ich handle"
   },
   "bes0123": {
@@ -2432,6 +2525,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nehme Dinge, die mir nicht gehoeren"
   },
   "bes0124": {
@@ -2509,6 +2605,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Besser mit Erwachsenen"
   },
   "bes0125": {
@@ -2586,6 +2685,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Habe viele Aengste"
   },
   "bes0126": {
@@ -2663,6 +2765,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Lange genug konzentrieren"
   },
   "bes02": {
@@ -2703,6 +2808,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wievielte Klasse"
   },
   "bes03": {
@@ -2743,6 +2851,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wie viele Schueler"
   },
   "bes0401": {
@@ -2783,6 +2894,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wie viele Schueler nicht deutsch"
   },
   "bes0402": {
@@ -2855,6 +2969,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Schueler nicht deutsch"
   },
   "bes0501": {
@@ -2927,6 +3044,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Lehrer ruft dich seltener auf"
   },
   "bes0502": {
@@ -2999,6 +3119,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Lehrer benotet dich strenger"
   },
   "bes0503": {
@@ -3071,6 +3194,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Lehrer ermahnt dich oefter"
   },
   "bes0504": {
@@ -3143,6 +3269,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Lehrer halten dich fuer weniger klug"
   },
   "bes0601": {
@@ -3235,6 +3364,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Note Deutsch"
   },
   "bes0602": {
@@ -3327,6 +3459,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Note Mathematik"
   },
   "bes0603": {
@@ -3419,6 +3554,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Note erste Fremdsprache"
   },
   "bes0604": {
@@ -3486,6 +3624,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Keine Schulnote"
   },
   "bes07": {
@@ -3563,6 +3704,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Welchen Schulabschluss erreichen"
   },
   "bes08": {
@@ -3645,6 +3789,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wie wichtig dieser Schulabschluss"
   },
   "bes09": {
@@ -3727,6 +3874,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Welchen Schulabschluss tatsaechlich erreichen"
   },
   "bes10": {
@@ -3809,6 +3959,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Interesse der Eltern fuer Schule"
   },
   "bes1101": {
@@ -3849,6 +4002,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Beginn Montag (Stunde)"
   },
   "bes1102": {
@@ -3889,6 +4045,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Beginn Montag (Minute)"
   },
   "bes1103": {
@@ -3929,6 +4088,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Beginn Dienstag (Stunde)"
   },
   "bes1104": {
@@ -3969,6 +4131,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Beginn Dienstag (Minute)"
   },
   "bes1105": {
@@ -4009,6 +4174,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Beginn Mittwoch (Stunde)"
   },
   "bes1106": {
@@ -4049,6 +4217,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Beginn Mittwoch (Minute)"
   },
   "bes1107": {
@@ -4089,6 +4260,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Beginn Donnerstag (Stunde)"
   },
   "bes1108": {
@@ -4129,6 +4303,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Beginn Donnerstag (Minute)"
   },
   "bes1109": {
@@ -4169,6 +4346,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Beginn Freitag (Stunde)"
   },
   "bes1110": {
@@ -4209,6 +4389,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Beginn Freitag (Minute)"
   },
   "bes1111": {
@@ -4249,6 +4432,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Beginn Samstag (Stunde)"
   },
   "bes1112": {
@@ -4289,6 +4475,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Beginn Samstag (Minute)"
   },
   "bes1113": {
@@ -4329,6 +4518,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ende Montag (Stunde)"
   },
   "bes1114": {
@@ -4369,6 +4561,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ende Montag (Minute)"
   },
   "bes1115": {
@@ -4409,6 +4604,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ende Dienstag (Stunde)"
   },
   "bes1116": {
@@ -4449,6 +4647,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ende Dienstag (Minute)"
   },
   "bes1117": {
@@ -4489,6 +4690,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ende Mittwoch (Stunde)"
   },
   "bes1118": {
@@ -4529,6 +4733,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ende Mittwoch (Minute)"
   },
   "bes1119": {
@@ -4569,6 +4776,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ende Donnerstag (Stunde)"
   },
   "bes1120": {
@@ -4609,6 +4819,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ende Donnerstag (Minute)"
   },
   "bes1121": {
@@ -4649,6 +4862,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ende Freitag (Stunde)"
   },
   "bes1122": {
@@ -4689,6 +4905,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ende Freitag (Minute)"
   },
   "bes1123": {
@@ -4729,6 +4948,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ende Samstag (Stunde)"
   },
   "bes1124": {
@@ -4769,6 +4991,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ende Samstag (Minute)"
   },
   "bes1125": {
@@ -4851,6 +5076,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wie oft Schule am Samstag"
   },
   "bes1201": {
@@ -4891,6 +5119,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hort Werktag"
   },
   "bes1202": {
@@ -4931,6 +5162,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hort Samstag, Sonntag"
   },
   "bes1203": {
@@ -4971,6 +5205,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Jugendzentrum Werktag"
   },
   "bes1204": {
@@ -5011,6 +5248,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Jugendzentrum Samstag, Sonntag"
   },
   "bes1205": {
@@ -5051,6 +5291,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sportverein Werktag"
   },
   "bes1206": {
@@ -5091,6 +5334,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sportverein Samstag, Sonntag"
   },
   "bes13": {
@@ -5188,6 +5434,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wo Hausaufgaben"
   },
   "bes14": {
@@ -5280,6 +5529,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wie lange Hausaufgaben"
   },
   "bes1501": {
@@ -5372,6 +5624,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hilfe bei Hausaufgaben: Mutter"
   },
   "bes1502": {
@@ -5464,6 +5719,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hilfe bei Hausaufgaben: Vater"
   },
   "bes1503": {
@@ -5556,6 +5814,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hilfe bei Hausaufgaben: Grosseltern"
   },
   "bes1504": {
@@ -5648,6 +5909,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hilfe bei Hausaufgaben: Geschwister"
   },
   "bes1505": {
@@ -5740,6 +6004,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hilfe bei Hausaufgaben: Freunde"
   },
   "bes1506": {
@@ -5832,6 +6099,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hilfe bei Hausaufgaben: Nachhilfelehrer/-in"
   },
   "bes1507": {
@@ -5924,6 +6194,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hilfe bei Hausaufgaben: Hausaufgabenbetreuung"
   },
   "bes1601": {
@@ -6011,6 +6284,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Fernsehen"
   },
   "bes1602": {
@@ -6098,6 +6374,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Computerspiele"
   },
   "bes1603": {
@@ -6185,6 +6464,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Soziale Netzwerke"
   },
   "bes1604": {
@@ -6272,6 +6554,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sonstiges Surfen im Internet"
   },
   "bes1605": {
@@ -6359,6 +6644,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Musik hoeren"
   },
   "bes1606": {
@@ -6446,6 +6734,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Musik machen"
   },
   "bes1607": {
@@ -6533,6 +6824,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sport treiben"
   },
   "bes1608": {
@@ -6620,6 +6914,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unternehmung mit Familie"
   },
   "bes1609": {
@@ -6707,6 +7004,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tanz, Theater"
   },
   "bes1610": {
@@ -6794,6 +7094,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Technisches Werken"
   },
   "bes1611": {
@@ -6881,6 +7184,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Malen und Basteln"
   },
   "bes1612": {
@@ -6968,6 +7274,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Lesen"
   },
   "bes1613": {
@@ -7055,6 +7364,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nichts tun"
   },
   "bes1614": {
@@ -7142,6 +7454,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mit Freunden zusammen"
   },
   "bes1615": {
@@ -7229,6 +7544,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Telefonieren"
   },
   "bes1616": {
@@ -7316,6 +7634,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "SMS austauschen"
   },
   "bes1617": {
@@ -7403,6 +7724,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kirchgang, religioese Veranstaltungen"
   },
   "bes1618": {
@@ -7490,6 +7814,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Jugendgruppe"
   },
   "bes1619": {
@@ -7577,6 +7904,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Um Haustier/Tiere kuemmern"
   },
   "bes17": {
@@ -7617,6 +7947,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wie viele Freunde"
   },
   "bes1801": {
@@ -7699,6 +8032,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Schulabschluss 1. Freund/-in"
   },
   "bes1802": {
@@ -7781,6 +8117,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Schulabschluss 2. Freund/-in"
   },
   "bes1803": {
@@ -7863,6 +8202,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Schulabschluss 3. Freund/-in"
   },
   "bes1804": {
@@ -7970,6 +8312,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wo kennengelernt 1. Freund/-in"
   },
   "bes1805": {
@@ -8077,6 +8422,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wo kennengelernt 2. Freund/-in"
   },
   "bes1806": {
@@ -8184,6 +8532,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wo kennengelernt 3. Freund/-in"
   },
   "bes19": {
@@ -8271,6 +8622,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Einmischung Eltern"
   },
   "bes20": {
@@ -8343,6 +8697,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Aeltere Geschwister"
   },
   "bes2101": {
@@ -8425,6 +8782,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Schulabschluss 1.Bruder/Schwester"
   },
   "bes2102": {
@@ -8507,6 +8867,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Schulabschluss 2.Bruder/Schwester"
   },
   "bes2103": {
@@ -8589,6 +8952,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Schulabschluss 3.Bruder/Schwester"
   },
   "bes2201": {
@@ -8676,6 +9042,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Fruehstueck Werktag"
   },
   "bes2202": {
@@ -8763,6 +9132,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mittagessen Werktag"
   },
   "bes2203": {
@@ -8850,6 +9222,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Abendessen Werktag"
   },
   "bes2204": {
@@ -8937,6 +9312,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Fruehstueck Wochenende"
   },
   "bes2205": {
@@ -9024,6 +9402,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mittagessen Wochenende"
   },
   "bes2206": {
@@ -9111,6 +9492,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Abendessen Wochenende"
   },
   "bes23": {
@@ -9151,6 +9535,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Groesse"
   },
   "bes24": {
@@ -9191,6 +9578,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Gewicht"
   },
   "bes2501": {
@@ -9283,6 +9673,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Freunde (bei Sorgen)"
   },
   "bes2502": {
@@ -9375,6 +9768,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Geschwister (bei Sorgen)"
   },
   "bes2503": {
@@ -9467,6 +9863,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mutter (bei Sorgen)"
   },
   "bes2504": {
@@ -9559,6 +9958,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Vater (bei Sorgen)"
   },
   "bes2505": {
@@ -9651,6 +10053,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Grosseltern (bei Sorgen)"
   },
   "bes2506": {
@@ -9743,6 +10148,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Freunde (bestaerken dich)"
   },
   "bes2507": {
@@ -9835,6 +10243,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Geschwister (bestaerken dich)"
   },
   "bes2508": {
@@ -9927,6 +10338,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mutter (bestaerkt dich)"
   },
   "bes2509": {
@@ -10019,6 +10433,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Vater (bestaerkt dich)"
   },
   "bes2510": {
@@ -10111,6 +10528,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Grosseltern (bestaerken dich)"
   },
   "bes2511": {
@@ -10203,6 +10623,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Freunde (kommandieren dich)"
   },
   "bes2512": {
@@ -10295,6 +10718,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Geschwister (kommandieren dich)"
   },
   "bes2513": {
@@ -10387,6 +10813,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mutter (kommandiert dich)"
   },
   "bes2514": {
@@ -10479,6 +10908,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Vater (kommandiert dich)"
   },
   "bes2515": {
@@ -10571,6 +11003,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Grosseltern (kommandieren dich)"
   },
   "bes2516": {
@@ -10663,6 +11098,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Freunde (sei gut in Schule)"
   },
   "bes2517": {
@@ -10755,6 +11193,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Geschwister (sei gut in Schule)"
   },
   "bes2518": {
@@ -10847,6 +11288,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mutter (sei gut in Schule)"
   },
   "bes2519": {
@@ -10939,6 +11383,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Vater (sei gut in Schule)"
   },
   "bes2520": {
@@ -11031,6 +11478,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Grosseltern (sei gut in Schule)"
   },
   "bes2521": {
@@ -11123,6 +11573,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Freunde (Streit)"
   },
   "bes2522": {
@@ -11215,6 +11668,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Geschwister (Streit)"
   },
   "bes2523": {
@@ -11307,6 +11763,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mutter (Streit)"
   },
   "bes2524": {
@@ -11399,6 +11858,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Vater (Streit)"
   },
   "bes2525": {
@@ -11491,6 +11953,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Grosseltern (Streit)"
   },
   "bes2601": {
@@ -11588,6 +12053,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeite gruendlich"
   },
   "bes2602": {
@@ -11685,6 +12153,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Bin kommunikativ, gespraechig"
   },
   "bes2603": {
@@ -11782,6 +12253,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Bin manchmal grob zu anderen"
   },
   "bes2604": {
@@ -11879,6 +12353,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Bin originell, neue Ideen"
   },
   "bes2605": {
@@ -11976,6 +12453,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Oft Sorgen"
   },
   "bes2606": {
@@ -12068,6 +12548,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kann verzeihen"
   },
   "bes2607": {
@@ -12165,6 +12648,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Bin eher faul"
   },
   "bes2608": {
@@ -12262,6 +12748,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Aus mir herausgehen, gesellig"
   },
   "bes2609": {
@@ -12359,6 +12848,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Schaetze kuenstlerische Erfahrungen"
   },
   "bes2610": {
@@ -12456,6 +12948,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Werde leicht nervoes"
   },
   "bes2611": {
@@ -12553,6 +13048,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Erledige Aufgaben wirksam u. effizient"
   },
   "bes2612": {
@@ -12650,6 +13148,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Bin Zurueckhaltend"
   },
   "bes2613": {
@@ -12742,6 +13243,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Bin ruecksichtsvoll und freundlich im Umgang"
   },
   "bes2614": {
@@ -12839,6 +13343,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Habe lebhafte Phantasie u. Vorstellungen"
   },
   "bes2615": {
@@ -12936,6 +13443,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Bin entspannt, kann mit Stress gut umgehen"
   },
   "bes2616": {
@@ -13033,6 +13543,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Bin wissbegierig"
   },
   "bes2617": {
@@ -13125,6 +13638,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Habe positive Einstellung zu mir"
   },
   "bes2618": {
@@ -13222,6 +13738,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kann verzichten um zu sparen"
   },
   "bes2619": {
@@ -13319,6 +13838,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "habe heute Spass"
   },
   "bes27": {
@@ -13436,6 +13958,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Risikobereitschaft"
   },
   "bes2801": {
@@ -13508,6 +14033,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "eigener Schreibtisch"
   },
   "bes2802": {
@@ -13580,6 +14108,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "eigenes Zimmer"
   },
   "bes2803": {
@@ -13652,6 +14183,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "eigene Buecher"
   },
   "bes2901": {
@@ -13724,6 +14258,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Lern-Software"
   },
   "bes2902": {
@@ -13796,6 +14333,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hilfreiche Buecher"
   },
   "bes2903": {
@@ -13868,6 +14408,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Klassische Literatur"
   },
   "bes2904": {
@@ -13940,6 +14483,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Musikinstrumente"
   },
   "bes2905": {
@@ -14012,6 +14558,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kunstwerke"
   },
   "bes3001": {
@@ -14084,6 +14633,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tablet"
   },
   "bes3002": {
@@ -14156,6 +14708,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nutzung Tablet"
   },
   "bes3003": {
@@ -14228,6 +14783,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Computer"
   },
   "bes3004": {
@@ -14300,6 +14858,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nutzung Computer"
   },
   "bes3005": {
@@ -14372,6 +14933,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "(Spiele-)Konsole"
   },
   "bes3006": {
@@ -14444,6 +15008,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nutzung (Spiele-)Konsole"
   },
   "bes3007": {
@@ -14516,6 +15083,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Smartphone"
   },
   "bes3008": {
@@ -14588,6 +15158,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nutzung Smartphone"
   },
   "bes3009": {
@@ -14660,6 +15233,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Anderes Handy"
   },
   "bes3010": {
@@ -14732,6 +15308,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nutzung anderes Handy"
   },
   "bes31": {
@@ -14809,6 +15388,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sprache"
   },
   "bes32": {
@@ -14906,6 +15488,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zufriedenheit"
   },
   "bedatt": {
@@ -14944,6 +15529,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Interviewtag"
   },
   "bedatm": {
@@ -15066,6 +15654,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Interviewmonat"
   },
   "bedatst": {
@@ -15106,6 +15697,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Interview beendet Uhrzeit (Stunde)"
   },
   "bedatmi": {
@@ -15146,6 +15740,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Interview beendet Uhrzeit (Minuten)"
   },
   "beform": {
@@ -15263,6 +15860,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Befragungsform"
   },
   "bedauer1": {
@@ -15303,6 +15903,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Interviewdauer muendlich"
   },
   "bedauer2": {
@@ -15343,6 +15946,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Interviewdauer Selbstausfueller"
   },
   "beanw": {
@@ -15425,6 +16031,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Weitere Person anwesend"
   },
   "intid": {
@@ -15463,6 +16072,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Interviewer ID"
   }
 }

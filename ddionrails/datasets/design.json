@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "period": "0",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hsample": {
@@ -177,6 +180,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "period": "0",
     "label_de": "Stichprobenart"
   },
   "rgroup": {
@@ -215,6 +221,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "period": "0",
     "label_de": "Random Groups"
   },
   "design": {
@@ -253,6 +262,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "period": "0",
     "label_de": "Inverse Ziehungswahrscheinlichkeit"
   },
   "strat": {
@@ -291,6 +303,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "period": "0",
     "label_de": "Schichtung, Stratifizierungseinheiten"
   },
   "psu": {
@@ -329,6 +344,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "period": "0",
     "label_de": "Klumpung, Primaere Ziehungseinheiten"
   },
   "intid": {
@@ -367,6 +385,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "period": "0",
     "label_de": "Interviewer ID"
   }
 }

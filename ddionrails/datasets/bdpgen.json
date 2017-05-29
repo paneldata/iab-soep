@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hhnrakt": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "aktuelle Haushaltsnummer"
   },
   "bdhhnr": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Aktuelle Haushaltsnummer (=HHNRAKT)"
   },
   "persnr": {
@@ -149,6 +158,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Unveraenderliche Personennummer"
   },
   "sample1": {
@@ -187,6 +199,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Stichprobenkennzeichen TNS-Infratest"
   },
   "nation13": {
@@ -1154,6 +1169,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Staatsangehoerigkeit-Nationalitaet"
   },
   "partz13": {
@@ -1241,6 +1259,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Partner Indikator"
   },
   "partnr13": {
@@ -1281,6 +1302,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Unveraend. Personen-id des Partners"
   },
   "bdfamstd": {
@@ -1383,6 +1407,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Marital Status"
   },
   "labgro13": {
@@ -1423,6 +1450,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Akt. Bruttoerwerbseink.(gen) in Euro"
   },
   "impgro13": {
@@ -1495,6 +1525,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Imput.flag Bruttoerwerbseinkommen(gen)"
   },
   "labnet13": {
@@ -1535,6 +1568,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Akt. Nettoerwerbseink.(gen) in Euro"
   },
   "impnet13": {
@@ -1607,6 +1643,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Imput.flag Nettoerwerbseinkommen (gen)"
   },
   "sndjob13": {
@@ -1647,6 +1686,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Akt. Bruttonebenverdienst (gen.) in Euro"
   },
   "impsnd13": {
@@ -1687,6 +1729,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Imput.flag Bruttonebenverdienst (gen.)"
   },
   "stib13": {
@@ -1974,6 +2019,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufliche Stellung"
   },
   "emplst13": {
@@ -2066,6 +2114,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Employment Status"
   },
   "lfs13": {
@@ -2183,6 +2234,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Labor Force Status"
   },
   "jobch13": {
@@ -2270,6 +2324,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Beruflicher Wechsel"
   },
   "autono13": {
@@ -2362,6 +2419,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Autonomie beruflichen Handelns"
   },
   "isco88_13": {
@@ -4884,6 +4944,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "aktueller Beruf [pber] (ISCO-88 COM, 4-Steller)"
   },
   "isco08_13": {
@@ -7126,6 +7189,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "aktueller Beruf [pber] (ISCO-08, 4-Steller)"
   },
   "isei88_13": {
@@ -7166,6 +7232,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "letzter erreichter ISEI-Wert (International Socio-Economic Index)"
   },
   "kldb92_13": {
@@ -18653,6 +18722,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "aktueller Beruf [pber] (KldB 92, 4-Steller)"
   },
   "kldb2010_13": {
@@ -25145,6 +25217,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "aktueller Beruf [pber] (KldB 2010, 5-Steller)"
   },
   "mps92_13": {
@@ -25185,6 +25260,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "letzter erreichter MPS-Wert (Magnitude-Prestige-Skale, Wegener)"
   },
   "siops88_13": {
@@ -25225,6 +25303,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "letzter erreichter SIOPS-Wert (Std. Internat. Occupational Prestige Scale, Tre"
   },
   "egp88_13": {
@@ -25342,6 +25423,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "letzte erreichte EGP-Klasse (Erikson, Goldthorpe, Portocarero)"
   },
   "erljob13": {
@@ -25424,6 +25508,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Taetigkeit im erlernten Beruf"
   },
   "ausb13": {
@@ -25531,6 +25618,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "erforderliche Ausbildung im Beruf"
   },
   "bderwzeit": {
@@ -25571,6 +25661,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Dauer der Betriebszugehoerigkeit"
   },
   "bdtatzeit": {
@@ -25611,6 +25704,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Tatsaechliche Arbeitszeit pro Woche"
   },
   "bdvebzeit": {
@@ -25651,6 +25747,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Vereinbarte Arbeitszeit pro Woche"
   },
   "bduebstd": {
@@ -25691,6 +25790,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ueberstunden pro Woche"
   },
   "oeffd13": {
@@ -25763,6 +25865,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "im oeffentlichen Dienst"
   },
   "nace13": {
@@ -26145,6 +26250,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Branche nach NACE"
   },
   "betr13": {
@@ -26262,6 +26370,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Unternehmensgroesse"
   },
   "allbet13": {
@@ -26349,6 +26460,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Grobkategorien Unternehmensgroesse"
   },
   "jobend13": {
@@ -26496,6 +26610,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Grund Beschaeftigungsende"
   },
   "expft13": {
@@ -26536,6 +26653,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitsmarkterfahrung Vollzeit"
   },
   "exppt13": {
@@ -26576,6 +26696,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitsmarkterfahrung Teilzeit"
   },
   "expue13": {
@@ -26616,6 +26739,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitsmarkterfahrung Arbeitslos"
   },
   "isced97_13": {
@@ -26713,6 +26839,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "ISCED-1997-Klassifikation"
   },
   "isced11_13": {
@@ -26820,6 +26949,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "ISCED-2011-Klassifikation"
   },
   "casmin13": {
@@ -26932,6 +27064,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "CASMIN-Klassifikation"
   },
   "bdbilzeit": {
@@ -26972,6 +27107,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Dauer der Ausbildung, in Jahren"
   },
   "bdpsbil": {
@@ -27069,6 +27207,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schulabschluss"
   },
   "bdpbbil01": {
@@ -27166,6 +27307,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufl. Bildungsabschluss"
   },
   "bdpbbil02": {
@@ -27278,6 +27422,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Hochschulabschluss"
   },
   "bdpbbil03": {
@@ -27355,6 +27502,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Kein Berufsabschluss"
   },
   "bdpsbilo": {
@@ -27447,6 +27597,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schulabschluss-Ost"
   },
   "bdpbbilo": {
@@ -27529,6 +27682,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufl. Bildungsabschluss-Ost(1950-91)"
   },
   "bdpsbila": {
@@ -27611,6 +27767,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schulabschluss im Ausland"
   },
   "bdpbbila": {
@@ -27718,6 +27877,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufliche Bildung im Ausland"
   },
   "field13": {
@@ -28080,6 +28242,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Fachrichtung, Studienbereiche StaBu Fachserie 11-4.1"
   },
   "degree13": {
@@ -28252,6 +28417,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Hochschulabschluss, angelehnt an StaBu Fachserie 11-4.1"
   },
   "traina13": {
@@ -28759,6 +28927,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausbildungsberuf (Lehre), KldB 1992 Zweisteller"
   },
   "trainb13": {
@@ -29266,6 +29437,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausbildungsberuf (Berufsfachschule, Schule des Gesundheitswesens),KldB 1992"
   },
   "trainc13": {
@@ -29773,6 +29947,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausbildungsberuf (Fachschule - Meister, Techniker), KldB 1992"
   },
   "traind13": {
@@ -30280,6 +30457,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausbildungsberuf (Beamtenausbildung), KldB 1992 Zweisteller"
   },
   "fdt_f13": {
@@ -30362,6 +30542,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Datenquelle Field Degree Train"
   },
   "bilztch13": {
@@ -30433,6 +30616,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Bildungsveraenderung seit letzter Beobachtung/seit letztem Jahr"
   },
   "bilztev13": {
@@ -30515,6 +30701,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Bildungsveraenderung in der gesamten Beobachtungszeit"
   },
   "month13": {
@@ -30637,6 +30826,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Monat des Interviews"
   },
   "mode13": {
@@ -30769,6 +30961,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Interviewmethode"
   }
 }

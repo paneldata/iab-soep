@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hhnrakt": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "aktuelle Haushaltsnummer"
   },
   "persnr": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Unveraenderliche Personennummer"
   },
   "befrper": {
@@ -149,6 +158,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Lfd. Personennummer"
   },
   "syear": {
@@ -187,6 +199,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Erhebungsjahr, 4-stellig"
   },
   "sex": {
@@ -259,6 +274,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Geschlecht"
   },
   "psample": {
@@ -401,6 +419,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Stichprobenart"
   },
   "bygebjah": {
@@ -439,6 +460,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Geburtsjahr -4Steller-"
   },
   "bymnr": {
@@ -479,6 +503,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Personennummer der Mutter"
   },
   "byvnr": {
@@ -519,6 +546,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Personennummer des Vaters"
   },
   "bywoelt": {
@@ -591,6 +621,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "wohnt im elterl. HH?"
   },
   "bywozim": {
@@ -663,6 +696,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "hat eigenes Zimmer?"
   },
   "bywowei": {
@@ -735,6 +771,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "weiteres Zimmer ausser bei Eltern"
   },
   "byvdeig": {
@@ -807,6 +846,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Eigener Verdienst"
   },
   "byvdart": {
@@ -884,6 +926,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Art Verdienst"
   },
   "byjbfrue": {
@@ -956,6 +1001,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "frueher schon gejobbt"
   },
   "byjbalt": {
@@ -996,6 +1044,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Alter erster Job"
   },
   "byjbgrun": {
@@ -1073,6 +1124,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Gruende fuer Jobben"
   },
   "bytgeld": {
@@ -1145,6 +1199,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Taschengeld, Zuschuss"
   },
   "bytgeldw": {
@@ -1185,6 +1242,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Taschengeld pro Woche"
   },
   "bytgeldm": {
@@ -1225,6 +1285,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Taschengeld pro Monat"
   },
   "byspar": {
@@ -1302,6 +1365,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Geld sparen"
   },
   "bysparm": {
@@ -1342,6 +1408,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Sparen pro Monat"
   },
   "bysparun": {
@@ -1409,6 +1478,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Sparen unregelm."
   },
   "bywiva": {
@@ -1496,6 +1568,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wichtigkeit Vater"
   },
   "bywimu": {
@@ -1583,6 +1658,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wichtigkeit Mutter"
   },
   "bywibs": {
@@ -1670,6 +1748,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wichtigkeit Bruder, Schwester"
   },
   "bywivw": {
@@ -1757,6 +1838,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wichtigkeit andere verwandte Person"
   },
   "bywiffr": {
@@ -1844,6 +1928,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wichtigkeit feste Freundin, fester Freund"
   },
   "bywibfr": {
@@ -1931,6 +2018,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wichtigkeit beste Freundin, bester Freund"
   },
   "bywilehr": {
@@ -2018,6 +2108,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wichtigkeit Lehrer, Lehrerin"
   },
   "bywiclq": {
@@ -2105,6 +2198,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wichtigkeit Clique"
   },
   "bywison": {
@@ -2192,6 +2288,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wichtigkeit sonstige Person"
   },
   "bystrva": {
@@ -2284,6 +2383,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Streit mit Vater"
   },
   "bystrmu": {
@@ -2376,6 +2478,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Streit mit Mutter"
   },
   "bystrbs": {
@@ -2468,6 +2573,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Streit mit Bruder, Schwester"
   },
   "bystrffr": {
@@ -2560,6 +2668,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Streit mit fester Freundin, festem Freund"
   },
   "bystrbfr": {
@@ -2652,6 +2763,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Streit mit bester Freundin, bestem Freund"
   },
   "bybz01mu": {
@@ -2739,6 +2853,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reden mit Mutter ueber eigene Erlebnisse"
   },
   "bybz01va": {
@@ -2826,6 +2943,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Reden mit Vater ueber eigene Erlebnisse"
   },
   "bybz02mu": {
@@ -2913,6 +3033,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Mutter spricht Probleme an"
   },
   "bybz02va": {
@@ -3000,6 +3123,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Vater spricht Probleme an"
   },
   "bybz03mu": {
@@ -3087,6 +3213,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Mutter fragt nach Meinung vor Entscheidungen"
   },
   "bybz03va": {
@@ -3174,6 +3303,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Vater fragt nach Meinung vor Entscheidungen"
   },
   "bybz04mu": {
@@ -3261,6 +3393,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Mutter zeigt Anerkennung"
   },
   "bybz04va": {
@@ -3348,6 +3483,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Vater zeigt Anerkennung"
   },
   "bybz05mu": {
@@ -3435,6 +3573,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Probleme mit Mutter werden gemeinsam geloest"
   },
   "bybz05va": {
@@ -3522,6 +3663,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Probleme mit Vater werden gemeinsam geloest"
   },
   "bybz06mu": {
@@ -3609,6 +3753,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Mutter zeigt Vertrauen"
   },
   "bybz06va": {
@@ -3696,6 +3843,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Vater zeigt Vertrauen"
   },
   "bybz07mu": {
@@ -3783,6 +3933,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Mutter fragt nach Meinung zu Familienangeleg."
   },
   "bybz07va": {
@@ -3870,6 +4023,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Vater fragt nach Meinung zu Familienangeleg."
   },
   "bybz08mu": {
@@ -3957,6 +4113,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Mutter begruendet Entscheidungen"
   },
   "bybz08va": {
@@ -4044,6 +4203,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Vater begruendet Entscheidungen"
   },
   "bybz09mu": {
@@ -4131,6 +4293,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Mutter zeigt Liebe"
   },
   "bybz09va": {
@@ -4218,6 +4383,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Vater zeigt Liebe"
   },
   "byfzfern": {
@@ -4305,6 +4473,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Fernsehen, Video"
   },
   "byfzpc": {
@@ -4392,6 +4563,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Computerspiele"
   },
   "byfzmush": {
@@ -4479,6 +4653,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Musik hoeren"
   },
   "byfzmuss": {
@@ -4566,6 +4743,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Musik machen"
   },
   "byfzsprt": {
@@ -4653,6 +4833,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Sport treiben"
   },
   "byfztanz": {
@@ -4740,6 +4923,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit tanzen, Theater spielen"
   },
   "byfztech": {
@@ -4827,6 +5013,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit technische Arbeiten, progammieren"
   },
   "byfzlese": {
@@ -4914,6 +5103,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit lesen"
   },
   "byfzehre": {
@@ -5001,6 +5193,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit ehrenamtliche Taetigkeit"
   },
   "byfzabh": {
@@ -5088,6 +5283,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit nichts tun, abhaengen, traeumen"
   },
   "byfzmffr": {
@@ -5175,6 +5373,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit mit festem Freund, -in zusammensein"
   },
   "byfzmbfr": {
@@ -5262,6 +5463,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit mit bestem Freund, -in zusammensein"
   },
   "byfzmclq": {
@@ -5349,6 +5553,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit mit Clique zusammensein"
   },
   "byfzint": {
@@ -5430,6 +5637,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit im Internet surfen, chatten (von 2006-2013)"
   },
   "byfzsonw": {
@@ -5517,6 +5727,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Nutzen sozialer Online-Netzwerke (seit 2013)"
   },
   "byfzjugz": {
@@ -5604,6 +5817,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit ins Jugendzentrum, Freizeitheim gehen (seit 2006)"
   },
   "byfzreli": {
@@ -5691,6 +5907,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit Kirchgang, Besuch relig. Veranstalt. (seit 2006)"
   },
   "bymussp": {
@@ -5763,6 +5982,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Aktives Musizieren"
   },
   "bymusart": {
@@ -5840,6 +6062,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Stilrichtung der Musikausuebung"
   },
   "bymusmw": {
@@ -5922,6 +6147,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Musizieren allein, in Orchester oder Band"
   },
   "bymusalt": {
@@ -5962,6 +6190,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Alter Beginn Musikunterricht"
   },
   "bymusunt": {
@@ -6034,6 +6265,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bezahlter Musikunterricht"
   },
   "bysprttr": {
@@ -6106,6 +6340,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Sportarten ausueben"
   },
   "bysprtar": {
@@ -6368,6 +6605,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "wichtigste Sportart"
   },
   "bysprtal": {
@@ -6408,6 +6648,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Alter Beginn wichtigste Sportart"
   },
   "bysprtmw": {
@@ -6500,6 +6743,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wo, mit wem wichtigste Sportart"
   },
   "bysprtwe": {
@@ -6572,6 +6818,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wettkaempfe 1.Sportart"
   },
   "byschbes": {
@@ -6669,6 +6918,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Schulbesuch"
   },
   "byschend": {
@@ -6709,6 +6961,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Jahr Schulende"
   },
   "byschabs": {
@@ -6801,6 +7056,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Art des Schulabschlusses"
   },
   "byschzuk": {
@@ -6878,6 +7136,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "weiterer Schulabschluss"
   },
   "byschzar": {
@@ -6960,6 +7221,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Art praef. Schulabschluss"
   },
   "byfmd1": {
@@ -7057,6 +7321,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "1.Fremdsprache"
   },
   "byfmd2": {
@@ -7159,6 +7426,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "2.Fremdsprache"
   },
   "byschaus": {
@@ -7236,6 +7506,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Ausland Schulbesuch"
   },
   "byschpri": {
@@ -7313,6 +7586,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Privatschulbesuch"
   },
   "byenkspr": {
@@ -7380,6 +7656,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Engag. Klassensprecher"
   },
   "byensspr": {
@@ -7447,6 +7726,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Engag. Schulsprecher"
   },
   "byensztg": {
@@ -7514,6 +7796,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Engag. Schuelerzeitung"
   },
   "byenthea": {
@@ -7581,6 +7866,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Engag. Theater,Tanz"
   },
   "byenchor": {
@@ -7648,6 +7936,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Engag. Chor,Musik"
   },
   "byensprt": {
@@ -7715,6 +8006,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Engag. Sport-AG"
   },
   "byensons": {
@@ -7782,6 +8076,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Engag. sonstige Gruppe"
   },
   "byennein": {
@@ -7849,6 +8146,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Kein Engagement"
   },
   "byzfinsg": {
@@ -7966,6 +8266,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Zufriedenheit mit Schulleistg gesamt"
   },
   "byzfdeut": {
@@ -8083,6 +8386,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Zufriedenheit mit Deutschleistg"
   },
   "byzfmath": {
@@ -8200,6 +8506,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Zufriedenheit mit Matheleistg"
   },
   "byzffmd1": {
@@ -8317,6 +8626,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Zufriedenheit mit 1.Fremdspr.leistg"
   },
   "byempfeh": {
@@ -8399,6 +8711,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Empfehlung nach der Grundschule"
   },
   "byntdeut": {
@@ -8439,6 +8754,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Note Deutsch"
   },
   "byntmath": {
@@ -8479,6 +8797,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Note Mathe"
   },
   "byntfmd1": {
@@ -8519,6 +8840,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Note 1.Fremdspr."
   },
   "byptdeut": {
@@ -8559,6 +8883,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Punkte Deutsch"
   },
   "byptmath": {
@@ -8599,6 +8926,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Punkte Mathe"
   },
   "byptfmd1": {
@@ -8639,6 +8969,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Punkte 1.Fremdspr."
   },
   "bygsdeut": {
@@ -8721,6 +9054,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Gesamtsch.Niv Deutsch"
   },
   "bygsmath": {
@@ -8803,6 +9139,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Gesamtsch.Niv Mathe"
   },
   "bygsfmd1": {
@@ -8885,6 +9224,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Gesamtsch.Niv 1.Fremdspr."
   },
   "bylkdeut": {
@@ -8962,6 +9304,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "GK,LK Deutsch"
   },
   "bylkmath": {
@@ -9039,6 +9384,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "GK,LK Mathe"
   },
   "bylkfmd1": {
@@ -9116,6 +9464,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "GK,LK 1.Fremdspr."
   },
   "byklwdja": {
@@ -9188,6 +9539,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Klasse wiederholt"
   },
   "byklwd1": {
@@ -9228,6 +9582,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Klassenstufe 1.Wdhg"
   },
   "byklwd2": {
@@ -9268,6 +9625,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Klassenstufe 2.Wdhg"
   },
   "bynachhi": {
@@ -9340,6 +9700,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bezahlte Nachhilfe"
   },
   "byelkuem": {
@@ -9422,6 +9785,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Eltern kuemmern sich um Leistg"
   },
   "byelhaus": {
@@ -9504,6 +9870,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Eltern unterst. Lernen"
   },
   "byeldiff": {
@@ -9586,6 +9955,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Probl. mit Elt. wegen Schulleistg"
   },
   "byelaben": {
@@ -9653,6 +10025,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Eltern besuchen Elternabende"
   },
   "byelspre": {
@@ -9720,6 +10095,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Eltern besuchen Sprechtage"
   },
   "byellehr": {
@@ -9787,6 +10165,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Eltern suchen Lehrer auf"
   },
   "byelvert": {
@@ -9854,6 +10235,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Eltern sind Elternvertreter"
   },
   "byelnida": {
@@ -9921,6 +10305,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Eltern machen nichts davon"
   },
   "byklausl": {
@@ -10013,6 +10400,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Anzahl auslaend. Mitschueler"
   },
   "bybaabge": {
@@ -10085,6 +10475,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Berufl. Ausbildung,Praktikum,Lehrgang"
   },
   "bybabgj": {
@@ -10167,6 +10560,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Berufsgrundschuljahr"
   },
   "bybabegl": {
@@ -10249,6 +10645,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Berufl. Eingliederungslehrgang"
   },
   "bybaleh": {
@@ -10331,6 +10730,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Berufsausbildg,Lehre"
   },
   "bybabfs": {
@@ -10407,6 +10809,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Berufsfachschule"
   },
   "bybaprak": {
@@ -10489,6 +10894,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Praktikum, Volontariat"
   },
   "bybauni": {
@@ -10509,6 +10917,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Fachhochschulstudium/Universitaetsstudium (seit 2013)"
   },
   "byzaja": {
@@ -10586,6 +10997,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "berufl. Ausbildung angestrebt"
   },
   "byzaleh": {
@@ -10653,6 +11067,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Abschluss einer Lehre"
   },
   "byzabfs": {
@@ -10720,6 +11137,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Berufsfachschule"
   },
   "byzafsc": {
@@ -10787,6 +11207,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Fachschule; Meister-,Technikerschule"
   },
   "byzabea": {
@@ -10854,6 +11277,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Beamtenausbildung"
   },
   "byzabak": {
@@ -10921,6 +11347,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Anerkannte Berufsfakademie"
   },
   "byzafh": {
@@ -10988,6 +11417,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Fachhochschule"
   },
   "byzauni": {
@@ -11055,6 +11487,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Universitaet"
   },
   "byslbalt": {
@@ -11095,6 +11530,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Alter wirtsch. Unabhaengigkeit"
   },
   "byslbheu": {
@@ -11156,6 +11594,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bereits wirtsch. unabhaengig?"
   },
   "bybwunja": {
@@ -11233,6 +11674,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Berufswunsch vorhanden?"
   },
   "byklas": {
@@ -22720,6 +23164,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Klassifikation der Berufe des Stat.Bundesamtes"
   },
   "byisco88": {
@@ -25242,6 +25689,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "berufliche Taetigkeit codiert nach isco88"
   },
   "byegp": {
@@ -25359,6 +25809,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Erikson and Goldthorpe class categorie"
   },
   "byisei": {
@@ -25399,6 +25852,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "international socio-economic index of occ. status"
   },
   "bysiops": {
@@ -25439,6 +25895,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Treimans standard international occ. prest. sc."
   },
   "bymps": {
@@ -25479,6 +25938,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Magnitude-prestige scala - Wegener"
   },
   "byzbinf": {
@@ -25561,6 +26023,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wie gut ueber angestrebten Beruf informiert"
   },
   "byzbelt": {
@@ -25643,6 +26108,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Vorschlaege der Eltern wichtig fuer Berufswahl"
   },
   "byzblas": {
@@ -25725,6 +26193,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Kein bestimmter Beruf vor Augen"
   },
   "byzbbes": {
@@ -25807,6 +26278,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Intensive Beschaeftigung mit versch. Berufen"
   },
   "byzbrau": {
@@ -25889,6 +26363,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Noch dabei den richtigen Beruf rauszufinden"
   },
   "bywbsich": {
@@ -25971,6 +26448,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "sichere Stellung wichtig"
   },
   "bywbeink": {
@@ -26053,6 +26533,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "hohes EK wichtig"
   },
   "bywbauf": {
@@ -26135,6 +26618,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Aufstiegsmoeglichkeiten wichtig"
   },
   "bywbane": {
@@ -26217,6 +26703,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "anerkannter Beruf wichtig"
   },
   "bywbfrei": {
@@ -26299,6 +26788,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Freizeit wichtig"
   },
   "bywbint": {
@@ -26381,6 +26873,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "interess.Taetigkeiten wichtig"
   },
   "bywbselb": {
@@ -26463,6 +26958,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "selbstst. Arbeiten wichtig"
   },
   "bywbkont": {
@@ -26545,6 +27043,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Kontakt wichtig"
   },
   "bywbgsl": {
@@ -26627,6 +27128,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "fuer Gesell. wichtig"
   },
   "bywbgsnd": {
@@ -26709,6 +27213,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Arbeitsbed. wichtig"
   },
   "bywbfam": {
@@ -26791,6 +27298,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Zeit Familie wichtig"
   },
   "bywbhelf": {
@@ -26873,6 +27383,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "anderen Helfen wichtig"
   },
   "bywaausp": {
@@ -26990,6 +27503,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wahrscheinlichkeit: Ausbildungs-,Studienplatz"
   },
   "bywaerfa": {
@@ -27097,6 +27613,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wahrscheinlichkeit: Abschluss der Ausbildung/Studiums"
   },
   "bywaarbp": {
@@ -27209,6 +27728,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wahrscheinlichkeit: Arbeitsplatz in angestrebtem Beruf"
   },
   "bywaberf": {
@@ -27316,6 +27838,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wahrscheinlichkeit: beruflicher Erfolg"
   },
   "bywaarbl": {
@@ -27433,6 +27958,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wahrscheinlichkeit: arbeitslos"
   },
   "bywazuru": {
@@ -27550,6 +28078,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wahrscheinlichkeit: Einschraenkung Familie"
   },
   "bywaselb": {
@@ -27667,6 +28198,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wahrscheinlichkeit: Selbststaendigkeit"
   },
   "bywaausl": {
@@ -27784,6 +28318,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wahrscheinlichkeit: Ausland arbeiten"
   },
   "bywaheir": {
@@ -27901,6 +28438,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wahrscheinlichkeit: Heirat"
   },
   "bywapart": {
@@ -28018,6 +28558,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wahrscheinlichkeit: mit Partner zusammenleben"
   },
   "bywakid1": {
@@ -28135,6 +28678,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wahrscheinlichkeit: ein Kind"
   },
   "bywakidm": {
@@ -28252,6 +28798,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wahrscheinlichkeit: mehrere Kinder"
   },
   "byglpart": {
@@ -28334,6 +28883,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Gluecklichsein in welcher Lebensform?"
   },
   "byglkind": {
@@ -28416,6 +28968,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Gluecklichsein nur mit Kindern?"
   },
   "byefflei": {
@@ -28498,6 +29053,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Erfolg durch: Fleiss"
   },
   "byefausn": {
@@ -28580,6 +29138,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Erfolg durch: Ausnutzg anderer"
   },
   "byefint": {
@@ -28662,6 +29223,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Erfolg durch: Intelligenz"
   },
   "byeffam": {
@@ -28744,6 +29308,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Erfolg durch: familiaere Herkunft"
   },
   "byeffach": {
@@ -28826,6 +29393,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Erfolg durch: Fachkenntnisse"
   },
   "byefgeld": {
@@ -28908,6 +29478,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Erfolg durch: Geld"
   },
   "byefsabs": {
@@ -28990,6 +29563,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Erfolg durch: Schulabschluss"
   },
   "byefhart": {
@@ -29072,6 +29648,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Erfolg durch: hart sein"
   },
   "byefbez": {
@@ -29154,6 +29733,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Erfolg durch: Beziehungen"
   },
   "byefpoli": {
@@ -29236,6 +29818,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Erfolg durch: polit. Engagement"
   },
   "byefmann": {
@@ -29318,6 +29903,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Erfolg durch: Mann sein"
   },
   "byefini": {
@@ -29400,6 +29988,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Erfolg durch: Initiative"
   },
   "byesverl": {
@@ -29517,6 +30108,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wie Leben verlaeuft haengt von einem selber ab"
   },
   "byeserre": {
@@ -29634,6 +30228,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Nicht das erreicht, was eigentlich verdient"
   },
   "byesglue": {
@@ -29751,6 +30348,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Was man erreicht, ist Frage des Gluecks"
   },
   "byesand": {
@@ -29868,6 +30468,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Andere bestimmen haeufig ueber mein Leben"
   },
   "byeshart": {
@@ -29985,6 +30588,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Erfolg muss hart erarbeitet werden"
   },
   "byeszwei": {
@@ -30102,6 +30708,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Bei Schwierigkeiten Zweifel an einem selbst"
   },
   "byessozu": {
@@ -30219,6 +30828,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Soziale Umstaende bestimmen das Leben"
   },
   "byesfaeh": {
@@ -30336,6 +30948,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wichtiger als Anstrengung sind gegebene Faehigkeiten"
   },
   "byeskntr": {
@@ -30453,6 +31068,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Wenig Kontrolle ueber Ereignisse in Leben"
   },
   "byesenga": {
@@ -30570,6 +31188,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Einfl auf soz Verhaeltn. durch soz, pol Engagement"
   },
   "byinta": {
@@ -30687,6 +31308,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Art der Befragung"
   },
   "bydauer1": {
@@ -30725,6 +31349,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "muendliche Interviewdauer"
   },
   "bydauer2": {
@@ -30745,6 +31372,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Dauer des Selbstausfuellens"
   },
   "byanw": {
@@ -30822,6 +31452,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "weitere anwesende Personen"
   },
   "bytagin": {
@@ -30860,6 +31493,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Interviewtag"
   },
   "bymonin": {
@@ -30898,6 +31534,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Interviewmonat"
   },
   "byfzsint": {
@@ -30985,6 +31624,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Haeufigkeit sonstiges surfen im Internet (seit 2014)"
   },
   "byklass": {
@@ -31025,6 +31667,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Klasse"
   },
   "byausab": {
@@ -31065,6 +31710,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Schule Ausland Alter Beginn"
   },
   "byausae": {
@@ -31105,6 +31753,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Schule Ausland Alter Ende"
   },
   "intid": {
@@ -31145,6 +31796,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "bio/gen",
+    "period": "0",
     "label_de": "Interviewer-ID"
   }
 }

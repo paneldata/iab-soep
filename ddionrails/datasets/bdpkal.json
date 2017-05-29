@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hhnrakt": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Aktuelle Haushaltsnummer (=BDHHNR)"
   },
   "bdhhnr": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Aktuelle Haushaltsnummer (=HHNRAKT)"
   },
   "persnr": {
@@ -149,6 +158,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Unveraenderliche Personennummer"
   },
   "bdp1a01": {
@@ -221,6 +233,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Vollzeit Erwerbstaetig im Jahr  2012"
   },
   "bdp1a02": {
@@ -241,6 +256,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Vollzeit Erwerbstaetig N-Monate 2012"
   },
   "bdp1b01": {
@@ -313,6 +331,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Teilzeit Erwerbstaetig im Jahr  2012"
   },
   "bdp1b02": {
@@ -333,6 +354,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Teilzeit Erwerbstaetig N-Monate 2012"
   },
   "bdp1c01": {
@@ -405,6 +429,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Betrbl 1.Ausbild,Lehre im Jahr  2012"
   },
   "bdp1c02": {
@@ -425,6 +452,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Betrbl 1.Ausbild,Lehre N-Monate 2012"
   },
   "bdp1d01": {
@@ -497,6 +527,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslos gemeldet    im Jahr  2012"
   },
   "bdp1d02": {
@@ -517,6 +550,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslos gemeldet    N-Monate 2012"
   },
   "bdp1e01": {
@@ -589,6 +625,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Rente, Pension         im Jahr  2012"
   },
   "bdp1e02": {
@@ -609,6 +648,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Rente, Pension         N-Monate 2012"
   },
   "bdp1f01": {
@@ -681,6 +723,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Mutterschaft        im Jahr  2012"
   },
   "bdp1f02": {
@@ -701,6 +746,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Mutterschaft        N-Monate 2012"
   },
   "bdp1g01": {
@@ -773,6 +821,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schule, Hochschule     im Jahr  2012"
   },
   "bdp1g02": {
@@ -793,6 +844,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schule, Hochschule     N-Monate 2012"
   },
   "bdp1h01": {
@@ -880,6 +934,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Wehrdienst,frw.Dienst  im Jahr  2012"
   },
   "bdp1h02": {
@@ -900,6 +957,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Wehrdienst,frw.Dienst  N-Monate 2012"
   },
   "bdp1i01": {
@@ -972,6 +1032,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Im Haushalt taetig     im Jahr  2012"
   },
   "bdp1i02": {
@@ -992,6 +1055,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Im Haushalt taetig     N-Monate 2012"
   },
   "bdp1j01": {
@@ -1064,6 +1130,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sonstiges              im Jahr  2012"
   },
   "bdp1j02": {
@@ -1084,6 +1153,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sonstiges              N-Monate 2012"
   },
   "bdp1m01": {
@@ -1156,6 +1228,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufl Fortbildg,Umsch im Jahr  2012"
   },
   "bdp1m02": {
@@ -1176,6 +1251,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufl Fortbildg,Umsch N-Monate 2012"
   },
   "bdp1n01": {
@@ -1248,6 +1326,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mini-Job (bis 400 EUR) im Jahr  2012"
   },
   "bdp1n02": {
@@ -1268,6 +1349,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mini-Job (bis 400 EUR) N-Monate 2012"
   },
   "bdp1k01": {
@@ -1340,6 +1424,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Kurzarbeit          im Jahr  2012"
   },
   "bdp1k02": {
@@ -1360,6 +1447,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Kurzarbeit          N-Monate 2012"
   },
   "bdp1a001": {
@@ -1426,6 +1516,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Vollzeit Erwerbstaetig Jan 2012"
   },
   "bdp1a002": {
@@ -1492,6 +1585,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Vollzeit Erwerbstaetig Feb 2012"
   },
   "bdp1a003": {
@@ -1558,6 +1654,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Vollzeit Erwerbstaetig Mar 2012"
   },
   "bdp1a004": {
@@ -1624,6 +1723,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Vollzeit Erwerbstaetig Apr 2012"
   },
   "bdp1a005": {
@@ -1690,6 +1792,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Vollzeit Erwerbstaetig Mai 2012"
   },
   "bdp1a006": {
@@ -1756,6 +1861,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Vollzeit Erwerbstaetig Jun 2012"
   },
   "bdp1a007": {
@@ -1822,6 +1930,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Vollzeit Erwerbstaetig Jul 2012"
   },
   "bdp1a008": {
@@ -1888,6 +1999,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Vollzeit Erwerbstaetig Aug 2012"
   },
   "bdp1a009": {
@@ -1954,6 +2068,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Vollzeit Erwerbstaetig Sep 2012"
   },
   "bdp1a010": {
@@ -2020,6 +2137,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Vollzeit Erwerbstaetig Okt 2012"
   },
   "bdp1a011": {
@@ -2086,6 +2206,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Vollzeit Erwerbstaetig Nov 2012"
   },
   "bdp1a012": {
@@ -2152,6 +2275,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Vollzeit Erwerbstaetig Dez 2012"
   },
   "bdp1b001": {
@@ -2218,6 +2344,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Teilzeit Erwerbstaetig Jan 2012"
   },
   "bdp1b002": {
@@ -2284,6 +2413,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Teilzeit Erwerbstaetig Feb 2012"
   },
   "bdp1b003": {
@@ -2350,6 +2482,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Teilzeit Erwerbstaetig Mar 2012"
   },
   "bdp1b004": {
@@ -2416,6 +2551,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Teilzeit Erwerbstaetig Apr 2012"
   },
   "bdp1b005": {
@@ -2482,6 +2620,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Teilzeit Erwerbstaetig Mai 2012"
   },
   "bdp1b006": {
@@ -2548,6 +2689,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Teilzeit Erwerbstaetig Jun 2012"
   },
   "bdp1b007": {
@@ -2614,6 +2758,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Teilzeit Erwerbstaetig Jul 2012"
   },
   "bdp1b008": {
@@ -2680,6 +2827,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Teilzeit Erwerbstaetig Aug 2012"
   },
   "bdp1b009": {
@@ -2746,6 +2896,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Teilzeit Erwerbstaetig Sep 2012"
   },
   "bdp1b010": {
@@ -2812,6 +2965,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Teilzeit Erwerbstaetig Okt 2012"
   },
   "bdp1b011": {
@@ -2878,6 +3034,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Teilzeit Erwerbstaetig Nov 2012"
   },
   "bdp1b012": {
@@ -2944,6 +3103,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Teilzeit Erwerbstaetig Dez 2012"
   },
   "bdp1c001": {
@@ -3005,6 +3167,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Betrbl 1.Ausbild,Lehre Jan 2012"
   },
   "bdp1c002": {
@@ -3066,6 +3231,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Betrbl 1.Ausbild,Lehre Feb 2012"
   },
   "bdp1c003": {
@@ -3127,6 +3295,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Betrbl 1.Ausbild,Lehre Mar 2012"
   },
   "bdp1c004": {
@@ -3188,6 +3359,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Betrbl 1.Ausbild,Lehre Apr 2012"
   },
   "bdp1c005": {
@@ -3249,6 +3423,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Betrbl 1.Ausbild,Lehre Mai 2012"
   },
   "bdp1c006": {
@@ -3310,6 +3487,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Betrbl 1.Ausbild,Lehre Jun 2012"
   },
   "bdp1c007": {
@@ -3371,6 +3551,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Betrbl 1.Ausbild,Lehre Jul 2012"
   },
   "bdp1c008": {
@@ -3432,6 +3615,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Betrbl 1.Ausbild,Lehre Aug 2012"
   },
   "bdp1c009": {
@@ -3493,6 +3679,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Betrbl 1.Ausbild,Lehre Sep 2012"
   },
   "bdp1c010": {
@@ -3554,6 +3743,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Betrbl 1.Ausbild,Lehre Okt 2012"
   },
   "bdp1c011": {
@@ -3615,6 +3807,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Betrbl 1.Ausbild,Lehre Nov 2012"
   },
   "bdp1c012": {
@@ -3676,6 +3871,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Betrbl 1.Ausbild,Lehre Dez 2012"
   },
   "bdp1d001": {
@@ -3737,6 +3935,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslos gemeldet    Jan 2012"
   },
   "bdp1d002": {
@@ -3798,6 +3999,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslos gemeldet    Feb 2012"
   },
   "bdp1d003": {
@@ -3859,6 +4063,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslos gemeldet    Mar 2012"
   },
   "bdp1d004": {
@@ -3920,6 +4127,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslos gemeldet    Apr 2012"
   },
   "bdp1d005": {
@@ -3981,6 +4191,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslos gemeldet    Mai 2012"
   },
   "bdp1d006": {
@@ -4042,6 +4255,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslos gemeldet    Jun 2012"
   },
   "bdp1d007": {
@@ -4103,6 +4319,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslos gemeldet    Jul 2012"
   },
   "bdp1d008": {
@@ -4164,6 +4383,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslos gemeldet    Aug 2012"
   },
   "bdp1d009": {
@@ -4225,6 +4447,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslos gemeldet    Sep 2012"
   },
   "bdp1d010": {
@@ -4286,6 +4511,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslos gemeldet    Okt 2012"
   },
   "bdp1d011": {
@@ -4347,6 +4575,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslos gemeldet    Nov 2012"
   },
   "bdp1d012": {
@@ -4408,6 +4639,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslos gemeldet    Dez 2012"
   },
   "bdp1e001": {
@@ -4469,6 +4703,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Rente, Pension        Jan 2012"
   },
   "bdp1e002": {
@@ -4530,6 +4767,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Rente, Pension        Feb 2012"
   },
   "bdp1e003": {
@@ -4591,6 +4831,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Rente, Pension        Mar 2012"
   },
   "bdp1e004": {
@@ -4652,6 +4895,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Rente, Pension        Apr 2012"
   },
   "bdp1e005": {
@@ -4713,6 +4959,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Rente, Pension        Mai 2012"
   },
   "bdp1e006": {
@@ -4774,6 +5023,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Rente, Pension        Jun 2012"
   },
   "bdp1e007": {
@@ -4835,6 +5087,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Rente, Pension        Jul 2012"
   },
   "bdp1e008": {
@@ -4896,6 +5151,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Rente, Pension        Aug 2012"
   },
   "bdp1e009": {
@@ -4957,6 +5215,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Rente, Pension        Sep 2012"
   },
   "bdp1e010": {
@@ -5018,6 +5279,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Rente, Pension        Okt 2012"
   },
   "bdp1e011": {
@@ -5079,6 +5343,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Rente, Pension        Nov 2012"
   },
   "bdp1e012": {
@@ -5140,6 +5407,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Rente, Pension        Dez 2012"
   },
   "bdp1f001": {
@@ -5201,6 +5471,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Mutterschaft        Jan 2012"
   },
   "bdp1f002": {
@@ -5262,6 +5535,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Mutterschaft        Feb 2012"
   },
   "bdp1f003": {
@@ -5323,6 +5599,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Mutterschaft        Mar 2012"
   },
   "bdp1f004": {
@@ -5384,6 +5663,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Mutterschaft        Apr 2012"
   },
   "bdp1f005": {
@@ -5445,6 +5727,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Mutterschaft        Mai 2012"
   },
   "bdp1f006": {
@@ -5506,6 +5791,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Mutterschaft        Jun 2012"
   },
   "bdp1f007": {
@@ -5567,6 +5855,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Mutterschaft        Jul 2012"
   },
   "bdp1f008": {
@@ -5628,6 +5919,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Mutterschaft        Aug 2012"
   },
   "bdp1f009": {
@@ -5689,6 +5983,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Mutterschaft        Sep 2012"
   },
   "bdp1f010": {
@@ -5750,6 +6047,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Mutterschaft        Okt 2012"
   },
   "bdp1f011": {
@@ -5811,6 +6111,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Mutterschaft        Nov 2012"
   },
   "bdp1f012": {
@@ -5872,6 +6175,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Mutterschaft        Dez 2012"
   },
   "bdp1g001": {
@@ -5933,6 +6239,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schule, Hochschule     Jan 2012"
   },
   "bdp1g002": {
@@ -5994,6 +6303,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schule, Hochschule     Feb 2012"
   },
   "bdp1g003": {
@@ -6055,6 +6367,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schule, Hochschule     Mar 2012"
   },
   "bdp1g004": {
@@ -6116,6 +6431,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schule, Hochschule     Apr 2012"
   },
   "bdp1g005": {
@@ -6177,6 +6495,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schule, Hochschule     Mai 2012"
   },
   "bdp1g006": {
@@ -6238,6 +6559,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schule, Hochschule     Jun 2012"
   },
   "bdp1g007": {
@@ -6299,6 +6623,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schule, Hochschule     Jul 2012"
   },
   "bdp1g008": {
@@ -6360,6 +6687,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schule, Hochschule     Aug 2012"
   },
   "bdp1g009": {
@@ -6421,6 +6751,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schule, Hochschule     Sep 2012"
   },
   "bdp1g010": {
@@ -6482,6 +6815,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schule, Hochschule     Okt 2012"
   },
   "bdp1g011": {
@@ -6543,6 +6879,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schule, Hochschule     Nov 2012"
   },
   "bdp1g012": {
@@ -6604,6 +6943,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schule, Hochschule     Dez 2012"
   },
   "bdp1h001": {
@@ -6680,6 +7022,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Wehrdienst,frw.Dienst  Jan 2012"
   },
   "bdp1h002": {
@@ -6756,6 +7101,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Wehrdienst,frw.Dienst  Feb 2012"
   },
   "bdp1h003": {
@@ -6832,6 +7180,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Wehrdienst,frw.Dienst  Mar 2012"
   },
   "bdp1h004": {
@@ -6908,6 +7259,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Wehrdienst,frw.Dienst  Apr 2012"
   },
   "bdp1h005": {
@@ -6984,6 +7338,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Wehrdienst,frw.Dienst  Mai 2012"
   },
   "bdp1h006": {
@@ -7060,6 +7417,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Wehrdienst,frw.Dienst  Jun 2012"
   },
   "bdp1h007": {
@@ -7136,6 +7496,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Wehrdienst,frw.Dienst  Jul 2012"
   },
   "bdp1h008": {
@@ -7212,6 +7575,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Wehrdienst,frw.Dienst  Aug 2012"
   },
   "bdp1h009": {
@@ -7288,6 +7654,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Wehrdienst,frw.Dienst  Sep 2012"
   },
   "bdp1h010": {
@@ -7364,6 +7733,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Wehrdienst,frw.Dienst  Okt 2012"
   },
   "bdp1h011": {
@@ -7440,6 +7812,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Wehrdienst,frw.Dienst  Nov 2012"
   },
   "bdp1h012": {
@@ -7516,6 +7891,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Wehrdienst,frw.Dienst  Dez 2012"
   },
   "bdp1i001": {
@@ -7577,6 +7955,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Im Haushalt taetig     Jan 2012"
   },
   "bdp1i002": {
@@ -7638,6 +8019,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Im Haushalt taetig     Feb 2012"
   },
   "bdp1i003": {
@@ -7699,6 +8083,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Im Haushalt taetig     Mar 2012"
   },
   "bdp1i004": {
@@ -7760,6 +8147,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Im Haushalt taetig     Apr 2012"
   },
   "bdp1i005": {
@@ -7821,6 +8211,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Im Haushalt taetig     Mai 2012"
   },
   "bdp1i006": {
@@ -7882,6 +8275,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Im Haushalt taetig     Jun 2012"
   },
   "bdp1i007": {
@@ -7943,6 +8339,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Im Haushalt taetig     Jul 2012"
   },
   "bdp1i008": {
@@ -8004,6 +8403,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Im Haushalt taetig     Aug 2012"
   },
   "bdp1i009": {
@@ -8065,6 +8467,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Im Haushalt taetig     Sep 2012"
   },
   "bdp1i010": {
@@ -8126,6 +8531,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Im Haushalt taetig     Okt 2012"
   },
   "bdp1i011": {
@@ -8187,6 +8595,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Im Haushalt taetig     Nov 2012"
   },
   "bdp1i012": {
@@ -8248,6 +8659,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Im Haushalt taetig     Dez 2012"
   },
   "bdp1j001": {
@@ -8354,6 +8768,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sonstiges          Jan 2012"
   },
   "bdp1j002": {
@@ -8460,6 +8877,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sonstiges          Feb 2012"
   },
   "bdp1j003": {
@@ -8566,6 +8986,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sonstiges          Mar 2012"
   },
   "bdp1j004": {
@@ -8672,6 +9095,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sonstiges          Apr 2012"
   },
   "bdp1j005": {
@@ -8778,6 +9204,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sonstiges          Mai 2012"
   },
   "bdp1j006": {
@@ -8884,6 +9313,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sonstiges          Jun 2012"
   },
   "bdp1j007": {
@@ -8990,6 +9422,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sonstiges          Jul 2012"
   },
   "bdp1j008": {
@@ -9096,6 +9531,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sonstiges          Aug 2012"
   },
   "bdp1j009": {
@@ -9202,6 +9640,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sonstiges          Sep 2012"
   },
   "bdp1j010": {
@@ -9308,6 +9749,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sonstiges          Okt 2012"
   },
   "bdp1j011": {
@@ -9414,6 +9858,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sonstiges          Nov 2012"
   },
   "bdp1j012": {
@@ -9520,6 +9967,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sonstiges          Dez 2012"
   },
   "bdp1m001": {
@@ -9581,6 +10031,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufl Fortbildg,Umsch Jan 2012"
   },
   "bdp1m002": {
@@ -9642,6 +10095,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufl Fortbildg,Umsch Feb 2012"
   },
   "bdp1m003": {
@@ -9703,6 +10159,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufl Fortbildg,Umsch Mar 2012"
   },
   "bdp1m004": {
@@ -9764,6 +10223,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufl Fortbildg,Umsch Apr 2012"
   },
   "bdp1m005": {
@@ -9825,6 +10287,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufl Fortbildg,Umsch Mai 2012"
   },
   "bdp1m006": {
@@ -9886,6 +10351,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufl Fortbildg,Umsch Jun 2012"
   },
   "bdp1m007": {
@@ -9947,6 +10415,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufl Fortbildg,Umsch Jul 2012"
   },
   "bdp1m008": {
@@ -10008,6 +10479,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufl Fortbildg,Umsch Aug 2012"
   },
   "bdp1m009": {
@@ -10069,6 +10543,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufl Fortbildg,Umsch Sep 2012"
   },
   "bdp1m010": {
@@ -10130,6 +10607,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufl Fortbildg,Umsch Okt 2012"
   },
   "bdp1m011": {
@@ -10191,6 +10671,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufl Fortbildg,Umsch Nov 2012"
   },
   "bdp1m012": {
@@ -10252,6 +10735,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufl Fortbildg,Umsch Dez 2012"
   },
   "bdp1n001": {
@@ -10313,6 +10799,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mini-Job (bis 400 EUR) Jan 2012"
   },
   "bdp1n002": {
@@ -10374,6 +10863,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mini-Job (bis 400 EUR) Feb 2012"
   },
   "bdp1n003": {
@@ -10435,6 +10927,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mini-Job (bis 400 EUR) Mar 2012"
   },
   "bdp1n004": {
@@ -10496,6 +10991,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mini-Job (bis 400 EUR) Apr 2012"
   },
   "bdp1n005": {
@@ -10557,6 +11055,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mini-Job (bis 400 EUR) Mai 2012"
   },
   "bdp1n006": {
@@ -10618,6 +11119,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mini-Job (bis 400 EUR) Jun 2012"
   },
   "bdp1n007": {
@@ -10679,6 +11183,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mini-Job (bis 400 EUR) Jul 2012"
   },
   "bdp1n008": {
@@ -10740,6 +11247,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mini-Job (bis 400 EUR) Aug 2012"
   },
   "bdp1n009": {
@@ -10801,6 +11311,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mini-Job (bis 400 EUR) Sep 2012"
   },
   "bdp1n010": {
@@ -10862,6 +11375,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mini-Job (bis 400 EUR) Okt 2012"
   },
   "bdp1n011": {
@@ -10923,6 +11439,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mini-Job (bis 400 EUR) Nov 2012"
   },
   "bdp1n012": {
@@ -10984,6 +11503,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mini-Job (bis 400 EUR) Dez 2012"
   },
   "bdp1k001": {
@@ -11045,6 +11567,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Kurzarbeit          Jan 2012"
   },
   "bdp1k002": {
@@ -11106,6 +11631,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Kurzarbeit          Feb 2012"
   },
   "bdp1k003": {
@@ -11167,6 +11695,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Kurzarbeit          Mar 2012"
   },
   "bdp1k004": {
@@ -11228,6 +11759,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Kurzarbeit          Apr 2012"
   },
   "bdp1k005": {
@@ -11289,6 +11823,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Kurzarbeit          Mai 2012"
   },
   "bdp1k006": {
@@ -11350,6 +11887,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Kurzarbeit          Jun 2012"
   },
   "bdp1k007": {
@@ -11411,6 +11951,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Kurzarbeit          Jul 2012"
   },
   "bdp1k008": {
@@ -11472,6 +12015,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Kurzarbeit          Aug 2012"
   },
   "bdp1k009": {
@@ -11533,6 +12079,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Kurzarbeit          Sep 2012"
   },
   "bdp1k010": {
@@ -11594,6 +12143,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Kurzarbeit          Okt 2012"
   },
   "bdp1k011": {
@@ -11655,6 +12207,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Kurzarbeit          Nov 2012"
   },
   "bdp1k012": {
@@ -11716,6 +12271,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Kurzarbeit          Dez 2012"
   },
   "bdp1a": {
@@ -11742,6 +12300,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Vollzeit Erwerbstaetig Jan-Dez 2012"
   },
   "bdp1b": {
@@ -11768,6 +12329,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Teilzeit Erwerbstaetig Jan-Dez 2012"
   },
   "bdp1c": {
@@ -11794,6 +12358,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Betrbl 1.Ausbild,Lehre Jan-Dez 2012"
   },
   "bdp1d": {
@@ -11820,6 +12387,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslos gemeldet    Jan-Dez 2012"
   },
   "bdp1e": {
@@ -11846,6 +12416,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Rente, Pension         Jan-Dez 2012"
   },
   "bdp1f": {
@@ -11872,6 +12445,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Mutterschaft        Jan-Dez 2012"
   },
   "bdp1g": {
@@ -11898,6 +12474,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Schule, Hochschule     Jan-Dez 2012"
   },
   "bdp1h": {
@@ -11924,6 +12503,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Wehrdienst,frw.Dienst  Jan-Dez 2012"
   },
   "bdp1i": {
@@ -11950,6 +12532,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Im Haushalt taetig     Jan-Dez 2012"
   },
   "bdp1j": {
@@ -11976,6 +12561,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sonstiges              Jan-Dez 2012"
   },
   "bdp1m": {
@@ -12002,6 +12590,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Berufl Fortbildg,Umsch   Jan-Dez 2012"
   },
   "bdp1n": {
@@ -12028,6 +12619,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mini-Job (bis 400 EUR)   Jan-Dez 2012"
   },
   "bdp1k": {
@@ -12054,6 +12648,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "In Kurzarbeit          Jan-Dez 2012"
   },
   "bdp2a01": {
@@ -12126,6 +12723,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Lohn als Arbeitnehmer    Bezogen 2012"
   },
   "bdp2a02": {
@@ -12166,6 +12766,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Lohn als Arbeitnehmer    Monate  2012"
   },
   "bdp2a03": {
@@ -12206,6 +12809,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Lohn als Arbeitnehmer    Betrag  2012"
   },
   "bdp2a04": {
@@ -12246,6 +12852,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Lohn als Arbeitnehmer    (Netto) 2012"
   },
   "bdp2b01": {
@@ -12318,6 +12927,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Eink.a.selbstdg.Taetigk. Bezogen 2012"
   },
   "bdp2b02": {
@@ -12358,6 +12970,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Eink.a.selbstdg.Taetigk. Monate  2012"
   },
   "bdp2b03": {
@@ -12398,6 +13013,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Eink.a.selbstdg.Taetigk. Betrag  2012"
   },
   "bdp2b04": {
@@ -12418,6 +13036,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Eink.a.selbstdg.Taetigk. (Netto) 2012"
   },
   "bdp2c01": {
@@ -12490,6 +13111,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Einkommen a. Nebenerwerb Bezogen 2012"
   },
   "bdp2c02": {
@@ -12530,6 +13154,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Einkommen a. Nebenerwerb Monate  2012"
   },
   "bdp2c03": {
@@ -12570,6 +13197,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Einkommen a. Nebenerwerb Betrag  2012"
   },
   "bdp2d01": {
@@ -12642,6 +13272,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Altersrente, Pension     Bezogen 2012"
   },
   "bdp2d02": {
@@ -12682,6 +13315,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Altersrente, Pension     Monate  2012"
   },
   "bdp2d03": {
@@ -12722,6 +13358,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Altersrente, Pension     Betrag  2012"
   },
   "bdp2e01": {
@@ -12794,6 +13433,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Witwen-, Waisenrente     Bezogen 2012"
   },
   "bdp2e02": {
@@ -12834,6 +13476,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Witwen-, Waisenrente     Monate  2012"
   },
   "bdp2e03": {
@@ -12874,6 +13519,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Witwen-, Waisenrente     Betrag  2012"
   },
   "bdp2f01": {
@@ -12946,6 +13594,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslosengeld         Bezogen 2012"
   },
   "bdp2f02": {
@@ -12986,6 +13637,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslosengeld         Monate  2012"
   },
   "bdp2f03": {
@@ -13026,6 +13680,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Arbeitslosengeld         Betrag  2012"
   },
   "bdp2h01": {
@@ -13098,6 +13755,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Unterhalts-, Uebergsgeld Bezogen 2012"
   },
   "bdp2h02": {
@@ -13138,6 +13798,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Unterhalts-, Uebergsgeld Monate  2012"
   },
   "bdp2h03": {
@@ -13178,6 +13841,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Unterhalts-, Uebergsgeld Betrag  2012"
   },
   "bdp2j01": {
@@ -13250,6 +13916,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mutterschaftsgeld        Bezogen 2012"
   },
   "bdp2j02": {
@@ -13290,6 +13959,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mutterschaftsgeld        Monate  2012"
   },
   "bdp2j03": {
@@ -13330,6 +14002,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Mutterschaftsgeld        Betrag  2012"
   },
   "bdp2k01": {
@@ -13402,6 +14077,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "BAFOEG, Stipendium       Bezogen 2012"
   },
   "bdp2k02": {
@@ -13442,6 +14120,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "BAFOEG, Stipendium       Monate  2012"
   },
   "bdp2k03": {
@@ -13482,6 +14163,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "BAFOEG, Stipendium       Betrag  2012"
   },
   "bdp2l01": {
@@ -13554,6 +14238,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sold Wehr-,freiw.Dienst Bezogen 2012"
   },
   "bdp2l02": {
@@ -13594,6 +14281,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sold Wehr-,freiw.Dienst Monate  2012"
   },
   "bdp2l03": {
@@ -13634,6 +14324,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "sold Wehr-,freiw.Dienst Betrag  2012"
   },
   "bdp2m01": {
@@ -13706,6 +14399,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Unterstuetzung a. des HH Bezogen 2012"
   },
   "bdp2m02": {
@@ -13746,6 +14442,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Unterstuetzung a. des HH Monate  2012"
   },
   "bdp2m03": {
@@ -13786,6 +14485,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Unterstuetzung a. des HH Betrag  2012"
   },
   "bdp2n01": {
@@ -13858,6 +14560,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Keine dieser Einkuenfte  Bezogen 2012"
   },
   "bdp2r01": {
@@ -13930,6 +14635,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "ALG II, Sozialgeld       Bezogen 2012"
   },
   "bdp2r02": {
@@ -13970,6 +14678,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "ALG II, Sozialgeld       Monate  2012"
   },
   "bdp2s01": {
@@ -14042,6 +14753,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Gesetzl.Unterhalt fr.Par Bezogen 2012"
   },
   "bdp2s02": {
@@ -14082,6 +14796,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Gesetzl.Unterhalt fr.Par Monate  2012"
   },
   "bdp2s03": {
@@ -14122,6 +14839,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Gesetzl.Unterhalt fr.Par Betrag  2012"
   },
   "bdp2t01": {
@@ -14194,6 +14914,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Unterhaltsvorschusskasse Bezogen 2012"
   },
   "bdp2t02": {
@@ -14234,6 +14957,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Unterhaltsvorschusskasse Monate  2012"
   },
   "bdp2t03": {
@@ -14274,6 +15000,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Unterhaltsvorschusskasse Betrag  2012"
   }
 }

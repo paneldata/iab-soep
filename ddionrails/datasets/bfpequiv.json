@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hhnrakt": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Current Wave HH Number (=beHHNR)"
   },
   "bfhhnr": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Current Wave HH Number (=HHNRAKT)"
   },
   "persnr": {
@@ -149,6 +158,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Never Changing Person ID"
   },
   "x11101ll": {
@@ -187,6 +199,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Person Identification Number"
   },
   "d11102ll": {
@@ -259,6 +274,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Gender of Individual"
   },
   "x11104ll": {
@@ -401,6 +419,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Subsample Identifier"
   },
   "x1110215": {
@@ -439,6 +460,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "HH Identification Number"
   },
   "x1110315": {
@@ -511,6 +535,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Individual in HH at Survey"
   },
   "x1110515": {
@@ -583,6 +610,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Individual responded to Survey"
   },
   "d1110115": {
@@ -623,6 +653,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Age of Individual"
   },
   "d1110315": {
@@ -694,6 +727,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Race of HH Head"
   },
   "d1110415": {
@@ -791,6 +827,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Marital Status of Individual"
   },
   "d1110515": {
@@ -878,6 +917,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Relationship to HH Head"
   },
   "d1110615": {
@@ -916,6 +958,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Number of Persons in HH"
   },
   "d1110715": {
@@ -954,6 +999,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Number of Children in HH"
   },
   "d1110815": {
@@ -1031,6 +1079,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Education With Respect to High School"
   },
   "d1110915": {
@@ -1071,6 +1122,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Number of Years of Education"
   },
   "e1110115": {
@@ -1111,6 +1165,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Annual Work Hours of Individual"
   },
   "e1110215": {
@@ -1183,6 +1240,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Employment Status of Individual"
   },
   "e1110315": {
@@ -1260,6 +1320,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Employment Level of Individual"
   },
   "e1110415": {
@@ -1332,6 +1395,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Primary Activity of Individual"
   },
   "e1110515": {
@@ -3724,6 +3790,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Occupation of Individual"
   },
   "e1110615": {
@@ -3841,6 +3910,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "1 Digit Industry Code of Individual"
   },
   "e1110715": {
@@ -4083,6 +4155,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "2 Digit Industry Code of Individual"
   },
   "i1110115": {
@@ -4121,6 +4196,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "HH Pre-Government Income"
   },
   "i1110215": {
@@ -4159,6 +4237,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "HH Post-Government Income"
   },
   "i1110315": {
@@ -4197,6 +4278,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "HH Labor Income"
   },
   "i1110415": {
@@ -4237,6 +4321,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "HH Income From Asset Flows"
   },
   "i1110515": {
@@ -4275,6 +4362,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "HH Imputed Rent"
   },
   "i1110615": {
@@ -4313,6 +4403,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "HH Private Transfers"
   },
   "i1110715": {
@@ -4351,6 +4444,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "HH Public Transfers"
   },
   "i1110815": {
@@ -4389,6 +4485,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "HH Social Security Pensions"
   },
   "i1110915": {
@@ -4427,6 +4526,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Total HH Taxes"
   },
   "i1111015": {
@@ -4465,6 +4567,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Individual Labor Earnings"
   },
   "i1111115": {
@@ -4503,6 +4608,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "HH Federal Taxes"
   },
   "i1111215": {
@@ -4541,6 +4649,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "HH Social Security Taxes"
   },
   "i1111315": {
@@ -4561,6 +4672,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "HH Post-Government Income (TAXSIM)"
   },
   "i1111415": {
@@ -4581,6 +4695,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Total HH Taxes (TAXSIM)"
   },
   "i1111515": {
@@ -4601,6 +4718,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "HH State Taxes (TAXSIM)"
   },
   "i1111615": {
@@ -4621,6 +4741,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "HH Federal Taxes (TAXSIM)"
   },
   "i1111715": {
@@ -4659,6 +4782,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "HH Private Retirement Income"
   },
   "i1120115": {
@@ -5226,6 +5352,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Share of imputed HH Pre-Government Income"
   },
   "i1120215": {
@@ -5793,6 +5922,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Share of imputed HH Post-Government Income"
   },
   "i1120315": {
@@ -6360,6 +6492,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Share of imputed HH Labour Income"
   },
   "i1120415": {
@@ -6467,6 +6602,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Share of imputed HH Income From Asset Flows"
   },
   "i1120615": {
@@ -6549,6 +6687,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Share of imputed HH Private Transfers"
   },
   "i1120715": {
@@ -6856,6 +6997,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Share of imputed HH Public Transfers"
   },
   "i1120815": {
@@ -6958,6 +7102,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Share of imputed HH Social Security Pensions"
   },
   "i1121015": {
@@ -7295,6 +7442,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Share of imputed Individual Labor Earnings"
   },
   "i1121715": {
@@ -7362,6 +7512,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Share of imputed HH Private Retirement Income"
   },
   "w1110115": {
@@ -7400,6 +7553,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Individuals Cross-sectional Weight - without 1st wave of a subsample"
   },
   "w1110215": {
@@ -7438,6 +7594,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "HH Weight"
   },
   "w1110315": {
@@ -7476,6 +7635,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Longitudinal Weight - Respondent Individual"
   },
   "w1110515": {
@@ -7514,6 +7676,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Cross-sectional Weight - all samples"
   },
   "w1110715": {
@@ -7534,6 +7699,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "X-Sectional Weight - Enumerated Individual"
   },
   "w1110815": {
@@ -7554,6 +7722,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Longitudinal Weight - Enumerated Individual"
   },
   "w1110915": {
@@ -7574,6 +7745,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Population Factor for w11103$$"
   },
   "w1111015": {
@@ -7594,6 +7768,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Population Factor for w11107$$"
   },
   "w1111115": {
@@ -7614,6 +7791,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Population Factor for w11108$$"
   },
   "h1110115": {
@@ -7652,6 +7832,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Number of hh members age 0-14"
   },
   "h1110215": {
@@ -7690,6 +7873,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Number of hh members age 15-18"
   },
   "h1110315": {
@@ -7728,6 +7914,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Number of hh members age 0-1"
   },
   "h1110415": {
@@ -7766,6 +7955,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Number of hh members age 2-4"
   },
   "h1110515": {
@@ -7804,6 +7996,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Number of hh members age 5-7"
   },
   "h1110615": {
@@ -7842,6 +8037,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Number of hh members age 8-10"
   },
   "h1110715": {
@@ -7880,6 +8078,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Number of hh members age 11-12"
   },
   "h1110815": {
@@ -7918,6 +8119,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Number of hh members age 13-15"
   },
   "h1110915": {
@@ -7956,6 +8160,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Number of hh members age 16-18"
   },
   "h1111015": {
@@ -7994,6 +8201,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "No. hh members 19 and above or 16-18,ind"
   },
   "h1111215": {
@@ -8032,6 +8242,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Indicator-wife in HH"
   },
   "y1110115": {
@@ -8070,6 +8283,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Consumer Price Index"
   },
   "l1110115": {
@@ -8212,6 +8428,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "State of Residence"
   },
   "l1110215": {
@@ -8284,6 +8503,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Region"
   },
   "i1111815": {
@@ -8322,6 +8544,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Household Windfall Income"
   },
   "i1121815": {
@@ -8394,6 +8619,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Impute Household Windfall Income"
   },
   "h1111115": {
@@ -8414,6 +8642,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Indicator - Head in HH"
   },
   "i1120515": {
@@ -8486,6 +8717,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Impute HH Imputed Rental Value"
   },
   "i1120915": {
@@ -8558,6 +8792,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Impute Total HH Taxes"
   },
   "w1110415": {
@@ -8578,6 +8815,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Individuals Cross-sectional Weight - without 1st wave of a subsample"
   },
   "e1120115": {
@@ -8598,6 +8838,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Impute Annual Work Hours of Individual"
   },
   "ijob115": {
@@ -8638,6 +8881,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Wages,Salary from main job"
   },
   "ijob215": {
@@ -8678,6 +8924,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Income from secondary employment"
   },
   "iself15": {
@@ -8718,6 +8967,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Income from self-employment"
   },
   "ioldy15": {
@@ -8758,6 +9010,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "old-age,disability and civil serv. pensions"
   },
   "iwidy15": {
@@ -8798,6 +9053,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "widows and/or orphans pension"
   },
   "iunby15": {
@@ -8838,6 +9096,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Unemployment benefit"
   },
   "iunay15": {
@@ -8878,6 +9139,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Unemployment assistance"
   },
   "isuby15": {
@@ -8918,6 +9182,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Subsistence allowance"
   },
   "ieret15": {
@@ -8958,6 +9225,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Old-age transition benefit"
   },
   "imaty15": {
@@ -8998,6 +9268,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Maternity benefit"
   },
   "istuy15": {
@@ -9038,6 +9311,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Student grants"
   },
   "imilt15": {
@@ -9078,6 +9354,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Military/community service pay"
   },
   "ialim15": {
@@ -9118,6 +9397,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Alimony"
   },
   "ielse15": {
@@ -9158,6 +9440,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Private Transfers received"
   },
   "icomp15": {
@@ -9198,6 +9483,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Company pension (surviving dependants c.p.)"
   },
   "iprvp15": {
@@ -9238,6 +9526,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Private pension (old-age,accid.,disability)"
   },
   "i13ly15": {
@@ -9278,6 +9569,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "13th monthly salary"
   },
   "i14ly15": {
@@ -9318,6 +9612,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "14th monthly salary"
   },
   "ixmas15": {
@@ -9358,6 +9655,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Christmas bonus"
   },
   "iholy15": {
@@ -9398,6 +9698,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Vacation bonus"
   },
   "igray15": {
@@ -9438,6 +9741,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Profit-sharing"
   },
   "iothy15": {
@@ -9478,6 +9784,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Other bonuses"
   },
   "igrv115": {
@@ -9518,6 +9827,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Retirement pay: stat. pension insurance"
   },
   "igrv215": {
@@ -9558,6 +9870,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Widows pension: stat pension insurance"
   },
   "renty15": {
@@ -9596,6 +9911,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Income from rental and leasing"
   },
   "opery15": {
@@ -9634,6 +9952,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Operation, maintenance costs"
   },
   "divdy15": {
@@ -9674,6 +9995,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Interest, dividend income"
   },
   "chspt15": {
@@ -9712,6 +10036,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Child allowance"
   },
   "house15": {
@@ -9750,6 +10077,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Housing benefit"
   },
   "nursh15": {
@@ -9788,6 +10118,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Compulsory long term care insurance"
   },
   "subst15": {
@@ -9826,6 +10159,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Social assistance(living expenses etc)"
   },
   "sphlp15": {
@@ -9864,6 +10200,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Social assistance f. spec. circumstances"
   },
   "hsup15": {
@@ -9902,6 +10241,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Housing support for owner-occupiers"
   },
   "fjob115": {
@@ -9974,6 +10316,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Wages,Salary from main job"
   },
   "fjob215": {
@@ -10046,6 +10391,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Income from secondary job"
   },
   "fself15": {
@@ -10118,6 +10466,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Income from self-employment"
   },
   "funby15": {
@@ -10190,6 +10541,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Unemployment benefit"
   },
   "foldy15": {
@@ -10262,6 +10616,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:old-age,civil serv. pensions"
   },
   "fwidy15": {
@@ -10334,6 +10691,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:widows/orphans pension"
   },
   "funay15": {
@@ -10406,6 +10766,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Unemployment assistance"
   },
   "fsuby15": {
@@ -10478,6 +10841,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Subsistence allowance"
   },
   "feret15": {
@@ -10550,6 +10916,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Old-age transition benefit"
   },
   "fmaty15": {
@@ -10622,6 +10991,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Maternity benefit"
   },
   "fstuy15": {
@@ -10694,6 +11066,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Student grants"
   },
   "fmilt15": {
@@ -10766,6 +11141,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Military/community service pay"
   },
   "falim15": {
@@ -10838,6 +11216,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Alimony"
   },
   "felse15": {
@@ -10910,6 +11291,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Private Transfers received"
   },
   "fcomp15": {
@@ -10982,6 +11366,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Company pension"
   },
   "fprvp15": {
@@ -11054,6 +11441,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Private pension(old-age,accid.)"
   },
   "f13ly15": {
@@ -11126,6 +11516,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:13th monthly salary"
   },
   "f14ly15": {
@@ -11198,6 +11591,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:14th monthly salary"
   },
   "fxmas15": {
@@ -11270,6 +11666,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Christmas bonus"
   },
   "fholy15": {
@@ -11342,6 +11741,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Vacation bonus"
   },
   "fgray15": {
@@ -11414,6 +11816,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Profit-sharing"
   },
   "fothy15": {
@@ -11486,6 +11891,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Other bonuses"
   },
   "fgrv115": {
@@ -11558,6 +11966,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:retirement pay from stat.insurance"
   },
   "fgrv215": {
@@ -11630,6 +12041,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:widows pension from stat.insurance"
   },
   "frenty15": {
@@ -11702,6 +12116,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Income from rental and leasing"
   },
   "fopery15": {
@@ -11774,6 +12191,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Operation, maintenance costs"
   },
   "fdivdy15": {
@@ -11846,6 +12266,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Interest, dividend income"
   },
   "fchspt15": {
@@ -11918,6 +12341,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Child allowance"
   },
   "fhouse15": {
@@ -11990,6 +12416,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Housing benefit"
   },
   "fnursh15": {
@@ -12062,6 +12491,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Compuls. long term care insurance"
   },
   "fsubst15": {
@@ -12134,6 +12566,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Social assist.(living expenses ..)"
   },
   "fsphlp15": {
@@ -12206,6 +12641,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Soc. assist. for spec. circumstan."
   },
   "fhsup15": {
@@ -12278,6 +12716,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag:Housing support f. owner-occupiers"
   },
   "ismp115": {
@@ -12318,6 +12759,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Social miners insurance pension"
   },
   "iciv115": {
@@ -12358,6 +12802,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Civil servant pension"
   },
   "iwar115": {
@@ -12398,6 +12845,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "War victim pension"
   },
   "iagr115": {
@@ -12438,6 +12888,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Farmer Pension"
   },
   "iguv115": {
@@ -12478,6 +12931,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Statutory accident insurance"
   },
   "ivbl115": {
@@ -12518,6 +12974,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Supplementary benefits for civil servants"
   },
   "icom115": {
@@ -12558,6 +13017,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Company pension"
   },
   "iprv115": {
@@ -12598,6 +13060,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Private pension"
   },
   "ison115": {
@@ -12638,6 +13103,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Other pension"
   },
   "ismp215": {
@@ -12678,6 +13146,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Widows social miners insurance pension"
   },
   "iciv215": {
@@ -12718,6 +13189,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Widows civil servant pension"
   },
   "iwar215": {
@@ -12758,6 +13232,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Widows war victim pension"
   },
   "iagr215": {
@@ -12798,6 +13275,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Widows farmer Pension"
   },
   "iguv215": {
@@ -12838,6 +13318,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Widows statutory accident insurance"
   },
   "ivbl215": {
@@ -12878,6 +13361,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Widows supplement. benefits(civil servants)"
   },
   "icom215": {
@@ -12918,6 +13404,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Widows company pension"
   },
   "ison215": {
@@ -12958,6 +13447,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Other widows pension"
   },
   "iprv215": {
@@ -12998,6 +13490,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Widows private pension"
   },
   "m1110115": {
@@ -13070,6 +13565,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Overnight hosp stay"
   },
   "m1110215": {
@@ -13110,6 +13608,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Inpatient nights in hosp"
   },
   "m1110315": {
@@ -13176,6 +13677,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Work accident required treatment"
   },
   "m1110415": {
@@ -13258,6 +13762,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Frequency of sport or exercise"
   },
   "m1110515": {
@@ -13298,6 +13805,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Have had stroke"
   },
   "m1110615": {
@@ -13338,6 +13848,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "High blood pressure/circulation problems"
   },
   "m1110715": {
@@ -13378,6 +13891,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Have or had diabetes"
   },
   "m1110815": {
@@ -13418,6 +13934,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Have or had cancer"
   },
   "m1110915": {
@@ -13458,6 +13977,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Psychiatric problems"
   },
   "m1111015": {
@@ -13478,6 +14000,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Arthritis"
   },
   "m1111115": {
@@ -13518,6 +14043,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Angina or heart condition"
   },
   "m1111215": {
@@ -13538,6 +14066,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Difficulties breathing"
   },
   "m1111315": {
@@ -13604,6 +14135,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Have trouble climbing stairs"
   },
   "m1111415": {
@@ -13624,6 +14158,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Need help or have difficulty bathing alone"
   },
   "m1111515": {
@@ -13696,6 +14233,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Dressing difficult alone"
   },
   "m1111615": {
@@ -13768,6 +14308,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Difficulty/need help getting in/out bed"
   },
   "m1111715": {
@@ -13840,6 +14383,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Need help with shopping"
   },
   "m1111815": {
@@ -13860,6 +14406,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Walk 10+ min alone difficult"
   },
   "m1111915": {
@@ -13932,6 +14481,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Housework difficult alone"
   },
   "m1112015": {
@@ -13952,6 +14504,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Health limits kneeling"
   },
   "m1112115": {
@@ -13972,6 +14527,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Health limits vigorous activities"
   },
   "m1112215": {
@@ -13992,6 +14550,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Body height"
   },
   "m1112315": {
@@ -14012,6 +14573,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Body weight"
   },
   "m1112415": {
@@ -14084,6 +14648,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Disability Status of Individual"
   },
   "m1112515": {
@@ -14201,6 +14768,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Satisfaction with Health"
   },
   "m1112615": {
@@ -14288,6 +14858,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Current Self-Rated Health Status"
   },
   "m1112715": {
@@ -14328,6 +14901,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Number of annual doctor visits"
   },
   "d11112ll": {
@@ -14348,6 +14924,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Race of individual"
   },
   "ssold15": {
@@ -14386,6 +14965,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Social assistance for elderly"
   },
   "lossr15": {
@@ -14424,6 +15006,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Losses from renting and leasing"
   },
   "lossc15": {
@@ -14462,6 +15047,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Losses from capital investment"
   },
   "fssold15": {
@@ -14534,6 +15122,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag: Social assistance for elderly"
   },
   "flossr15": {
@@ -14606,6 +15197,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag: Losses from renting and leasing"
   },
   "flossc15": {
@@ -14678,6 +15272,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag: Losses from capital investment"
   },
   "itray15": {
@@ -14718,6 +15315,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Commuting,travel grant"
   },
   "ftray15": {
@@ -14790,6 +15390,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag: Commuting, travel grant"
   },
   "idemy15": {
@@ -14830,6 +15433,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Indemnity"
   },
   "fdemy15": {
@@ -14902,6 +15508,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag: indemnity"
   },
   "alg215": {
@@ -14940,6 +15549,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Unemployment benefit II"
   },
   "falg215": {
@@ -15012,6 +15624,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag: Unemployment benefit II"
   },
   "p1110115": {
@@ -15129,6 +15744,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Overall life satisfaction"
   },
   "adchb15": {
@@ -15167,6 +15785,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Additional child benefit"
   },
   "fadchb15": {
@@ -15205,6 +15826,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag: Additional child benefit"
   },
   "iachm15": {
@@ -15245,6 +15869,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Advance child maintenance payment"
   },
   "fachm15": {
@@ -15317,6 +15944,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag: Advance child maintenance payment"
   },
   "chsub15": {
@@ -15355,6 +15985,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Child Care Subsidy"
   },
   "fchsub15": {
@@ -15427,6 +16060,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imputation flag: Child care Subsidy"
   },
   "ichsu15": {
@@ -15467,6 +16103,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Child support, caregiver alimony"
   },
   "fchsu15": {
@@ -15539,6 +16178,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag: Child support, caregiver alimony"
   },
   "ispou15": {
@@ -15579,6 +16221,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Divorce alimony, during separation"
   },
   "fspou15": {
@@ -15651,6 +16296,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Imp.flag: Divorce alimony, during separation"
   },
   "irie115": {
@@ -15691,6 +16339,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Riester pension plan"
   },
   "irie215": {
@@ -15731,6 +16382,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "2015",
     "label_de": "Widows Riester pension plan"
   }
 }

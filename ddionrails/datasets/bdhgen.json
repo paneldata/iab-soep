@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hhnrakt": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Aktuelle Haushaltsnummer (=BDHHNR)"
   },
   "bdhhnr": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "owner13": {
@@ -198,6 +207,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Eigentuemer, Mieter"
   },
   "moveyr13": {
@@ -238,6 +250,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Jahr des Einzugs"
   },
   "cnstyrmin13": {
@@ -278,6 +293,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Fruehestmoegliches Baujahr des Hauses"
   },
   "cnstyrmax13": {
@@ -318,6 +336,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Spaetestmoegliches Baujahr des Hauses"
   },
   "condit13": {
@@ -400,6 +421,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Renovierungsbeduerftigkeit"
   },
   "acquis13": {
@@ -482,6 +506,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Art des Eigentumerwerbs"
   },
   "reval13": {
@@ -569,6 +596,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Beurteilung Miethoehe"
   },
   "seval13": {
@@ -656,6 +686,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Beurteilung der Wohnungsgroesse"
   },
   "eqpkit13": {
@@ -728,6 +761,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Kueche"
   },
   "eqpshw13": {
@@ -800,6 +836,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Bad, Dusche"
   },
   "eqpiwc13": {
@@ -866,6 +905,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: WC in Wohnung"
   },
   "eqphea13": {
@@ -938,6 +980,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Zentral-, Etagenheizung"
   },
   "eqpter13": {
@@ -1010,6 +1055,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Balkon, Terrasse"
   },
   "eqpbas13": {
@@ -1082,6 +1130,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Keller"
   },
   "eqpgar13": {
@@ -1154,6 +1205,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Garten"
   },
   "eqpwat13": {
@@ -1226,6 +1280,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Fl. Warmwasser, Boiler"
   },
   "eqptel13": {
@@ -1298,6 +1355,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Telefon oder Handy"
   },
   "eqpalm13": {
@@ -1370,6 +1430,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Alarmanlage"
   },
   "eqpsol13": {
@@ -1442,6 +1505,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Solaranlage"
   },
   "eqpair13": {
@@ -1514,6 +1580,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Klimaanlage"
   },
   "eqplif13": {
@@ -1586,6 +1655,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Aufzug, Lift"
   },
   "eqpnrj13": {
@@ -1658,6 +1730,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Andere Alternative Energiequelle"
   },
   "size13": {
@@ -1696,6 +1771,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Wohnflaeche in qm"
   },
   "room13": {
@@ -1734,6 +1812,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Zahl der Wohnraeume ueber 6 qm"
   },
   "rent13": {
@@ -1774,6 +1855,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Monatl. Bruttokaltmiete (EUR)"
   },
   "heat13": {
@@ -1814,6 +1898,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Monatl. Heiz- und Warmwasserkosten (EUR)"
   },
   "util13": {
@@ -1854,6 +1941,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Monatl. Umlagen (EUR)"
   },
   "electr13": {
@@ -1894,6 +1984,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Monatl. Stromkosten (EUR)"
   },
   "gas13": {
@@ -1914,6 +2007,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Monatl. Gaskosten (EUR)"
   },
   "norent13": {
@@ -1981,6 +2077,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Zahlt keine Miete"
   },
   "rentinfo13": {
@@ -2052,6 +2151,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Haushalt zahlt Miete und/oder Nebenkosten"
   },
   "heatinfo13": {
@@ -2118,6 +2220,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Grund fuer fehlende Heizkosten"
   },
   "utilinfo13": {
@@ -2184,6 +2289,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Grund fuer fehlende Umlagekosten"
   },
   "electrinfo13": {
@@ -2255,6 +2363,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Grund fuer fehlende Stromkosten"
   },
   "gasinfo13": {
@@ -2326,6 +2437,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Grund fuer fehlende Gaskosten"
   },
   "fsize13": {
@@ -2398,6 +2512,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Imputation Flag, Wohnflaeche in qm"
   },
   "froom13": {
@@ -2470,6 +2587,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Imputation Flag, Anzahl der Wohnraeume ueber 6 qm"
   },
   "frent13": {
@@ -2552,6 +2672,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Imputation Flag, Bruttokaltmiete"
   },
   "f2rent13": {
@@ -2704,6 +2827,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Detaillierte Imputation Flag, Bruttokaltmiete"
   },
   "fheat13": {
@@ -2781,6 +2907,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Imputation Flag, Heiz- und Warmwasserkosten"
   },
   "futil13": {
@@ -2858,6 +2987,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Imputation Flag, Umlagen"
   },
   "felectr13": {
@@ -2935,6 +3067,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Imputation Flag, Stromkosten"
   },
   "subsid13": {
@@ -3001,6 +3136,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Eigentumsfoerderung mit oeff. Darlehen"
   },
   "osubs13": {
@@ -3073,6 +3211,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Foerderung mit oeff. Darlehen letztes Jahr"
   },
   "rsubs13": {
@@ -3150,6 +3291,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Sozialwohnung"
   },
   "reduc13": {
@@ -3222,6 +3366,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Verbilligt ueberlassene Wohnung"
   },
   "typ1hh13": {
@@ -3329,6 +3476,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Haushalts-Typologie (1-Steller)"
   },
   "typ2hh13": {
@@ -3521,6 +3671,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Haushalts-Typologie (2-Steller)"
   },
   "hinc13": {
@@ -3561,6 +3714,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Monatl. Haushaltsnettoeinkommen (EUR)"
   },
   "i1hinc13": {
@@ -3599,6 +3755,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "1.Imput.monatl.HH-Nettoeinkommen (EUR) [1/5]"
   },
   "i2hinc13": {
@@ -3637,6 +3796,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "2.Imput.monatl.HH-Nettoeinkommen (EUR) [2/5]"
   },
   "i3hinc13": {
@@ -3675,6 +3837,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "3.Imput.monatl.HH-Nettoeinkommen (EUR) [3/5]"
   },
   "i4hinc13": {
@@ -3713,6 +3878,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "4.Imput.monatl.HH-Nettoeinkommen (EUR) [4/5]"
   },
   "i5hinc13": {
@@ -3751,6 +3919,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "5.Imput.monatl.HH-Nettoeinkommen (EUR) [5/5]"
   },
   "fhinc13": {
@@ -3823,6 +3994,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Imputation Flag, monatl.HH-Nettoeinkommen"
   },
   "nuts113": {
@@ -3965,6 +4139,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "NUTS-Systematik-1 (Bundesland)"
   },
   "hmonth13": {
@@ -4087,6 +4264,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Monat des Interviews"
   },
   "hmode13": {
@@ -4214,6 +4394,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Interviewmethode"
   },
   "eqpfhea13": {
@@ -4286,6 +4469,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Fussbodenheizung"
   },
   "eqpinsul13": {
@@ -4352,6 +4538,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Waermedaemmung"
   },
   "eqpmglass13": {
@@ -4418,6 +4607,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Mindestens Doppelverglasung"
   },
   "eqpnobar13": {
@@ -4490,6 +4682,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Barrierefreie Wohnaust."
   },
   "eqppark13": {
@@ -4556,6 +4751,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "2013",
     "label_de": "Ausstattung: Garage/Stellplatz"
   }
 }

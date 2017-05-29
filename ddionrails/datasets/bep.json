@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "persnr": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unveraenderliche Personennummer"
   },
   "welle": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Befragungswelle (Erhebungsjahr)"
   },
   "sample1": {
@@ -318,6 +327,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Stichprobenkennzeichen"
   },
   "hhnrakt": {
@@ -356,6 +368,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Aktuelle Haushaltsnummer (=BEHHNR)"
   },
   "behhnr": {
@@ -394,6 +409,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Aktuelle Haushaltsnummer (=HHNRAKT)"
   },
   "bepnr": {
@@ -432,6 +450,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Lfd. Personennummer"
   },
   "bep0101": {
@@ -549,6 +570,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zufriedenheit Gesundheit"
   },
   "bep0102": {
@@ -666,6 +690,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zufriedenheit Schlaf"
   },
   "bep0103": {
@@ -783,6 +810,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zufriedenheit Arbeit"
   },
   "bep0104": {
@@ -900,6 +930,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zufriedenheit HH-Taetigk."
   },
   "bep0105": {
@@ -1017,6 +1050,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zufriedenheit HH-Einkommen"
   },
   "bep0106": {
@@ -1134,6 +1170,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zufriedenheit mit persoenlichem Einkommen"
   },
   "bep0107": {
@@ -1251,6 +1290,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zufriedenheit Wohnung"
   },
   "bep0108": {
@@ -1368,6 +1410,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zufriedenheit Freizeit"
   },
   "bep0109": {
@@ -1485,6 +1530,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zufriedenheit Kinderbetreuung"
   },
   "bep0110": {
@@ -1602,6 +1650,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zufriedenheit Familienleben"
   },
   "bep0111": {
@@ -1719,6 +1770,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zufriedenh. Schul- und Berufsausbildung"
   },
   "bep02": {
@@ -1810,6 +1864,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Lebenslanges Lernen"
   },
   "bep0301": {
@@ -1897,6 +1954,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Haeufigkeit aergerlich letzte 4 Wochen"
   },
   "bep0302": {
@@ -1984,6 +2044,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Haeufigkeit aengstlich letzte 4 Wochen"
   },
   "bep0303": {
@@ -2071,6 +2134,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Haeufigkeit gluecklich letzte 4 Wochen"
   },
   "bep0304": {
@@ -2158,6 +2224,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Haeufigkeit traurig letzte 4 Wochen"
   },
   "bep04": {
@@ -2275,6 +2344,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Selbsteinschaetzung Risikobereitschaft"
   },
   "bep0501": {
@@ -2315,6 +2387,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Beruf, Lehre, Nebenerw. Std., Werktg."
   },
   "bep0502": {
@@ -2355,6 +2430,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Besorgungen Std., Werktg."
   },
   "bep0503": {
@@ -2395,6 +2473,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hausarbeit Std., Werktg."
   },
   "bep0504": {
@@ -2435,6 +2516,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kinderbetreuung Std., Werktg."
   },
   "bep0505": {
@@ -2475,6 +2559,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Versorgung Pflegebeduerftiger, Werktg."
   },
   "bep0506": {
@@ -2515,6 +2602,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Aus- u. Weiterb., Lernen Std., Werktg."
   },
   "bep0507": {
@@ -2555,6 +2645,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Reparaturen etc. Std., Werktag"
   },
   "bep0508": {
@@ -2595,6 +2688,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Koerperl. Aktivitaet Std/Werktag"
   },
   "bep0509": {
@@ -2635,6 +2731,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hobbies, Freizeit Std., Werktg."
   },
   "bep0510": {
@@ -2655,6 +2754,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Gesamt k.A. Werktag"
   },
   "bep06": {
@@ -2727,6 +2829,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Bezahlte Arbeit letzte 7 Tage"
   },
   "bep07": {
@@ -2804,6 +2909,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "in Mutterschutz, Elternzeit"
   },
   "bep08": {
@@ -2876,6 +2984,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "in Pflegezeit"
   },
   "bep09": {
@@ -2948,6 +3059,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitslos gemeldet"
   },
   "bep1001": {
@@ -3020,6 +3134,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Derzeit in Ausbildung"
   },
   "bep1002": {
@@ -3117,6 +3234,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Welche Aus-/Weiterbildung/Gesamt KA"
   },
   "bep1101": {
@@ -3209,6 +3329,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ausbildung: Allgemeinbildende Schule"
   },
   "bep1102": {
@@ -3296,6 +3419,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ausbildung: Hochschule"
   },
   "bep1103": {
@@ -3363,6 +3489,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Studium: Stipendium"
   },
   "bep1104": {
@@ -3430,6 +3559,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Studium: Stipendium erhalten: BAFoeG"
   },
   "bep1105": {
@@ -3497,6 +3629,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Studium: Stipendium erhalten: Sonstiges"
   },
   "bep1106": {
@@ -3584,6 +3719,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ausbildung: Lehrgang/Kursus zur Weiterbildung"
   },
   "bep1107": {
@@ -3686,6 +3824,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Berufliche Ausbildung"
   },
   "bep12": {
@@ -3793,6 +3934,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Erwerbsstatus"
   },
   "bep13": {
@@ -3875,6 +4019,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Erwerbstaetigkeit in Zukunft"
   },
   "bep14": {
@@ -3957,6 +4104,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Erwerbstaetigkeit Zeitpunkt"
   },
   "bep15": {
@@ -4039,6 +4189,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Erwerbstaetigkeit Interesse"
   },
   "bep16": {
@@ -4116,6 +4269,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Geeignete Stelle finden"
   },
   "bep1701": {
@@ -4156,6 +4312,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hoehe Nettoverdienst fuer Stellenannahme"
   },
   "bep1702": {
@@ -4223,6 +4382,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hoehe Nettoverdienst nicht zu sagen"
   },
   "bep18": {
@@ -4263,6 +4425,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Anz. Arbeitsstunden fuer Nettoverdienst"
   },
   "bep19": {
@@ -4335,6 +4500,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Passende Stelle sofort annehmen"
   },
   "bep20": {
@@ -4407,6 +4575,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Aktive Stellensuche letzte 4 Wochen"
   },
   "bep21": {
@@ -4484,6 +4655,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Seit Vorjahr neue Arbeit"
   },
   "bep2201": {
@@ -4551,6 +4725,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Einmal letztes Jahr Stelle gewechselt oder Arbeit neu aufgenommen"
   },
   "bep2202": {
@@ -4591,6 +4768,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wie oft letztes Jahr Stelle gewechselt oder Arbeit neu aufgenommen"
   },
   "bep2301": {
@@ -4713,6 +4893,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Jetzige Stelle angetreten Monat Vorjahr"
   },
   "bep2302": {
@@ -4835,6 +5018,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Jetzige Stelle angetreten Monat aktuelles Jahr"
   },
   "bep2303": {
@@ -4855,6 +5041,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Jetzige Stelle angetreten K.A."
   },
   "bep2401": {
@@ -4947,6 +5136,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Art der berufliche Veraenderung"
   },
   "bep2402": {
@@ -5019,6 +5211,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Taetigkeitsunterbrechung wg. Kind/er (z.B. Mutterschutz, Elternzeit)"
   },
   "bep2403": {
@@ -5059,6 +5254,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Monate Unterbrechung bei Stellenwechsel"
   },
   "bep2404": {
@@ -5136,6 +5334,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unterstuetzung der Selbst. durch oeffentliche Foerderung"
   },
   "bep25": {
@@ -5208,6 +5409,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Aktive Stellensuche vorher"
   },
   "bep26": {
@@ -5330,6 +5534,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Von Stelle erfahren durch"
   },
   "bep27": {
@@ -5407,6 +5614,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "War Arbeitsamt beteiligt"
   },
   "bep29": {
@@ -5489,6 +5699,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Taetigkeit entspricht Beruf"
   },
   "bep30": {
@@ -5571,6 +5784,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Benoetigte Ausbildung"
   },
   "bep3101": {
@@ -5638,6 +5854,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kurze Einweisung am Arbeitsplatz"
   },
   "bep3102": {
@@ -5705,6 +5924,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Laengere Einarbeitung im Betrieb"
   },
   "bep3103": {
@@ -5772,6 +5994,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Besuch Lehrgaenge,Kurse"
   },
   "bep3104": {
@@ -5792,6 +6017,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Einarbeitung - Gesamt k.A."
   },
   "bep33": {
@@ -5894,6 +6122,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Anzahl Beschaeftigte (Gesamtunternehmen)"
   },
   "bep3401": {
@@ -6016,6 +6247,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Bei jetzigem Arbeitgeber seit, Monat"
   },
   "bep3402": {
@@ -6056,6 +6290,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Bei jetzigem Arbeitgeber seit, Jahr"
   },
   "bep3501": {
@@ -6143,6 +6380,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Berufliche Stellung derzeit"
   },
   "bep3502": {
@@ -6225,6 +6465,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Berufl. Stellung Selbstaendige"
   },
   "bep3503": {
@@ -6302,6 +6545,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Anzahl Mitarbeiter"
   },
   "bep3504": {
@@ -6389,6 +6635,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Derzeitige Stellung Arbeiter"
   },
   "bep3505": {
@@ -6471,6 +6720,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Derzeitige Stellung Beamte"
   },
   "bep3506": {
@@ -6548,6 +6800,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Derzeitige Stellung Auszubildende, Praktikant"
   },
   "bep3507": {
@@ -6640,6 +6895,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Derzeitige Stellung Angestellte"
   },
   "bep36": {
@@ -6712,6 +6970,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Betrieb d. oeffentl. Dienstes"
   },
   "bep37": {
@@ -6784,6 +7045,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zeit-/Leiharbeit"
   },
   "bep38": {
@@ -6861,6 +7125,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Frist der derzeitigen Beschaeftigung"
   },
   "bep39": {
@@ -6938,6 +7205,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "ABM- oder Gemeinnuetzige Arbeit"
   },
   "bep40": {
@@ -7009,6 +7279,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Chancen gleichwertige Stelle zu finden"
   },
   "bep41": {
@@ -7096,6 +7369,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitsplatz alte,neue BL.,Ausland"
   },
   "bep42": {
@@ -7178,6 +7454,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitszeitregelungen"
   },
   "bep4301": {
@@ -7239,6 +7518,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Bereitschaftsdienst"
   },
   "bep4302": {
@@ -7300,6 +7582,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Rufbereitschaft"
   },
   "bep4303": {
@@ -7361,6 +7646,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeit auf Abruf"
   },
   "bep4304": {
@@ -7422,6 +7710,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nein"
   },
   "bep4401": {
@@ -7488,6 +7779,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Beschaeftigung von zu Hause"
   },
   "bep4402": {
@@ -7564,6 +7858,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hfgkt. Beschaeftigung von zH"
   },
   "bep45": {
@@ -7635,6 +7932,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Angebot zu Hause arbeiten"
   },
   "bep46": {
@@ -7655,6 +7955,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wochenstunden gewuenscht"
   },
   "bep4701": {
@@ -7695,6 +7998,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wochenstunden vereinbart"
   },
   "bep4702": {
@@ -7762,6 +8068,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "keine festgelegte Arbeitszeit"
   },
   "bep48": {
@@ -7802,6 +8111,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wochenstunden tatsaechlich"
   },
   "bep49": {
@@ -7879,6 +8191,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mini-Job, Midi-Job"
   },
   "bep50": {
@@ -7951,6 +8266,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Elternteilzeit"
   },
   "bep5101": {
@@ -8017,6 +8335,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Altersteilzeit"
   },
   "bep5102": {
@@ -8083,6 +8404,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Reduzierte Arbeitszeits oder Gehalt"
   },
   "bep52": {
@@ -8160,6 +8484,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ueberstunden leisten"
   },
   "bep5301": {
@@ -8232,6 +8559,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ueberstd. in Arbeitszeitkonto"
   },
   "bep5302": {
@@ -8309,6 +8639,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ausgleichfrist"
   },
   "bep54": {
@@ -8391,6 +8724,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ueberstunden abgelten"
   },
   "bep5501": {
@@ -8463,6 +8799,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ueberstunden im letzt. Monat abgefeiert"
   },
   "bep5502": {
@@ -8503,6 +8842,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Anzahl abgefeierte Ueberstunden"
   },
   "bep5601": {
@@ -8575,6 +8917,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ueberstunden letzten Monat"
   },
   "bep5602": {
@@ -8615,6 +8960,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ueberstunden letzten Monat Anzahl"
   },
   "bep5603": {
@@ -8655,6 +9003,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ueberstunden im letzten Monat, bezahlt"
   },
   "bep5701": {
@@ -8695,6 +9046,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Bruttoverdienst letzten Monat"
   },
   "bep5702": {
@@ -8735,6 +9089,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nettoverdienst letzten Monat"
   },
   "bep5801": {
@@ -8802,6 +9159,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Schicht-,Spaet-,Wochendzulage im letzten Monat"
   },
   "bep5802": {
@@ -8869,6 +9229,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ueberstundenzuschlaege"
   },
   "bep5803": {
@@ -8936,6 +9299,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Erschwerniszulagen"
   },
   "bep5804": {
@@ -9003,6 +9369,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Funktionszulagen oder persoenliche Zulagen"
   },
   "bep5805": {
@@ -9070,6 +9439,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Trinkgelder"
   },
   "bep5806": {
@@ -9137,6 +9509,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sonstige Sonderzahlungen, Zuschlaege"
   },
   "bep5807": {
@@ -9204,6 +9579,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Keine Sonderzahlungen, Zuschlaege"
   },
   "bep5901": {
@@ -9271,6 +9649,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitgeber Zusatzleistungen: Essenszuschuss"
   },
   "bep5902": {
@@ -9338,6 +9719,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitgeber Zusatzleistungen: Firmenwagen, private Nutzung"
   },
   "bep5903": {
@@ -9405,6 +9789,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitgeber Zusatzleistungen: Handy, Telefonkosten - privat"
   },
   "bep5904": {
@@ -9472,6 +9859,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitgeber Zusatzleistungen: Spesen ueber Kostenerstattung"
   },
   "bep5905": {
@@ -9539,6 +9929,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitgeber Zusatzleistungen: Computer fuer Zuhause"
   },
   "bep5906": {
@@ -9606,6 +9999,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitgeber Zusatzleistungen: Andere Zusatzleistungen"
   },
   "bep5907": {
@@ -9673,6 +10069,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitgeber Zusatzleistungen: keine"
   },
   "bep6001": {
@@ -9740,6 +10139,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mithelfendes Familienmitglied im eigenen Betrieb"
   },
   "bep6002": {
@@ -9807,6 +10209,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Regelmaessiger Nebenerwerb"
   },
   "bep6003": {
@@ -9874,6 +10279,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Gelegentlicher Nebenerwerb"
   },
   "bep6004": {
@@ -9941,6 +10349,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Keine Nebentaetigkeit"
   },
   "bep62": {
@@ -9961,6 +10372,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nebentaetigkeit: Anzahl Tage pro Monat"
   },
   "bep63": {
@@ -9981,6 +10395,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nebentaetigkeit: Stunden pro Tag"
   },
   "bep64": {
@@ -10021,6 +10438,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nebentaetigkeit: Bruttoverdienst im letzten Monat"
   },
   "bep6501": {
@@ -10088,6 +10508,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Altersrente etc."
   },
   "bep6502": {
@@ -10128,6 +10551,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Altersrente Bruttobetrag pro Monat"
   },
   "bep6503": {
@@ -10195,6 +10621,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Witwenrente etc."
   },
   "bep6504": {
@@ -10235,6 +10664,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Witwenrente Bruttobetrag pro Monat"
   },
   "bep6505": {
@@ -10302,6 +10734,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitslosengeld"
   },
   "bep6506": {
@@ -10342,6 +10777,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitslosengeld Bruttobetrag pro Monat"
   },
   "bep6507": {
@@ -10409,6 +10847,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "ALG II, Sozialgeld"
   },
   "bep6508": {
@@ -10476,6 +10917,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unterhaltsgeld bei Fortbildung, Uebergangsgeld"
   },
   "bep6509": {
@@ -10516,6 +10960,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unterhaltsgeld, Uebergangsgeld Bruttobetrag pro Monat"
   },
   "bep6510": {
@@ -10583,6 +11030,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mutterschaftsgeld etc."
   },
   "bep6511": {
@@ -10623,6 +11073,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mutterschaftsgeld Bruttobetrag pro Monat"
   },
   "bep6512": {
@@ -10690,6 +11143,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kindesunterhalt"
   },
   "bep6513": {
@@ -10730,6 +11186,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kindesunterhalt Bruttobetrag pro Monat"
   },
   "bep6514": {
@@ -10797,6 +11256,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Betreuungsunterhalt"
   },
   "bep6515": {
@@ -10837,6 +11299,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Betreuungsunterhalt Bruttobetrag pro Monat"
   },
   "bep6516": {
@@ -10904,6 +11369,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nachehelicher Unterhalt etc."
   },
   "bep6517": {
@@ -10944,6 +11412,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nachehelicher Unterhalt etc. Bruttobetrag pro Monat"
   },
   "bep6518": {
@@ -11011,6 +11482,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unterhalt aus Unterhaltsvorschusskassen"
   },
   "bep6519": {
@@ -11051,6 +11525,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unterhalt aus Unterhaltsvorschusskassen Bruttobetrag pro Monat"
   },
   "bep6520": {
@@ -11118,6 +11595,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Bafoeg, Stipendium etc."
   },
   "bep6521": {
@@ -11158,6 +11638,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Bafoeg, Stipendium Bruttobetrag pro Monat"
   },
   "bep6522": {
@@ -11225,6 +11708,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Aufwandsentsch.soz/oek.J.,Wehrsold(frw.)"
   },
   "bep6523": {
@@ -11265,6 +11751,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Soz/oek.Jahr,Wehrsold Bruttobetrag pro Monat"
   },
   "bep6524": {
@@ -11332,6 +11821,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unterstuetzung ausserhalb des HH"
   },
   "bep6525": {
@@ -11372,6 +11864,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unterstuetzung Bruttobetrag pro Monat"
   },
   "bep6526": {
@@ -11439,6 +11934,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nicht diese Einkuenfte"
   },
   "bep6601": {
@@ -11511,6 +12009,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Seit Vorjahr Ausbildung abgeschlossen"
   },
   "bep6602": {
@@ -11633,6 +12134,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Seit Vorjahr Ausbildung Monat"
   },
   "bep6603": {
@@ -11755,6 +12259,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Seit aktuellem Jahr Ausbildung Monat"
   },
   "bep6604": {
@@ -11775,6 +12282,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ausbildung abgeschlossen K.A."
   },
   "bep67": {
@@ -11847,6 +12357,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ausbildung mit Abschluss beendet"
   },
   "bep68": {
@@ -11919,6 +12432,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Land Abschluss Ausbildung"
   },
   "bep6901": {
@@ -11996,6 +12512,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Welcher Abschluss/Keine Angabe"
   },
   "bep6902": {
@@ -12083,6 +12602,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Allgemeinbildender Schulabschluss"
   },
   "bep6903": {
@@ -12170,6 +12692,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hochschulabschluss"
   },
   "bep6904": {
@@ -12267,6 +12792,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ausbildungsart"
   },
   "bep70": {
@@ -12344,6 +12872,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Berufliche Weiterbildung 2013"
   },
   "bep71": {
@@ -12384,6 +12915,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Anzahl WB-Massnahmen 2013"
   },
   "bep72": {
@@ -12424,6 +12958,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Anzahl Tage WB-Massnahmen 2013"
   },
   "bep73": {
@@ -12490,6 +13027,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "WB-Massnahme d. Agentur f.Arbeit/d. Jobcenters"
   },
   "bep74": {
@@ -12566,6 +13106,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "WB-Massnahme durch AG angeregt"
   },
   "bep75": {
@@ -12632,6 +13175,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "WB-Massnahme direkt v. AG angeboten"
   },
   "bep7601": {
@@ -12703,6 +13249,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitgeber hat sich an Kursgebuehr beteiligt"
   },
   "bep7602": {
@@ -12774,6 +13323,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "WB in Arbeitszeit"
   },
   "bep7701": {
@@ -12835,6 +13387,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "2013 kein passendes WB-Angebot verfuegbar"
   },
   "bep7702": {
@@ -12896,6 +13451,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "2013 keine Zeit fuer WB"
   },
   "bep7703": {
@@ -12957,6 +13515,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "WB haette pers. Berufschancen nicht verbessert"
   },
   "bep7704": {
@@ -13018,6 +13579,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "WB kam nicht in Frage wg. Kosten/Verdienstausfall"
   },
   "bep7705": {
@@ -13079,6 +13643,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kein Interesse an Weiterbildung"
   },
   "bep78": {
@@ -13156,6 +13723,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Seit Anfang Vorjahr aus Beruf ausgeschieden"
   },
   "bep7901": {
@@ -13278,6 +13848,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ende letzte Stelle Monat Vorjahr"
   },
   "bep7902": {
@@ -13400,6 +13973,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ende letzte Stelle Monat aktuelles Jahr"
   },
   "bep7903": {
@@ -13420,6 +13996,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ende letzte Stelle K.A."
   },
   "bep8001": {
@@ -13460,6 +14039,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Dauer letzte Stelle, Jahre"
   },
   "bep8002": {
@@ -13500,6 +14082,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Dauer letzte Stelle, Monate"
   },
   "bep81": {
@@ -13602,6 +14187,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Art Beendigung des Beschaeftigungs Verhaeltnis"
   },
   "bep8201": {
@@ -13674,6 +14262,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Abfindung vom letzten Betrieb"
   },
   "bep8202": {
@@ -13714,6 +14305,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Abfindung Betrag"
   },
   "bep83": {
@@ -13796,6 +14390,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Perspektive bei Beschaeftigungsende"
   },
   "bep8401": {
@@ -13822,6 +14419,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Voll erwerbstaetig, Jan-Dez Vorjahr"
   },
   "bep8402": {
@@ -13848,6 +14448,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kurzarbeit, Jan-Dez Vorjahr"
   },
   "bep8403": {
@@ -13874,6 +14477,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Teilzeit, Jan-Dez Vorjahr"
   },
   "bep8404": {
@@ -13900,6 +14506,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mini-Job, Jan-Dez Vorjahr"
   },
   "bep8405": {
@@ -13926,6 +14535,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ausbildung, Jan-Dez Vorjahr"
   },
   "bep8406": {
@@ -13952,6 +14564,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Fortbilung,Jan-Dez Vorjahr"
   },
   "bep8407": {
@@ -13978,6 +14593,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitslos gemeldet,Jan-Dez Vorjahr"
   },
   "bep8408": {
@@ -14004,6 +14622,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "In Rente etc.,Jan-Dez Vorjahr"
   },
   "bep8409": {
@@ -14030,6 +14651,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mutterschutz etc.,Jan-Dez Vorjahr"
   },
   "bep8410": {
@@ -14056,6 +14680,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Schule etc.,Jan-Dez Vorjahr"
   },
   "bep8411": {
@@ -14133,6 +14760,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wehrdienst, Zivildienst, soziales Jahr; Vorjahr"
   },
   "bep8412": {
@@ -14159,6 +14789,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wehrdienst, Zivildienst, soziales Jahr; Jan.-Dez. Vorjahr"
   },
   "bep8413": {
@@ -14185,6 +14818,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hausfrau,-mann,Jan-Dez Vorjahr"
   },
   "bep8414": {
@@ -14211,6 +14847,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sonstiges, Jan-Dez Vorjahr"
   },
   "bep85a01": {
@@ -14278,6 +14917,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Brutto Lohn als Arbeitnehmer bezogen Vorjahr"
   },
   "bep85a02": {
@@ -14318,6 +14960,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Brutto Lohn als Arbeitnehmer Anzahl Monate Vorjahr"
   },
   "bep85a03": {
@@ -14358,6 +15003,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Brutto Lohn als Arbeitnehmer Betrag Vorjahr"
   },
   "bep85a04": {
@@ -14398,6 +15046,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Netto Lohn als Arbeitnehmer Betrag Vorjahr"
   },
   "bep85b01": {
@@ -14465,6 +15116,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Brutto Einkuenfte a. selbstaendiger Taetigkeit bez. Vorjahr"
   },
   "bep85b02": {
@@ -14505,6 +15159,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Brutto Einkuenfte a. selbstae. Taetigk. Anzahl Mon. Vorjahr"
   },
   "bep85b03": {
@@ -14545,6 +15202,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Brutto Einkuenfte a. selbstaendiger Taetigkeit Btr. Vorjahr"
   },
   "bep85b04": {
@@ -14565,6 +15225,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Netto Einkuenfte a. selbstaendiger Taetigkeit Btr. Vorjahr"
   },
   "bep85c01": {
@@ -14632,6 +15295,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Einkuenfte a. Nebenerwerb bezogen Vorjahr"
   },
   "bep85c02": {
@@ -14672,6 +15338,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Einkuenfte a. Nebenerwerb Anzahl Monate Vorjahr"
   },
   "bep85c03": {
@@ -14712,6 +15381,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Einkuenfte a. Nebenerwerb Betrag Vorjahr"
   },
   "bep85d01": {
@@ -14779,6 +15451,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Altersrente etc bezogen Vorjahr"
   },
   "bep85d02": {
@@ -14819,6 +15494,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Altersrente etc Anzahl Monate Vorjahr"
   },
   "bep85e01": {
@@ -14886,6 +15564,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Witwenrente etc bezogen Vorjahr"
   },
   "bep85e02": {
@@ -14926,6 +15607,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Witwenrente etc Anzahl Monate Vorjahr"
   },
   "bep85h01": {
@@ -14993,6 +15677,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitslosengeld bezogen Vorjahr"
   },
   "bep85h02": {
@@ -15033,6 +15720,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitslosengeld Anzahl Monate Vorjahr"
   },
   "bep85h03": {
@@ -15073,6 +15763,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitslosengeld Betrag Vorjahr"
   },
   "bep85q01": {
@@ -15140,6 +15833,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "ALG_II Sozialgeld bezogen Vorjahr"
   },
   "bep85q02": {
@@ -15180,6 +15876,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "ALG_II Sozialgeld Anzahl Monate Vorjahr"
   },
   "bep85j01": {
@@ -15247,6 +15946,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unterhaltsgeld bezogen Vorjahr"
   },
   "bep85j02": {
@@ -15287,6 +15989,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unterhaltsgeld Anzahl Monate Vorjahr"
   },
   "bep85j03": {
@@ -15327,6 +16032,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unterhaltsgeld Betrag Vorjahr"
   },
   "bep85k01": {
@@ -15394,6 +16102,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mutterschaftsgeld bezogen Vorjahr"
   },
   "bep85k02": {
@@ -15434,6 +16145,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mutterschaftsgeld Anzahl Monate Vorjahr"
   },
   "bep85k03": {
@@ -15474,6 +16188,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Mutterschaftsgeld Betrag Vorjahr"
   },
   "bep85l01": {
@@ -15541,6 +16258,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "BAfoeG, Stipendium bezogen Vorjahr"
   },
   "bep85l02": {
@@ -15581,6 +16301,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "BAfoeG, Stipendium Anzahl Monate Vorjahr"
   },
   "bep85l03": {
@@ -15621,6 +16344,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "BAfoeG, Stipendium Betrag Vorjahr"
   },
   "bep85m01": {
@@ -15688,6 +16414,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wehr-, Zivildienstsold bezogen Vorjahr"
   },
   "bep85m02": {
@@ -15728,6 +16457,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wehr-, Zivildienstsold Anzahl Monate Vorjahr"
   },
   "bep85m03": {
@@ -15768,6 +16500,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wehr-, Zivildienstsold Betrag Vorjahr"
   },
   "bep85s01": {
@@ -15835,6 +16570,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ehegatten-, Kindes-, Betreuungsunterhalt bezogen Vorjahr"
   },
   "bep85s02": {
@@ -15875,6 +16613,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ehegatten-, Kindes-, Betreuungsunt. Anzahl Monate Vorjahr"
   },
   "bep85s03": {
@@ -15915,6 +16656,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ehegatten-, Kindes-, Betreuungsunterhalt Betrag Vorjahr"
   },
   "bep85t01": {
@@ -15982,6 +16726,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unterhalt aus Unterhaltsvorschusskassen bezogen Vorjahr"
   },
   "bep85t02": {
@@ -16022,6 +16769,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unterhalt aus Unterhaltsvorschusskassen Anz. Monate Vorjahr"
   },
   "bep85t03": {
@@ -16062,6 +16812,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unterhalt aus Unterhaltsvorschusskassen Betrag Vorjahr"
   },
   "bep85o01": {
@@ -16129,6 +16882,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unterstuetzung ausserhalb des HH bezogen Vorjahr"
   },
   "bep85o02": {
@@ -16169,6 +16925,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unterstuetzung ausserhalb des HH Anzahl Monate Vorjahr"
   },
   "bep85o03": {
@@ -16209,6 +16968,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unterstuetzung ausserhalb des HH Betrag Vorjahr"
   },
   "bep85p01": {
@@ -16276,6 +17038,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Im Vorjahr keine dieser Einkunftsarten"
   },
   "bep8601": {
@@ -16343,6 +17108,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "13. Monatsgehalt Vorjahr"
   },
   "bep8602": {
@@ -16383,6 +17151,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "13. Monatsgehalt Vorjahr Betrag"
   },
   "bep8603": {
@@ -16450,6 +17221,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "14. Monatsgehalt Vorjahr"
   },
   "bep8604": {
@@ -16490,6 +17264,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "14. Monatsgehalt Vorjahr Betrag"
   },
   "bep8605": {
@@ -16557,6 +17334,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Weihnachtsgeld Vorjahr"
   },
   "bep8606": {
@@ -16597,6 +17377,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Weihnachtsgeld Vorjahr Betrag"
   },
   "bep8607": {
@@ -16664,6 +17447,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Urlaubsgeld Vorjahr"
   },
   "bep8608": {
@@ -16704,6 +17490,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Urlaubsgeld Vorjahr Betrag"
   },
   "bep8609": {
@@ -16771,6 +17560,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Gewinnbeteiligung etc. Vorjahr"
   },
   "bep8610": {
@@ -16811,6 +17603,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Gewinnbeteiligung Vorjahr Betrag"
   },
   "bep8611": {
@@ -16878,6 +17673,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sonstige Sonderverguetung Vorjahr"
   },
   "bep8612": {
@@ -16918,6 +17716,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sonstige Sonderverguetung Vorjahr Betrag"
   },
   "bep8613": {
@@ -16985,6 +17786,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Keine Sonderverguetung Vorjahr"
   },
   "bep8701": {
@@ -17057,6 +17861,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zuschuesse fuer oeffentlichen Nahverkehr"
   },
   "bep8702": {
@@ -17097,6 +17904,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zuschuesse fuer oeffentlichen Nahverkehr: Betrag (in EURO)"
   },
   "bep8801": {
@@ -17137,6 +17947,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Altersrente gesetzliche Rentenversicherung (in EURO)"
   },
   "bep8802": {
@@ -17177,6 +17990,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Witwenrente gesetzliche Rentenversicherung (in EURO)"
   },
   "bep8803": {
@@ -17217,6 +18033,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Altersrente Beamtenversorgung (in EURO)"
   },
   "bep8804": {
@@ -17237,6 +18056,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Witwenrente Beamtenversorgung (in EURO)"
   },
   "bep8805": {
@@ -17277,6 +18099,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Altersrente Zusatzversorgung oeffentlicher Dienst (in EURO)"
   },
   "bep8806": {
@@ -17317,6 +18142,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Witwenrente Zusatzversorgung oeffentlicher Dienst (in EURO)"
   },
   "bep8807": {
@@ -17357,6 +18185,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Altersrente betriebliche Altersversorgung (in EURO)"
   },
   "bep8808": {
@@ -17397,6 +18228,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Witwenrente betriebliche Altersversorgung (in EURO)"
   },
   "bep8809": {
@@ -17437,6 +18271,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "private Altersrente (in EURO)"
   },
   "bep8810": {
@@ -17477,6 +18314,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "private Witwenrente (in EURO)"
   },
   "bep8811": {
@@ -17517,6 +18357,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Altersrente Unfallversicherung (in EURO)"
   },
   "bep8812": {
@@ -17537,6 +18380,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Witwenrente Unfallversicherung (in EURO)"
   },
   "bep8813": {
@@ -17557,6 +18403,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Altersrente Kriegsopferversorgung (in EURO)"
   },
   "bep8814": {
@@ -17577,6 +18426,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Witwenrente Kriegsopferversorgung (in EURO)"
   },
   "bep8815": {
@@ -17617,6 +18469,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Altersrente sonstige (in EURO)"
   },
   "bep8816": {
@@ -17637,6 +18492,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Witwenrente sonstige (in EURO)"
   },
   "bep8819": {
@@ -17657,6 +18515,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Altersrente - Gesamt k.A."
   },
   "bep8820": {
@@ -17677,6 +18538,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Witwenrente - Gesamt k.A."
   },
   "bep89": {
@@ -17764,6 +18628,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Gesundheitszustand gegenwaertig"
   },
   "bep90": {
@@ -17841,6 +18708,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Gesundheitszustand beeintr.Treppen steigen"
   },
   "bep91": {
@@ -17918,6 +18788,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Gesundheitszustand beeintr.anstreng.Taetigkeiten"
   },
   "bep9201": {
@@ -18005,6 +18878,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Eile, Zeitdruck letzten 4 Wochen"
   },
   "bep9202": {
@@ -18092,6 +18968,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Niedergeschlagen letzten 4 Wochen"
   },
   "bep9203": {
@@ -18179,6 +19058,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ausgeglichen letzten 4 Wochen"
   },
   "bep9204": {
@@ -18266,6 +19148,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Energie letzten 4 Wochen"
   },
   "bep9205": {
@@ -18353,6 +19238,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Koerperliche Schmerzen letzten 4 Wochen"
   },
   "bep9206": {
@@ -18440,6 +19328,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Weniger geschafft wg. koerperlicher Probleme"
   },
   "bep9207": {
@@ -18527,6 +19418,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Inhaltliche Einschraenkung wg. koerperlicher Probleme"
   },
   "bep9208": {
@@ -18614,6 +19508,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Weniger geschafft wg. seelischer Probleme"
   },
   "bep9209": {
@@ -18701,6 +19598,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Weniger Sorgfalt wg. seelischer Probleme"
   },
   "bep9210": {
@@ -18788,6 +19688,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Einschraenkung sozialer Kontakte wg. Gesundheit"
   },
   "bep9301": {
@@ -18860,6 +19763,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Erwerbs-, Schwerbehinderung"
   },
   "bep9302": {
@@ -18900,6 +19806,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Behinderungsgrad in Prozent"
   },
   "bep9401": {
@@ -18972,6 +19881,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Rauchen gegenwaertig"
   },
   "bep9402": {
@@ -19012,6 +19924,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Rauchen: Anzahl Zigaretten pro Tag"
   },
   "bep9403": {
@@ -19052,6 +19967,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Rauchen: Anzahl Pfeifen pro Tag"
   },
   "bep9404": {
@@ -19092,6 +20010,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Rauchen: Anzahl Zigarren pro Tag"
   },
   "bep9405": {
@@ -19112,6 +20033,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Rauchen: Gesamt k.A."
   },
   "bep95": {
@@ -19188,6 +20112,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Achten auf gesundheitsbewusste Ernaehrung"
   },
   "bep96": {
@@ -19228,6 +20155,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Koerpergroesse in cm"
   },
   "bep97": {
@@ -19268,6 +20198,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Koerpergewicht in kg"
   },
   "bep98": {
@@ -19334,6 +20267,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Chron. Beschwerden/Krankheiten seit 1 Jahr"
   },
   "bep9901": {
@@ -19374,6 +20310,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arztbesuche Anzahl (letzte 3 Monate)"
   },
   "bep9902": {
@@ -19441,6 +20380,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arztbesuche Keine (letzte 3 Monate)"
   },
   "bep100": {
@@ -19513,6 +20455,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Krankenhausaufenthalte Vorjahr einmal/mehr- 1 Nacht"
   },
   "bep10101": {
@@ -19533,6 +20478,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Naechte im Krankenhaus Vorjahr insgesamt"
   },
   "bep10102": {
@@ -19553,6 +20501,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Krankenhausaufenthalte insgesamt"
   },
   "bep102": {
@@ -19629,6 +20580,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Krankmeldung >6 Wochen"
   },
   "bep10301": {
@@ -19696,6 +20650,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wegen Krankheit im Vorjahr nicht gearbeitet"
   },
   "bep10302": {
@@ -19736,6 +20693,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Anzahl Tage wegen Krankheit nicht gearbeitet"
   },
   "bep10401": {
@@ -19797,6 +20757,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wegen Krankheit des Kindes nicht gearbeitet"
   },
   "bep10402": {
@@ -19817,6 +20780,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Anzahl Tage wegen Krankh. Kind nicht gearbeitet"
   },
   "bep10403": {
@@ -19878,6 +20844,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Aus anderen Gruenden nicht gearbeitet"
   },
   "bep10404": {
@@ -19898,6 +20867,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Anzahl Tage aus anderen Gruenden nicht gearbeitet"
   },
   "bep10405": {
@@ -19959,6 +20931,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "keine Fehltage aus persoenlichen Gruenden"
   },
   "bep105": {
@@ -20031,6 +21006,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kassenwechsel in Vorjahr"
   },
   "bep106": {
@@ -20103,6 +21081,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Art der Krankenversicherung"
   },
   "bep107": {
@@ -20215,6 +21196,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Name der gesetzlichen Krankenversicherung"
   },
   "bep108": {
@@ -20297,6 +21281,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Versichertenstatus"
   },
   "bep10901": {
@@ -20363,6 +21350,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zusatzbeitrag"
   },
   "bep10902": {
@@ -20429,6 +21419,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Praemie"
   },
   "bep10903": {
@@ -20495,6 +21488,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wechsel, wenn Zusatzbeitrag"
   },
   "bep110": {
@@ -20567,6 +21563,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Private Zusatzkrankenversicherung haben"
   },
   "bep11101": {
@@ -20607,6 +21606,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "monatl. Beitrag fuer priv. Zusatzkrankenvers."
   },
   "bep11102": {
@@ -20674,6 +21676,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "kenne monatl. Beitrag priv. Zusatzvers. nicht"
   },
   "bep11201": {
@@ -20741,6 +21746,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Krankenhausbehandl. abgedeckt durch priv. Zusatzv."
   },
   "bep11202": {
@@ -20808,6 +21816,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zahnersatz abgedeckt durch priv. Zusatzv."
   },
   "bep11203": {
@@ -20875,6 +21886,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Heil-, Hilfsmittel abgedeckt durch priv. Zusatzv."
   },
   "bep11204": {
@@ -20942,6 +21956,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Auslandsaufenthalt abfedeckt durch priv. Zusatzv."
   },
   "bep11205": {
@@ -21009,6 +22026,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sonstiges abgedeckt durch priv. Zusatzv."
   },
   "bep11206": {
@@ -21076,6 +22096,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "weiss nicht, was priv. Zusatzv. abdeckt"
   },
   "bep113": {
@@ -21142,6 +22165,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Versichertenstatus, private Krankenversicherung"
   },
   "bep11401": {
@@ -21162,6 +22188,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Monatsbeitrag private Krankenversicherung"
   },
   "bep11402": {
@@ -21223,6 +22252,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Montatsbeitrag private Krankenversicherung unbekannt"
   },
   "bep11501": {
@@ -21284,6 +22316,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "private Krankenversicherung: Nur selbst versichert"
   },
   "bep11502": {
@@ -21304,6 +22339,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "private Krankenversicherung: Anzahl Mitversicherte"
   },
   "bep116": {
@@ -21370,6 +22408,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "private Krankenversicherung mit Selbstbeteiligung"
   },
   "bep11701": {
@@ -21390,6 +22431,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Anteil der Selbstbeteiligung (in Prozent)"
   },
   "bep11702": {
@@ -21410,6 +22454,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Pauschale Selbstbeteiligung"
   },
   "bep118": {
@@ -21492,6 +22539,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Interesse fuer Politik"
   },
   "bep119": {
@@ -21564,6 +22614,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Allgemeine Parteienpraeferenz"
   },
   "bep12001": {
@@ -21776,6 +22829,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Parteipraeferenz"
   },
   "bep12002": {
@@ -21863,6 +22919,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Parteipraeferenz-Intensitaet"
   },
   "bep121": {
@@ -22069,6 +23128,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Partei Wahl 2013"
   },
   "bep122": {
@@ -22186,6 +23248,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Politische Einstellung"
   },
   "bep12301": {
@@ -22263,6 +23328,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sorgen allgemeine wirtschaftliche Entwicklung"
   },
   "bep12302": {
@@ -22340,6 +23408,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sorgen eigene wirtschaftliche Situation"
   },
   "bep12303": {
@@ -22417,6 +23488,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sorgen Stabilitaet Finanzmaerkte"
   },
   "bep12304": {
@@ -22494,6 +23568,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sorgen eigene Gesundheit"
   },
   "bep12305": {
@@ -22571,6 +23648,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sorgen Umweltschutz"
   },
   "bep12306": {
@@ -22648,6 +23728,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sorgen Klimawandelfolgen"
   },
   "bep12307": {
@@ -22725,6 +23808,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sorgen Friedenserhaltung"
   },
   "bep12308": {
@@ -22802,6 +23888,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sorgen Kriminalitaetsentwicklung in Deutschland"
   },
   "bep12309": {
@@ -22879,6 +23968,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sorgen Zuwanderung"
   },
   "bep12310": {
@@ -22956,6 +24048,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sorgen Auslaenderfeindlichkeit"
   },
   "bep12311": {
@@ -23033,6 +24128,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sorgen Arbeitsplatzsicherheit"
   },
   "bep12312": {
@@ -23410,6 +24508,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sonstige Sorgen"
   },
   "bep124": {
@@ -23492,6 +24593,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Einstellung bezueglich Zukunft"
   },
   "bep12501": {
@@ -23609,6 +24713,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Risikobereitschaft beim Autofahren"
   },
   "bep12502": {
@@ -23726,6 +24833,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Risikobereitschaft bei Geldanlagen"
   },
   "bep12503": {
@@ -23843,6 +24953,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Risikobereitschaft bei Freizeit und Sport"
   },
   "bep12504": {
@@ -23960,6 +25073,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Risikobereitschaft bei beruflicher Karriere"
   },
   "bep12505": {
@@ -24077,6 +25193,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Risikobereitschaft bei Gesundheit"
   },
   "bep12506": {
@@ -24194,6 +25313,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Risikobereitschaft Vertrauen in fremde Menschen"
   },
   "bep12601": {
@@ -24266,6 +25388,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Geschlecht"
   },
   "bep12602": {
@@ -24382,6 +25507,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Geburtsmonat"
   },
   "bep12603": {
@@ -24402,6 +25530,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Geburtsjahr"
   },
   "bep127": {
@@ -24499,6 +25630,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Familienstand"
   },
   "bep12801": {
@@ -24565,6 +25699,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Derzeit feste Partnerschaft"
   },
   "bep12802": {
@@ -24631,6 +25768,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wohnt Partner,-in im Haushalt"
   },
   "bep12803": {
@@ -24651,6 +25791,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Lfd. PNR d. Partners"
   },
   "bep129": {
@@ -24723,6 +25866,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "deutsche Staatsangehoerigkeit"
   },
   "bep13001": {
@@ -24795,6 +25941,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "2. Staatsangehoerigkeit vorhanden"
   },
   "bep13002": {
@@ -25757,6 +26906,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Land zweiter Staatsangehoerigkeit"
   },
   "bep131": {
@@ -25829,6 +26981,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zeitpunkt Erwerb deutscher Staatsangehoerigkeit"
   },
   "bep132": {
@@ -25901,6 +27056,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Beide Eltern in Deutschland geboren"
   },
   "bep133": {
@@ -26863,6 +28021,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Staatsangehoerigkeit"
   },
   "bep134": {
@@ -26945,6 +28106,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "in naechst. 2 Jahren dt. Staatsangerhoerigk. beantr."
   },
   "bep135": {
@@ -27027,6 +28191,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Heimisch fuehlen i. Herkunftsland"
   },
   "bep13601": {
@@ -27099,6 +28266,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Besuch Herkunftsland i.d. letzt. 2 J."
   },
   "bep13602": {
@@ -27181,6 +28351,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Besuch Herkunftsland Dauer"
   },
   "bep137": {
@@ -27273,6 +28446,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sprache Mediennutzung"
   },
   "bep138": {
@@ -27360,6 +28536,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Verbundenheit Heimatland"
   },
   "bep139": {
@@ -27447,6 +28626,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Als Deutscher fuehlen"
   },
   "bep140": {
@@ -27529,6 +28711,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Verbundenheit mit Wohnort"
   },
   "bep141": {
@@ -27606,6 +28791,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wegzug vorstellbar"
   },
   "bep142": {
@@ -27688,6 +28876,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Umzug in alte/neue BL"
   },
   "bep143": {
@@ -27760,6 +28951,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kontakt zu Ausland"
   },
   "bep144": {
@@ -27831,6 +29025,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ausland laenger als 3 Mon."
   },
   "bep145": {
@@ -27903,6 +29100,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ueberlegt Ausland f. laenger/immer"
   },
   "bep146": {
@@ -27980,6 +29180,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Wie lange ins Ausland"
   },
   "bep147": {
@@ -28927,6 +30130,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Code Auswanderungsland"
   },
   "bep148": {
@@ -28999,6 +30205,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Auswandern naechste 12 Mon."
   },
   "bep14901": {
@@ -29066,6 +30275,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "An Eltern, Schwiegereltern Zahlung"
   },
   "bep14902": {
@@ -29106,6 +30318,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "An Eltern, Schwiegereltern Betrag"
   },
   "bep14903": {
@@ -29173,6 +30388,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Eltern leben in Deutschland"
   },
   "bep14904": {
@@ -29240,6 +30458,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Eltern leben im Ausland"
   },
   "bep14905": {
@@ -29307,6 +30528,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "An Kinder Zahlung"
   },
   "bep14906": {
@@ -29347,6 +30571,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "An Kinder Betrag"
   },
   "bep14907": {
@@ -29414,6 +30641,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kinder leben in Deutschland"
   },
   "bep14908": {
@@ -29481,6 +30711,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kinder leben im Ausland"
   },
   "bep14909": {
@@ -29548,6 +30781,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "An Ehepartner Zahlung"
   },
   "bep14910": {
@@ -29588,6 +30824,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "An Ehepartner Betrag"
   },
   "bep14911": {
@@ -29655,6 +30894,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ehepartner lebt in Deutschland"
   },
   "bep14912": {
@@ -29722,6 +30964,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ehepartner lebt im Ausland"
   },
   "bep14913": {
@@ -29789,6 +31034,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "An sonst. Verwandte Zahlung"
   },
   "bep14914": {
@@ -29829,6 +31077,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "An sonst. Verwandte Betrag"
   },
   "bep14915": {
@@ -29896,6 +31147,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Verwandte leben in Deutschland"
   },
   "bep14916": {
@@ -29963,6 +31217,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Verwandte leben im Ausland"
   },
   "bep14917": {
@@ -30030,6 +31287,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "An nicht verwandte Person Zahlung"
   },
   "bep14918": {
@@ -30070,6 +31330,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "An nicht verwandte Person Betrag"
   },
   "bep14919": {
@@ -30137,6 +31400,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Personen leben in Deutschland"
   },
   "bep14920": {
@@ -30204,6 +31470,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Personen leben im Ausland"
   },
   "bep14921": {
@@ -30271,6 +31540,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Keine Zahlung"
   },
   "bep15001": {
@@ -30338,6 +31610,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Neue/n Partner/in kennengelernt"
   },
   "bep15002": {
@@ -30460,6 +31735,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Neue/n Partner/in kennengelernt Monat akt.Jahr"
   },
   "bep15003": {
@@ -30582,6 +31860,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Neue/n Partner/in kennengelernt Monat Vorjahr"
   },
   "bep15004": {
@@ -30649,6 +31930,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zusammenzug mit Partner"
   },
   "bep15005": {
@@ -30771,6 +32055,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zusammenzug mit Partner Monat aktuelles Jahr"
   },
   "bep15006": {
@@ -30893,6 +32180,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zusammenzug mit Partner Monat Vorjahr"
   },
   "bep15007": {
@@ -30960,6 +32250,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Heirat"
   },
   "bep15008": {
@@ -31082,6 +32375,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Heirat Monat aktuelles Jahr"
   },
   "bep15009": {
@@ -31204,6 +32500,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Heirat Monat Vorjahr"
   },
   "bep15010": {
@@ -31271,6 +32570,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kind geboren"
   },
   "bep15011": {
@@ -31393,6 +32695,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kind geboren Monat aktuelles Jahr"
   },
   "bep15012": {
@@ -31515,6 +32820,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kind geboren Monat Vorjahr"
   },
   "bep15013": {
@@ -31582,6 +32890,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kind kam in HH"
   },
   "bep15014": {
@@ -31704,6 +33015,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kind kam in HH Monat aktuelles Jahr"
   },
   "bep15015": {
@@ -31826,6 +33140,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kind kam in HH Monat Vorjahr"
   },
   "bep15016": {
@@ -31893,6 +33210,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kind hat HH verlassen"
   },
   "bep15017": {
@@ -32015,6 +33335,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kind hat HH verlassen Monat aktuelles Jahr"
   },
   "bep15018": {
@@ -32137,6 +33460,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kind hat HH verlassen Monat Vorjahr"
   },
   "bep15019": {
@@ -32204,6 +33530,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Trennung von Partner"
   },
   "bep15020": {
@@ -32326,6 +33655,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Trennung von Partner Monat aktuelles Jahr"
   },
   "bep15021": {
@@ -32448,6 +33780,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Trennung von Partner Monat Vorjahr"
   },
   "bep15022": {
@@ -32515,6 +33850,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Scheidung"
   },
   "bep15023": {
@@ -32637,6 +33975,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Scheidung Monat aktuelles Jahr"
   },
   "bep15024": {
@@ -32759,6 +34100,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Scheidung Monat Vorjahr"
   },
   "bep15025": {
@@ -32826,6 +34170,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tod des Partners"
   },
   "bep15026": {
@@ -32948,6 +34295,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tod des Partners Monat aktuelles Jahr"
   },
   "bep15027": {
@@ -33070,6 +34420,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tod des Partners Monat Vorjahr"
   },
   "bep15028": {
@@ -33137,6 +34490,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tod des Vaters"
   },
   "bep15029": {
@@ -33259,6 +34615,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tod des Vaters Monat aktuelles Jahr"
   },
   "bep15030": {
@@ -33381,6 +34740,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tod des Vaters Monat Vorjahr"
   },
   "bep15031": {
@@ -33448,6 +34810,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tod der Mutter"
   },
   "bep15032": {
@@ -33570,6 +34935,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tod der Mutter Monat aktuelles Jahr"
   },
   "bep15033": {
@@ -33692,6 +35060,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tod der Mutter Monat Vorjahr"
   },
   "bep15034": {
@@ -33759,6 +35130,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tod eines Kindes"
   },
   "bep15035": {
@@ -33881,6 +35255,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tod eines Kindes Monat aktuelles Jahr"
   },
   "bep15036": {
@@ -33997,6 +35374,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tod eines Kindes Monat Vorjahr"
   },
   "bep15037": {
@@ -34064,6 +35444,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tod im HH lebenden Person"
   },
   "bep15038": {
@@ -34186,6 +35569,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tod im HH lebenden Person Monat akt. Jahr"
   },
   "bep15039": {
@@ -34308,6 +35694,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tod im HH lebenden Person Monat Vorjahr"
   },
   "bep15040": {
@@ -34375,6 +35764,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sonstige familiaere Veraenderung"
   },
   "bep15041": {
@@ -34497,6 +35889,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sonstige familiaere Veraenderung Monat akt. Jahr"
   },
   "bep15042": {
@@ -34619,6 +36014,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sonstige familiaere Veraenderung Monat Vorjahr"
   },
   "bep15043": {
@@ -34686,6 +36084,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Keine familiaere Veraenderungen"
   },
   "bep151": {
@@ -34803,6 +36204,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Lebenszufriedenheit gegenwaertig"
   },
   "beptagin": {
@@ -34841,6 +36245,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tag des Interviews"
   },
   "bepmonin": {
@@ -34963,6 +36370,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Monat des Interviews"
   },
   "bepdatst": {
@@ -35001,6 +36411,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Interview beendet Uhrzeit (Stunde)"
   },
   "bepdatmi": {
@@ -35039,6 +36452,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Interview beendet Uhrzeit (Minuten)"
   },
   "bepinta": {
@@ -35156,6 +36572,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Art der Befragung"
   },
   "bepdauer1": {
@@ -35176,6 +36595,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Interviewdauer muendlich in Minuten"
   },
   "bepdauer2": {
@@ -35196,6 +36618,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Selbstausfuellen schriftlich in Minuten"
   },
   "intid": {
@@ -35234,6 +36659,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Interviewer ID"
   },
   "behpmax": {
@@ -35254,6 +36682,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hoechste Personennummer im HH"
   },
   "beptarif": {
@@ -35346,6 +36777,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tarifliche Bindung im Arbeitsverdienst"
   },
   "bep_zaz08": {
@@ -35427,6 +36861,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Vereinbarte Arbeitszeit o. UeStd. Std./Wo. KA"
   },
   "bep_zaz10": {
@@ -35513,6 +36950,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Tatsaechliche Arbeitszeit m. UeStd. Std./Wo. KA"
   },
   "bep_zbrut": {
@@ -35594,6 +37034,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Bruttoverdienst Vormonat KA"
   },
   "bep_znett": {
@@ -35614,6 +37057,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Nettoverdienst Vormonat KA"
   },
   "bep_zvek01": {
@@ -35634,6 +37080,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Lohn/Gehalt 2013 KA"
   },
   "bep_zvek02": {
@@ -35654,6 +37103,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Eink. selbstaendig/freiberufl. 2013 KA"
   },
   "bep_zvek03": {
@@ -35674,6 +37126,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Eink. Nebenerwerb 2013 KA"
   },
   "bep_zvek04": {
@@ -35694,6 +37149,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Rente/Pension 2013 KA"
   },
   "bep_zvek05": {
@@ -35714,6 +37172,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Witwen-/Waisenrente 2013 KA"
   },
   "bep_zvek06": {
@@ -35734,6 +37195,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Arbeitslosengeld 2013 KA"
   },
   "bep_zzus01": {
@@ -35754,6 +37218,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "13. Monatsgehalt 2013 KA"
   },
   "bep_zzus02": {
@@ -35774,6 +37241,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "14. Monatsgehalt 2013 KA"
   },
   "bep_zzus03": {
@@ -35794,6 +37264,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zusaetzl. Weihnachtsgeld 2013 KA"
   },
   "bep_zzus04": {
@@ -35814,6 +37287,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Urlaubsgeld 2013 KA"
   },
   "bep_zzus05": {
@@ -35834,6 +37310,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Gewinnbeteilgung/Gratifikation/Praemie 2013 KA"
   },
   "bep_zzus06": {
@@ -35854,6 +37333,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sonstige Sonderverguetung 2013 KA"
   },
   "bep_zar1": {
@@ -35874,6 +37356,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Dt. Rentenversich. Rente 2013  KA"
   },
   "bep_zar2": {
@@ -35894,6 +37379,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Beamtenversorg. Rente 2013 KA"
   },
   "bep_zar5": {
@@ -35914,6 +37402,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zusatzversorg. Rente 2013 KA"
   },
   "bep_zar6": {
@@ -35934,6 +37425,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Betriebl. Altersversorg. Rente 2013 KA"
   },
   "bep_zar7": {
@@ -35954,6 +37448,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Private RV Rente 2013 KA"
   },
   "bep_zar4": {
@@ -35974,6 +37471,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unfallversich. Rente 2013 KA"
   },
   "bep_zar3": {
@@ -35994,6 +37494,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kriegsopferversorg. Rente 2013 KA"
   },
   "bep_zar8": {
@@ -36014,6 +37517,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sonstiger Traeger Rente 2013 KA"
   },
   "bep_zwr1": {
@@ -36034,6 +37540,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Dt. Rentenversich. Witwen-/Waisenrente 2013 KA"
   },
   "bep_zwr2": {
@@ -36054,6 +37563,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Beamtenversorg. Witwen-/Waisenrente 2013 KA"
   },
   "bep_zwr5": {
@@ -36074,6 +37586,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Zusatzversorg. Witwen-/Waisenrente 2013 KA"
   },
   "bep_zwr6": {
@@ -36094,6 +37609,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Betriebl. Altersversorg. Witwen-/Waisenrente 2013 KA"
   },
   "bep_zwr7": {
@@ -36114,6 +37632,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Private RV Witwen-/Waisenrente 2013 KA"
   },
   "bep_zwr4": {
@@ -36134,6 +37655,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Unfallversich. Witwen-/Waisenrente 2013 KA"
   },
   "bep_zwr3": {
@@ -36154,6 +37678,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Kriegsopferversorg. Witwen-/Waisenrente 2013 KA"
   },
   "bep_zwr8": {
@@ -36174,6 +37701,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Sonstiger Traeger Witwen-/Waisenrente 2013 KA"
   },
   "bep28_kldb2010": {
@@ -42666,6 +44196,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "aktueller Beruf [pber] (KldB 2010, 5-Steller)"
   },
   "bep28_isco08": {
@@ -44908,6 +46441,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "aktueller Beruf [pber] (ISCO-08, 4-Steller)"
   },
   "bep28_kldb92": {
@@ -56395,6 +57931,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "aktueller Beruf [pber] (KldB 92, 4-Steller)"
   },
   "bep28_isco88": {
@@ -58917,6 +60456,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "aktueller Beruf [pber] (ISCO-88 COM, 4-Steller)"
   },
   "bep61_kldb2010": {
@@ -65403,6 +66945,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "aktuelle Nebentaetigkeit [pjobx] (KldB 2010, 5-Steller)"
   },
   "bep61_isco08": {
@@ -67639,6 +69184,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "aktuelle Nebentaetigkeit [pjobx] (ISCO-08, 4-Steller)"
   },
   "bep61_kldb92": {
@@ -79120,6 +80668,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "aktuelle Nebentaetigkeit [pjobx] (KldB 92, 4-Steller)"
   },
   "bep61_isco88": {
@@ -81636,6 +83187,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "aktuelle Nebentaetigkeit [pjobx] (ISCO-88 COM, 4-Steller)"
   },
   "bep6904_train": {
@@ -93133,6 +94687,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ausbildungsabschluss (KldB92)"
   },
   "bep6904_train_kldb2010": {
@@ -99625,6 +101182,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Ausbildungsabschluss (KldB2010)"
   },
   "bep6903_degree": {
@@ -99792,6 +101352,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Hochschulabschluss (Faechergruppe nach Destatis, FS11)"
   },
   "bep6903_field": {
@@ -100149,6 +101712,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Code Fachrichtung"
   },
   "bep32_nace": {
@@ -100531,6 +102097,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Branche nach NACE"
   },
   "bepflag_re": {
@@ -100597,6 +102166,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Filterfehler Modul Weiterbildung"
   },
   "bepflag_fs": {
@@ -100663,6 +102235,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "2014",
     "label_de": "Integration Nacherhebung Weiterbildung"
   }
 }

@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "persnr": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Unveraenderliche Personennummer"
   },
   "sex": {
@@ -145,6 +151,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Geschlecht"
   },
   "gebjahr": {
@@ -185,6 +194,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Geburtsjahr -4Steller-"
   },
   "ahhnr": {
@@ -205,6 +217,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 1984"
   },
   "anetold": {
@@ -291,6 +306,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1984 (vgl. Anetto)"
   },
   "bhhnr": {
@@ -311,6 +329,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 1985"
   },
   "bnetold": {
@@ -397,6 +418,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1985 (vgl. Bnetto)"
   },
   "chhnr": {
@@ -417,6 +441,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 1986"
   },
   "cnetold": {
@@ -503,6 +530,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1986 (vgl. Cnetto)"
   },
   "dhhnr": {
@@ -523,6 +553,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 1987"
   },
   "dnetold": {
@@ -609,6 +642,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1987 (vgl. Dnetto)"
   },
   "ehhnr": {
@@ -629,6 +665,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 1988"
   },
   "enetold": {
@@ -715,6 +754,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1988 (vgl. Enetto)"
   },
   "fhhnr": {
@@ -735,6 +777,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 1989"
   },
   "fnetold": {
@@ -821,6 +866,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1989 (vgl. Fnetto)"
   },
   "ghhnr": {
@@ -841,6 +889,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 1990"
   },
   "gnetold": {
@@ -927,6 +978,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1990 (vgl. Gnetto)"
   },
   "hhhnr": {
@@ -947,6 +1001,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 1991"
   },
   "hnetold": {
@@ -1033,6 +1090,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1991 (vgl. Hnetto)"
   },
   "eintritt": {
@@ -1071,6 +1131,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Jahr des ersten Kontaktes, Netto=10-99"
   },
   "erstbefr": {
@@ -1111,6 +1174,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Jahr der ersten Befragung, Netto=10-19"
   },
   "austritt": {
@@ -1149,6 +1215,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Jahr des letzten Kontaktes, Netto=10-99"
   },
   "ihhnr": {
@@ -1169,6 +1238,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 1992"
   },
   "inetold": {
@@ -1255,6 +1327,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1992 (vgl. Inetto)"
   },
   "jhhnr": {
@@ -1275,6 +1350,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 1993"
   },
   "jnetold": {
@@ -1361,6 +1439,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1993 (vgl. Jnetto)"
   },
   "jcasemat": {
@@ -1422,6 +1503,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "khhnr": {
@@ -1442,6 +1526,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 1994"
   },
   "knetold": {
@@ -1528,6 +1615,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1994 (vgl. Knetto)"
   },
   "kcasemat": {
@@ -1589,6 +1679,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "gsampreg": {
@@ -1655,6 +1748,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 1990"
   },
   "hsampreg": {
@@ -1721,6 +1817,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 1991"
   },
   "isampreg": {
@@ -1787,6 +1886,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 1992"
   },
   "jsampreg": {
@@ -1853,6 +1955,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 1993"
   },
   "ksampreg": {
@@ -1919,6 +2024,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 1994"
   },
   "lhhnr": {
@@ -1939,6 +2047,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 1995"
   },
   "lnetold": {
@@ -2025,6 +2136,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1995 (vgl. Lnetto)"
   },
   "lcasemat": {
@@ -2086,6 +2200,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "lsampreg": {
@@ -2152,6 +2269,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 1995"
   },
   "todjahr": {
@@ -2192,6 +2312,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Todesjahr -4Steller-"
   },
   "todinfo": {
@@ -2294,6 +2417,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Todesjahr - Infoquelle"
   },
   "psample": {
@@ -2436,6 +2562,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Stichprobenart"
   },
   "mhhnr": {
@@ -2456,6 +2585,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 1996"
   },
   "mnetold": {
@@ -2542,6 +2674,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1996 (vgl. Mnetto)"
   },
   "mcasemat": {
@@ -2603,6 +2738,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "msampreg": {
@@ -2669,6 +2807,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 1996"
   },
   "letztbef": {
@@ -2709,6 +2850,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Jahr der letzten Befragung, Netto=10-19"
   },
   "immiyear": {
@@ -2749,6 +2893,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Year Of Immigration To Germany"
   },
   "germborn": {
@@ -2821,6 +2968,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Born In Germany"
   },
   "nhhnr": {
@@ -2841,6 +2991,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 1997"
   },
   "nnetold": {
@@ -2927,6 +3080,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1997 (vgl. Nnetto)"
   },
   "ncasemat": {
@@ -2988,6 +3144,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "nsampreg": {
@@ -3054,6 +3213,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 1997"
   },
   "corigin": {
@@ -4036,6 +4198,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Country of Origin"
   },
   "ohhnr": {
@@ -4056,6 +4221,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 1998"
   },
   "onetold": {
@@ -4142,6 +4310,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1998 (vgl. Onetto)"
   },
   "ocasemat": {
@@ -4203,6 +4374,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "osampreg": {
@@ -4269,6 +4443,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 1998"
   },
   "phhnr": {
@@ -4289,6 +4466,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 1999"
   },
   "pnetold": {
@@ -4375,6 +4555,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1999 (vgl. Pnetto)"
   },
   "pcasemat": {
@@ -4436,6 +4619,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "psampreg": {
@@ -4502,6 +4688,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 1999"
   },
   "qhhnr": {
@@ -4522,6 +4711,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 2000"
   },
   "qnetold": {
@@ -4608,6 +4800,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2000 (vgl. Qnetto)"
   },
   "qcasemat": {
@@ -4669,6 +4864,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "qsampreg": {
@@ -4735,6 +4933,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 2000"
   },
   "rhhnr": {
@@ -4755,6 +4956,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 2001"
   },
   "rnetold": {
@@ -4841,6 +5045,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2001 (vgl. Rnetto)"
   },
   "rcasemat": {
@@ -4902,6 +5109,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "rsampreg": {
@@ -4968,6 +5178,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 2001"
   },
   "apop": {
@@ -5064,6 +5277,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 1984"
   },
   "bpop": {
@@ -5160,6 +5376,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 1985"
   },
   "cpop": {
@@ -5256,6 +5475,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 1986"
   },
   "dpop": {
@@ -5352,6 +5574,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 1987"
   },
   "epop": {
@@ -5448,6 +5673,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 1988"
   },
   "fpop": {
@@ -5544,6 +5772,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 1989"
   },
   "gpop": {
@@ -5640,6 +5871,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 1990"
   },
   "hpop": {
@@ -5736,6 +5970,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 1991"
   },
   "ipop": {
@@ -5832,6 +6069,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 1992"
   },
   "jpop": {
@@ -5928,6 +6168,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 1993"
   },
   "kpop": {
@@ -6024,6 +6267,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 1994"
   },
   "lpop": {
@@ -6120,6 +6366,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 1995"
   },
   "mpop": {
@@ -6216,6 +6465,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 1996"
   },
   "npop": {
@@ -6312,6 +6564,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 1997"
   },
   "opop": {
@@ -6408,6 +6663,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 1998"
   },
   "ppop": {
@@ -6504,6 +6762,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 1999"
   },
   "qpop": {
@@ -6600,6 +6861,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 2000"
   },
   "rpop": {
@@ -6696,6 +6960,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 2001"
   },
   "shhnr": {
@@ -6716,6 +6983,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 2002"
   },
   "snetold": {
@@ -6802,6 +7072,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2002 (vgl. Snetto)"
   },
   "scasemat": {
@@ -6863,6 +7136,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "ssampreg": {
@@ -6929,6 +7205,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 2002"
   },
   "spop": {
@@ -7025,6 +7304,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 2002"
   },
   "thhnr": {
@@ -7045,6 +7327,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 2003"
   },
   "tnetold": {
@@ -7131,6 +7416,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2003 (vgl. Tnetto)"
   },
   "tcasemat": {
@@ -7192,6 +7480,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "tsampreg": {
@@ -7258,6 +7549,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 2003"
   },
   "tpop": {
@@ -7354,6 +7648,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 2003"
   },
   "gebmonat": {
@@ -7476,6 +7773,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Geburtsmonat"
   },
   "gebmoval": {
@@ -7573,6 +7873,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Geburtsmonat, Datenquelle"
   },
   "uhhnr": {
@@ -7593,6 +7896,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 2004"
   },
   "unetold": {
@@ -7679,6 +7985,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2004 (vgl. Unetto)"
   },
   "ucasemat": {
@@ -7740,6 +8049,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "usampreg": {
@@ -7806,6 +8118,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 2004"
   },
   "upop": {
@@ -7902,6 +8217,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 2004"
   },
   "loc1989": {
@@ -7979,6 +8297,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Where did you live in 1989?"
   },
   "vhhnr": {
@@ -7999,6 +8320,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 2005"
   },
   "vnetold": {
@@ -8085,6 +8409,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2005 (vgl. Vnetto)"
   },
   "vcasemat": {
@@ -8146,6 +8473,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "vsampreg": {
@@ -8212,6 +8542,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 2005"
   },
   "vpop": {
@@ -8308,6 +8641,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 2005"
   },
   "whhnr": {
@@ -8328,6 +8664,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 2006"
   },
   "wnetold": {
@@ -8414,6 +8753,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2006 (vgl. Wnetto)"
   },
   "wcasemat": {
@@ -8475,6 +8817,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "wsampreg": {
@@ -8541,6 +8886,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 2006"
   },
   "wpop": {
@@ -8637,6 +8985,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 2006"
   },
   "anetto": {
@@ -8878,6 +9229,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1984"
   },
   "bnetto": {
@@ -9119,6 +9473,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1985"
   },
   "cnetto": {
@@ -9360,6 +9717,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1986"
   },
   "dnetto": {
@@ -9601,6 +9961,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1987"
   },
   "enetto": {
@@ -9842,6 +10205,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1988"
   },
   "fnetto": {
@@ -10083,6 +10449,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1989"
   },
   "gnetto": {
@@ -10324,6 +10693,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1990"
   },
   "hnetto": {
@@ -10565,6 +10937,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1991"
   },
   "inetto": {
@@ -10806,6 +11181,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1992"
   },
   "jnetto": {
@@ -11047,6 +11425,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1993"
   },
   "knetto": {
@@ -11288,6 +11669,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1994"
   },
   "lnetto": {
@@ -11529,6 +11913,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1995"
   },
   "mnetto": {
@@ -11770,6 +12157,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1996"
   },
   "nnetto": {
@@ -12011,6 +12401,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1997"
   },
   "onetto": {
@@ -12252,6 +12645,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1998"
   },
   "pnetto": {
@@ -12493,6 +12889,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 1999"
   },
   "qnetto": {
@@ -12734,6 +13133,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2000"
   },
   "rnetto": {
@@ -12975,6 +13377,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2001"
   },
   "snetto": {
@@ -13216,6 +13621,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2002"
   },
   "tnetto": {
@@ -13457,6 +13865,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2003"
   },
   "unetto": {
@@ -13698,6 +14109,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2004"
   },
   "vnetto": {
@@ -13939,6 +14353,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2005"
   },
   "wnetto": {
@@ -14180,6 +14597,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2006"
   },
   "xnetto": {
@@ -14421,6 +14841,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2007"
   },
   "xhhnr": {
@@ -14441,6 +14864,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 2007"
   },
   "xnetold": {
@@ -14527,6 +14953,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2007 (vgl. Xnetto)"
   },
   "xcasemat": {
@@ -14588,6 +15017,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "xsampreg": {
@@ -14654,6 +15086,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 2007"
   },
   "xpop": {
@@ -14750,6 +15185,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 2007"
   },
   "ynetto": {
@@ -14991,6 +15429,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2008"
   },
   "yhhnr": {
@@ -15011,6 +15452,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 2008"
   },
   "ynetold": {
@@ -15097,6 +15541,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2008 (vgl. Ynetto)"
   },
   "ycasemat": {
@@ -15158,6 +15605,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "ysampreg": {
@@ -15224,6 +15674,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 2008"
   },
   "ypop": {
@@ -15320,6 +15773,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 2008"
   },
   "migback": {
@@ -15402,6 +15858,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Migrationshintergrund"
   },
   "miginfo": {
@@ -15489,6 +15948,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Informationsquellen von MIGBACK"
   },
   "znetto": {
@@ -15730,6 +16192,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2009"
   },
   "zhhnr": {
@@ -15750,6 +16215,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 2009"
   },
   "znetold": {
@@ -15836,6 +16304,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2009 (vgl. Znetto)"
   },
   "zcasemat": {
@@ -15897,6 +16368,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "zsampreg": {
@@ -15963,6 +16437,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 2009"
   },
   "zpop": {
@@ -16059,6 +16536,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 2009"
   },
   "banetto": {
@@ -16300,6 +16780,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2010"
   },
   "bahhnr": {
@@ -16320,6 +16803,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 2010"
   },
   "banetold": {
@@ -16406,6 +16892,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2010 (vgl. BAnetto)"
   },
   "bacasemat": {
@@ -16467,6 +16956,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "basampreg": {
@@ -16533,6 +17025,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 2010"
   },
   "bapop": {
@@ -16629,6 +17124,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 2010"
   },
   "bbnetto": {
@@ -16870,6 +17368,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2011"
   },
   "bbhhnr": {
@@ -16890,6 +17391,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 2011"
   },
   "bbnetold": {
@@ -16976,6 +17480,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2011 (vgl. BBnetto)"
   },
   "bbcasemat": {
@@ -17037,6 +17544,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "bbsampreg": {
@@ -17103,6 +17613,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 2011"
   },
   "bbpop": {
@@ -17199,6 +17712,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 2011"
   },
   "bcnetto": {
@@ -17440,6 +17956,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2012"
   },
   "bchhnr": {
@@ -17460,6 +17979,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 2012"
   },
   "bcnetold": {
@@ -17546,6 +18068,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2012 (vgl. BCnetto)"
   },
   "bccasemat": {
@@ -17607,6 +18132,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "bcsampreg": {
@@ -17673,6 +18201,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 2012"
   },
   "bcpop": {
@@ -17769,6 +18300,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 2012"
   },
   "bdnetto": {
@@ -18016,6 +18550,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2013"
   },
   "bdhhnr": {
@@ -18056,6 +18593,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 2013"
   },
   "bdnetold": {
@@ -18148,6 +18688,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2013 (vgl. BDnetto)"
   },
   "bdcasemat": {
@@ -18209,6 +18752,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "bdsampreg": {
@@ -18281,6 +18827,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 2013"
   },
   "bdpop": {
@@ -18383,6 +18932,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 2013"
   },
   "benetto": {
@@ -18635,6 +19187,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2014"
   },
   "behhnr": {
@@ -18675,6 +19230,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 2014"
   },
   "benetold": {
@@ -18767,6 +19325,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2014 (vgl. BEnetto)"
   },
   "becasemat": {
@@ -18828,6 +19389,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "besampreg": {
@@ -18900,6 +19464,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 2014"
   },
   "bepop": {
@@ -19002,6 +19569,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 2014"
   },
   "bfnetto": {
@@ -19254,6 +19824,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2015"
   },
   "bfhhnr": {
@@ -19294,6 +19867,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Haushaltsnummer 2015"
   },
   "bfnetold": {
@@ -19386,6 +19962,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Befragungsstatus 2015 (vgl. BFnetto)"
   },
   "bfcasemat": {
@@ -19447,6 +20026,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Case-Match, zusammengez. Panelhaushalte"
   },
   "bfsampreg": {
@@ -19519,6 +20101,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Aktuelle Stichprobenregion 2015"
   },
   "bfpop": {
@@ -19621,6 +20206,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "0",
     "label_de": "Populationszugehoerigkeit 2015"
   }
 }

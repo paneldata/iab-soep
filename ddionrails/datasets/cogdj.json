@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "persnr": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Unveraenderliche Personennummer"
   },
   "syear": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Erhebungsjahr"
   },
   "djstat": {
@@ -188,6 +197,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Teilnahmestatus DJ"
   },
   "schule": {
@@ -340,6 +352,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Bildungsbeteiligung"
   },
   "sumindex": {
@@ -542,6 +557,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Summenindex aus allen gegebenen Antworten"
   },
   "indexa2": {
@@ -644,6 +662,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Summenindex aller Antworten in Aufgabengr.2 - Analogien"
   },
   "indexa6": {
@@ -796,6 +817,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Summenindex aller Antworten in Aufgabengr.6 - Rechenzeichen"
   },
   "indexa9": {
@@ -918,6 +942,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Summenindex aller Antworten in Aufgabengr.9 - Figuren"
   },
   "sdindex": {
@@ -1165,6 +1192,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Gesamtsummenindex Schlussfolgerndes Denken - richtige Antworten"
   },
   "analog": {
@@ -1292,6 +1322,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Summenindex richtige Antworten in Aufgabengr. 2 - Analogien"
   },
   "ianalog": {
@@ -1429,6 +1462,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Summenindex falsche  Antworten in Aufgabengr. 2 - Analogien"
   },
   "fanalog": {
@@ -1536,6 +1572,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Summenindex nicht beantwortet  in Aufgabengr. 2 - Analogien"
   },
   "rechenz": {
@@ -1693,6 +1732,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Summenindex richtige Antworten in Aufgabengr. 6 - Rechenzeichen"
   },
   "irechenz": {
@@ -1845,6 +1887,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Summenindex falsche  Antworten in Aufgabengr. 6 - Rechenzeichen"
   },
   "frechenz": {
@@ -2002,6 +2047,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Summenindex nicht beantwortet  in Aufgabengr. 6 - Rechenzeichen"
   },
   "matrize": {
@@ -2149,6 +2197,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Summenindex richtige Antworten in Aufgabengr. 9 - Figuren"
   },
   "imatrize": {
@@ -2296,6 +2347,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Summenindex falsche  Antworten in Aufgabengr. 9 - Figuren"
   },
   "fmatrize": {
@@ -2418,6 +2472,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Summenindex nicht beantwortet  in Aufgabengr. 9 - Figuren"
   },
   "a_21": {
@@ -2490,6 +2547,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 1 Analogieaufgabe"
   },
   "a_22": {
@@ -2562,6 +2622,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 2 Analogieaufgabe"
   },
   "a_23": {
@@ -2634,6 +2697,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 3 Analogieaufgabe"
   },
   "a_24": {
@@ -2706,6 +2772,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 4 Analogieaufgabe"
   },
   "a_25": {
@@ -2778,6 +2847,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 5 Analogieaufgabe"
   },
   "a_26": {
@@ -2850,6 +2922,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 6 Analogieaufgabe"
   },
   "a_27": {
@@ -2922,6 +2997,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 7 Analogieaufgabe"
   },
   "a_28": {
@@ -2994,6 +3072,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 8 Analogieaufgabe"
   },
   "a_29": {
@@ -3066,6 +3147,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 9 Analogieaufgabe"
   },
   "a_30": {
@@ -3138,6 +3222,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 10 Analogieaufgabe"
   },
   "a_31": {
@@ -3210,6 +3297,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 11 Analogieaufgabe"
   },
   "a_32": {
@@ -3282,6 +3372,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 12 Analogieaufgabe"
   },
   "a_33": {
@@ -3354,6 +3447,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 13 Analogieaufgabe"
   },
   "a_34": {
@@ -3426,6 +3522,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 14 Analogieaufgabe"
   },
   "a_35": {
@@ -3498,6 +3597,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 15 Analogieaufgabe"
   },
   "a_36": {
@@ -3570,6 +3672,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 16 Analogieaufgabe"
   },
   "a_37": {
@@ -3642,6 +3747,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 17 Analogieaufgabe"
   },
   "a_38": {
@@ -3714,6 +3822,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 18 Analogieaufgabe"
   },
   "a_39": {
@@ -3786,6 +3897,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 19 Analogieaufgabe"
   },
   "a_40": {
@@ -3858,6 +3972,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 20 Analogieaufgabe"
   },
   "b_101": {
@@ -3930,6 +4047,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 1 Rechenzeichenaufgabe"
   },
   "b_102": {
@@ -4002,6 +4122,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 2 Rechenzeichenaufgabe"
   },
   "b_103": {
@@ -4074,6 +4197,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 3 Rechenzeichenaufgabe"
   },
   "b_104": {
@@ -4146,6 +4272,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 4 Rechenzeichenaufgabe"
   },
   "b_105": {
@@ -4218,6 +4347,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 5 Rechenzeichenaufgabe"
   },
   "b_106": {
@@ -4290,6 +4422,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 6 Rechenzeichenaufgabe"
   },
   "b_107": {
@@ -4362,6 +4497,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 7 Rechenzeichenaufgabe"
   },
   "b_108": {
@@ -4434,6 +4572,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 8 Rechenzeichenaufgabe"
   },
   "b_109": {
@@ -4506,6 +4647,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 9 Rechenzeichenaufgabe"
   },
   "b_110": {
@@ -4578,6 +4722,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 10 Rechenzeichenaufgabe"
   },
   "b_111": {
@@ -4650,6 +4797,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 11 Rechenzeichenaufgabe"
   },
   "b_112": {
@@ -4722,6 +4872,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 12 Rechenzeichenaufgabe"
   },
   "b_113": {
@@ -4794,6 +4947,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 13 Rechenzeichenaufgabe"
   },
   "b_114": {
@@ -4866,6 +5022,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 14 Rechenzeichenaufgabe"
   },
   "b_115": {
@@ -4938,6 +5097,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 15 Rechenzeichenaufgabe"
   },
   "b_116": {
@@ -5010,6 +5172,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 16 Rechenzeichenaufgabe"
   },
   "b_117": {
@@ -5082,6 +5247,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 17 Rechenzeichenaufgabe"
   },
   "b_118": {
@@ -5154,6 +5322,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 18 Rechenzeichenaufgabe"
   },
   "b_119": {
@@ -5226,6 +5397,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 19 Rechenzeichenaufgabe"
   },
   "b_120": {
@@ -5298,6 +5472,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 20 Rechenzeichenaufgabe"
   },
   "a_161": {
@@ -5370,6 +5547,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 1 figurale Aufgabe"
   },
   "a_162": {
@@ -5442,6 +5622,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 2 figurale Aufgabe"
   },
   "a_163": {
@@ -5514,6 +5697,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 3 figurale Aufgabe"
   },
   "a_164": {
@@ -5586,6 +5772,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 4 figurale Aufgabe"
   },
   "a_165": {
@@ -5658,6 +5847,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 5 figurale Aufgabe"
   },
   "a_166": {
@@ -5730,6 +5922,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 6 figurale Aufgabe"
   },
   "a_167": {
@@ -5802,6 +5997,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 7 figurale Aufgabe"
   },
   "a_168": {
@@ -5874,6 +6072,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 8 figurale Aufgabe"
   },
   "a_169": {
@@ -5946,6 +6147,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 9 figurale Aufgabe"
   },
   "a_170": {
@@ -6018,6 +6222,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 10 figurale Aufgabe"
   },
   "a_171": {
@@ -6090,6 +6297,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 11 figurale Aufgabe"
   },
   "a_172": {
@@ -6162,6 +6372,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 12 figurale Aufgabe"
   },
   "a_173": {
@@ -6234,6 +6447,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 13 figurale Aufgabe"
   },
   "a_174": {
@@ -6306,6 +6522,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 14 figurale Aufgabe"
   },
   "a_175": {
@@ -6378,6 +6597,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 15 figurale Aufgabe"
   },
   "a_176": {
@@ -6450,6 +6672,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 16 figurale Aufgabe"
   },
   "a_177": {
@@ -6522,6 +6747,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 17 figurale Aufgabe"
   },
   "a_178": {
@@ -6594,6 +6822,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 18 figurale Aufgabe"
   },
   "a_179": {
@@ -6666,6 +6897,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 19 figurale Aufgabe"
   },
   "a_180": {
@@ -6738,6 +6972,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "0",
     "label_de": "Zeile 20 figurale Aufgabe"
   }
 }
