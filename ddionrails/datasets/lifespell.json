@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -37,6 +38,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ursprungshaushaltsnummer"
   },
@@ -51,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -78,6 +81,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Unveraenderliche Personennummer"
   },
@@ -92,7 +96,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -119,6 +124,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Number of spell"
   },
@@ -209,6 +215,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Type of spell"
   },
@@ -223,7 +230,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -250,6 +258,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Year Spell begins"
   },
@@ -264,7 +273,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -291,6 +301,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Year Spell ends"
   },
@@ -421,6 +432,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Censor variable"
   },
@@ -521,6 +533,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Origin of information for spell"
   },
@@ -601,6 +614,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Drop-out study 1992"
   },
@@ -681,6 +695,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Drop-out study 2001"
   },
@@ -761,6 +776,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Drop-out study 2006"
   },
@@ -841,6 +857,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Drop-out study 2008"
   },
@@ -916,6 +933,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Spell information deviates from other SOEP information"
   },
@@ -991,6 +1009,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Country of birth unknown"
   }

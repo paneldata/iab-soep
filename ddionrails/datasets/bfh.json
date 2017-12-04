@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -37,6 +38,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Ursprungshaushaltsnummer"
   },
@@ -51,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -78,6 +81,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Aktuelle Haushaltsnummer (=BFHHNR)"
   },
@@ -92,7 +96,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -119,6 +124,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Aktuelle Haushaltsnummer (HHNRAKT)"
   },
@@ -133,7 +139,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -160,6 +167,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Befragungswelle (1984=1)"
   },
@@ -375,6 +383,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Stichprobenkennzeichen"
   },
@@ -389,7 +398,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -416,6 +426,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Auskunftsperson im HH (PNR)"
   },
@@ -501,6 +512,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Veraenderung der Wohnsit."
   },
@@ -626,6 +638,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Seit wann in dieser Wohnung, Monat"
   },
@@ -640,7 +653,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -669,6 +683,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Seit wann in dieser Wohnung, Jahr"
   },
@@ -739,6 +754,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kuendigung durch Vermieter"
   },
@@ -809,6 +825,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Mietverhaeltnis unsicher"
   },
@@ -879,6 +896,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Eigenheimerwerb"
   },
@@ -943,6 +961,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Erbschaft/Schenkung"
   },
@@ -1013,6 +1032,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Fortzug aus Elternhaus"
   },
@@ -1083,6 +1103,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Berufliche Gruende"
   },
@@ -1153,6 +1174,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Famil. Gruende: Zusammenzug Mit Partner"
   },
@@ -1223,6 +1245,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Famil. Gruende: Heirat"
   },
@@ -1293,6 +1316,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Famil. Gruende: Trennung"
   },
@@ -1363,6 +1387,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Famil. Gruende: Sonstiges"
   },
@@ -1433,6 +1458,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Bisherige Wohnung: Zu klein"
   },
@@ -1503,6 +1529,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Bisherige Wohnung: Zu gross"
   },
@@ -1573,6 +1600,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Bisherige Wohnung: Wohnkosten"
   },
@@ -1643,6 +1671,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Andere Gruende: Ausstattung"
   },
@@ -1713,6 +1742,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Andere Gruende: Wohnlage"
   },
@@ -1783,6 +1813,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Andere Gruende: Nicht barrierefrei"
   },
@@ -1853,6 +1884,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Andere Gruende: Wohnumfeld"
   },
@@ -1923,6 +1955,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Andere Gruende: Lebenssituation"
   },
@@ -1993,6 +2026,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Sonstiger Grund"
   },
@@ -2073,6 +2107,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Alte vs. neue Wohnung: Finanzielles"
   },
@@ -2153,6 +2188,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Alte vs. neue Wohnung: Groesse"
   },
@@ -2233,6 +2269,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Alte vs. neue Wohnung: Ausstattung"
   },
@@ -2313,6 +2350,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Alte vs. neue Wohnung: Lage"
   },
@@ -2393,6 +2431,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": " Alte vs. neue Wohnung: Umwelt"
   },
@@ -2473,6 +2512,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": " Alte vs. neue Wohnung: Verkehrsverbindungen"
   },
@@ -2553,6 +2593,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": " Alte vs. neue Wohnung: Nachbarschaft"
   },
@@ -2633,6 +2674,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": " Alte vs. neue Wohnung: Mietverhaeltnis"
   },
@@ -2723,6 +2765,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wohngegend des Zielhaushaltes"
   },
@@ -2823,6 +2866,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Haustyp des Zielhaushaltes"
   },
@@ -2928,6 +2972,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Baujahr Schaetzung"
   },
@@ -2942,7 +2987,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -2971,6 +3017,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Datierung"
   },
@@ -3076,6 +3123,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wohnheim"
   },
@@ -3156,6 +3204,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Sozialwohnung"
   },
@@ -3231,6 +3280,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Aenderung Wohnflaeche seit letztem Jahr"
   },
@@ -3245,7 +3295,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3274,6 +3325,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wohnflaeche insgesamt in qm"
   },
@@ -3288,7 +3340,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3315,6 +3368,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Anzahl der Wohnraeume"
   },
@@ -3405,6 +3459,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Beurteilung der Wohnungsgroesse"
   },
@@ -3490,6 +3545,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Zustand des Hauses in dem man wohnt"
   },
@@ -3560,6 +3616,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Seit Vorjahr-Kueche eingebaut"
   },
@@ -3630,6 +3687,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Seit Vorjahr-Bad,Dusche,WC eingebaut"
   },
@@ -3700,6 +3758,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Seit Vorjahr-Heizung eingebaut"
   },
@@ -3770,6 +3829,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Seit Vorjahr-neue Fenster eingebaut"
   },
@@ -3840,6 +3900,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Seit Vorjahr-Waermedaemmung eingebaut"
   },
@@ -3910,6 +3971,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Seit Vorjahr-altersgerchte Umbauten"
   },
@@ -3980,6 +4042,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Seit Vorjahr-sonst. groessere Massnahmen"
   },
@@ -4050,6 +4113,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Seit Vorjahr-keine Modernisierungen"
   },
@@ -4130,6 +4194,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Modernisierung auf Kosten von"
   },
@@ -4210,6 +4275,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Modernisierung durchgefuehrt von"
   },
@@ -4224,7 +4290,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4253,6 +4320,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Ausgaben Modernisierung"
   },
@@ -4328,6 +4396,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Foerdermittel Modernisierung"
   },
@@ -4342,7 +4411,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4371,6 +4441,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Betrag Foerdermittel"
   },
@@ -4446,6 +4517,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Barrierefreies Wohnen"
   },
@@ -4521,6 +4593,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wohnung mit Fussbodenheizung (ganz/teilweise)"
   },
@@ -4596,6 +4669,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wohnung mit Balkon,Terasse"
   },
@@ -4671,6 +4745,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wohnung mit Garten,-benutzung"
   },
@@ -4746,6 +4821,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wohnung mit Alarmanlage"
   },
@@ -4821,6 +4897,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wohnung mit Klimaanlage"
   },
@@ -4896,6 +4973,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wohnung mit Sonnenkollekt., Solarenergie"
   },
@@ -4971,6 +5049,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wohnung mit sonst. alternat. Energiequellen"
   },
@@ -5046,6 +5125,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Fenster Doppelverglasung"
   },
@@ -5121,6 +5201,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Waermedaemmung"
   },
@@ -5196,6 +5277,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wohnung mit Aufzug/Fahrstuhl im Haus"
   },
@@ -5271,6 +5353,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wohnung mit Keller,Abstellraeume"
   },
@@ -5346,6 +5429,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Garage/Stellplatz"
   },
@@ -5421,6 +5505,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Eigentuemerwechsel Vorjahr"
   },
@@ -5501,6 +5586,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Eigentuemerwechsel Art"
   },
@@ -5576,6 +5662,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Eigentumerwerb durch"
   },
@@ -5651,6 +5738,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Art der Veraeusserung"
   },
@@ -5736,6 +5824,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Haupt-, Untermieter, Eigentuemer"
   },
@@ -5811,6 +5900,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Zins-,Tilgungszahlungen f Wohnung"
   },
@@ -5825,7 +5915,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5854,6 +5945,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Monatl Zins-,Tilgungszahlungen"
   },
@@ -5868,7 +5960,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5897,6 +5990,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hoehe Instandhaltungskosten letzt.J"
   },
@@ -5972,6 +6066,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Solarstrom"
   },
@@ -5986,7 +6081,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -6015,6 +6111,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Solarstrom Leistung/kWpeak"
   },
@@ -6029,7 +6126,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -6058,6 +6156,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Solarstrom Leistung: Weiss nicht"
   },
@@ -6072,7 +6171,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -6101,6 +6201,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Solarstrom Ertrag 2014/kWh"
   },
@@ -6115,7 +6216,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -6144,6 +6246,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Solarstrom Ertrag: Weiss nicht"
   },
@@ -6219,6 +6322,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Solarthermie"
   },
@@ -6233,7 +6337,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -6242,6 +6347,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Solarthermie Ertrag 2014/kWh"
   },
@@ -6256,7 +6362,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -6285,6 +6392,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Solarthermie Ertrag: Weiss nicht"
   },
@@ -6360,6 +6468,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "V. Eigentuemer verbilligt ueberl.Whg"
   },
@@ -6455,6 +6564,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Eigentuemer der Wohnung"
   },
@@ -6469,7 +6579,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -6498,6 +6609,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hoehe der monatlichen Miete"
   },
@@ -6573,6 +6685,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Zahle keine Miete"
   },
@@ -6587,7 +6700,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -6616,6 +6730,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Fernwaerme: Heizung"
   },
@@ -6630,7 +6745,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -6659,6 +6775,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Fernwaerme: Warmwasser"
   },
@@ -6673,7 +6790,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -6682,6 +6800,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Fernwaerme: K.A."
   },
@@ -6696,7 +6815,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -6725,6 +6845,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Monatl.Betrag: Fernwaerme"
   },
@@ -6739,7 +6860,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -6768,6 +6890,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Jaehrl.Betrag: Fernwaerme"
   },
@@ -6782,7 +6905,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -6811,6 +6935,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Gas: Heizung"
   },
@@ -6825,7 +6950,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -6854,6 +6980,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Gas: Warmwasser"
   },
@@ -6868,7 +6995,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -6897,6 +7025,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Gas: Kochen"
   },
@@ -6911,7 +7040,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -6920,6 +7050,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Gas: K.A."
   },
@@ -6934,7 +7065,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -6963,6 +7095,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Monatl.Betrag: Gas"
   },
@@ -6977,7 +7110,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7006,6 +7140,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Jaehrl. Betrag: Gas"
   },
@@ -7020,7 +7155,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7049,6 +7185,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Fluessiggas: Heizung"
   },
@@ -7063,7 +7200,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7092,6 +7230,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Fluessiggas: Warmwasser"
   },
@@ -7106,7 +7245,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7135,6 +7275,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Fluessiggas: Kochen"
   },
@@ -7149,7 +7290,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -7158,6 +7300,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Fluessiggas: K.A."
   },
@@ -7172,7 +7315,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7201,6 +7345,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Monatl. Betrag: Fluessiggas"
   },
@@ -7215,7 +7360,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7244,6 +7390,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Jaehrl. Betrag: Fluessiggas"
   },
@@ -7258,7 +7405,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7287,6 +7435,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Strom: Heizung"
   },
@@ -7301,7 +7450,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7330,6 +7480,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Strom: Warmwasser"
   },
@@ -7344,7 +7495,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7373,6 +7525,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Strom: Kochen"
   },
@@ -7387,7 +7540,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7416,6 +7570,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Strom: Licht"
   },
@@ -7430,7 +7585,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -7439,6 +7595,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Strom: K.A."
   },
@@ -7453,7 +7610,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7482,6 +7640,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Monatl. Betrag: Strom"
   },
@@ -7496,7 +7655,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7525,6 +7685,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Jaehrl. Betrag: Strom"
   },
@@ -7539,7 +7700,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7568,6 +7730,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Heizoel: Heizung"
   },
@@ -7582,7 +7745,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7611,6 +7775,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Heizoel: Warmwasser"
   },
@@ -7625,7 +7790,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7654,6 +7820,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Heizoel: Kochen"
   },
@@ -7668,7 +7835,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -7677,6 +7845,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Heizoel: K.A."
   },
@@ -7691,7 +7860,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7720,6 +7890,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Monatl. Betrag: Heizoel"
   },
@@ -7734,7 +7905,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7763,6 +7935,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Jaehrl. Betrag: Heizoel"
   },
@@ -7777,7 +7950,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7806,6 +7980,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kohle: Heizung"
   },
@@ -7820,7 +7995,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7849,6 +8025,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kohle: Warmwasser"
   },
@@ -7863,7 +8040,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7892,6 +8070,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kohle: Kochen"
   },
@@ -7906,7 +8085,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -7915,6 +8095,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kohle: K.A."
   },
@@ -7929,7 +8110,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7958,6 +8140,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Monatl. Betrag: Kohle"
   },
@@ -7972,7 +8155,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -8001,6 +8185,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Jaehrl. Betrag: Kohle"
   },
@@ -8015,7 +8200,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -8044,6 +8230,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Holz/Pellets: Heizung"
   },
@@ -8058,7 +8245,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -8087,6 +8275,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Holz/Pellets: Warmwasser"
   },
@@ -8101,7 +8290,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -8130,6 +8320,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Holz/Pellets: Kochen"
   },
@@ -8144,7 +8335,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -8153,6 +8345,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Holz/Pellets: K.A."
   },
@@ -8167,7 +8360,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -8196,6 +8390,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Monatl. Betrag: Holz/Pellets"
   },
@@ -8210,7 +8405,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -8239,6 +8435,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Jaehrl. Betrag: Holz/Pellets"
   },
@@ -8253,7 +8450,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -8282,6 +8480,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Biomasse: Heizung"
   },
@@ -8296,7 +8495,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -8325,6 +8525,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Biomasse: Warmwasser"
   },
@@ -8339,7 +8540,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -8348,6 +8550,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Biomasse: K.A."
   },
@@ -8362,7 +8565,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -8391,6 +8595,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Monatl. Betrag: Biomasse"
   },
@@ -8405,7 +8610,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -8434,6 +8640,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Jaehrl. Betrag: Biomasse"
   },
@@ -8448,7 +8655,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -8477,6 +8685,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Solar: Heizung"
   },
@@ -8491,7 +8700,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -8520,6 +8730,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Solar: Warmwasser"
   },
@@ -8534,7 +8745,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -8563,6 +8775,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Umweltwaerme: Heizung"
   },
@@ -8577,7 +8790,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -8606,6 +8820,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Umweltwaerme: Warmwasser"
   },
@@ -8620,7 +8835,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -8629,6 +8845,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Heizung Gesamt: K.A."
   },
@@ -8643,7 +8860,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -8652,6 +8870,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Warmwasser Gesamt: K.A."
   },
@@ -8666,7 +8885,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -8675,6 +8895,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kochen Gesamt: K.A."
   },
@@ -8689,7 +8910,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -8698,6 +8920,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Licht Gesamt: K.A."
   },
@@ -8773,6 +8996,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Nebenkosten"
   },
@@ -8787,7 +9011,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -8816,6 +9041,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Betrag: Monat"
   },
@@ -8830,7 +9056,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -8859,6 +9086,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Betrag: Jahr"
   },
@@ -8934,6 +9162,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Miet- u.Pachteinnahmen Vorjahr"
   },
@@ -8948,7 +9177,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -8977,6 +9207,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Miet- u.Pachteinnahmen Betrag Vorjahr"
   },
@@ -8991,7 +9222,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9020,6 +9252,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Betriebs- u.Instandhaltgskosten Vorjahr"
   },
@@ -9034,7 +9267,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9063,6 +9297,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Tilgungs-u.Zinszahlungen Vorjahr"
   },
@@ -9138,6 +9373,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Steuerlich absetzten, Vorjahr"
   },
@@ -9152,7 +9388,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9181,6 +9418,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Steuerlich absetzten, Betrag Vorjahr"
   },
@@ -9256,6 +9494,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Abzahlung Kredite"
   },
@@ -9270,7 +9509,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -9279,6 +9519,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Abzahlung Kredite Hoehe"
   },
@@ -9359,6 +9600,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Belastung durch Rueckzahlung Kredite"
   },
@@ -9423,6 +9665,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Sparbuch Vorjahr"
   },
@@ -9487,6 +9730,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Bausparvertrag Vorjahr"
   },
@@ -9551,6 +9795,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Lebensversicherung Vorjahr"
   },
@@ -9615,6 +9860,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "festverzinsl. Wertpapiere Vorjahr"
   },
@@ -9679,6 +9925,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "sonstige Wertpapiere Vorjahr"
   },
@@ -9743,6 +9990,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Betriebsvermoegen Vorjahr"
   },
@@ -9807,6 +10055,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Keine Wertanlagen Vorjahr"
   },
@@ -9876,6 +10125,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Verluste steuerlich absetzen"
   },
@@ -9890,7 +10140,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -9899,6 +10150,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Verluste steuerlich absetzen, Betrag"
   },
@@ -9913,7 +10165,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -9922,6 +10175,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wertanlagen k.A."
   },
@@ -9936,7 +10190,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -9945,6 +10200,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Zins-u. Dividendeneinnahmen Vorjahr"
   },
@@ -10034,6 +10290,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Zins-u. Dividendeneinnahmen geschaetzt Vorjahr"
   },
@@ -10109,6 +10366,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "unerwartete Geldbetraege, Sachwerte ueber 500 EURO"
   },
@@ -10179,6 +10437,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Erbschaft"
   },
@@ -10249,6 +10508,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Schenkung"
   },
@@ -10319,6 +10579,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Lotteriegewinn"
   },
@@ -10333,7 +10594,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -10342,6 +10604,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "unerwartete Geldbetraege,Sachwerte k.A."
   },
@@ -10356,7 +10619,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10385,6 +10649,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hoehe unerw. Geldbetrage,Sachwerte in EURO"
   },
@@ -10460,6 +10725,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kindergeldbezug letztes Jahr"
   },
@@ -10474,7 +10740,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10503,6 +10770,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kindergeld letzt.J Monate"
   },
@@ -10517,7 +10785,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10546,6 +10815,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kindergeld letzt.J Betrag(Monat)"
   },
@@ -10621,6 +10891,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kindergeldbezug heute"
   },
@@ -10635,7 +10906,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10664,6 +10936,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kindergeldbezug heute Betrag"
   },
@@ -10678,7 +10951,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10707,6 +10981,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Anz. Kinder"
   },
@@ -10782,6 +11057,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kinderzuschlag letztes Jahr"
   },
@@ -10796,7 +11072,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10825,6 +11102,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kinderzuschlag Anzahl Monate Vorjahr"
   },
@@ -10839,7 +11117,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10868,6 +11147,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kinderzuschlag Betrag Monat Vorjahr"
   },
@@ -10943,6 +11223,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kinderzuschlagbezug heute"
   },
@@ -10957,7 +11238,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10986,6 +11268,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kinderzuschlagbezug heute Betrag"
   },
@@ -11061,6 +11344,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Betreuungsgeld letztes Jahr"
   },
@@ -11075,7 +11359,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11104,6 +11389,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Betreuungsgeld Anzahl Monate Vorjahr"
   },
@@ -11118,7 +11404,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11147,6 +11434,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Betreuungsgeld Betrag Monat Vorjahr"
   },
@@ -11222,6 +11510,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Betreuungsgeld heute"
   },
@@ -11236,7 +11525,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11265,6 +11555,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Betreuungsgeld heute Betrag"
   },
@@ -11340,6 +11631,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "ALG2, Sozialgeld im letzten Jahr, bezogen"
   },
@@ -11354,7 +11646,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11383,6 +11676,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "ALG2, Sozialgeld im letzten Jahr, Anzahl Monate"
   },
@@ -11397,7 +11691,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11426,6 +11721,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "ALG2, Sozialgeld im letzten Jahr, Betrag pro Monat"
   },
@@ -11501,6 +11797,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "ALG2, Sozialgeld heute"
   },
@@ -11515,7 +11812,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11544,6 +11842,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "ALG2, Sozialgeld heute Betrag"
   },
@@ -11619,6 +11918,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Leistungen der Pflegeversicherung Vorjahr"
   },
@@ -11633,7 +11933,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11662,6 +11963,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Leistungen der Pflegeversicherung Monate"
   },
@@ -11676,7 +11978,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11705,6 +12008,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Leistungen der Pflegeversicherung Betrag pro Monat"
   },
@@ -11780,6 +12084,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Pflegevers. Leistungen"
   },
@@ -11794,7 +12099,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11823,6 +12129,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Pflegevers. Betrag"
   },
@@ -11898,6 +12205,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hilfe Lebensunterhalt (HLU,HBL) Vorjahr"
   },
@@ -11912,7 +12220,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11941,6 +12250,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hilfe Lebensunterhalt (HLU,HBL) Monate"
   },
@@ -11955,7 +12265,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11984,6 +12295,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hilfe Lebensunterhalt (HLU,HBL) Betrag pro Monat"
   },
@@ -12059,6 +12371,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hilfe Lebensunterhalt (HLU, HBL) heute"
   },
@@ -12073,7 +12386,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12102,6 +12416,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hilfe Lebensunterhalt (HLU, HBL) Betrag"
   },
@@ -12177,6 +12492,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Grundsicherung im Alter Vorjahr"
   },
@@ -12191,7 +12507,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12220,6 +12537,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Grundsicherung im Alter Monate"
   },
@@ -12234,7 +12552,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12263,6 +12582,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Grundsicherung im Alter Betrag pro Monat"
   },
@@ -12338,6 +12658,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Grundsicherung im Alter heute"
   },
@@ -12352,7 +12673,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12381,6 +12703,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Grundsicherung im Alter heute Betrag"
   },
@@ -12456,6 +12779,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wohngeld,Lastenzuschuss Vorjahr"
   },
@@ -12470,7 +12794,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12499,6 +12824,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Im letzten Jahr: Monate mit Wohngeld o. Lastenzuschuss"
   },
@@ -12513,7 +12839,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12542,6 +12869,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wohngeld,Lastenzuschuss pro Monat"
   },
@@ -12617,6 +12945,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wohngeldbezug heute"
   },
@@ -12631,7 +12960,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12660,6 +12990,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wohngeldbezug heute Betrag"
   },
@@ -12674,7 +13005,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12703,6 +13035,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "HH-Nettoeinkommen"
   },
@@ -12818,6 +13151,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "HH-Nettoeinkommensgruppen, nur CAPI"
   },
@@ -12832,7 +13166,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12861,6 +13196,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Sparen: Vermoegensbild."
   },
@@ -12875,7 +13211,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12904,6 +13241,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Sparbetrag/Monat"
   },
@@ -12918,7 +13256,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12947,6 +13286,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Sparen: Vorsorge"
   },
@@ -12961,7 +13301,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12990,6 +13331,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "ae Sparbetrag/Monat"
   },
@@ -13065,6 +13407,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Sparbetrag monatlich"
   },
@@ -13145,6 +13488,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "puenktliche Mietzahlung"
   },
@@ -13220,6 +13564,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Haushalt: Farbfernseher"
   },
@@ -13300,6 +13645,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Gruende"
   },
@@ -13375,6 +13721,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Haushalt: Festnetzanschluss"
   },
@@ -13389,7 +13736,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -13418,6 +13766,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Festnetzanschluss: Anzahl"
   },
@@ -13498,6 +13847,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kein Festnetzanschl. Gruende"
   },
@@ -13573,6 +13923,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Haushalt: Handy"
   },
@@ -13587,7 +13938,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -13616,6 +13968,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Handy: Anzahl"
   },
@@ -13696,6 +14049,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kein Handy Gruende"
   },
@@ -13771,6 +14125,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Haushalt: Internet"
   },
@@ -13851,6 +14206,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kein Internet Gruende"
   },
@@ -13926,6 +14282,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Guter Zustand d. Hauses"
   },
@@ -14006,6 +14363,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Keine guter Zust. Gruende"
   },
@@ -14081,6 +14439,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Gute Wohngegend"
   },
@@ -14161,6 +14520,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Keine gute Wohngegend Gruende"
   },
@@ -14236,6 +14596,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Notfallruecklagen"
   },
@@ -14316,6 +14677,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Keine Notfallrueckl.Gruende"
   },
@@ -14391,6 +14753,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Jaehrliche Urlaubsreise"
   },
@@ -14471,6 +14834,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Keine jaehrl. Reise Gruende"
   },
@@ -14546,6 +14910,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Freunde zum Essen einladen 1/Monat"
   },
@@ -14626,6 +14991,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Keine Einladungen Gruende"
   },
@@ -14701,6 +15067,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Alle 2 Tage: Fisch/Fleisch/Gefluegel"
   },
@@ -14781,6 +15148,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kein Fleisch Gruende"
   },
@@ -14856,6 +15224,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Ersetzung alter Moebel"
   },
@@ -14936,6 +15305,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Keine neuen Moebel Gruende"
   },
@@ -14950,7 +15320,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -14979,6 +15350,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Anzahl Fahrzeuge"
   },
@@ -15059,6 +15431,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Keine Fahrzeuge Gruende"
   },
@@ -15134,6 +15507,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "1. Fahrzeug"
   },
@@ -15209,6 +15583,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "2. Fahrzeug"
   },
@@ -15284,6 +15659,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "3. Fahrzeug"
   },
@@ -15359,6 +15735,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "4. Fahrzeug"
   },
@@ -15373,7 +15750,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -15402,6 +15780,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "1. Fahrzeug: Normalbenzin/Super"
   },
@@ -15416,7 +15795,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -15445,6 +15825,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "2. Fahrzeug: Normalbenzin/Super"
   },
@@ -15459,7 +15840,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -15488,6 +15870,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "3. Fahrzeug: Normalbenzin/Super"
   },
@@ -15502,7 +15885,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -15531,6 +15915,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "4. Fahrzeug: Normalbenzin/Super"
   },
@@ -15545,7 +15930,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -15554,6 +15940,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Normalbenzin/Super: K.A."
   },
@@ -15568,7 +15955,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -15597,6 +15985,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Normalbenzin Kosten/Monat"
   },
@@ -15611,7 +16000,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -15640,6 +16030,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Normalbenzin Kosten/Jahr"
   },
@@ -15654,7 +16045,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -15683,6 +16075,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "1. Fahrzeug: E10"
   },
@@ -15697,7 +16090,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -15726,6 +16120,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "2. Fahrzeug: E10"
   },
@@ -15740,7 +16135,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -15769,6 +16165,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "3. Fahrzeug: E10"
   },
@@ -15783,7 +16180,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -15792,6 +16190,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "4. Fahrzeug: E10"
   },
@@ -15806,7 +16205,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -15815,6 +16215,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "E10: K.A:"
   },
@@ -15829,7 +16230,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -15858,6 +16260,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "E10 Kosten/Monat"
   },
@@ -15872,7 +16275,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -15901,6 +16305,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "E10 Kosten/Jahr"
   },
@@ -15915,7 +16320,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -15944,6 +16350,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "1. Fahrzeug: Diesel"
   },
@@ -15958,7 +16365,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -15987,6 +16395,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "2. Fahrzeug: Diesel"
   },
@@ -16001,7 +16410,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -16030,6 +16440,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "3. Fahrzeug: Diesel"
   },
@@ -16044,7 +16455,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -16073,6 +16485,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "4. Fahrzeug: Diesel"
   },
@@ -16087,7 +16500,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -16096,6 +16510,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Diesel: K.A."
   },
@@ -16110,7 +16525,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -16139,6 +16555,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Diesel Kosten/Monat"
   },
@@ -16153,7 +16570,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -16182,6 +16600,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Diesel Kosten/Jahr"
   },
@@ -16196,7 +16615,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -16225,6 +16645,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "1. Fahrzeug: Gas"
   },
@@ -16239,7 +16660,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -16268,6 +16690,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "2. Fahrzeug: Gas"
   },
@@ -16282,7 +16705,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -16311,6 +16735,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "3. Fahrzeug: Gas"
   },
@@ -16325,7 +16750,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -16354,6 +16780,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "4. Fahrzeug: Gas"
   },
@@ -16368,7 +16795,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -16377,6 +16805,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Gas: K.A."
   },
@@ -16391,7 +16820,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -16420,6 +16850,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Gas Kosten/Monat"
   },
@@ -16434,7 +16865,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -16443,6 +16875,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Gas Kosten/Jahr"
   },
@@ -16457,7 +16890,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -16486,6 +16920,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "1. Fahrzeug: Biodiesel"
   },
@@ -16500,7 +16935,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -16509,6 +16945,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "2. Fahrzeug: Biodiesel"
   },
@@ -16523,7 +16960,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -16532,6 +16970,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "3. Fahrzeug: Biodiesel"
   },
@@ -16546,7 +16985,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -16555,6 +16995,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "4. Fahrzeug: Biodiesel"
   },
@@ -16569,7 +17010,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -16578,6 +17020,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Biodiesel: K.A."
   },
@@ -16592,7 +17035,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -16621,6 +17065,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Biodiesel Kosten/Monat"
   },
@@ -16635,7 +17080,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -16644,6 +17090,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Biodiesel Kosten/Jahr"
   },
@@ -16658,7 +17105,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -16687,6 +17135,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "1. Fahrzeug: Strom"
   },
@@ -16701,7 +17150,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -16710,6 +17160,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "2. Fahrzeug: Strom"
   },
@@ -16724,7 +17175,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -16733,6 +17185,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "3. Fahrzeug: Strom"
   },
@@ -16747,7 +17200,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -16756,6 +17210,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "4. Fahrzeug: Strom"
   },
@@ -16770,7 +17225,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -16779,6 +17235,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Strom: K.A."
   },
@@ -16793,7 +17250,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -16822,6 +17280,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Strom Kosten/Monat"
   },
@@ -16836,7 +17295,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -16845,6 +17305,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Strom Kosten/Jahr"
   },
@@ -16859,7 +17320,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -16868,6 +17330,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "1. Fahrzeug: Wasserstoff"
   },
@@ -16882,7 +17345,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -16911,6 +17375,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "2. Fahrzeug: Wasserstoff"
   },
@@ -16925,7 +17390,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -16934,6 +17400,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "3. Fahrzeug: Wasserstoff"
   },
@@ -16948,7 +17415,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -16957,6 +17425,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "4. Fahrzeug: Wasserstoff"
   },
@@ -16971,7 +17440,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -16980,6 +17450,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wasserstoff: K.A."
   },
@@ -16994,7 +17465,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -17003,6 +17475,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wasserstoff Kosten/Monat"
   },
@@ -17017,7 +17490,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -17026,6 +17500,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wasserstoff Kosten/Jahr"
   },
@@ -17040,7 +17515,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -17049,6 +17525,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "1.Fahrzeug Gesamt: K.A."
   },
@@ -17063,7 +17540,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -17072,6 +17550,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "2.Fahrzeug Gesamt: K.A."
   },
@@ -17086,7 +17565,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -17095,6 +17575,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "3.Fahrzeug Gesamt: K.A."
   },
@@ -17109,7 +17590,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -17118,6 +17600,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "4.Fahrzeug Gesamt: K.A."
   },
@@ -17193,6 +17676,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "E-Bike"
   },
@@ -17207,7 +17691,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -17236,6 +17721,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Anzahl E-Bikes"
   },
@@ -17311,6 +17797,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Oekostromtarif"
   },
@@ -17325,7 +17812,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -17354,6 +17842,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Seit wann Oekostromtarif"
   },
@@ -17429,6 +17918,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Stromanbieterwechsel seit 5 Jahren"
   },
@@ -17504,6 +17994,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wechsel seit 5 Jahren trotz Verfuegbarkeit"
   },
@@ -17518,7 +18009,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -17547,6 +18039,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wechsel Anzahl"
   },
@@ -17561,7 +18054,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -17590,6 +18084,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wechsel Jahr"
   },
@@ -17665,6 +18160,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hilfe-,Pflegebeduerft. Person im HH"
   },
@@ -17679,7 +18175,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -17708,6 +18205,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "PNR hilfebeduerfige Person"
   },
@@ -17778,6 +18276,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hilfe bei Besorgungen ausser HH"
   },
@@ -17848,6 +18347,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hilfe bei Haushaltsfuehrung"
   },
@@ -17918,6 +18418,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hilfe bei einfacher Pflegetaetigkeit"
   },
@@ -17988,6 +18489,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hilfe bei schwieriger Pflegetaetigkeit"
   },
@@ -18052,6 +18554,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hilfe k.A."
   },
@@ -18127,6 +18630,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Leistungen der Pflegeversicherung"
   },
@@ -18212,6 +18716,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Pflegestufe"
   },
@@ -18287,6 +18792,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Gutachten: Alltagskompetenz"
   },
@@ -18357,6 +18863,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hilfe v. Angehoerigen im HH"
   },
@@ -18371,7 +18878,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -18400,6 +18908,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "PNR der Hauptpflegeperson im HH"
   },
@@ -18470,6 +18979,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Wohlfahrtsverbaende"
   },
@@ -18540,6 +19050,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hilfe v. privaten Pflegedienst"
   },
@@ -18610,6 +19121,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Freunde/Bekannte/Nachbarn"
   },
@@ -18680,6 +19192,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hilfe v. Angeh. ausser HH"
   },
@@ -18744,6 +19257,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Sonst. Pflegehilfe"
   },
@@ -18758,7 +19272,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -18767,6 +19282,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Gesamt-KA der hilfeleistenden Personen"
   },
@@ -18842,6 +19358,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Person erhaelt Bezahlung"
   },
@@ -18917,6 +19434,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Weitere pflegebeduerftige Personen im HH"
   },
@@ -18931,7 +19449,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -18960,6 +19479,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Anzahl weiterer pflegebeduerftiger Personen"
   },
@@ -19035,6 +19555,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Regelmaessige Kosten fuer Pflege"
   },
@@ -19049,7 +19570,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -19078,6 +19600,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Betrag Pflegekosten im Monat"
   },
@@ -19158,6 +19681,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Putz-,Haushaltshilfe beschaeftigt"
   },
@@ -19172,7 +19696,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -19201,6 +19726,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "durchschnittliche Kosten im Monat"
   },
@@ -19276,6 +19802,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kinder bis 16 Jahre im Haushalt"
   },
@@ -19290,7 +19817,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -19317,6 +19845,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Tag des Interviews"
   },
@@ -19442,6 +19971,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Monat des Interviews"
   },
@@ -19456,7 +19986,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -19483,6 +20014,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Interview beendet Uhrzeit (Stunde)"
   },
@@ -19497,7 +20029,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -19524,6 +20057,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Interview beendet Uhrzeit (Minuten)"
   },
@@ -19634,6 +20168,7 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Durchfuehrung der Befragung"
   },
@@ -19648,7 +20183,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -19677,6 +20213,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Interviewdauer muendlich"
   },
@@ -19691,7 +20228,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -19700,6 +20238,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Interviewdauer schriftlich"
   },
@@ -19714,7 +20253,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -19741,6 +20281,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Hoechste vergebene PNR im Haushalt"
   },
@@ -19755,7 +20296,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -19784,6 +20326,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kreditabzahlung in D"
   },
@@ -19798,7 +20341,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -19827,6 +20371,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kreditabzahlung in D im Ausland"
   },
@@ -19841,7 +20386,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -19870,6 +20416,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "ae Kreditabzahl./Monat in D"
   },
@@ -19884,7 +20431,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -19913,6 +20461,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "ae Kreditabzahl./Monat im Ausland"
   },
@@ -19927,7 +20476,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -19956,6 +20506,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Sparbuch o.ae. 2014 in D"
   },
@@ -19970,7 +20521,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -19999,6 +20551,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Sparbuch o.ae. 2014 im Ausland"
   },
@@ -20013,7 +20566,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20042,6 +20596,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Bausparvertrag 2014 in D"
   },
@@ -20056,7 +20611,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20085,6 +20641,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Bausparvertrag 2014 im Ausland"
   },
@@ -20099,7 +20656,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20128,6 +20686,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Lebensversicherung 2014 in D"
   },
@@ -20142,7 +20701,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20171,6 +20731,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Lebensversicherung 2014 im Ausland"
   },
@@ -20185,7 +20746,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20214,6 +20776,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Festverzinsl. Wertpapiere 2014 in D"
   },
@@ -20228,7 +20791,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20257,6 +20821,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Festverzinsl. Wertpapiere 2014 im Ausland"
   },
@@ -20271,7 +20836,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20300,6 +20866,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Andere Wertpapiere 2014 in D"
   },
@@ -20314,7 +20881,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20343,6 +20911,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Andere Wertpapiere 2014 im Ausland"
   },
@@ -20357,7 +20926,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20386,6 +20956,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Betriebsvermoegen 2014 in D"
   },
@@ -20400,7 +20971,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20429,6 +21001,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Betriebsvermoegen 2014 im Ausland"
   },
@@ -20443,7 +21016,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20472,6 +21046,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Keine Wertanlagen 2014 in D/Gesamt KA"
   },
@@ -20486,7 +21061,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20515,6 +21091,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Keine Wertanlagen 2014 im Ausland/Gesamt KA"
   },
@@ -20529,7 +21106,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20558,6 +21136,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Verlustausgleich 2014 in D"
   },
@@ -20572,7 +21151,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20601,6 +21181,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Verlustausgleich 2014 im Ausland"
   },
@@ -20615,7 +21196,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20644,6 +21226,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "ae Verlustausgleich 2014 in D"
   },
@@ -20658,7 +21241,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -20667,6 +21251,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "ae Verlustausgleich 2014 im Ausland"
   },
@@ -20681,7 +21266,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -20690,6 +21276,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "KA Wertanlagen in D"
   },
@@ -20704,7 +21291,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -20713,6 +21301,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "KA Wertanlagen im Ausland"
   },
@@ -20727,7 +21316,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20756,6 +21346,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "ae Einnahmen (Wertanlagen) 2014 in D"
   },
@@ -20770,7 +21361,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20799,6 +21391,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "ae Einnahmen (Wertanlagen) 2014 im Ausland"
   },
@@ -20813,7 +21406,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20842,6 +21436,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Geschaetzte Einnahmen (Wertanlagen) 2014 in D"
   },
@@ -20856,7 +21451,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20885,6 +21481,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Geschaetzte Einnahmen (Wertanlagen) 2014 im Ausland"
   },
@@ -20899,7 +21496,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20928,6 +21526,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Englische Uebersetzungshilfe"
   },
@@ -20942,7 +21541,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -20971,6 +21571,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Tuerkische Uebersetzungshilfe"
   },
@@ -20985,7 +21586,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -21014,6 +21616,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Russische Uebersetzungshilfe"
   },
@@ -21028,7 +21631,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -21057,6 +21661,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Rumaenische Uebersetzungshilfe"
   },
@@ -21071,7 +21676,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -21100,6 +21706,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Polnische Uebersetzungshilfe"
   },
@@ -21114,7 +21721,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -21143,6 +21751,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Uebersetzungshilfe deutsch sprechende Pers. in HH"
   },
@@ -21157,7 +21766,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -21186,6 +21796,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Professioneller Dolmetscher"
   },
@@ -21200,7 +21811,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -21229,6 +21841,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Uebersetzungshilfe deutsch sprechende Pers. ausserhalb HH"
   },
@@ -21243,7 +21856,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -21272,6 +21886,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Keine Uebersetzungshilfe"
   },
@@ -21286,7 +21901,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -21315,6 +21931,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Vor einem Jahr schon in dieser Wohnung"
   },
@@ -21399,6 +22016,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Zins u. Tilgung /Monat KA"
   },
@@ -21483,6 +22101,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Instandh.kosten 2014 KA"
   },
@@ -21567,6 +22186,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Miet-/Pachteinnahmen 2014 KA"
   },
@@ -21651,6 +22271,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Betriebs-/Instandhalt.kosten 2014 KA"
   },
@@ -21735,6 +22356,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Tilgung/Zinsen 2014 KA"
   },
@@ -21804,6 +22426,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kindergeld 2014 KA"
   },
@@ -21873,6 +22496,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Betreuungsgeld 2014 KA"
   },
@@ -21942,6 +22566,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Pflegevers. 2014 KA"
   },
@@ -22011,6 +22636,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Lfd. Hilfe 2014 KA"
   },
@@ -22080,6 +22706,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Grundsicherung 2014 KA"
   },
@@ -22149,6 +22776,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Kindergeld heute KA"
   },
@@ -22218,6 +22846,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Betreuungsgeld heute KA"
   },
@@ -22287,6 +22916,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Pflegevers. heute KA"
   },
@@ -22356,6 +22986,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Lfd. Hilfe heute KA"
   },
@@ -22425,6 +23056,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Grundsicherung heute KA"
   },
@@ -22439,7 +23071,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -22466,6 +23099,7 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2015",
     "label_de": "Interviewer-ID"
   }

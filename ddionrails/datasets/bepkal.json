@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -37,6 +38,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Ursprungshaushaltsnummer"
   },
@@ -51,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -78,6 +81,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Aktuelle Haushaltsnummer (=BEHHNR)"
   },
@@ -92,7 +96,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -119,6 +124,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Aktuelle Haushaltsnummer (=HHNRAKT)"
   },
@@ -133,7 +139,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -160,6 +167,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Unveraenderliche Personennummer"
   },
@@ -235,6 +243,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Vollzeit Erwerbstaetig im Jahr  2013"
   },
@@ -249,7 +258,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -278,6 +288,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Vollzeit Erwerbstaetig N-Monate 2013"
   },
@@ -353,6 +364,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Teilzeit Erwerbstaetig im Jahr  2013"
   },
@@ -367,7 +379,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -396,6 +409,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Teilzeit Erwerbstaetig N-Monate 2013"
   },
@@ -471,6 +485,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Betrbl 1.Ausbild,Lehre im Jahr  2013"
   },
@@ -485,7 +500,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -514,6 +530,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Betrbl 1.Ausbild,Lehre N-Monate 2013"
   },
@@ -589,6 +606,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslos gemeldet    im Jahr  2013"
   },
@@ -603,7 +621,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -632,6 +651,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslos gemeldet    N-Monate 2013"
   },
@@ -707,6 +727,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Rente, Pension         im Jahr  2013"
   },
@@ -721,7 +742,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -750,6 +772,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Rente, Pension         N-Monate 2013"
   },
@@ -825,6 +848,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Mutterschaft        im Jahr  2013"
   },
@@ -839,7 +863,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -868,6 +893,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Mutterschaft        N-Monate 2013"
   },
@@ -943,6 +969,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schule, Hochschule     im Jahr  2013"
   },
@@ -957,7 +984,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -986,6 +1014,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schule, Hochschule     N-Monate 2013"
   },
@@ -1076,6 +1105,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Wehrdienst,frw.Dienst  im Jahr  2013"
   },
@@ -1090,7 +1120,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1119,6 +1150,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Wehrdienst,frw.Dienst  N-Monate 2013"
   },
@@ -1194,6 +1226,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Im Haushalt taetig     im Jahr  2013"
   },
@@ -1208,7 +1241,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1237,6 +1271,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Im Haushalt taetig     N-Monate 2013"
   },
@@ -1312,6 +1347,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sonstiges              im Jahr  2013"
   },
@@ -1326,7 +1362,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1355,6 +1392,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sonstiges              N-Monate 2013"
   },
@@ -1430,6 +1468,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufl Fortbildg,Umsch im Jahr  2013"
   },
@@ -1444,7 +1483,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1473,6 +1513,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufl Fortbildg,Umsch N-Monate 2013"
   },
@@ -1548,6 +1589,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mini-Job (bis 400 EUR) im Jahr  2013"
   },
@@ -1562,7 +1604,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1591,6 +1634,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mini-Job (bis 400 EUR) N-Monate 2013"
   },
@@ -1666,6 +1710,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Kurzarbeit          im Jahr  2013"
   },
@@ -1680,7 +1725,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1709,6 +1755,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Kurzarbeit          N-Monate 2013"
   },
@@ -1784,6 +1831,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Vollzeit Erwerbstaetig Jan 2013"
   },
@@ -1859,6 +1907,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Vollzeit Erwerbstaetig Feb 2013"
   },
@@ -1934,6 +1983,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Vollzeit Erwerbstaetig Mar 2013"
   },
@@ -2009,6 +2059,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Vollzeit Erwerbstaetig Apr 2013"
   },
@@ -2084,6 +2135,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Vollzeit Erwerbstaetig Mai 2013"
   },
@@ -2159,6 +2211,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Vollzeit Erwerbstaetig Jun 2013"
   },
@@ -2234,6 +2287,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Vollzeit Erwerbstaetig Jul 2013"
   },
@@ -2309,6 +2363,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Vollzeit Erwerbstaetig Aug 2013"
   },
@@ -2384,6 +2439,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Vollzeit Erwerbstaetig Sep 2013"
   },
@@ -2459,6 +2515,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Vollzeit Erwerbstaetig Okt 2013"
   },
@@ -2534,6 +2591,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Vollzeit Erwerbstaetig Nov 2013"
   },
@@ -2609,6 +2667,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Vollzeit Erwerbstaetig Dez 2013"
   },
@@ -2684,6 +2743,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Teilzeit Erwerbstaetig Jan 2013"
   },
@@ -2759,6 +2819,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Teilzeit Erwerbstaetig Feb 2013"
   },
@@ -2834,6 +2895,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Teilzeit Erwerbstaetig Mar 2013"
   },
@@ -2909,6 +2971,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Teilzeit Erwerbstaetig Apr 2013"
   },
@@ -2984,6 +3047,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Teilzeit Erwerbstaetig Mai 2013"
   },
@@ -3059,6 +3123,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Teilzeit Erwerbstaetig Jun 2013"
   },
@@ -3134,6 +3199,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Teilzeit Erwerbstaetig Jul 2013"
   },
@@ -3209,6 +3275,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Teilzeit Erwerbstaetig Aug 2013"
   },
@@ -3284,6 +3351,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Teilzeit Erwerbstaetig Sep 2013"
   },
@@ -3359,6 +3427,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Teilzeit Erwerbstaetig Okt 2013"
   },
@@ -3434,6 +3503,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Teilzeit Erwerbstaetig Nov 2013"
   },
@@ -3509,6 +3579,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Teilzeit Erwerbstaetig Dez 2013"
   },
@@ -3523,7 +3594,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3552,6 +3624,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Betrbl 1.Ausbild,Lehre Jan 2013"
   },
@@ -3566,7 +3639,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3595,6 +3669,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Betrbl 1.Ausbild,Lehre Feb 2013"
   },
@@ -3609,7 +3684,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3638,6 +3714,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Betrbl 1.Ausbild,Lehre Mar 2013"
   },
@@ -3652,7 +3729,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3681,6 +3759,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Betrbl 1.Ausbild,Lehre Apr 2013"
   },
@@ -3695,7 +3774,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3724,6 +3804,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Betrbl 1.Ausbild,Lehre Mai 2013"
   },
@@ -3738,7 +3819,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3767,6 +3849,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Betrbl 1.Ausbild,Lehre Jun 2013"
   },
@@ -3781,7 +3864,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3810,6 +3894,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Betrbl 1.Ausbild,Lehre Jul 2013"
   },
@@ -3824,7 +3909,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3853,6 +3939,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Betrbl 1.Ausbild,Lehre Aug 2013"
   },
@@ -3867,7 +3954,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3896,6 +3984,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Betrbl 1.Ausbild,Lehre Sep 2013"
   },
@@ -3910,7 +3999,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3939,6 +4029,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Betrbl 1.Ausbild,Lehre Okt 2013"
   },
@@ -3953,7 +4044,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3982,6 +4074,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Betrbl 1.Ausbild,Lehre Nov 2013"
   },
@@ -3996,7 +4089,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4025,6 +4119,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Betrbl 1.Ausbild,Lehre Dez 2013"
   },
@@ -4039,7 +4134,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4068,6 +4164,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslos gemeldet    Jan 2013"
   },
@@ -4082,7 +4179,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4111,6 +4209,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslos gemeldet    Feb 2013"
   },
@@ -4125,7 +4224,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4154,6 +4254,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslos gemeldet    Mar 2013"
   },
@@ -4168,7 +4269,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4197,6 +4299,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslos gemeldet    Apr 2013"
   },
@@ -4211,7 +4314,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4240,6 +4344,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslos gemeldet    Mai 2013"
   },
@@ -4254,7 +4359,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4283,6 +4389,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslos gemeldet    Jun 2013"
   },
@@ -4297,7 +4404,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4326,6 +4434,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslos gemeldet    Jul 2013"
   },
@@ -4340,7 +4449,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4369,6 +4479,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslos gemeldet    Aug 2013"
   },
@@ -4383,7 +4494,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4412,6 +4524,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslos gemeldet    Sep 2013"
   },
@@ -4426,7 +4539,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4455,6 +4569,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslos gemeldet    Okt 2013"
   },
@@ -4469,7 +4584,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4498,6 +4614,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslos gemeldet    Nov 2013"
   },
@@ -4512,7 +4629,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4541,6 +4659,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslos gemeldet    Dez 2013"
   },
@@ -4555,7 +4674,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4584,6 +4704,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Rente, Pension        Jan 2013"
   },
@@ -4598,7 +4719,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4627,6 +4749,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Rente, Pension        Feb 2013"
   },
@@ -4641,7 +4764,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4670,6 +4794,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Rente, Pension        Mar 2013"
   },
@@ -4684,7 +4809,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4713,6 +4839,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Rente, Pension        Apr 2013"
   },
@@ -4727,7 +4854,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4756,6 +4884,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Rente, Pension        Mai 2013"
   },
@@ -4770,7 +4899,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4799,6 +4929,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Rente, Pension        Jun 2013"
   },
@@ -4813,7 +4944,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4842,6 +4974,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Rente, Pension        Jul 2013"
   },
@@ -4856,7 +4989,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4885,6 +5019,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Rente, Pension        Aug 2013"
   },
@@ -4899,7 +5034,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4928,6 +5064,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Rente, Pension        Sep 2013"
   },
@@ -4942,7 +5079,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4971,6 +5109,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Rente, Pension        Okt 2013"
   },
@@ -4985,7 +5124,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5014,6 +5154,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Rente, Pension        Nov 2013"
   },
@@ -5028,7 +5169,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5057,6 +5199,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Rente, Pension        Dez 2013"
   },
@@ -5071,7 +5214,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5100,6 +5244,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Mutterschaft        Jan 2013"
   },
@@ -5114,7 +5259,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5143,6 +5289,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Mutterschaft        Feb 2013"
   },
@@ -5157,7 +5304,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5186,6 +5334,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Mutterschaft        Mar 2013"
   },
@@ -5200,7 +5349,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5229,6 +5379,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Mutterschaft        Apr 2013"
   },
@@ -5243,7 +5394,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5272,6 +5424,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Mutterschaft        Mai 2013"
   },
@@ -5286,7 +5439,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5315,6 +5469,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Mutterschaft        Jun 2013"
   },
@@ -5329,7 +5484,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5358,6 +5514,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Mutterschaft        Jul 2013"
   },
@@ -5372,7 +5529,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5401,6 +5559,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Mutterschaft        Aug 2013"
   },
@@ -5415,7 +5574,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5444,6 +5604,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Mutterschaft        Sep 2013"
   },
@@ -5458,7 +5619,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5487,6 +5649,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Mutterschaft        Okt 2013"
   },
@@ -5501,7 +5664,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5530,6 +5694,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Mutterschaft        Nov 2013"
   },
@@ -5544,7 +5709,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5573,6 +5739,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Mutterschaft        Dez 2013"
   },
@@ -5587,7 +5754,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5616,6 +5784,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schule, Hochschule     Jan 2013"
   },
@@ -5630,7 +5799,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5659,6 +5829,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schule, Hochschule     Feb 2013"
   },
@@ -5673,7 +5844,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5702,6 +5874,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schule, Hochschule     Mar 2013"
   },
@@ -5716,7 +5889,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5745,6 +5919,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schule, Hochschule     Apr 2013"
   },
@@ -5759,7 +5934,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5788,6 +5964,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schule, Hochschule     Mai 2013"
   },
@@ -5802,7 +5979,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5831,6 +6009,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schule, Hochschule     Jun 2013"
   },
@@ -5845,7 +6024,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5874,6 +6054,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schule, Hochschule     Jul 2013"
   },
@@ -5888,7 +6069,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5917,6 +6099,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schule, Hochschule     Aug 2013"
   },
@@ -5931,7 +6114,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5960,6 +6144,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schule, Hochschule     Sep 2013"
   },
@@ -5974,7 +6159,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -6003,6 +6189,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schule, Hochschule     Okt 2013"
   },
@@ -6017,7 +6204,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -6046,6 +6234,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schule, Hochschule     Nov 2013"
   },
@@ -6060,7 +6249,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -6089,6 +6279,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schule, Hochschule     Dez 2013"
   },
@@ -6174,6 +6365,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Wehrdienst,frw.Dienst  Jan 2013"
   },
@@ -6259,6 +6451,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Wehrdienst,frw.Dienst  Feb 2013"
   },
@@ -6344,6 +6537,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Wehrdienst,frw.Dienst  Mar 2013"
   },
@@ -6429,6 +6623,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Wehrdienst,frw.Dienst  Apr 2013"
   },
@@ -6514,6 +6709,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Wehrdienst,frw.Dienst  Mai 2013"
   },
@@ -6599,6 +6795,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Wehrdienst,frw.Dienst  Jun 2013"
   },
@@ -6684,6 +6881,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Wehrdienst,frw.Dienst  Jul 2013"
   },
@@ -6769,6 +6967,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Wehrdienst,frw.Dienst  Aug 2013"
   },
@@ -6854,6 +7053,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Wehrdienst,frw.Dienst  Sep 2013"
   },
@@ -6939,6 +7139,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Wehrdienst,frw.Dienst  Okt 2013"
   },
@@ -7024,6 +7225,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Wehrdienst,frw.Dienst  Nov 2013"
   },
@@ -7109,6 +7311,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Wehrdienst,frw.Dienst  Dez 2013"
   },
@@ -7123,7 +7326,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7152,6 +7356,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Im Haushalt taetig     Jan 2013"
   },
@@ -7166,7 +7371,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7195,6 +7401,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Im Haushalt taetig     Feb 2013"
   },
@@ -7209,7 +7416,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7238,6 +7446,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Im Haushalt taetig     Mar 2013"
   },
@@ -7252,7 +7461,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7281,6 +7491,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Im Haushalt taetig     Apr 2013"
   },
@@ -7295,7 +7506,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7324,6 +7536,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Im Haushalt taetig     Mai 2013"
   },
@@ -7338,7 +7551,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7367,6 +7581,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Im Haushalt taetig     Jun 2013"
   },
@@ -7381,7 +7596,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7410,6 +7626,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Im Haushalt taetig     Jul 2013"
   },
@@ -7424,7 +7641,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7453,6 +7671,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Im Haushalt taetig     Aug 2013"
   },
@@ -7467,7 +7686,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7496,6 +7716,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Im Haushalt taetig     Sep 2013"
   },
@@ -7510,7 +7731,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7539,6 +7761,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Im Haushalt taetig     Okt 2013"
   },
@@ -7553,7 +7776,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7582,6 +7806,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Im Haushalt taetig     Nov 2013"
   },
@@ -7596,7 +7821,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7625,6 +7851,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Im Haushalt taetig     Dez 2013"
   },
@@ -7740,6 +7967,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sonstiges          Jan 2013"
   },
@@ -7855,6 +8083,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sonstiges          Feb 2013"
   },
@@ -7970,6 +8199,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sonstiges          Mar 2013"
   },
@@ -8085,6 +8315,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sonstiges          Apr 2013"
   },
@@ -8200,6 +8431,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sonstiges          Mai 2013"
   },
@@ -8315,6 +8547,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sonstiges          Jun 2013"
   },
@@ -8430,6 +8663,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sonstiges          Jul 2013"
   },
@@ -8545,6 +8779,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sonstiges          Aug 2013"
   },
@@ -8660,6 +8895,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sonstiges          Sep 2013"
   },
@@ -8775,6 +9011,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sonstiges          Okt 2013"
   },
@@ -8890,6 +9127,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sonstiges          Nov 2013"
   },
@@ -9005,6 +9243,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sonstiges          Dez 2013"
   },
@@ -9019,7 +9258,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9048,6 +9288,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufl Fortbildg,Umsch Jan 2013"
   },
@@ -9062,7 +9303,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9091,6 +9333,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufl Fortbildg,Umsch Feb 2013"
   },
@@ -9105,7 +9348,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9134,6 +9378,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufl Fortbildg,Umsch Mar 2013"
   },
@@ -9148,7 +9393,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9177,6 +9423,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufl Fortbildg,Umsch Apr 2013"
   },
@@ -9191,7 +9438,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9220,6 +9468,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufl Fortbildg,Umsch Mai 2013"
   },
@@ -9234,7 +9483,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9263,6 +9513,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufl Fortbildg,Umsch Jun 2013"
   },
@@ -9277,7 +9528,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9306,6 +9558,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufl Fortbildg,Umsch Jul 2013"
   },
@@ -9320,7 +9573,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9349,6 +9603,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufl Fortbildg,Umsch Aug 2013"
   },
@@ -9363,7 +9618,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9392,6 +9648,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufl Fortbildg,Umsch Sep 2013"
   },
@@ -9406,7 +9663,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9435,6 +9693,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufl Fortbildg,Umsch Okt 2013"
   },
@@ -9449,7 +9708,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9478,6 +9738,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufl Fortbildg,Umsch Nov 2013"
   },
@@ -9492,7 +9753,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9521,6 +9783,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufl Fortbildg,Umsch Dez 2013"
   },
@@ -9535,7 +9798,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9564,6 +9828,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mini-Job (bis 400 EUR) Jan 2013"
   },
@@ -9578,7 +9843,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9607,6 +9873,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mini-Job (bis 400 EUR) Feb 2013"
   },
@@ -9621,7 +9888,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9650,6 +9918,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mini-Job (bis 400 EUR) Mar 2013"
   },
@@ -9664,7 +9933,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9693,6 +9963,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mini-Job (bis 400 EUR) Apr 2013"
   },
@@ -9707,7 +9978,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9736,6 +10008,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mini-Job (bis 400 EUR) Mai 2013"
   },
@@ -9750,7 +10023,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9779,6 +10053,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mini-Job (bis 400 EUR) Jun 2013"
   },
@@ -9793,7 +10068,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9822,6 +10098,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mini-Job (bis 400 EUR) Jul 2013"
   },
@@ -9836,7 +10113,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9865,6 +10143,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mini-Job (bis 400 EUR) Aug 2013"
   },
@@ -9879,7 +10158,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9908,6 +10188,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mini-Job (bis 400 EUR) Sep 2013"
   },
@@ -9922,7 +10203,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9951,6 +10233,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mini-Job (bis 400 EUR) Okt 2013"
   },
@@ -9965,7 +10248,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -9994,6 +10278,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mini-Job (bis 400 EUR) Nov 2013"
   },
@@ -10008,7 +10293,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10037,6 +10323,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mini-Job (bis 400 EUR) Dez 2013"
   },
@@ -10051,7 +10338,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10080,6 +10368,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Kurzarbeit          Jan 2013"
   },
@@ -10094,7 +10383,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10123,6 +10413,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Kurzarbeit          Feb 2013"
   },
@@ -10137,7 +10428,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10166,6 +10458,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Kurzarbeit          Mar 2013"
   },
@@ -10180,7 +10473,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10209,6 +10503,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Kurzarbeit          Apr 2013"
   },
@@ -10223,7 +10518,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10252,6 +10548,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Kurzarbeit          Mai 2013"
   },
@@ -10266,7 +10563,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10295,6 +10593,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Kurzarbeit          Jun 2013"
   },
@@ -10309,7 +10608,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10338,6 +10638,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Kurzarbeit          Jul 2013"
   },
@@ -10352,7 +10653,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10381,6 +10683,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Kurzarbeit          Aug 2013"
   },
@@ -10395,7 +10698,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10424,6 +10728,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Kurzarbeit          Sep 2013"
   },
@@ -10438,7 +10743,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10467,6 +10773,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Kurzarbeit          Okt 2013"
   },
@@ -10481,7 +10788,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10510,6 +10818,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Kurzarbeit          Nov 2013"
   },
@@ -10524,7 +10833,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10553,6 +10863,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Kurzarbeit          Dez 2013"
   },
@@ -10567,7 +10878,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10582,6 +10894,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Vollzeit Erwerbstaetig Jan-Dez 2013"
   },
@@ -10596,7 +10909,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10611,6 +10925,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Teilzeit Erwerbstaetig Jan-Dez 2013"
   },
@@ -10625,7 +10940,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10640,6 +10956,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Betrbl 1.Ausbild,Lehre Jan-Dez 2013"
   },
@@ -10654,7 +10971,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10669,6 +10987,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslos gemeldet    Jan-Dez 2013"
   },
@@ -10683,7 +11002,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10698,6 +11018,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Rente, Pension         Jan-Dez 2013"
   },
@@ -10712,7 +11033,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10727,6 +11049,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Mutterschaft        Jan-Dez 2013"
   },
@@ -10741,7 +11064,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10756,6 +11080,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schule, Hochschule     Jan-Dez 2013"
   },
@@ -10770,7 +11095,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10785,6 +11111,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Wehrdienst,frw.Dienst  Jan-Dez 2013"
   },
@@ -10799,7 +11126,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10814,6 +11142,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Im Haushalt taetig     Jan-Dez 2013"
   },
@@ -10828,7 +11157,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10843,6 +11173,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sonstiges              Jan-Dez 2013"
   },
@@ -10857,7 +11188,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10872,6 +11204,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufl Fortbildg,Umsch   Jan-Dez 2013"
   },
@@ -10886,7 +11219,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10901,6 +11235,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mini-Job (bis 400 EUR)   Jan-Dez 2013"
   },
@@ -10915,7 +11250,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -10930,6 +11266,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "In Kurzarbeit          Jan-Dez 2013"
   },
@@ -11005,6 +11342,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Lohn als Arbeitnehmer    Bezogen 2013"
   },
@@ -11019,7 +11357,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11048,6 +11387,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Lohn als Arbeitnehmer    Monate  2013"
   },
@@ -11062,7 +11402,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11091,6 +11432,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Lohn als Arbeitnehmer    Betrag  2013"
   },
@@ -11105,7 +11447,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11134,6 +11477,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Lohn als Arbeitnehmer    (Netto) 2013"
   },
@@ -11209,6 +11553,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Eink.a.selbstdg.Taetigk. Bezogen 2013"
   },
@@ -11223,7 +11568,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11252,6 +11598,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Eink.a.selbstdg.Taetigk. Monate  2013"
   },
@@ -11266,7 +11613,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11295,6 +11643,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Eink.a.selbstdg.Taetigk. Betrag  2013"
   },
@@ -11309,7 +11658,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -11318,6 +11668,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Eink.a.selbstdg.Taetigk. (Netto) 2013"
   },
@@ -11393,6 +11744,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Einkommen a. Nebenerwerb Bezogen 2013"
   },
@@ -11407,7 +11759,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11436,6 +11789,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Einkommen a. Nebenerwerb Monate  2013"
   },
@@ -11450,7 +11804,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11479,6 +11834,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Einkommen a. Nebenerwerb Betrag  2013"
   },
@@ -11554,6 +11910,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Altersrente, Pension     Bezogen 2013"
   },
@@ -11568,7 +11925,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11597,6 +11955,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Altersrente, Pension     Monate  2013"
   },
@@ -11611,7 +11970,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11640,6 +12000,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Altersrente, Pension     Betrag  2013"
   },
@@ -11715,6 +12076,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Witwen-, Waisenrente     Bezogen 2013"
   },
@@ -11729,7 +12091,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11758,6 +12121,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Witwen-, Waisenrente     Monate  2013"
   },
@@ -11772,7 +12136,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11801,6 +12166,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Witwen-, Waisenrente     Betrag  2013"
   },
@@ -11876,6 +12242,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslosengeld         Bezogen 2013"
   },
@@ -11890,7 +12257,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11919,6 +12287,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslosengeld         Monate  2013"
   },
@@ -11933,7 +12302,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11962,6 +12332,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitslosengeld         Betrag  2013"
   },
@@ -12037,6 +12408,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Unterhalts-, Uebergsgeld Bezogen 2013"
   },
@@ -12051,7 +12423,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12080,6 +12453,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Unterhalts-, Uebergsgeld Monate  2013"
   },
@@ -12094,7 +12468,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12123,6 +12498,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Unterhalts-, Uebergsgeld Betrag  2013"
   },
@@ -12198,6 +12574,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mutterschaftsgeld        Bezogen 2013"
   },
@@ -12212,7 +12589,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12241,6 +12619,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mutterschaftsgeld        Monate  2013"
   },
@@ -12255,7 +12634,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12284,6 +12664,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Mutterschaftsgeld        Betrag  2013"
   },
@@ -12359,6 +12740,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "BAFOEG, Stipendium       Bezogen 2013"
   },
@@ -12373,7 +12755,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12402,6 +12785,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "BAFOEG, Stipendium       Monate  2013"
   },
@@ -12416,7 +12800,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12445,6 +12830,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "BAFOEG, Stipendium       Betrag  2013"
   },
@@ -12520,6 +12906,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sold Wehr-,freiw.Dienst Bezogen 2013"
   },
@@ -12534,7 +12921,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12563,6 +12951,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sold Wehr-,freiw.Dienst Monate  2013"
   },
@@ -12577,7 +12966,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12606,6 +12996,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "sold Wehr-,freiw.Dienst Betrag  2013"
   },
@@ -12681,6 +13072,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Unterstuetzung a. des HH Bezogen 2013"
   },
@@ -12695,7 +13087,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12724,6 +13117,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Unterstuetzung a. des HH Monate  2013"
   },
@@ -12738,7 +13132,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12767,6 +13162,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Unterstuetzung a. des HH Betrag  2013"
   },
@@ -12842,6 +13238,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Keine dieser Einkuenfte  Bezogen 2013"
   },
@@ -12917,6 +13314,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "ALG II, Sozialgeld       Bezogen 2013"
   },
@@ -12931,7 +13329,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12960,6 +13359,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "ALG II, Sozialgeld       Monate  2013"
   },
@@ -13035,6 +13435,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Gesetzl.Unterhalt fr.Par Bezogen 2013"
   },
@@ -13049,7 +13450,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -13078,6 +13480,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Gesetzl.Unterhalt fr.Par Monate  2013"
   },
@@ -13092,7 +13495,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -13121,6 +13525,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Gesetzl.Unterhalt fr.Par Betrag  2013"
   },
@@ -13196,6 +13601,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Unterhaltsvorschusskasse Bezogen 2013"
   },
@@ -13210,7 +13616,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -13239,6 +13646,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Unterhaltsvorschusskasse Monate  2013"
   },
@@ -13253,7 +13661,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -13282,6 +13691,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Unterhaltsvorschusskasse Betrag  2013"
   }

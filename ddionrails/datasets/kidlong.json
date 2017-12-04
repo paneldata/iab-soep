@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -37,6 +38,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Ursprungshaushaltsnummer"
   },
@@ -51,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -78,6 +81,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "wellen-spezifische Haushaltsnummer"
   },
@@ -92,7 +96,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -119,6 +124,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Personennummer des Kindes"
   },
@@ -133,7 +139,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -160,6 +167,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Erhebungsjahr"
   },
@@ -309,6 +317,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Staatsangehoerigkeit"
   },
@@ -484,6 +493,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Haushaltszugehoerigkeit"
   },
@@ -498,7 +508,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -525,6 +536,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Zahl der Personen im HH"
   },
@@ -539,7 +551,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -566,6 +579,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Zahl der Kinder unter 16 Jahren im HH"
   },
@@ -821,6 +835,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Stellung im HH"
   },
@@ -835,7 +850,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -862,6 +878,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Lfd. Nr. des Kindes"
   },
@@ -876,7 +893,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -903,6 +921,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Zeiger auf HV"
   },
@@ -917,7 +936,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -946,6 +966,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Zeiger auf Partner des HV"
   },
@@ -960,7 +981,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -989,6 +1011,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Zeiger auf Mutter"
   },
@@ -1003,7 +1026,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1032,6 +1056,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Zeiger auf Partner der Mutter"
   },
@@ -1131,6 +1156,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Sprachversion des Fragebogens"
   },
@@ -1221,6 +1247,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Krippe, KiGa,KiTa, Hort"
   },
@@ -1331,6 +1358,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Allg. Schule"
   },
@@ -1400,6 +1428,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Berufsschule"
   },
@@ -1480,6 +1509,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "keine dieser Einrichtungen"
   },
@@ -1574,6 +1604,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Allg. Schule Ost"
   },
@@ -1638,6 +1669,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Schulhort Ost"
   },
@@ -1807,6 +1839,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Andere Schultypen"
   },
@@ -1887,6 +1920,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Traeger: oeff. Einrichtung"
   },
@@ -1967,6 +2001,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Traeger: private-gemeinn. Einrichtung"
   },
@@ -2047,6 +2082,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Traeger: kirchlich, gemeinn. Einrichtung"
   },
@@ -2122,6 +2158,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Traeger: betriebl. Einrichtung"
   },
@@ -2202,6 +2239,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Traeger: private-gewerbl. Einrichtung"
   },
@@ -2276,6 +2314,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Einhaltung der Betreuungszeiten"
   },
@@ -2361,6 +2400,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Zeitliche Lage Einrichtungsbesuch"
   },
@@ -2375,7 +2415,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -2404,6 +2445,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Stunden pro Tag in der Einrichtung"
   },
@@ -2479,6 +2521,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Mittagessen in der Einrichtung"
   },
@@ -2554,6 +2597,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Mittagessen in der Schule"
   },
@@ -2568,7 +2612,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -2597,6 +2642,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Kosten fuer Schule pro Monat"
   },
@@ -2667,6 +2713,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Schule: keine Kosten"
   },
@@ -2681,7 +2728,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -2710,6 +2758,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Kosten fuer Kita etc. pro Monat"
   },
@@ -2780,6 +2829,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Kita: keine Kosten"
   },
@@ -2849,6 +2899,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Besuch der Einrichtung kostenpflichtig"
   },
@@ -2863,7 +2914,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -2872,6 +2924,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Einrichtungskosten in Euro/Monat"
   },
@@ -2942,6 +2995,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Verwandte"
   },
@@ -3012,6 +3066,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Freunde, Bekannte, Nachbarn"
   },
@@ -3082,6 +3137,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "bezahlte Betr.person kommt ins Haus"
   },
@@ -3152,6 +3208,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Tagesmutter ausserhalb des HH"
   },
@@ -3222,6 +3279,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "keine externe Betreuung"
   },
@@ -3292,6 +3350,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "unter 6 KiTurnen, Schwimmen"
   },
@@ -3362,6 +3421,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "unter 6 fruehkindl. Musikerziehung"
   },
@@ -3432,6 +3492,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "unter 6 Malen fuer Kinder"
   },
@@ -3502,6 +3563,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "unter 6 ElternKind Gruppe"
   },
@@ -3572,6 +3634,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "keine Aktivitaeten unter 6"
   },
@@ -3642,6 +3705,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "ab 6 Schul-Sport AG"
   },
@@ -3712,6 +3776,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "ab 6 Schul-Musik AG"
   },
@@ -3782,6 +3847,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "ab 6 Schul-Kunst AG"
   },
@@ -3852,6 +3918,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "ab 6 Schul-Theater AG"
   },
@@ -3922,6 +3989,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "ab 6 Schul-Sonstige AG"
   },
@@ -3992,6 +4060,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "ab 6 ausserh. Schule Sport"
   },
@@ -4062,6 +4131,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "ab 6 ausserh. Schule Musik"
   },
@@ -4132,6 +4202,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "ab 6 ausserh. Schule Kunst"
   },
@@ -4202,6 +4273,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "ab 6 ausserh. Schule FW, DRK"
   },
@@ -4272,6 +4344,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "ab 6 ausserh. Schule Jugendgruppe"
   },
@@ -4342,6 +4415,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "ab 6 ausserh. Schule Besuch Jug.Zentrum"
   },
@@ -4412,6 +4486,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "keine Aktivitaeten ab 6"
   },
@@ -4426,7 +4501,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4455,6 +4531,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "durchschnittl. Kosten pro Monat"
   },
@@ -4525,6 +4602,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "keine Kosten"
   },
@@ -4539,7 +4617,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4568,6 +4647,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "externe Betreuung: durchschnittl. Kosten pro Monat"
   },
@@ -4638,6 +4718,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "externe Betreuung: keine Kosten"
   },
@@ -4853,6 +4934,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "0",
     "label_de": "Stichprobenzugehoerigkeit"
   }

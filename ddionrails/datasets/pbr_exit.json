@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -37,6 +38,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Ursprungshaushaltsnummer"
   },
@@ -51,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -78,6 +81,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Unveraenderliche Personennummer"
   },
@@ -92,7 +96,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -119,6 +124,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Erhebungsjahr"
   },
@@ -133,7 +139,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -160,6 +167,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Aktuelle Haushaltsnummer"
   },
@@ -375,6 +383,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Survey ID"
   },
@@ -389,7 +398,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -416,6 +426,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Laufende Nr. der Person im HH"
   },
@@ -430,7 +441,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -459,6 +471,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Geburtsjahr"
   },
@@ -539,6 +552,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Geschlecht"
   },
@@ -779,6 +793,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Stellung zum Haushaltsvorstand,Bezugsperson"
   },
@@ -908,6 +923,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "[bis 2011]Stellung zum Haushaltsvorstand,Bezugsperson"
   },
@@ -1878,6 +1894,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Fragebogenversion, Nationalitaet"
   },
@@ -1963,6 +1980,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Stichprobenstatus"
   },
@@ -2068,6 +2086,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Befragungsstatus"
   },
@@ -2348,6 +2367,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Zugehoerigkeit der Person zum HH"
   },
@@ -2412,6 +2432,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Zugehoerigkeit der Person seit Monat"
   },
@@ -2476,6 +2497,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Zugehoerigkeit der Person seit Jahr"
   },
@@ -2586,6 +2608,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Bearbeitungsform Person"
   },
@@ -2701,6 +2724,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Bearbeitungsergebnis Person"
   },
@@ -2906,6 +2930,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Bearbeitungsergebnis Person zweistellig"
   },
@@ -3021,6 +3046,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Bearbeitungsform Person im Vorjahr"
   },
@@ -3130,6 +3156,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Bearbeitungsergebnis Person im Vorjahr"
   },
@@ -3144,7 +3171,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3171,6 +3199,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Alte Haushalts- und Personennummer"
   },
@@ -3255,6 +3284,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Weiterverfolgungsstatus"
   },
@@ -3359,6 +3389,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Ergebnis der Adressenermittlung Person"
   },
@@ -3438,6 +3469,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Informationsquelle"
   },
@@ -3452,7 +3484,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -3461,6 +3494,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Adressenermittlung Person zweistellig"
   },
@@ -3475,7 +3509,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -3484,6 +3519,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Neue Haushalts- und Personennummer"
   },
@@ -3563,6 +3599,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Art des Personendatensatzes"
   },
@@ -3577,7 +3614,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3604,6 +3642,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Zugangswelle Panel"
   },
@@ -3748,6 +3787,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Zugangswelle Haushalt"
   },
@@ -3842,6 +3882,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Abgangswelle Haushalt"
   },
@@ -3856,7 +3897,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3885,6 +3927,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Welle des letzten Interviews"
   },
@@ -3949,6 +3992,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Zweitwohnung, Vorjahr,Abgangsjahr"
   },
@@ -4234,6 +4278,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Zugehoerigkeit zum HH im Vorjahr"
   },
@@ -4353,6 +4398,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Letztes Updating Person"
   },
@@ -4367,7 +4413,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4394,6 +4441,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "HH-Nummer Vorjahr mit Pfkz."
   },
@@ -4479,6 +4527,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Luecke in Vorjahr"
   },
@@ -4679,6 +4728,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Bearbeitungsergebnis im Vorjahr"
   },
@@ -4693,7 +4743,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4722,6 +4773,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Monat des Auszugs"
   },
@@ -4736,7 +4788,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4765,6 +4818,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Jahr des Auszugs"
   },
@@ -4779,7 +4833,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -4788,6 +4843,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Monat des Einzugs"
   },
@@ -4802,7 +4858,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -4811,6 +4868,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Jahr des Einzugs"
   },
@@ -4825,7 +4883,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -4834,6 +4893,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Monat der temp. Abwesenheit"
   },
@@ -4848,7 +4908,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -4857,6 +4918,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Jahr der temp. Abwesenheit"
   },
@@ -4972,6 +5034,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Bearbeitungsergebnis Biographie"
   },
@@ -5046,6 +5109,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Kognitiver Test - Lust auf DJ"
   },
@@ -5135,6 +5199,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Erwerbsstatus von Nicht-Teilnehmern"
   },
@@ -5224,6 +5289,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 1 (0-1 Jahre)"
   },
@@ -5313,6 +5379,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 2 (1-2 Jahre)"
   },
@@ -5402,6 +5469,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 3 (2-3 Jahre)"
   },
@@ -5491,6 +5559,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 4 (5-6 Jahre)"
   },
@@ -5580,6 +5649,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 5 (7-8 Jahre)"
   },
@@ -5669,6 +5739,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 6 (9-10 Jahre)"
   },
@@ -5733,6 +5804,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Teilnahme am Test Tiere nennen"
   },
@@ -5797,6 +5869,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Teilnahme am Test Zahlen-Zeichen"
   },
@@ -5861,6 +5934,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Teilnahme am Test Worte identifizieren"
   },
@@ -5925,6 +5999,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Greifkrafttest"
   },
@@ -5995,6 +6070,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Ankerperson"
   },
@@ -6095,6 +6171,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Ausgangsbrutto fuer Einverstaendniserklaerung fuer Record Linkage"
   },
@@ -6179,6 +6256,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Ergebnis Einverstaendniserklaerung fuer Record Linkage"
   },
@@ -6284,6 +6362,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Ausgangsbrutto fuer Einverstaendniserklaerung fuer Record Linkage"
   },
@@ -6353,6 +6432,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Ausgangsbrutto fuer Einverstaendniserklaerung fuer Record Linkage Mindestlohn"
   },
@@ -6432,6 +6512,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Gruppen fuer Einverstaendniserklaerung fuer Record Linkage Mindestlohn"
   },
@@ -6511,6 +6592,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Ergebnis Einverstaendniserklaerung fuer Record Linkage Mindestlohn"
   },
@@ -6575,6 +6657,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "0",
     "label_de": "Record Linkage"
   }

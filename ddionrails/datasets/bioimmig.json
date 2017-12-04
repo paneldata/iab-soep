@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -37,6 +38,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ursprungshaushaltsnummer"
   },
@@ -51,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -78,6 +81,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Aktuelle Haushaltsnummer"
   },
@@ -92,7 +96,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -119,6 +124,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Unveraenderliche Personennummer"
   },
@@ -133,7 +139,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -160,6 +167,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Jahr,Erhebungsjahr"
   },
@@ -260,6 +268,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Status bei Einwanderung in Dt."
   },
@@ -335,6 +344,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Status Aufenthaltserlaubnis"
   },
@@ -404,6 +414,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Aufnahmelager: J,N"
   },
@@ -418,7 +429,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -427,6 +439,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Aufnahmelager: Wochen"
   },
@@ -441,7 +454,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -450,6 +464,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Aufnahmelager: Monate"
   },
@@ -525,6 +540,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Eingereist als Familienangehoeriger"
   },
@@ -594,6 +610,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Vor Einreise Kontakte mit Pers."
   },
@@ -663,6 +680,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Zuzug in Wohnort der Bekannten"
   },
@@ -727,6 +745,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Gruende Zuzug D: Besser"
   },
@@ -791,6 +810,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Gruende Zuzug D: Geld"
   },
@@ -855,6 +875,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Gruende Zuzug D: Freiheit"
   },
@@ -919,6 +940,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Gruende Zuzug D: Familie"
   },
@@ -983,6 +1005,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Gruende Zuzug D: Armut"
   },
@@ -1047,6 +1070,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Gruende Zuzug D: Krieg"
   },
@@ -1111,6 +1135,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Gruende Zuzug D: Einfach So"
   },
@@ -1175,6 +1200,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Gruende Zuzug D: Sonstiges"
   },
@@ -1249,6 +1275,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Vorstellungen von Dt."
   },
@@ -1328,6 +1355,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Eigene Wohnung finden"
   },
@@ -1407,6 +1435,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Von Arbeitskollegen akzeptiert"
   },
@@ -1486,6 +1515,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Von Nachbarn akzeptiert"
   },
@@ -1555,6 +1585,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: In Heimatland Familienmitglieder"
   },
@@ -1625,6 +1656,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: In Heimat: Eltern"
   },
@@ -1689,6 +1721,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: In Heimat: Grosseltern"
   },
@@ -1753,6 +1786,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: In Heimat: Kinder"
   },
@@ -1817,6 +1851,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: In Heimat: Bruder, Schwester"
   },
@@ -1881,6 +1916,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: In Heimat: Entferntere Verwandte"
   },
@@ -1951,6 +1987,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: In Heimat/Ausland: Partner"
   },
@@ -2015,6 +2052,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: In Heimat: Bekannte,Freunde"
   },
@@ -2084,6 +2122,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Personen gern nach Dt. holen?"
   },
@@ -2158,6 +2197,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Ehepartner in Deutschland"
   },
@@ -2227,6 +2267,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Kinder unter 18 J. nicht in D"
   },
@@ -2306,6 +2347,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Rueckkehr Heimat, ab 1994"
   },
@@ -2386,6 +2428,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Wuensch in D zu bleiben"
   },
@@ -2400,7 +2443,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -2429,6 +2473,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Dauer des geplanten Aufenthalts"
   },
@@ -2504,6 +2549,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: In Dt. Schule besucht?"
   },
@@ -2518,7 +2564,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -2527,6 +2574,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: In welche Klasse in dt. Schule"
   },
@@ -2596,6 +2644,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Besuch spezieller Vorbereitung"
   },
@@ -2665,6 +2714,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Auch dt. Schueler in Schulklasse"
   },
@@ -2755,6 +2805,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Wieviel Mitschueler Auslaender"
   },
@@ -2824,6 +2875,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Eine oder mehrere Nationalitaet"
   },
@@ -2924,6 +2976,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "BI: Hauptgrund Zuzug D (seit 2014)"
   }

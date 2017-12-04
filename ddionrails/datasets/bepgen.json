@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -37,6 +38,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Ursprungshaushaltsnummer"
   },
@@ -51,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -78,6 +81,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "aktuelle Haushaltsnummer"
   },
@@ -92,7 +96,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -119,6 +124,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Aktuelle Haushaltsnummer (=HHNRAKT)"
   },
@@ -133,7 +139,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -160,6 +167,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Unveraenderliche Personennummer"
   },
@@ -1130,6 +1138,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Staatsangehoerigkeit-Nationalitaet"
   },
@@ -1220,6 +1229,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Partner Indikator"
   },
@@ -1234,7 +1244,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1263,6 +1274,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Unveraend. Personen-id des Partners"
   },
@@ -1368,6 +1380,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Marital Status"
   },
@@ -1382,7 +1395,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1411,6 +1425,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Akt. Bruttoerwerbseink.(gen) in Euro"
   },
@@ -1486,6 +1501,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Imput.flag Bruttoerwerbseinkommen(gen)"
   },
@@ -1500,7 +1516,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1529,6 +1546,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Akt. Nettoerwerbseink.(gen) in Euro"
   },
@@ -1604,6 +1622,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Imput.flag Nettoerwerbseinkommen (gen)"
   },
@@ -1618,7 +1637,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1647,6 +1667,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Akt. Bruttonebenverdienst (gen.) in Euro"
   },
@@ -1661,7 +1682,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1690,6 +1712,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Imput.flag Bruttonebenverdienst (gen.)"
   },
@@ -1980,6 +2003,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufliche Stellung"
   },
@@ -2075,6 +2099,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Employment Status"
   },
@@ -2195,6 +2220,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Labor Force Status"
   },
@@ -2285,6 +2311,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Beruflicher Wechsel"
   },
@@ -2297,74 +2324,74 @@
     "label": "Autonomy In Occupational Actions",
     "categories": {
       "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        1312,
+        33,
         173,
         678,
-        33,
         711,
-        1312,
         605,
-        0,
         299,
-        0,
-        24,
-        0,
-        0
+        24
       ],
       "labels": [
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
         "[0] Apprentice",
         "[1] Low Autonomy",
-        "[-1] No Answer",
         "2",
-        "[-2] Does not apply",
         "3",
-        "[-3] Answer improbable",
         "4",
-        "[-4] Inadmissible multiple response",
-        "[5] High Autonomy",
-        "[-5] Not included in this version of the questionnaire",
-        "[-6] Version of questionnaire with modified filtering"
+        "[5] High Autonomy"
       ],
       "missings": [
-        false,
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
         true,
         false,
-        true,
         false,
-        true,
         false,
-        true,
         false,
-        true,
-        true
+        false,
+        false
       ],
       "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
         "0",
         "1",
-        "-1",
         "2",
-        "-2",
         "3",
-        "-3",
         "4",
-        "-4",
-        "5",
-        "-5",
-        "-6"
+        "5"
       ],
       "labels_de": [
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
         "[0] Auszubildende",
         "[1] niedrige Autonomie",
-        "[-1] keine Angabe",
-        "",
-        "[-2] trifft nicht zu",
-        "",
-        "[-3] nicht valide",
-        "",
-        "[-4] Unzulaessige Mehrfachantwort",
-        "[5] hohe Autonomie",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung"
+        "2",
+        "3",
+        "4",
+        "[5] hohe Autonomie"
       ]
     },
     "statistics": {
@@ -2380,6 +2407,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Autonomie beruflichen Handelns"
   },
@@ -4905,6 +4933,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "aktueller Beruf [pber] (ISCO-88 COM, 4-Steller)"
   },
@@ -7150,6 +7179,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "aktueller Beruf [pber] (ISCO-08, 4-Steller)"
   },
@@ -7164,7 +7194,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -7193,6 +7224,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "letzter erreichter ISEI-Wert (International Socio-Economic Index)"
   },
@@ -18683,6 +18715,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "aktueller Beruf [pber] (KldB 92, 4-Steller)"
   },
@@ -25178,6 +25211,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "aktueller Beruf [pber] (KldB 2010, 5-Steller)"
   },
@@ -25192,7 +25226,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -25221,6 +25256,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "letzter erreichter MPS-Wert (Magnitude-Prestige-Skale, Wegener)"
   },
@@ -25235,7 +25271,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -25264,6 +25301,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "letzter erreichter SIOPS-Wert (Std. Internat. Occupational Prestige Scale, Tre"
   },
@@ -25384,6 +25422,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "letzte erreichte EGP-Klasse (Erikson, Goldthorpe, Portocarero)"
   },
@@ -25469,6 +25508,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Taetigkeit im erlernten Beruf"
   },
@@ -25579,6 +25619,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "erforderliche Ausbildung im Beruf"
   },
@@ -25593,7 +25634,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -25622,6 +25664,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Dauer der Betriebszugehoerigkeit"
   },
@@ -25636,7 +25679,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -25665,6 +25709,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Tatsaechliche Arbeitszeit pro Woche"
   },
@@ -25679,7 +25724,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -25708,6 +25754,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Vereinbarte Arbeitszeit pro Woche"
   },
@@ -25722,7 +25769,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -25751,6 +25799,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Ueberstunden pro Woche"
   },
@@ -25826,6 +25875,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "im oeffentlichen Dienst"
   },
@@ -26211,6 +26261,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Branche nach NACE"
   },
@@ -26331,6 +26382,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Unternehmensgroesse"
   },
@@ -26421,6 +26473,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Grobkategorien Unternehmensgroesse"
   },
@@ -26571,6 +26624,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Grund Beschaeftigungsende"
   },
@@ -26585,7 +26639,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -26614,6 +26669,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitsmarkterfahrung Vollzeit"
   },
@@ -26628,7 +26684,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -26657,6 +26714,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitsmarkterfahrung Teilzeit"
   },
@@ -26671,7 +26729,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -26700,6 +26759,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Arbeitsmarkterfahrung Arbeitslos"
   },
@@ -26800,6 +26860,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "ISCED-1997-Klassifikation"
   },
@@ -26910,6 +26971,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "ISCED-2011-Klassifikation"
   },
@@ -27025,6 +27087,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "CASMIN-Klassifikation"
   },
@@ -27039,7 +27102,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -27068,6 +27132,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Dauer der Ausbildung, in Jahren"
   },
@@ -27168,6 +27233,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schulabschluss"
   },
@@ -27268,6 +27334,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufl. Bildungsabschluss"
   },
@@ -27383,6 +27450,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Hochschulabschluss"
   },
@@ -27463,6 +27531,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Kein Berufsabschluss"
   },
@@ -27558,6 +27627,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schulabschluss-Ost"
   },
@@ -27643,6 +27713,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufl. Bildungsabschluss-Ost(1950-91)"
   },
@@ -27728,6 +27799,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Schulabschluss im Ausland"
   },
@@ -27838,6 +27910,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Berufliche Bildung im Ausland"
   },
@@ -28203,6 +28276,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Fachrichtung, Studienbereiche StaBu Fachserie 11-4.1"
   },
@@ -28378,6 +28452,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Hochschulabschluss, angelehnt an StaBu Fachserie 11-4.1"
   },
@@ -28888,6 +28963,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Ausbildungsberuf (Lehre), KldB 1992 Zweisteller"
   },
@@ -29398,6 +29474,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Ausbildungsberuf (Berufsfachschule, Schule des Gesundheitswesens),KldB 1992"
   },
@@ -29908,6 +29985,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Ausbildungsberuf (Fachschule - Meister, Techniker), KldB 1992"
   },
@@ -30418,6 +30496,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Ausbildungsberuf (Beamtenausbildung), KldB 1992 Zweisteller"
   },
@@ -30503,6 +30582,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Datenquelle Field Degree Train"
   },
@@ -30583,6 +30663,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Bildungsveraenderung seit letzter Beobachtung/seit letztem Jahr"
   },
@@ -30668,6 +30749,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Bildungsveraenderung in der gesamten Beobachtungszeit"
   },
@@ -30793,6 +30875,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Monat des Interviews"
   },
@@ -30928,6 +31011,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "gen",
+    "boost": "1",
     "period": "2014",
     "label_de": "Interviewmethode"
   }

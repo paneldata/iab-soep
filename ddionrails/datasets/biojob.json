@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -37,6 +38,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ursprungshaushaltsnummer"
   },
@@ -51,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -78,6 +81,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Unique Individual Identifier"
   },
@@ -92,7 +96,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -119,6 +124,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Year Of Biography/Youth Interview"
   },
@@ -133,7 +139,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -162,6 +169,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Age At First Job"
   },
@@ -317,6 +325,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Info Source Agefjob"
   },
@@ -331,7 +340,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -360,6 +370,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Year of first real job (Artkalen, Read Documentation!)"
   },
@@ -435,6 +446,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Year of first real job source"
   },
@@ -449,7 +461,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -478,6 +491,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Year of first real job (Pbiospe, Read Documentation!)"
   },
@@ -558,6 +572,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Year of first real job source"
   },
@@ -628,6 +643,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Employment Status"
   },
@@ -703,6 +719,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Still Employed In First Job"
   },
@@ -788,6 +805,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Occ. Position First Job"
   },
@@ -863,6 +881,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "First Job Full Time"
   },
@@ -973,6 +992,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "First Job Blue Collar"
   },
@@ -1058,6 +1078,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "First Job Self Employed"
   },
@@ -1158,6 +1179,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "First Job White Collar"
   },
@@ -1243,6 +1265,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "First Job Civil Servant"
   },
@@ -1338,6 +1361,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Number Of Employees First Job"
   },
@@ -1352,7 +1376,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1381,6 +1406,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "StaBua Vocational Classification"
   },
@@ -1395,7 +1421,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1424,6 +1451,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "4 Digit ISCO-88 Occupation Code"
   },
@@ -1549,6 +1577,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "EGP Class Category ISCO-88"
   },
@@ -1563,7 +1592,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1592,6 +1622,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ganzeboom ISEI-Status88"
   },
@@ -1606,7 +1637,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1635,6 +1667,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Magnitude Prestige Scale"
   },
@@ -1649,7 +1682,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1678,6 +1712,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Treiman Standard Int Occ Prestige"
   },
@@ -1768,6 +1803,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Required Education For First Job"
   },
@@ -1843,6 +1879,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "First Job In Civil Service"
   },
@@ -2228,6 +2265,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "2-Digit NACE Industry, Sector(First Job)"
   },
@@ -2308,6 +2346,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "No. Of Occ. Changes"
   },
@@ -2322,7 +2361,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -2351,6 +2391,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Age At Most Recent Occ. Change"
   },
@@ -2426,6 +2467,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Employed At Time Of Bio Interview"
   },
@@ -2440,7 +2482,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -2469,6 +2512,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Year Of Last Employment"
   },
@@ -2549,6 +2593,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Last Job Full-/Part-Time"
   },
@@ -2624,6 +2669,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Last Job In Civil Service"
   },
@@ -3009,6 +3055,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "2-Digit NACE Industry,Sector(Last Job)"
   },
@@ -3094,6 +3141,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Occ. Position Last Job"
   },
@@ -3204,6 +3252,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Last Job Blue Collar"
   },
@@ -3289,6 +3338,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Last Job Self Employed"
   },
@@ -3384,6 +3434,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "No. Of Employees Ljselfe"
   },
@@ -3484,6 +3535,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Last Job White Collar"
   },
@@ -3569,6 +3621,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Last Job Civil Servant"
   },
@@ -3669,6 +3722,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Highest Intended Educ. Degree"
   },
@@ -3769,6 +3823,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Second Intended Educ. Degree"
   },
@@ -3869,6 +3924,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Third Intended Educ. Degree"
   },
@@ -3969,6 +4025,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Fourth Intended Educ. Degree"
   }

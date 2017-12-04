@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -37,6 +38,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ursprungshaushaltsnummer"
   },
@@ -51,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -78,6 +81,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Unveraenderliche Personennummer"
   },
@@ -92,7 +96,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -119,6 +124,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Spellnummer einer Person"
   },
@@ -234,6 +240,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Spelltyp"
   },
@@ -248,7 +255,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -275,6 +283,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Beginn im Alter von ..."
   },
@@ -289,7 +298,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -316,6 +326,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ende im Alter von ..."
   },
@@ -330,7 +341,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -357,6 +369,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Beginn im Jahr ..."
   },
@@ -371,7 +384,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -398,6 +412,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ende im Jahr ..."
   },
@@ -508,6 +523,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Links-/Rechtszensierung"
   },
@@ -603,6 +619,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Informationen zum Spellaufbau"
   },
@@ -617,7 +634,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -646,6 +664,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Erhebungsjahr Biographie"
   },
@@ -660,7 +679,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -689,6 +709,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "erstes Beobachtungsjahr Kalender"
   },
@@ -703,7 +724,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -732,6 +754,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Beginn im Alter von ..., 1. Biographie-Ursprungsspell"
   },
@@ -746,7 +769,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -775,6 +799,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ende im Alter von ..., 1. Biographie-Ursprungsspell"
   },
@@ -789,7 +814,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -818,6 +844,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Beginn im Alter von ..., 1. Kalender-Ursprungsspell"
   },
@@ -832,7 +859,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -861,6 +889,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ende im Alter von ..., 1. Kalender-Ursprungsspell"
   },
@@ -875,7 +904,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -904,6 +934,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Beginn im Jahr ..., 1. Biographie-Ursprungsspell"
   },
@@ -918,7 +949,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -947,6 +979,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ende im Jahr ..., 1. Biographie-Ursprungsspell"
   },
@@ -961,7 +994,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -990,6 +1024,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Beginn im Jahr ..., 1. Kalender-Ursprungsspell"
   },
@@ -1004,7 +1039,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1033,6 +1069,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ende im Jahr ..., 1. Kalender-Ursprungsspell"
   },
@@ -1047,7 +1084,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1056,6 +1094,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Beginn im Alter von ..., 2. Biographie-Ursprungsspell"
   },
@@ -1070,7 +1109,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1079,6 +1119,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ende im Alter von ..., 2. Biographie-Ursprungsspell"
   },
@@ -1093,7 +1134,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1102,6 +1144,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Beginn im Alter von ..., 2. Kalender-Ursprungsspell"
   },
@@ -1116,7 +1159,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1125,6 +1169,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ende im Alter von ..., 2. Kalender-Ursprungsspell"
   },
@@ -1139,7 +1184,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1148,6 +1194,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Beginn im Jahr ..., 2. Biographie-Ursprungsspell"
   },
@@ -1162,7 +1209,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1171,6 +1219,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ende im Jahr ..., 2. Biographie-Ursprungsspell"
   },
@@ -1185,7 +1234,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1194,6 +1244,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Beginn im Jahr ..., 2. Kalender-Ursprungsspell"
   },
@@ -1208,7 +1259,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1217,6 +1269,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ende im Jahr ..., 2. Kalender-Ursprungsspell"
   },
@@ -1231,7 +1284,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1240,6 +1294,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Beginn im Alter von ..., 3. Biographie-Ursprungsspell"
   },
@@ -1254,7 +1309,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1263,6 +1319,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ende im Alter von ..., 3. Biographie-Ursprungsspell"
   },
@@ -1277,7 +1334,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1286,6 +1344,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Beginn im Alter von ..., 3. Kalender-Ursprungsspell"
   },
@@ -1300,7 +1359,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1309,6 +1369,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ende im Alter von ..., 3. Kalender-Ursprungsspell"
   },
@@ -1323,7 +1384,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1332,6 +1394,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Beginn im Jahr ..., 3. Biographie-Ursprungsspell"
   },
@@ -1346,7 +1409,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1355,6 +1419,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ende im Jahr ..., 3. Biographie-Ursprungsspell"
   },
@@ -1369,7 +1434,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1378,6 +1444,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Beginn im Jahr ..., 3. Kalender-Ursprungsspell"
   },
@@ -1392,7 +1459,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1401,6 +1469,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ende im Jahr ..., 3. Kalender-Ursprungsspell"
   },
@@ -1415,7 +1484,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1424,6 +1494,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Beginn im Alter von ..., 4. Kalender-Ursprungsspell"
   },
@@ -1438,7 +1509,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1447,6 +1519,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ende im Alter von ..., 4. Kalender-Ursprungsspell"
   },
@@ -1461,7 +1534,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1470,6 +1544,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Beginn im Jahr ..., 4. Kalender-Ursprungsspell"
   },
@@ -1484,7 +1559,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -1493,6 +1569,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ende im Jahr ..., 4. Kalender-Ursprungsspell"
   }

@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -37,6 +38,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Ursprungshaushaltsnummer"
   },
@@ -51,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -78,6 +81,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Personennummer 1. Geschwister"
   },
@@ -92,7 +96,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -119,6 +124,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Personennummer 2. Geschwister"
   },
@@ -133,7 +139,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -142,6 +149,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Personennummer 3. Geschwister"
   },
@@ -156,7 +164,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [],
@@ -165,6 +174,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Personennummer 4. Geschwister"
   },
@@ -179,7 +189,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -208,6 +219,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Personennummer der Mutter"
   },
@@ -288,6 +300,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Geschlechtskonstellation der Geschwister"
   },
@@ -383,6 +396,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "bio/gen",
+    "boost": "1",
     "period": "0",
     "label_de": "Zwillingsstatus: Quelle der Information"
   }

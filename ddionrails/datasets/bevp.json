@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -37,6 +38,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Ursprungshaushaltsnummer"
   },
@@ -51,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -78,6 +81,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Personennummer der Befragungsperson"
   },
@@ -92,7 +96,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -121,6 +126,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Personennummer der verstorbenen Person"
   },
@@ -135,7 +141,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -162,6 +169,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Laufende Nummer(gen.) zu verstorbenen Personen"
   },
@@ -176,7 +184,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -203,6 +212,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Erhebungsjahr"
   },
@@ -413,6 +423,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Stichprobenkennzeichen"
   },
@@ -427,7 +438,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -454,6 +466,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Aktuelle Haushaltsnummer (=BEHHNR)"
   },
@@ -468,7 +481,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -495,6 +509,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Aktuelle Haushaltsnummer (=HHNRAKT)"
   },
@@ -507,72 +522,72 @@
     "label": "serial number person died (gen)",
     "categories": {
       "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         32,
-        0,
         22,
-        0,
         4,
-        0,
         1,
-        0,
-        0,
-        0,
         0,
         0
       ],
       "labels": [
-        "1",
-        "[-1] No Answer",
-        "2",
-        "[-2] Does not apply",
-        "3",
-        "[-3] Answer improbable",
-        "4",
-        "[-4] Inadmissible multiple response",
-        "[-5] Not included in this version of the questionnaire",
         "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "1",
+        "2",
+        "3",
+        "4",
         "[98] Former Core Sample Member",
         "[99] No Sample Member"
       ],
       "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
-        true,
         false,
-        true,
         false,
-        true,
         false,
-        true,
-        true,
-        true,
         false,
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
-        "-2",
-        "3",
-        "-3",
-        "4",
-        "-4",
-        "-5",
         "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
         "98",
         "99"
       ],
       "labels_de": [
-        "",
-        "[-1] keine Angabe",
-        "",
-        "[-2] trifft nicht zu",
-        "",
-        "[-3] nicht valide",
-        "",
-        "[-4] Unzulaessige Mehrfachantwort",
-        "[-5] In Fragebogenversion nicht enthalten",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "1",
+        "2",
+        "3",
+        "4",
         "[98] Frueheres Stichprobenmitglied",
         "[99] Kein Stichprobenmitglied"
       ]
@@ -590,6 +605,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Laufende Nummer der Auskunftsperson"
   },
@@ -665,6 +681,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Geschlecht der verstorbenen Person"
   },
@@ -679,7 +696,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -708,6 +726,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Geburtsjahr der verstorbenen Person"
   },
@@ -793,6 +812,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Verwandtschaftsverhaeltnis zur verstorb. Pers."
   },
@@ -807,7 +827,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -834,6 +855,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Alter der verstorbenen Person"
   },
@@ -909,6 +931,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Lebte Verstorbene/r im hiesigen HH"
   },
@@ -989,6 +1012,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Verstorbene/r Teilnehmer am SOEP"
   },
@@ -1089,6 +1113,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Haeusl.Umfeld Verstorb.letztes Lebensjahr"
   },
@@ -1179,6 +1204,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Lebensmittelpunkt der/des Verstorbenen"
   },
@@ -1269,6 +1295,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Persoenl.Kontakt zu Verstorb.in letzten Jahr"
   },
@@ -1369,6 +1396,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sterbeort"
   },
@@ -1439,6 +1467,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Todesursache Herzinfarkt"
   },
@@ -1509,6 +1538,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Todesursache Herz-Kreislauf-Erkrankung"
   },
@@ -1579,6 +1609,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Todesursache Krebserkrankung"
   },
@@ -1649,6 +1680,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Todesursache Schlaganfall"
   },
@@ -1719,6 +1751,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Todesursache schwere Infektionskrankheit"
   },
@@ -1789,6 +1822,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Todesursache Magen-Darm-Trakt-Erkrankung"
   },
@@ -1859,6 +1893,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Todesursache Atemwegserkrankung"
   },
@@ -1929,6 +1964,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Todesursache Unfall"
   },
@@ -1999,6 +2035,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Todesursache sonstige Ursache"
   },
@@ -2069,6 +2106,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Todesursache unbekannt"
   },
@@ -2149,6 +2187,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Hinterlegung von Testament"
   },
@@ -2229,6 +2268,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Hinterlegung von Patientenverfuegung"
   },
@@ -2309,6 +2349,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Hinterlegung von Vorsorgevollmacht"
   },
@@ -2389,6 +2430,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Hinterlegung von Sterbeverfuegung"
   },
@@ -2469,6 +2511,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Eingeschrkt. geistige Leistungsfaehigkeit bei V"
   },
@@ -2559,6 +2602,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Gesundheitszustand der/des V 3 Monate vor Tod"
   },
@@ -2634,6 +2678,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "V 3 Monate vor Tod hilfe-,pflegebeduerftig"
   },
@@ -2704,6 +2749,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Hilfe bei Besorgg./Erledigg. ausser Haus"
   },
@@ -2774,6 +2820,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Hilfe im HH, bei Zunahme Mahlzeiten/Trinken"
   },
@@ -2844,6 +2891,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Hilfe bei einfacher Pflege: kleiden, waschen..."
   },
@@ -2914,6 +2962,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Hilfe bei Umbetten, Stuhlgang"
   },
@@ -2978,6 +3027,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Hilfe Gesamt k.A."
   },
@@ -3098,6 +3148,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Zufriedenheit der/des V 1 Jahr vor Tod"
   },
@@ -3218,6 +3269,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Zufriedenheit der/des V 3 Monate vor Tod"
   },
@@ -3298,6 +3350,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Veraenderung des pers. Lebens seit Tod"
   },
@@ -3403,6 +3456,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Befragungsart/Befragungsdurchfuehrung"
   },
@@ -3417,7 +3471,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3444,6 +3499,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Interviewtag"
   },
@@ -3569,6 +3625,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Interviewmonat"
   },
@@ -3583,7 +3640,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3610,6 +3668,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Interview beendet Uhrzeit (Stunde)"
   },
@@ -3624,7 +3683,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3651,6 +3711,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Interview beendet Uhrzeit (Minuten)"
   },
@@ -3665,7 +3726,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3692,6 +3754,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Interviewer ID"
   }

@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -37,6 +38,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Ursprungshaushaltsnummer"
   },
@@ -51,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -78,6 +81,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Aktuelle Haushaltsnummer (=*HHNR)"
   },
@@ -92,7 +96,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -119,6 +124,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Haushaltsnummer 2014"
   },
@@ -329,6 +335,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Stichprobenkennzeichen"
   },
@@ -343,7 +350,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -370,6 +378,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Personennummer"
   },
@@ -384,7 +393,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -411,6 +421,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Geburtsjahr"
   },
@@ -486,6 +497,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Geschlecht"
   },
@@ -701,6 +713,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Stellung im HH"
   },
@@ -871,6 +884,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Haushaltszugehoerigkeit"
   },
@@ -885,7 +899,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -912,6 +927,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Zahl der Personen im HH"
   },
@@ -926,7 +942,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -953,6 +970,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Zahl der Kinder bis 16 Jahre im HH"
   },
@@ -967,7 +985,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -994,6 +1013,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Lfd. Nr. des Kindes"
   },
@@ -1094,6 +1114,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Allg. Schule"
   },
@@ -1164,6 +1185,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Keine dieser Schulen"
   },
@@ -1239,6 +1261,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Zeitliche Lage - ganztags"
   },
@@ -1314,6 +1337,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Kinderkrippe, Kindergarten, Kindertageseinrichtung, Hort"
   },
@@ -1328,7 +1352,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1357,6 +1382,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Stunden pro Tag in Betreuung"
   },
@@ -1427,6 +1453,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Tagesmutter ausserhalb HH"
   },
@@ -1497,6 +1524,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "bezahlte Betr.person im HH"
   },
@@ -1567,6 +1595,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Verwandte"
   },
@@ -1637,6 +1666,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Freunde, Bekannte, Nachbarn"
   },
@@ -1707,6 +1737,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Keine externe Betreuung"
   },
@@ -1777,6 +1808,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Kinderturnen <6"
   },
@@ -1847,6 +1879,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Musikerziehung <6"
   },
@@ -1917,6 +1950,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "kuenstlerische Aktivitaeten <6"
   },
@@ -1987,6 +2021,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Eltern-Kind-Gruppe <6"
   },
@@ -2057,6 +2092,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Nein, nichts davon <6"
   },
@@ -2127,6 +2163,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sport-AG in Schule >6"
   },
@@ -2197,6 +2234,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Musik-AG in Schule >6"
   },
@@ -2267,6 +2305,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Kunst-AG in Schule >6"
   },
@@ -2337,6 +2376,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Theater-AG in Schule >6"
   },
@@ -2407,6 +2447,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sonstige AG in Schule >6"
   },
@@ -2477,6 +2518,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Sport, Ballet ausserhalb Schule >6"
   },
@@ -2547,6 +2589,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Musik-Gesangsunterricht ausserhalb Schule >6"
   },
@@ -2617,6 +2660,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Kunsterziehung ausserhalb Schule >6"
   },
@@ -2687,6 +2731,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Jugendfeuerwehr etc ausserhalb Schule >6"
   },
@@ -2757,6 +2802,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Jugendgruppen ausserhalb Schule >6"
   },
@@ -2827,6 +2873,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Jugendzentrum ausserhalb Schule>6"
   },
@@ -2897,6 +2944,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Nein, nichts davon ausserhalb Schule >6"
   },
@@ -2911,7 +2959,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -2940,6 +2989,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "durchschnittliche Kosten pro Monat"
   },
@@ -3010,6 +3060,7 @@
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "keine Kosten"
   },
@@ -3024,7 +3075,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3051,6 +3103,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Zeiger auf HV"
   },
@@ -3065,7 +3118,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3094,6 +3148,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Zeiger auf Partner des HV"
   },
@@ -3108,7 +3163,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3137,6 +3193,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Zeiger auf Mutter"
   },
@@ -3151,7 +3208,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3180,6 +3238,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "org/net",
+    "boost": "1",
     "period": "2014",
     "label_de": "Zeiger auf Partner der Mutter"
   }
