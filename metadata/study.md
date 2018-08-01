@@ -6,13 +6,13 @@ config:
         label-table: True
 ---
 
-# IAB-SOEP Migration Sample 2013
+# IAB-SOEP Migration Sample 2016
 
 ## Citation
 
 - **Title:** IAB-SOEP Migration Sample 2016
-- **DOI:** 10.5684/soep.v33.1
-- Publication date: 30.01.2018
+- **DOI:** 0.5684/soep.iab-soep-mig.2016
+- Publication date: 31.01.2018
 - **Authors:**
   - Principal investigators: Herbert Brücker; Jürgen Schupp
   - Co-PIs: Martin Kroh, Ingrid Tucci; Jan Göbel; Simone Bartsch; Elisabeth Liebau; Parvati Trübswetter
