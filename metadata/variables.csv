@@ -1,4 +1,4 @@
-"study","dataset","varname","concept","source","item_id","ID"
+"study","dataset","name","concept","source","item_id","ID"
 "soep-core","ABROAD","AUSPAN","item_7496","v30",7496,"ABROAD|AUSPAN"
 "soep-core","ABROAD","ERG","item_5898","IKL -Item.Vars-",5898,"ABROAD|ERG"
 "soep-core","ABROAD","SYEAR","_syear","IKL -Item.Vars-",66,"ABROAD|SYEAR"
