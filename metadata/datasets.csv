@@ -1,4 +1,4 @@
-"study","dataset","period","analysis_unit","conceptual_dataset","label","description"
+"study","name","period","analysis_unit","conceptual_dataset","label","description"
 "soep-core","ABROAD",0,"P","org/net","Questionnaire for people moved abroad",""
 "soep-core","AH",1984,"H","org/net","Household questionnaire",""
 "soep-core","AHBRUTTO",1984,"H","org/gross","Gross Household Data",""
