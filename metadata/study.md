@@ -26,8 +26,8 @@ Publications using these data must cite the DOI [doi:10.5684/soep.iab-soep-mig.2
 
 If you do not exclude the cases of the IAB-BAMF-SOEP Survey of Refugees in your analysis, then also cite the following reference:
 
--   Brücker, H., Kosyakova, Y., Rother, N., Zinn, S., Liebau, E., Gider, W., Schwanhäuser, S., & Siegert, M. (accepted) Exploring Integration and Migration Dynamics: The Research Potentials of a Large-Scale Longitudinal Household Study of Refugeesin Germany. European Sociological Review. <https://doi.org/10.1093/esr/jcaf032>. \
-    A preprint of the paper is available here: <https://doi.org/10.17605/OSF.IO/CQ2KZ>.
+-   Brücker, H., Kosyakova, Y., Rother, N., Zinn, S., Liebau, E., Gider, W., Schwanhäuser, S., & Siegert, M. (accepted) Exploring Integration and Migration Dynamics: The Research Potentials of a Large-Scale Longitudinal Household Study of Refugees in Germany. European Sociological Review. <https://doi.org/10.1093/esr/jcaf032>.\
+A preprint of the paper is available here: <https://doi.org/10.17605/OSF.IO/CQ2KZ>.
 
 ## Subsamples
 
