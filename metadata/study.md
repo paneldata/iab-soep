@@ -20,14 +20,14 @@ All samples from the IAB-SOEP Migrations Sample are included in the regular SOEP
 
 -   **Principal Investigators:** Herbert Brücker, Yuliya Kosyakova, Sabine Zinn
 
-Publications using these data must cite the DOI [doi:10.5684/soep.iab-soep-mig.2022](https://www.doi.org/10.5684/soep.iab-soep-mig.2022) (or the DOI of another used edition) and also cite the following reference article:
+Publications using these data must cite the DOI [doi:10.5684/soep.iab-soep-mig.2023.1](https://www.doi.org/10.5684/soep.iab-soep-mig.2023.1) (or the DOI of another used edition) and also cite the following reference article:
 
 -   Herbert Brücker, Martin Kroh, Simone Bartsch, Jan Goebel, Simon Kühne, Elisabeth Liebau, Parvati Trübswetter, Ingrid Tucci & Jürgen Schupp (2014): The new IAB-SOEP Migration Sample: an introduction into the methodology and the contents. [SOEP Survey Paper 216](https://www.diw.de/documents/publikationen/73/diw_01.c.570700.de/diw_ssp0216.pdf), Series C. Berlin, Nürnberg: DIW Berlin.
 
 If you do not exclude the cases of the IAB-BAMF-SOEP Survey of Refugees in your analysis, then also cite the following reference:
 
--   Brücker, H., Kosyakova, Y., Rother, N., Zinn, S., Liebau, E., Gider, W., Schwanhäuser, S., & Siegert, M. (accepted) Exploring Integration and Migration Dynamics: The Research Potentials of a Large-Scale Longitudinal Household Study of Refugees in Germany. European Sociological Review. <https://doi.org/10.1093/esr/jcaf032>.\
-A preprint of the paper is available here: <https://doi.org/10.17605/OSF.IO/CQ2KZ>.
+-   Brücker, H., Kosyakova, Y., Rother, N., Zinn, S., Liebau, E., Gider, W., Schwanhäuser, S., & Siegert, M. (accepted) Exploring Integration and Migration Dynamics: The Research Potentials of a Large-Scale Longitudinal Household Study of Refugees in Germany. European Sociological Review. [https://doi.org/10.1093/esr/jcaf032](https://doi.org/10.1093/esr/jcaf032). 
+A preprint of the paper is available here: [https://doi.org/10.17605/OSF.IO/CQ2KZ](https://doi.org/10.17605/OSF.IO/CQ2KZ).
 
 ## Subsamples
 
